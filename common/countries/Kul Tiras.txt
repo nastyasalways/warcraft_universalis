@@ -1,0 +1,26 @@
+# Kul Tiras
+
+graphical_culture = westerngfx
+
+color = { 41 195 225 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

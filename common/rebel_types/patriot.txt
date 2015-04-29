@@ -1,0 +1,188 @@
+######################################################################
+# Patriots, yearning for a return to their mother nation.
+######################################################################
+patriot_rebels = {
+
+	area = nation_culture 			# Stays within cultural borders
+	government = any				# No special preference
+	defection = culture				# Will defect to countries of their culture, or, failing that, their culture group.
+	defect_delay = 60				# Held provinces will auto-defect after 60 months, regardless of accept/enforce demands.
+	independence = none 			# Does not seek independence
+	unit_transfer = yes
+	gfx_type = culture_province
+	
+	resilient = no
+	reinforcing = yes
+	general = yes				
+	smart = yes
+	
+	artillery = 0.1
+	infantry = 0.6
+	cavalry = 0.3
+
+	morale = 1.0
+
+	# Possible handle actions
+	handle_action_negotiate = yes
+	handle_action_stability = yes
+	handle_action_build_core = yes
+	handle_action_send_missionary = yes
+	handle_action_change_culture = yes	
+	
+	# The rebel type with the highest modifier for this province gets picked
+	spawn_chance = {
+		factor = 10
+
+		modifier = {
+			factor = 0.0
+			owner = {
+				primary_culture = ROOT
+			}
+		}
+		modifier = {
+			factor = 0.001
+			is_colony = yes
+		}
+		modifier = {
+			factor = 4
+			any_neighbor_province = {
+				culture = ROOT
+				has_owner_culture = yes
+	 		}
+	 	}
+	 	modifier = {
+			factor = 4
+			any_core_country = {
+				primary_culture = ROOT
+				exists = yes
+				is_subject = no
+	 		}
+	 	}
+		modifier = {
+			factor = 1.9
+			has_province_modifier = "suppress_minority"
+		}
+		modifier = {
+			factor = 1.2
+			NOT = { is_core = owner }
+		}
+		modifier = {
+			factor = 0.1
+			NOT = { is_core = REB }
+			any_core_country = {
+				primary_culture = ROOT
+				exists = yes
+				is_subject = no
+	 		}			
+		}			
+		modifier = {
+			factor = 1.5
+			owner = {
+				NOT = { stability = 0 }
+			}
+		}	
+		modifier = {
+			factor = 1.5
+			owner = {
+				NOT = { stability = -2 }
+			}
+		}
+		modifier = {
+			factor = 1.9
+			nationalism = 20
+		}
+		modifier = {
+			factor = 1.9
+			nationalism = 10
+		}
+		modifier = {
+			factor = 1.4
+			nationalism = 1
+		}
+		modifier = {
+			factor = 1.9
+			owner = {
+				NOT = { primary_culture = ROOT }
+			}
+		}
+		modifier = {
+			factor = 1.4
+			owner = {
+				NOT = { culture_group = ROOT }
+			}
+		}
+		modifier = {
+			factor = 0.3
+			owner = {
+				accepted_culture = ROOT
+			}
+		}
+	}
+ 
+ 	# This is checked for EACH province in the Area of Operations
+	movement_evaluation = {
+		factor = 1
+		modifier = {
+			factor = 0.0
+			controller = { primary_culture = REB }
+		}
+		modifier = {
+			factor = 0.1
+			units_in_province = 1
+		}
+		modifier = {
+			factor = 0.001
+			controlled_by = REB
+		}
+		modifier = {
+			factor = 1.5
+			unrest = 2
+		}
+		modifier = {
+			factor = 1.5
+			unrest = 4
+		}
+		modifier = {
+			factor = 1.5
+			unrest = 6
+		}
+	}
+ 
+ 	# Province Scope
+ 	siege_won_trigger = {
+ 		culture = REB
+ 	}
+	siege_won_effect = {
+		add_nationalism = 10 # Add ten extra years of nationalism
+	}
+	
+	# Country scope
+	can_negotiate_trigger = {
+		is_at_war = no		
+	}
+	
+	# Country scope
+	can_enforce_trigger = {
+		always = yes
+	}
+
+	# Localisation for their demands
+	demands_description = "patriot_rebels_demand"
+	
+	# Country scope
+	demands_enforced_effect = {
+		add_prestige = -10
+		every_owned_province = {
+			limit = {
+				has_rebel_faction = REB
+			}
+			if = {
+				limit = { 
+					NOT = { is_core = REB } 
+				}
+				add_core = REB
+			}
+			cede_province = REB
+		}
+	}
+}

@@ -1,0 +1,26 @@
+# Knights of the Ebon Blade
+
+graphical_culture = westerngfx
+
+color = { 249 135 1 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

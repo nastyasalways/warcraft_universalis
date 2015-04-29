@@ -1,0 +1,26 @@
+# Rageclaw
+
+graphical_culture = westerngfx
+
+color = { 9 49 46 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

@@ -1,0 +1,26 @@
+# Stormwind
+
+graphical_culture = westerngfx
+
+color = { 108 6 249 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

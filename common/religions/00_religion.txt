@@ -1,0 +1,516 @@
+# If you add religions, and use those tags, do not change them without changing everywhere they are used.
+
+# Uses all 'modifiers' possible thats exported as a Modifier.
+
+warcraft_religions = {
+	
+	religion_titan = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_titan
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+		
+		heretic = { }
+	}
+	
+	religion_sect_of_dragons = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_sect_of_dragons
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+		
+		heretic = { }
+	}
+	
+	religion_druidic = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_druidic
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+		
+		heretic = { }
+	}
+	
+	religion_divine = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_divine
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+		
+		heretic = { }
+	}
+	
+	religion_arcane = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_arcane
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+		
+		heretic = { }
+	}
+	
+	religion_arcanum = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_arcanum
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+		
+		heretic = { }
+	}
+	
+	religion_old_gods = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_old_gods
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+		
+		heretic = { }
+	}
+	
+	religion_shadow = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_shadow
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+		
+		heretic = { }
+	}
+	
+	religion_church_of_the_light = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_church_of_the_light
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+		
+		heretic = { }
+	}
+	
+	religion_light_of_the_naaru = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_light_of_the_naaru
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+		
+		heretic = { }
+	}
+	
+	religion_elune = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_elune
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+		
+		heretic = { }
+	}
+	
+	religion_hakkari = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_hakkari
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+		
+		piety = yes
+		
+		heretic = { }
+	}
+	
+	religion_forgotten_shadow = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_hakkari
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+		
+		piety = yes
+		
+		heretic = { }
+	}
+	
+	religion_demonology = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_demonology
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+		
+		heretic = { }
+	}
+	
+	religion_the_damned = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_the_damned
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+
+		heretic = { }
+	}
+	
+	religion_terokk = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_terokk
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+
+		heretic = { }
+	}
+	
+	religion_ancestral = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_ancestral
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+
+		heretic = { }
+	}
+	
+	religion_loa = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_loa
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+
+		heretic = { }
+	}
+	
+	religion_celestial = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_celestial
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+
+		heretic = { }
+	}
+	
+	religion_arkkorok = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_arkkorok
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+
+		heretic = { }
+	}
+	
+	religion_void = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_void
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+
+		heretic = { }
+	}
+	
+	crusade_name = CRUSADE
+}

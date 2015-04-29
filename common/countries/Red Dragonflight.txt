@@ -1,0 +1,26 @@
+# Red Dragonflight
+
+graphical_culture = westerngfx
+
+color = { 137 129 116 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

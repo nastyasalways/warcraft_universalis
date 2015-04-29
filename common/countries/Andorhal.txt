@@ -1,0 +1,26 @@
+# Andorhal
+
+graphical_culture = westerngfx
+
+color = { 133 124 68 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

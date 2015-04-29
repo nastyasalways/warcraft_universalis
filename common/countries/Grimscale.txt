@@ -1,0 +1,26 @@
+# Grimscale
+
+graphical_culture = westerngfx
+
+color = { 127 11 144 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

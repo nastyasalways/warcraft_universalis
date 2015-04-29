@@ -1,0 +1,29 @@
+# Eastern Kingdoms
+europe = {
+	
+}
+
+# Kalimdor
+kalimdor = {
+	
+}
+
+# Northrend
+northrend = {
+	
+}
+
+# Exodar
+exodar = {
+
+}
+
+# Darnassus 
+darnassus = {
+
+}
+
+# Maelstrom
+maelstrom = {
+
+}

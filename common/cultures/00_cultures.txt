@@ -1,0 +1,937 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+
+# Union tags do not suffer from the 'same_culture_group' tax penalty.
+# Primary tags are the first choice for rebel factions seeking cultural independence.
+
+# graphical_culture = westerngfx
+# second_graphical_culture = muslimgfx (fallback if the first does not exist)
+
+culture_group_human = {
+	graphical_culture = westerngfx
+
+	culture_azerothian = {
+	
+	}
+	
+	culture_westfolk = {
+	
+	}
+	
+	culture_gilnean = {
+	
+	}
+	
+	culture_arathi = {
+	
+	}
+	
+	culture_kul_tiran = {
+	
+	}
+}
+
+culture_group_quel_dorei = {
+	graphical_culture = westerngfx
+
+	culture_night_elf = {
+	
+	}
+	
+	culture_sentinel = {
+	
+	}
+	
+	culture_cenarion = {
+	
+	}
+}
+
+culture_group_vrykul = {
+	graphical_culture = westerngfx
+
+	culture_kvaldir = {
+	
+	}
+	
+	culture_skadir = {
+	
+	}
+	
+	culture_brunnhilde = {
+	
+	}
+	
+	culture_ymirheim = {
+	
+	}
+	
+	culture_dragonflayer = {
+	
+	}
+	
+	culture_winterskorn = {
+	
+	}
+}
+
+culture_group_orc = {
+	graphical_culture = westerngfx
+
+	culture_mok_nathal = {
+	
+	}
+	
+	culture_bleeding_hollow = {
+	
+	}
+	
+	culture_bonechewer = {
+	
+	}
+	
+	culture_laughing_skull = {
+	
+	}
+	
+	culture_twilights_hammer = {
+	
+	}
+	
+	culture_frostwolf = {
+	
+	}
+	
+	culture_dragonmaw = {
+	
+	}
+	
+	culture_shattered_hand = {
+	
+	}
+	
+	culture_shadowmoon = {
+	
+	}
+	
+	culture_blackrock = {
+	
+	}
+	
+	culture_warsong = {
+	
+	}
+	
+	culture_stormreaver = {
+	
+	}
+}
+
+culture_group_ogre = {
+	graphical_culture = westerngfx
+
+	culture_bladespire = {
+	
+	}
+	
+	culture_ango_rosh = {
+	
+	}
+	
+	culture_boulderfist = {
+	
+	}
+	
+	culture_gordunni = {
+	
+	}
+	
+	culture_ogri_la = {
+	
+	}
+}
+
+culture_group_draenei = {
+	graphical_culture = westerngfx
+
+	culture_shattrathi = {
+	
+	}
+	
+	culture_karaborian = {
+	
+	}
+	
+	culture_broken = {
+	
+	}
+}
+
+culture_group_forest_troll = {
+	graphical_culture = westerngfx
+
+	culture_amani = {
+	
+	}
+	
+	culture_shadowpine = {
+	
+	}
+	
+	culture_vilebranch = {
+	
+	}
+	
+	culture_revantusk = {
+	
+	}
+	
+	culture_mossflayer = {
+	
+	}
+	
+	culture_firetree = {
+	
+	}
+	
+	culture_witherbark = {
+	
+	}
+	
+	male_names = {
+		"Daakara"
+		"Zul'jin"
+		"Malacrass"
+		"Thresh'jin"
+		"Kel'gash"
+		"Torntusk"
+		"Hexx"
+		"Voone"
+		"Jin'zakk"
+		"Zul'rogg"
+		"Krag'jin"
+		"Moz'jin"
+		"Ongo'longo"
+	}
+	
+	female_names = {
+		"Daakara"
+		"Zul'jin"
+		"Malacrass"
+		"Thresh'jin"
+		"Kel'gash"
+		"Torntusk"
+		"Hexx"
+		"Voone"
+		"Jin'zakk"
+		"Zul'rogg"
+		"Krag'jin"
+		"Moz'jin"
+		"Ongo'longo"
+	}
+	
+	dynasty_names = {
+		"Amani" "Shadowpine" "Vilebranch" "Revantusk" "Mossflayer" "Firetree" "Witherbark" "Shadowpine"
+	}
+}
+
+culture_group_jungle_troll = {
+	graphical_culture = westerngfx
+
+	culture_gurubashi = {
+	
+	}
+	
+	culture_bloodscalp = {
+	
+	}
+	
+	culture_shatterspear = {
+	
+	}
+	
+	culture_skullsplitter = {
+	
+	}
+	
+	culture_darkspear = {
+	
+	}
+	
+	culture_atal_ai = {
+	
+	}
+	
+	culture_hakkari = {
+	
+	}
+}
+
+culture_group_sand_troll = {
+	graphical_culture = westerngfx
+
+	culture_sand_fury = {
+	
+	}
+}
+
+culture_group_ice_troll = {
+	graphical_culture = westerngfx
+
+	culture_frostmane = {
+	
+	}
+	
+	culture_winterax = {
+	
+	}
+	
+	culture_winterfang = {
+	
+	}
+	
+	culture_drakkari = {
+	
+	}
+}
+
+culture_group_goblin = {
+	graphical_culture = westerngfx
+
+	culture_kezani = {
+	
+	}
+	
+	culture_bilgewater = {
+	
+	}
+	
+	culture_steamwheedle = {
+	
+	}
+	
+	culture_venture = {
+	
+	}
+	
+	culture_copperpinch = {
+	
+	}
+	
+	culture_blackwater = {
+	
+	}
+}
+
+culture_group_tauren = {
+	graphical_culture = westerngfx
+
+	culture_bloodhoof = {
+	
+	}
+	
+	culture_grimtotem = {
+	
+	}
+	
+	culture_runetotem = {
+	
+	}
+	
+	culture_mistrunner = {
+	
+	}
+	
+	culture_dawnstrider = {
+	
+	}
+	
+	culture_winterhoof = {
+	
+	}
+
+}
+
+culture_group_blood_elf = {
+	graphical_culture = westerngfx
+
+	culture_sin_dorei = {
+	
+	}
+	
+	culture_sunfury = {
+	
+	}
+}
+
+culture_group_high_elf = {
+	graphical_culture = westerngfx
+
+	culture_thalassian = {
+	
+	}
+}
+
+culture_group_aqir = {
+	graphical_culture = westerngfx
+
+	culture_nerubian = {
+	
+	}
+	
+	culture_qiraji = {
+	
+	}
+	
+	culture_silithid = {
+	
+	}
+}
+
+culture_group_demonic = {
+	graphical_culture = westerngfx
+
+	culture_man_ari = {
+	
+	}
+	
+	culture_illidari = {
+	
+	}
+	
+	culture_felsworn = {
+	
+	}
+	
+	culture_legion_cultist = {
+	
+	}
+	
+	culture_fel_orc = {
+	
+	}
+	
+	culture_wretched = {
+	
+	}
+}
+
+culture_group_satyr = {
+	graphical_culture = westerngfx
+
+	culture_jadefire = {
+	
+	}
+	
+	culture_axxarian = {
+	
+	}
+	
+	culture_blackheart = {
+	
+	}
+	
+	culture_hatefury = {
+	
+	}
+	
+	culture_legashi = {
+	
+	}
+}
+
+culture_group_naga = {
+	graphical_culture = westerngfx
+
+	culture_nazja = {
+	
+	}
+	
+	culture_vashjari = {
+	
+	}
+	
+	culture_strashaz = {
+	
+	}
+	
+	culture_zinjatari = {
+	
+	}
+}
+
+culture_group_depths = {
+	graphical_culture = westerngfx
+
+	culture_mak_ra = {
+	
+	}
+	
+	culture_nerglish = {
+	
+	}
+	
+	culture_giblin = {
+	
+	}
+}
+
+culture_group_old_god = {
+	graphical_culture = westerngfx
+
+	culture_yogg_saron = {
+	
+	}
+	
+	culture_c_thun = {
+	
+	}
+	
+	culture_n_zoth = {
+	
+	}
+	
+	culture_twilight = {
+	
+	}
+}
+
+culture_group_scourge = {
+	graphical_culture = westerngfx
+
+	culture_scourge = {
+	
+	}
+	
+	culture_death_knight = {
+	
+	}
+	
+	culture_cultist = {
+	
+	}
+}
+
+culture_group_dragonkin = {
+	graphical_culture = westerngfx
+
+	culture_black = {
+	
+	}
+
+	culture_blue = {
+	
+	}
+	
+	culture_bronze = {
+	
+	}
+	
+	culture_green = {
+	
+	}
+	
+	culture_red = {
+	
+	}
+	
+	culture_twilight = {
+	
+	}
+	
+	culture_netherwing = {
+	
+	}
+}
+
+culture_group_undead = {
+	graphical_culture = westerngfx
+
+	culture_forsaken = {
+	
+	}
+}
+
+culture_group_gnoll = {
+	graphical_culture = westerngfx
+
+	culture_blackpaw = {
+	
+	}
+	
+	culture_mosshide = {
+	
+	}
+	
+	culture_mudsnout = {
+	
+	}
+	
+	culture_riverpaw = {
+	
+	}
+	
+	culture_shadowhide = {
+	
+	}
+	
+	culture_redridge = {
+	
+	}
+	
+	culture_palemane = {
+	
+	}
+	
+	culture_rothide = {
+	
+	}
+}
+
+culture_group_centaur = {
+	graphical_culture = westerngfx
+
+	culture_galak = {
+	
+	}
+	
+	culture_gelkis = {
+	
+	}
+	
+	culture_magram = {
+	
+	}
+	
+	culture_mauraudine = {
+	
+	}
+	
+	culture_kolkar = {
+	
+	}
+}
+
+culture_group_furbolg = {
+	graphical_culture = westerngfx
+
+	culture_gnarlpine = {
+	
+	}
+	
+	culture_deadwood = {
+	
+	}
+	
+	culture_blackwood = {
+	
+	}
+	
+	culture_timbermaw = {
+	
+	}
+	
+	culture_stillpine = {
+	
+	}
+	
+	culture_winterfall = {
+	
+	}
+	
+	culture_frostpaw = {
+	
+	}
+	
+	culture_redfang = {
+	
+	}
+}
+
+culture_group_wolfvar = {
+	graphical_culture = westerngfx
+
+	culture_bloodpaw = {
+	
+	}
+	
+	culture_frenzyheart = {
+	
+	}
+	
+	culture_howling = {
+	
+	}
+	
+	culture_rageclaw = {
+	
+	}
+	
+	culture_snowfall = {
+	
+	}
+}
+
+culture_group_gorloc = {
+	graphical_culture = westerngfx
+
+	culture_mistwhisper = {
+	
+	}
+	
+	culture_rainspeaker = {
+	
+	}
+	
+	culture_mosswalker = {
+	
+	}
+	
+	culture_sparktouched = {
+	
+	}
+}
+
+culture_group_kobold = {
+	graphical_culture = westerngfx
+
+	culture_drywhisker = {
+	
+	}
+	
+	culture_gravelsnout = {
+	
+	}
+	
+	culture_goldtooth = {
+	
+	}
+	
+	culture_whitewhisker = {
+	
+	}
+	
+	culture_bloodspore = {
+	
+	}
+	
+	culture_magmoth = {
+	
+	}
+	
+	culture_shalerhorn = {
+	
+	}
+}
+
+culture_group_harpy = {
+	graphical_culture = westerngfx
+
+	culture_bloodfury = {
+	
+	}
+	
+	culture_coldwind = {
+	
+	}
+	
+	culture_frostfeather = {
+	
+	}
+	
+	culture_dustwind = {
+	
+	}
+	
+	culture_screeching = {
+	
+	}
+}
+
+culture_group_quillboar = {
+	graphical_culture = westerngfx
+
+	culture_bristleback = {
+	
+	}
+	
+	culture_razormane = {
+	
+	}
+	
+	culture_razorfen = {
+	
+	}
+	
+	culture_swinegart = {
+	
+	}
+}
+
+culture_group_titan = {
+	graphical_culture = westerngfx
+
+	culture_tol_vir = {
+	
+	}
+	
+	culture_ulduar = {
+	
+	}
+	
+	culture_uldaman = {
+	
+	}
+	
+	culture_maraudon = {
+	
+	}
+	
+	culture_modan = {
+	
+	}
+}
+
+culture_group_elemental = {
+	graphical_culture = westerngfx
+
+	culture_fire = {
+	
+	}
+	
+	culture_earth = {
+	
+	}
+	
+	culture_water = {
+	
+	}
+	
+	culture_air = {
+	
+	}
+}
+
+culture_group_worgen = {
+	graphical_culture = westerngfx
+
+	culture_wolfcult = {
+	
+	}
+}
+
+culture_group_arrakoa = {
+	graphical_culture = westerngfx
+
+	culture_sethekk = {
+	
+	}
+	
+	culture_skettis = {
+	
+	}
+	
+	culture_apexis = {
+	
+	}
+	
+	culture_exiles = {
+	
+	}
+}
+
+culture_group_tuskarr = {
+	graphical_culture = westerngfx
+
+	culture_kalu_ak = {
+	
+	}
+	
+	culture_moa_ki = {
+	
+	}
+}
+
+culture_group_pandaren = {
+	graphical_culture = westerngfx
+
+	culture_huojin = {
+	
+	}
+	
+	culture_tuskui = {
+	
+	}
+	
+	culture_shado_pan = {
+	
+	}
+}
+
+culture_group_mantid = {
+	graphical_culture = westerngfx
+
+	culture_klaxxi = {
+	
+	}
+	
+	culture_shaarji = {
+	
+	}
+}
+
+culture_group_mogu = {
+	graphical_culture = westerngfx
+
+	culture_shao_tien = {
+	
+	}
+	
+	culture_gurthan = {
+	
+	}
+	
+	culture_harthak = {
+	
+	}
+	
+	culture_kargesh = {
+	
+	}
+}
+
+culture_group_yaungol = {
+	graphical_culture = westerngfx
+
+	culture_bataari = {
+	
+	}
+	
+	culture_ordo = {
+	
+	}
+	
+	culture_osul = {
+	
+	}
+	
+	culture_deadtalker = {
+	
+	}
+	
+	culture_burilgi = {
+	
+	}
+	
+	culture_palewind = {
+	
+	}
+}
+
+culture_group_ethereal = {
+	graphical_culture = westerngfx
+
+	culture_k_areshi = {
+	
+	}
+}

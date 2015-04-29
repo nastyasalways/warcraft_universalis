@@ -1,0 +1,26 @@
+# Alterac
+
+graphical_culture = westerngfx
+
+color = { 32 9 111 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

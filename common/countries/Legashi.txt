@@ -1,0 +1,26 @@
+# Legashi
+
+graphical_culture = westerngfx
+
+color = { 57 6 54 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

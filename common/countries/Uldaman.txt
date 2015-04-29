@@ -1,0 +1,26 @@
+# Uldaman
+
+graphical_culture = westerngfx
+
+color = { 121 41 215 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

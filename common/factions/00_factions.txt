@@ -1,0 +1,44 @@
+# Icecrown Factions
+faction_lower_spire =
+{
+	#Allows to fight wars.
+	monarch_power = DIP
+	
+	modifier = 
+	{
+		global_missionary_strength = 0.02
+		missionaries = 1
+		war_exhaustion = -0.05
+		land_morale = 0.15
+
+	}
+}
+
+faction_crimson_halls =
+{
+	monarch_power = ADM
+
+	#Merchants, Traders, Expansions.
+	modifier = 
+	{
+		army_tradition = 1
+		diplomats = 1
+		fabricate_claims_time = -0.33
+		diplomatic_upkeep = 2
+	}
+}
+
+faction_plagueworks =
+{
+	monarch_power = MIL
+
+	#buildings, Internal Stability.
+	modifier = 
+	{
+		artillery_power = 0.1
+		global_unrest = -2
+		siege_ability = 0.15
+		idea_cost = -0.1
+	}
+}
+

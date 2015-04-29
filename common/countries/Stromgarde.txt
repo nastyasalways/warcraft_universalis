@@ -1,0 +1,26 @@
+# Stromgarde
+
+graphical_culture = westerngfx
+
+color = { 139 193 168 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

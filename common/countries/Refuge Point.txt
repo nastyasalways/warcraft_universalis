@@ -1,0 +1,26 @@
+# Refuge Point
+
+graphical_culture = westerngfx
+
+color = { 248 96 173 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

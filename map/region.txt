@@ -1,0 +1,319 @@
+# A province can belong to several regions.
+
+
+
+# Old
+northern_america = { 
+}
+
+northeastern_america = { 
+}
+
+eastern_america = {
+ 
+}
+
+western_america = {
+ 
+}
+
+northwestern_america = {
+	
+}
+
+the_mississippi_region = {
+	
+}
+
+great_plains = {
+	
+}
+
+the_thirteen_colonies = {
+ 
+}
+
+central_america = {
+	 
+}
+
+the_carribean = {
+	
+}
+
+the_spanish_main = {
+	
+}
+
+la_plata_region = {
+	 
+}
+
+brazil_region = {
+	
+}
+
+the_andes = {
+	
+}
+
+amazonas = {
+	 
+}
+
+spanish_region = {
+}
+
+iberian_peninsula = {
+}
+
+andalusia = {
+}
+
+italian_region = {
+}
+
+lombardia = {
+}
+
+two_sicilies = {
+}
+
+the_low_countries = {
+}
+ 
+spanish_netherlands = {
+}
+
+german_region = {
+}
+
+western_balkans = {
+}
+
+eastern_balkans = {
+}
+
+croatian_region = {
+}
+
+serbian_region = {
+}
+
+greece_region = {
+}
+
+dacia = {
+}
+
+bulgarian_region = {
+}
+
+turkey = {
+}
+
+asia_minor = {
+}
+
+anatolia = {
+}
+
+wielkopolska = {
+}
+
+malopolska = {
+}
+
+the_baltics = {
+}
+
+lithuanian_region = {
+}
+
+belarus = {
+}
+
+hungarian_region = {
+}
+
+ukrainian_region = {
+}
+
+icelandic_region = {
+}
+
+shetland_and_faroarna = {
+}
+
+british_isles = {
+}
+
+great_britain_region = {
+}
+
+irish_region = {
+}
+
+highlands = {
+}
+
+lowlands = {
+}
+
+northumbria = {
+}
+
+mercia = {
+}
+
+welsh_region = {
+}
+
+essex = {
+}
+
+french_region = {
+}
+
+gallia = {
+}
+
+breton_region = {
+}
+
+aquitania = {
+}
+
+occitania = {
+}
+
+scandinavian_region = {
+}
+
+swedish_region = {
+}
+
+finnish_region = {
+}
+
+danish_region = {
+}
+
+norwegian_region = {
+}
+
+franconia = {
+}
+
+lotharingia = {
+}
+
+swabia = {
+}
+
+helvetia = {
+}
+
+austrian_region = {
+}
+
+bohemian_region = {
+}
+
+westphalian_region = {
+}
+
+russian_region = {
+}
+
+western_siberia = {
+}
+
+eastern_siberia = {
+}
+
+kaffa_and_azow = {
+}
+
+eastasian_trade_ports = {
+}
+
+mongolia = {
+}
+
+manchuria = {
+}
+
+korean_region = {
+}
+
+chinese_region = {
+}
+
+chinese_coast = {
+}
+
+japanese_region = {
+}
+
+new_zealand_region = {
+}
+
+australian_coast = {
+}
+
+indonesian_region = {
+}
+
+indian_coast = {
+}
+
+indian_region = {
+}
+
+persian_region = {
+}
+
+central_asia = {
+}
+
+middle_east = {
+}
+
+atlantic_ocean_islands = {
+}
+
+mascarene_islands = {
+}
+
+indian_ocean_islands = {
+}
+
+pacific_ocean_islands = {
+}
+
+spice_islands = {
+}
+
+
+
+east_asian_cot = {
+}
+
+west_african_coast = {
+}
+
+south_africa = {
+}
+
+central_africa = {
+}
+
+north_africa = {
+}
+
+kongo = {
+}
+
+funj_spawning_region = {
+}

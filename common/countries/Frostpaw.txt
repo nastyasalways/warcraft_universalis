@@ -1,0 +1,26 @@
+# Frostpaw
+
+graphical_culture = westerngfx
+
+color = { 249 214 221 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

@@ -1,0 +1,26 @@
+# Dark Iron
+
+graphical_culture = westerngfx
+
+color = { 155 250 164 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

@@ -1,0 +1,26 @@
+# The Scarlet Crusade
+
+graphical_culture = westerngfx
+
+color = { 80 158 224 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

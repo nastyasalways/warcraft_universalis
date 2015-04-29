@@ -1,0 +1,26 @@
+# Hydraxian Waterlords
+
+graphical_culture = westerngfx
+
+color = { 222 226 187 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

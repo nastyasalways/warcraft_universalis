@@ -1,0 +1,26 @@
+# Mossflayer
+
+graphical_culture = westerngfx
+
+color = { 64 154 170 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+
