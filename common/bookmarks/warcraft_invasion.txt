@@ -1,6 +1,0 @@
-bookmark =
-{
-	name = "WARCRAFT_INVASION_NAME"
-	desc = "WARCRAFT_INVASION_DESC"
-	date = 2000.1.1
-}

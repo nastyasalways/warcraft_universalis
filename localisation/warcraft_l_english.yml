@@ -1,7 +1,25 @@
 ﻿l_english:
  # Bookmarks
- WARCRAFT_INVASION_NAME: "Warcraft Invasion"
- WARCRAFT_INVASION_DESC: "Add description."
+ RISE_OF_THE_HORDE_NAME: "Rise of the Horde"
+ RISE_OF_THE_HORDE_DESC: "The rise of the Horde"
+ FIRST_WAR_NAME: "The First War"
+ FIRST_WAR_DESC: "The Dark Portal opens."
+ SECOND_WAR_NAME: "The Second War"
+ SECOND_WAR_DESC: "The invasion of Draenor and the birth of the Lich King."
+ THIRD_WAR_NAME: "The Third War"
+ THIRD_WAR_DESC: "The Fall of Quel'Thalas and the Frozen Throne."
+ RISE_OF_THE_QIRAJI_NAME: "Rise of the Qiraji"
+ RISE_OF_THE_QIRAJI_DESC: "The Gates of Ahn'Qiraj open."
+ THE_BURNING_CRUSADE_NAME: "The Burning Crusade"
+ THE_BURNING_CRUSADE_DESC: "The siege of Outland."
+ WRATH_OF_THE_LICH_KING_NAME: "Wrath of the Lich King"
+ WRATH_OF_THE_LICH_KING_DESC: "The Lich King awakens."
+ CATACLYSM_NAME: "The Shattering"
+ CATACLYSM_DESC: "Deathwing returns."
+ MISTS_OF_PANDARIA_NAME: "Mists of Pandaria"
+ MISTS_OF_PANDARIA_DESC: "Pandaria emerges."
+ WARLORDS_OF_DRAENOR_NAME: "Warlords of Draenor"
+ WARLORDS_OF_DRAENOR_DESC: "Garrosh escapes."
  
  # Countries
  A01: "Stormwind"

@@ -1,3 +1,26 @@
+# Bookmark Setups
+# Rise of the Horde
+#	546 King's Calender
+# First War
+#	592 KC
+# Second War
+#	598 KC
+# Third War
+#	617 KC
+# Rise of the Qiraji
+#	622 KC
+# The Burning Crusade
+#	625 CK
+# Wrath of the Lich King
+#	626 KC
+# Cataclysm
+# 	631 KC
+# Mists of Pandaria
+#	632 KC
+# Warlords of Draenor
+#	633 KC
+
+
 # Special countries..
 REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"
@@ -359,4 +382,4 @@ E48 = "countries/Palewind.txt"
 #Zul'Drak (FROST TROLL)
 #Empire of the Shifting Sands (AQIR)
 #Sunken Empire (NAGA)
-#Pandaren Empire (PANDAREN)
+#Pandaren Empire (PANDAREN))

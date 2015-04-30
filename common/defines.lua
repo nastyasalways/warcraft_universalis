@@ -1,9 +1,9 @@
 NDefines = {
 
 NGame = {
-	START_DATE = "1444.11.11",
-	END_DATE = "10000.1.2",
-	MAX_RANDOM_NEW_WORLD = "1492.1.1"
+	START_DATE = "546.1.1",
+	END_DATE = "100000.1.1",
+	MAX_RANDOM_NEW_WORLD = "100000.1.1"
 },
 
 NDiplomacy = {

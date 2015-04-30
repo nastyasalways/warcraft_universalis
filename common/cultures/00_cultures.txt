@@ -1,353 +1,1085 @@
+######################################################
+# Documentation
+# ----------------------------------------------------
 # Do not change tags in here without changing every other reference to them.
 # If adding new groups or cultures, make sure they are unique.
-
 # Union tags do not suffer from the 'same_culture_group' tax penalty.
 # Primary tags are the first choice for rebel factions seeking cultural independence.
-
 # graphical_culture = westerngfx
 # second_graphical_culture = muslimgfx (fallback if the first does not exist)
+# NOTE: Handle names within cultures rather than within a individual country history file.
+######################################################
 
 culture_group_human = {
 	graphical_culture = westerngfx
 
+	male_names = {
+		
+	}
+	female_names = {
+
+	}
+	dynasty_names = {
+		"Wrynn" "Jonathan" "Lothar" "Clay" "Fordragon" "Windsor" "Soluna" "Leland" "Stockton" "Lohan" "Bauden" "McCoy" 
+		"Allen" "Miller" "Gallina" "Rall" 
+		"Marie" "Anship" "Chaddis" "Raskol" "Langston" "Stoutmantle" "Stonefield" "McWeaksauce" "Schweitzer" "Pfeiffer" 
+		"Sanders" "Lind" "Pressler"
+		"Fielder" "Odesyus" "Taylor" "Brom" "Moulaine" "Arbington" "Mallory" "Moore" "Laughlin" "Bolero" "Constantine" 
+		"Merriweather" "Hafgan" "Axeman" "Potts" "Derring" 
+		"Jainrose" "Eva" "Griffith" "Berrybuck" "Davenport" "Germaine" "Halloran" "Krighton" "Fadran" "Wainwright" 
+		"Hastings" "Kryten" "Benedictus" "Gaiman" "Malin" 
+		"Nakada" "Cailen" "Stormfeather" "Marsters" "Peshkov" "Huwe" "Neto" "Blank" "Bridenbecker" "Downs" "Chilton" 
+		"Fitch" "Fitzgerald" "Hesse" "Jaxon" "Lauffer" "Burnhep" "Feeney" "Windmill" "Fellwood" "Ironboot" "Matalli" 
+		"Daniels" "Dobbins" "Hann" "Kelly" "Townsley" "Alexston" "Tidewater" "Wental" "Bartleby" "Ginsetti" "Behsten" 
+		"Mora" "Trias" "Carevin" "Elgueta" "Foxworthy" "Stonehammer" "Gump" "Brubaker" "Heisten" "Quin" "Featherwhistle" 
+		"Maclure" "DeLavey" "Farthing" "Grey" "Gray" "Hammerbeak" "Hennigan" "Cloudwing" "Terrel" "Hamfist" "Stonebraid" 
+		"Crowley" "Grassman" "Thomas" "Jongleur" "Alpert" "Danuvin" "Darill" "Hanes" "Dirgehammer" "Stoutmantle" "Holley" 
+		"Revshon" "Nials"
+	}
+
 	culture_azerothian = {
-	
+		male_names = {
+			Varian Anduin Lian Adamant Landen Tiffin Marcus Hammond Bolvar Reginald Turalyon "Jes-Tereth"
+			Arnold Nathan Erich Jack Lenny Steven Thomas Renato Duthorian Doc Aaron Abercrombie Gilroy Adam
+			Aldric Aldwin Alex Ali Allan Allen Allon Ander Andrew Androd Angus Anson Ardwyn Arlen Arnold Art Arthur Aurajo 
+			Austin Babby Baros Bart Wental Bartolo Ben Benjamin Benny Bernard Bernie Bibilfaz Billy Bo Bodrick Bolner 
+			Bradford Brandon Alex Daniel Dmitri Jess Matthew Trent Brog Brom Brook Anton Cassius Danil Josh Joshua Neals Kristoff Sarno Paxtom Nimetz Wilhelm Bryan Cameron 
+		}
+		female_names = {
+			Varia Liane Taria Angelina Janey Deva Karlee Nikova Jenn Dellis Porena
+			Bernice Adele Alexandra Alice Allison Allisan Allason Alma Alyssa Alysa Alys Amber Amy Ami Amie Anastasia Andrea Ann Ashely Ashlei Audrey Avette Bera Betty Bonnie Bralla Brooke Caitlin Calia Candace
+		}
+		dynasty_names = {
+			"Wrynn" "Jonathan" "Lothar" "Clay" "Fordragon" "Windsor" "Soluna" "Leland" "Stockton" "Lohan" "Bauden" "McCoy" 
+			"Allen" "Miller" "Gallina" "Rall" "Marie" "Anship" "Chaddis" "Raskol" "Langston" "Stonefield" "McWeaksauce" 
+			"Schweitzer" "Pfeiffer" "Sanders" "Lind" "Pressler"
+			"Fielder" "Odesyus" "Taylor" "Brom" "Moulaine" "Arbington" "Mallory" "Moore" "Laughlin" "Bolero" "Constantine" 
+			"Merriweather" "Hafgan" "Axeman" "Potts" 
+			"Derring" "Jainrose" "Eva" "Griffith" "Berrybuck" "Davenport" "Germaine" "Halloran" "Krighton" "Fadran" 
+			"Wainwright" "Hastings" "Kryten" "Benedictus" "Gaiman" 
+			"Malin" "Nakada" "Cailen" "Stormfeather" "Marsters" "Peshkov" "Huwe" "Neto" "Blank" "Bridenbecker" "Downs" 
+			"Chilton" "Fitch" "Fitzgerald" "Hesse" "Jaxon" 
+			"Lauffer" "Burnhep" "Feeney" "Windmill" "Fellwood" "Ironboot" "Matalli" "Daniels" "Dobbins" "Hann" "Kelly" 
+			"Townsley" "Alexston" "Tidewater" "Wental" "Bartleby" "Ginsetti" "Behsten" "Mora" "Trias" "Carevin" "Elgueta" 
+			"Foxworthy" "Stonehammer" "Gump" "Brubaker" "Heisten" "Quin" "Featherwhistle" "Maclure" "DeLavey" "Farthing" 
+			"Grey" "Gray" "Hammerbeak" "Hennigan" "Cloudwing" "Terrel" "Hamfist" "Stonebraid" "Crowley" "Grassman" "Thomas" 
+			"Jongleur" "Alpert" "Danuvin" "Darill" "Hanes" "Dirgehammer" "Stoutmantle" "Holley" "Revshon" "Nials"
+			
+		}
 	}
 	
 	culture_westfolk = {
-	
+		male_names = {
+			Gryan Danuvin Antonio Christopher Kriggon Mike William
+		}
+		female_names = {
+			Daphne Salma Verna Gina
+		}
+		dynasty_names = {
+			"Stoutmantle" "Stilwell" "Saldean" "Furlbrow" "Perelli" "Hewen" "MacGregor" "Talsone" "Miller" 
+		}
 	}
 	
 	culture_gilnean = {
+		male_names = {
+		
+		}
+		female_names = {
 	
+		}
+		dynasty_names = {
+		
+		}
 	}
 	
 	culture_arathi = {
+		male_names = {
+		
+		}
+		female_names = {
 	
+		}
+		dynasty_names = {
+		
+		}
 	}
 	
 	culture_kul_tiran = {
+		male_names = {
+		
+		}
+		female_names = {
 	
+		}
+		dynasty_names = {
+		
+		}
 	}
 }
 
 culture_group_quel_dorei = {
 	graphical_culture = westerngfx
 
-	culture_night_elf = {
+	male_names = {
+		
+	}
+	female_names = {
 	
+	}
+	dynasty_names = {
+		
+	}
+		
+	culture_night_elf = {
+		male_names = {
+		
+		}
+		female_names = {
+	
+		}
+		dynasty_names = {
+		
+		}
 	}
 	
 	culture_sentinel = {
+		male_names = {
+		
+		}
+		female_names = {
 	
+		}
+		dynasty_names = {
+		
+		}
 	}
 	
 	culture_cenarion = {
+		male_names = {
+		
+		}
+		female_names = {
 	
+		}
+		dynasty_names = {
+		
+		}
 	}
 }
 
 culture_group_vrykul = {
 	graphical_culture = westerngfx
 
-	culture_kvaldir = {
+	male_names = {
+		
+	}
+	female_names = {
 	
+	}
+	dynasty_names = {
+		
+	}
+	
+	culture_kvaldir = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_skadir = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}	
 	}
 	
 	culture_brunnhilde = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}	
 	}
 	
 	culture_ymirheim = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}	
 	}
 	
 	culture_dragonflayer = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}	
 	}
 	
 	culture_winterskorn = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}	
 	}
 }
 
 culture_group_orc = {
 	graphical_culture = westerngfx
 
-	culture_mok_nathal = {
+	male_names = {
+		
+	}
+	female_names = {
 	
+	}
+	dynasty_names = {
+		
+	}
+	
+	culture_mok_nathal = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_bleeding_hollow = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_bonechewer = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_laughing_skull = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_twilights_hammer = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_frostwolf = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_dragonmaw = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_shattered_hand = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_shadowmoon = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_blackrock = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_warsong = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_stormreaver = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_ogre = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_bladespire = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_ango_rosh = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_boulderfist = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_gordunni = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_ogri_la = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_draenei = {
 	graphical_culture = westerngfx
 
-	culture_shattrathi = {
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
 	
+	culture_shattrathi = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_karaborian = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_broken = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_forest_troll = {
 	graphical_culture = westerngfx
 
-	culture_amani = {
-	
-	}
-	
-	culture_shadowpine = {
-	
-	}
-	
-	culture_vilebranch = {
-	
-	}
-	
-	culture_revantusk = {
-	
-	}
-	
-	culture_mossflayer = {
-	
-	}
-	
-	culture_firetree = {
-	
-	}
-	
-	culture_witherbark = {
-	
-	}
-	
 	male_names = {
 		"Daakara"
-		"Zul'jin"
-		"Malacrass"
-		"Thresh'jin"
-		"Kel'gash"
-		"Torntusk"
-		"Hexx"
-		"Voone"
+		"Shadrak"
 		"Jin'zakk"
-		"Zul'rogg"
+		"Kazra'jin"
+		"Krul'tan"
+		"Malacrass"
+		"Otembe"
+		"Ter'lji"
+		"Zul'jin"
+		"Kel'gash"
 		"Krag'jin"
+		"Zul'rogg"
+		"Ral'jin"
+		"Rin'ji"
+		"Umboda"
+		"Mith'rethis"
+		"Morta'gya"
+		"Tregla"
+		"Retherokk"
+		"Qiaga"
+		"Gan'dranda"
+		"Katoom"
+		"Kotonga"
+		"Markhor"
+		"Otho Moji'ko"
 		"Moz'jin"
+		"Renn'az"
+		"Torntusk"
+		"Yayo'jin"
 		"Ongo'longo"
+		"Vex'tul"
+		"Thresh'jin"
+		"Zul'arek"
+		"Zul'arek Hateflower"
+		"Zul'Marosh"
+		"Marli"
+		"Marli Two-Toes"
+		"Voone"
+		"Tarak"
+		"Timan"
+		"Gree"
+		"Shnel"
+		"Vorsh"
+		"Hulg"
+		"Mai'jin"
+		"Nimar"
+		"Zalas"
+		"Witherheart"
+		"Qeeju"
 	}
 	
 	female_names = {
-		"Daakara"
-		"Zul'jin"
-		"Malacrass"
-		"Thresh'jin"
-		"Kel'gash"
-		"Torntusk"
-		"Hexx"
-		"Voone"
-		"Jin'zakk"
-		"Zul'rogg"
-		"Krag'jin"
-		"Moz'jin"
-		"Ongo'longo"
+		"Hexx" "Torntusk" "Vosh'gajin"
 	}
 	
 	dynasty_names = {
 		"Amani" "Shadowpine" "Vilebranch" "Revantusk" "Mossflayer" "Firetree" "Witherbark" "Shadowpine"
+	}
+	
+	culture_amani = {
+		male_names = {
+			"Daakara"
+			"Shadrak"
+			"Jin'zakk"
+			"Kazra'jin"
+			"Krul'tan"
+			"Malacrass"
+			"Otembe"
+			"Ter'lji"
+			"Zul'jin"
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			"Amani"
+		}
+	}
+	
+	culture_shadowpine = {
+		male_names = {
+			"Kel'gash"
+			"Krag'jin"
+			"Zul'rogg"
+			"Ral'jin"
+			"Rin'ji"
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			"Shadowpine"
+		}
+	}
+	
+	culture_vilebranch = {
+		male_names = {
+			"Umboda"
+			"Mith'rethis"
+			"Morta'gya"
+			"Tregla"
+			"Retherokk"
+			"Qiaga"
+		}
+		female_names = {
+			"Hexx"
+		}
+		dynasty_names = {
+			"Vilebranch"
+		}
+	}
+	
+	culture_revantusk = {
+		male_names = {
+			"Gan'dranda"
+			"Katoom"
+			"Kotonga"
+			"Markhor"
+			"Otho Moji'ko"
+			"Moz'jin"
+			"Renn'az"
+			"Torntusk"
+			"Yayo'jin"
+			"Ongo'longo"
+		}
+		female_names = {
+			"Torntusk"
+		}
+		dynasty_names = {
+			"Revantusk"
+		}
+	}
+	
+	culture_mossflayer = {
+		male_names = {
+			"Vex'tul"
+			"Thresh'jin"
+			"Zul'arek"
+			"Zul'arek Hateflower"
+			"Zul'Marosh"
+			"Marli"
+			"Marli Two-Toes"
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			"Mossflayer"
+		}
+	}
+	
+	culture_firetree = {
+		male_names = {
+			"Voone"
+			"Tarak"
+			"Timan"
+			"Gree"
+			"Shnel"
+			"Vorsh"
+			"Hulg"
+		}
+		female_names = {
+			"Vosh'gajin"
+		}
+		dynasty_names = {
+			"Firetree"
+		}
+	}
+	
+	culture_witherbark = {
+		male_names = {
+			"Mai'jin"
+			"Nimar"
+			"Zalas"
+			"Witherheart"
+			"Qeeju"
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			"Witherbark"
+		}
 	}
 }
 
 culture_group_jungle_troll = {
 	graphical_culture = westerngfx
 
+	male_names = {
+		
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_gurubashi = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_bloodscalp = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_shatterspear = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_skullsplitter = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_darkspear = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_atal_ai = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_hakkari = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_sand_troll = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_sand_fury = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_ice_troll = {
 	graphical_culture = westerngfx
 
-	culture_frostmane = {
+	male_names = {
+			
+	}
+	female_names = {
 	
+	}
+	dynasty_names = {
+		
+	}
+		
+	culture_frostmane = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_winterax = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_winterfang = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_drakkari = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_goblin = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_kezani = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_bilgewater = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_steamwheedle = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_venture = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_copperpinch = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_blackwater = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_tauren = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_bloodhoof = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_grimtotem = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_runetotem = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_mistrunner = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_dawnstrider = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_winterhoof = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 
 }
@@ -355,583 +1087,1817 @@ culture_group_tauren = {
 culture_group_blood_elf = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+		
+	}
+		
 	culture_sin_dorei = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_sunfury = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_high_elf = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_thalassian = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_aqir = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+		
+	}
+		
 	culture_nerubian = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_qiraji = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_silithid = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_demonic = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+		
+	}
+		
 	culture_man_ari = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_illidari = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_felsworn = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_legion_cultist = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_fel_orc = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_wretched = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_satyr = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_jadefire = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_axxarian = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_blackheart = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_hatefury = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_legashi = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_naga = {
 	graphical_culture = westerngfx
 
+	male_names = {
+		
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+		
+	}
+		
 	culture_nazja = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_vashjari = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_strashaz = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_zinjatari = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_depths = {
 	graphical_culture = westerngfx
 
-	culture_mak_ra = {
+	male_names = {
+			
+	}
+	female_names = {
 	
+	}
+	dynasty_names = {
+			
+	}
+		
+	culture_mak_ra = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_nerglish = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_giblin = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_old_god = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_yogg_saron = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_c_thun = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_n_zoth = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_twilight = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_scourge = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_scourge = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_death_knight = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_cultist = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_dragonkin = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_black = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 
 	culture_blue = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_bronze = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_green = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_red = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_twilight = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_netherwing = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_undead = {
 	graphical_culture = westerngfx
 
-	culture_forsaken = {
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
 	
+	}
+		
+	culture_forsaken = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_gnoll = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_blackpaw = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_mosshide = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_mudsnout = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_riverpaw = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_shadowhide = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_redridge = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_palemane = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_rothide = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_centaur = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_galak = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_gelkis = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_magram = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_mauraudine = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_kolkar = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_furbolg = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_gnarlpine = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_deadwood = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_blackwood = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_timbermaw = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_stillpine = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_winterfall = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_frostpaw = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_redfang = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_wolfvar = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_bloodpaw = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_frenzyheart = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_howling = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_rageclaw = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_snowfall = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_gorloc = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_mistwhisper = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_rainspeaker = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_mosswalker = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_sparktouched = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_kobold = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_drywhisker = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_gravelsnout = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_goldtooth = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_whitewhisker = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_bloodspore = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_magmoth = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_shalerhorn = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_harpy = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}	
+	}
+		
 	culture_bloodfury = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_coldwind = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_frostfeather = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_dustwind = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_screeching = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_quillboar = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_bristleback = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_razormane = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_razorfen = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_swinegart = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_titan = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_tol_vir = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_ulduar = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_uldaman = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_maraudon = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_modan = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_elemental = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_fire = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_earth = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_water = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_air = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_worgen = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_wolfcult = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_arrakoa = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_sethekk = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_skettis = {
-	
-	}
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}	
 	
 	culture_apexis = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_exiles = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_tuskarr = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_kalu_ak = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_moa_ki = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_pandaren = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_huojin = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_tuskui = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_shado_pan = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_mantid = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_klaxxi = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_shaarji = {
-	
-	}
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}	
 }
 
 culture_group_mogu = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_shao_tien = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_gurthan = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_harthak = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_kargesh = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_yaungol = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_bataari = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_ordo = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_osul = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_deadtalker = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_burilgi = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 	
 	culture_palewind = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 
 culture_group_ethereal = {
 	graphical_culture = westerngfx
 
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
 	culture_k_areshi = {
-	
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
