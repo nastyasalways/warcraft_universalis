@@ -68,18 +68,6 @@ culture_group_human = {
 		}
 	}
 	
-	culture_westfolk = {
-		male_names = {
-			Gryan Danuvin Antonio Christopher Kriggon Mike William
-		}
-		female_names = {
-			Daphne Salma Verna Gina
-		}
-		dynasty_names = {
-			"Stoutmantle" "Stilwell" "Saldean" "Furlbrow" "Perelli" "Hewen" "MacGregor" "Talsone" "Miller" 
-		}
-	}
-	
 	culture_gilnean = {
 		male_names = {
 		
@@ -1132,19 +1120,7 @@ culture_group_thalassian = {
 			
 		}
 	}
-	
-	culture_sin_dorei = {
-		male_names = {
-			
-		}
-		female_names = {
-		
-		}
-		dynasty_names = {
-			
-		}
-	}
-	
+
 	culture_sunfury = {
 		male_names = {
 			
@@ -2413,43 +2389,55 @@ culture_group_titan = {
 		}
 	}
 	
-	culture_ulduar = {
-		male_names = {
-			
-		}
-		female_names = {
-		
-		}
-		dynasty_names = {
-			
-		}
-	}
-	
-	culture_uldaman = {
-		male_names = {
-			
-		}
-		female_names = {
-		
-		}
-		dynasty_names = {
-			
-		}
-	}
-	
-	culture_maraudon = {
-		male_names = {
-			
-		}
-		female_names = {
-		
-		}
-		dynasty_names = {
-			
-		}
-	}
-	
 	culture_modan = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+	culture_ironforge = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+	culture_wildhammer = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+	culture_dark_iron = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+	culture_frostborn = {
 		male_names = {
 			
 		}
@@ -2900,6 +2888,32 @@ culture_group_ethereal = {
 	}
 		
 	culture_k_areshi = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+}
+
+culture_group_gnomish = {
+	graphical_culture = westerngfx
+
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
+	culture_gnome = {
 		male_names = {
 			
 		}

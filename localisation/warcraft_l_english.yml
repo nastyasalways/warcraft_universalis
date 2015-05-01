@@ -528,6 +528,7 @@
  religion_old_gods: "Old Gods"
  religion_shadow: "Shadow and Necromancy"
  religion_church_of_the_light: "Church of the Light"
+ religion_heretics_of_the_light: "Heretics of the Light"
  religion_light_of_the_naaru: "Light of the Naaru"
  religion_elune: "Elune"
  religion_hakkari: "Hakkari"
@@ -540,6 +541,8 @@
  religion_celestial: "Celestials"
  religion_arkkorok: "Arkkorok"
  religion_void: "Void"
+ religion_mystery_of_the_makers: "Mystery of the Makers"
+ religion_ragnaros: "Ragnaros"
  
  # Factions
  faction_lower_spire: "The Lower Spire"
@@ -631,6 +634,9 @@
  tech_yaungol_desc: "With the Yaungol technology group, technology levels are standard cost (100%)."
  tech_ethereal: "Ethereal"
  tech_ethereal_desc: "With the Ethereal technology group, technology levels are standard cost (100%)."
+ tech_gnome: "Gnomish"
+ tech_gnome_desc: "With the Gnomish technology group, technology levels are standard cost (100%)."
  
+
 
  
