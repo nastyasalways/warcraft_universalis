@@ -117,7 +117,7 @@ culture_group_human = {
 	}
 }
 
-culture_group_quel_dorei = {
+culture_group_darnassian = {
 	graphical_culture = westerngfx
 
 	male_names = {
@@ -155,6 +155,18 @@ culture_group_quel_dorei = {
 	}
 	
 	culture_cenarion = {
+		male_names = {
+		
+		}
+		female_names = {
+	
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	culture_highbourne = {
 		male_names = {
 		
 		}
@@ -1084,7 +1096,7 @@ culture_group_tauren = {
 
 }
 
-culture_group_blood_elf = {
+culture_group_thalassian = {
 	graphical_culture = westerngfx
 
 	male_names = {
@@ -1094,9 +1106,33 @@ culture_group_blood_elf = {
 		
 	}
 	dynasty_names = {
-		
+			
 	}
 		
+	culture_high_elf = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+	culture_blood_elf = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
 	culture_sin_dorei = {
 		male_names = {
 			
@@ -1120,22 +1156,8 @@ culture_group_blood_elf = {
 			
 		}
 	}
-}
-
-culture_group_high_elf = {
-	graphical_culture = westerngfx
-
-	male_names = {
-			
-	}
-	female_names = {
-		
-	}
-	dynasty_names = {
-			
-	}
-		
-	culture_thalassian = {
+	
+	culture_wretched = {
 		male_names = {
 			
 		}
@@ -1260,18 +1282,6 @@ culture_group_demonic = {
 	}
 	
 	culture_fel_orc = {
-		male_names = {
-			
-		}
-		female_names = {
-		
-		}
-		dynasty_names = {
-			
-		}
-	}
-	
-	culture_wretched = {
 		male_names = {
 			
 		}

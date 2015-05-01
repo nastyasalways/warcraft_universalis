@@ -7,10 +7,18 @@
  culture_arathi: "Arathi"
  culture_kul_tiran: "Kul'Tiran"
  
- culture_group_quel_dorei: "Quel'dorei"
+ culture_group_darnassian: "Darnassian"
  culture_night_elf: "Night Elf"
  culture_sentinel: "Sentinel"
  culture_cenarion: "Cenarion"
+ culture_highbourne: "Highbourne"
+ 
+ culture_group_thalassian: "Thalassian"
+ culture_sin_dorei: "Sin'dorei"
+ culture_sunfury: "Sunfury"
+ culture_high_elf: "High Elf"
+ culture_blood_elf: "Blood Elf"
+ culture_wretched: "Wretched"
  
  culture_group_vrykul: "Vrykul"
  culture_kvaldir: "Kvaldir"
@@ -89,13 +97,6 @@
  culture_dawnstrider: "Dawnstrider"
  culture_winterhoof: "Winterhoof"
  
- culture_group_blood_elf: "Blood Elf"
- culture_sin_dorei: "Sin'dorei"
- culture_sunfury: "Sunfury"
- 
- culture_group_high_elf: "High Elf"
- culture_thalassian: "Thalassian"
- 
  culture_group_aqir: "Aqir"
  culture_nerubian: "Nerubian"
  culture_qiraji: "Qiraji"
@@ -107,7 +108,6 @@
  culture_felsworn: "Felsworn"
  culture_legion_cultist: "Legion Cultist"
  culture_fel_orc: "Fel Orc"
- culture_wretched: "Wretched"
  
  culture_group_satyr: "Satyr"
  culture_jadefire: "Jadefire"
