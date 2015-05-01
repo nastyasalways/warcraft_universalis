@@ -1,7 +1,17 @@
 # QuelThalas
 government 		= despotic_monarchy
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+technology_group 	= tech_quel_dorei
+religion			= religion_arcane
+primary_culture 	= culture_high_elf
+capital 			= 660
+
+546.1.1 = {
+	monarch = {
+		name = "Anasterian"
+		dynasty = "Sunstrider"
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}

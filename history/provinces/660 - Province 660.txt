@@ -1,14 +1,22 @@
 # 660
-is_city = no
-
+is_city = yes
+add_core = A90
+controller = A90
+owner = A90
 base_tax = 1
 manpower = 1
-
-culture = noculture
-religion = noreligion
-
+culture = culture_high_elf
+religion = religion_arcane
 hre = no
 trade_goods = grain
+capital = "Silvermoon City"
 
 discovered_by = western
+discovered_by = tech_thalassian
 
+625.1.1 = {
+	owner = A91
+	is_city = yes
+	add_core = A91
+	controller = A91
+}

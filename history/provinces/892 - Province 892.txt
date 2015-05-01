@@ -1,5 +1,8 @@
 # 892
-is_city = no
+is_city = yes
+add_core = A90
+controller = A90
+owner = A90
 
 base_tax = 1
 manpower = 1
