@@ -7,6 +7,296 @@
 
 
 groups = {
+	# Warcraft
+	# Standard
+	tech_human = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_quel_dorei = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_vrykul = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_orc = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_ogre = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_draenei = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_forest_troll = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_jungle_troll = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_sand_troll = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_ice_troll = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_goblin = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_tauren = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_blood_elf = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_high_elf = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_aqir = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_demonic = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_satyr = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_naga = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_depths = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_old_god = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_scourge = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_dragonkin = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_undead = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_gnoll = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_centaur = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_furbolg = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_wolfvar = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_gorloc = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_kobold = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_harpy = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_quillboar = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_titan = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_elemental = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_worgen = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_arrakoa = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_tuskarr = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_pandaren = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_mantid = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_mogu = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_yaungol = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	tech_ethereal = {
+		modifier = 0
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	# Old
 	western = {
 		modifier = 0
 		start_level = 3
@@ -42,9 +332,6 @@ groups = {
 		modifier = 0.75
 		start_level = 3
 		cav_to_inf_ratio = 1.0
-		nation_designer_trigger = {
-			government = steppe_horde
-		}
 	}
 	sub_saharan = {
 		modifier = 0.6

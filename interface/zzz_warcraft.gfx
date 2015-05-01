@@ -35,4 +35,10 @@ spriteTypes = {
 		transparencecheck = yes	
 		noOfFrames = 16
 	}	
+	
+	spriteType = {
+		name = "GFX_hindu_deities_strip"
+		texturefile = "gfx//interface//hindu_deities_strip.dds"
+		noOfFrames = 14
+	}
 }

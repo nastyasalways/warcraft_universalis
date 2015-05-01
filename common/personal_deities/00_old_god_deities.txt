@@ -8,7 +8,7 @@ diety_c_thun =
 	discovered_relations_impact = -0.15
 	
 	allow = { religion = religion_old_gods }
-	sprite = 99
+	sprite = 13
 	
 	ai_will_do = {
 		factor = 1
@@ -31,7 +31,7 @@ diety_y_shaarj =
 	land_morale = 0.10
 	
 	allow = { religion = religion_old_gods }
-	sprite = 99
+	sprite = 14
 	
 	ai_will_do = {
 		factor = 1
