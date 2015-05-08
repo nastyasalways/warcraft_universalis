@@ -27,7 +27,7 @@ PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
 
 # Human
-A01 = "countries/Stormwind.txt"
+A01 = "countries/Stormwind.txt"			
 A02 = "countries/Westfall.txt"
 A03 = "countries/Darkshire.txt"
 A04 = "countries/Redridge.txt"

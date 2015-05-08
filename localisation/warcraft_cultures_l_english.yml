@@ -2,7 +2,6 @@
  # Cultures
  culture_group_human: "Human"
  culture_azerothian: "Azerothian"
- culture_westfolk: "Westfolk"
  culture_gilnean: "Gilnean"
  culture_arathi: "Arathi"
  culture_kul_tiran: "Kul'Tiran"
@@ -214,10 +213,11 @@
  
  culture_group_titan: "Titan"
  culture_tol_vir: "Tol'vir"
- culture_ulduar: "Uldaur"
- culture_uldaman: "Uldaman"
- culture_maraudon: "Maraudon"
  culture_modan: "Modan"
+ culture_ironforge: "Ironforge"
+ culture_wildhammer: "Wildhammer"
+ culture_dark_iron: "Dark Iron"
+ culture_frostborn: "Frostborn"
  
  culture_group_elemental: "Elemental"
  culture_fire: "Fire"
@@ -264,3 +264,5 @@
  culture_group_ethereal: "Ethereal"
  culture_k_areshi: "K'areshi"
  
+ culture_group_gnomish: "Gnomish"
+ culture_gnome: "Gnome"

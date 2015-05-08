@@ -220,6 +220,30 @@ warcraft_religions = {
 		heretic = { }
 	}
 	
+	religion_heretics_of_the_light = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_heretics_of_the_light
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+		
+		heretic = { }
+	}
+	
 	religion_light_of_the_naaru = {
 		color = { 0.1 0.4 0.1 }
 		icon = 1
@@ -501,6 +525,54 @@ warcraft_religions = {
 		
 		on_convert = {
 			change_religion = religion_void
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+
+		heretic = { }
+	}
+	
+	religion_mystery_of_the_makers = {
+		color = { 0.33 0.33 0.33 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_mystery_of_the_makers
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+
+		heretic = { }
+	}
+	
+	religion_ragnaros = {
+		color = { 0.15 0.15 0.15 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_ragnaros
 			add_prestige = -100
 
 			add_country_modifier = {
