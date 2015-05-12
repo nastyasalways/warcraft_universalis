@@ -143,6 +143,7 @@ A89 = "countries/Winterhoof.txt"
 
 # High Elf
 A90 = "countries/QuelThalas.txt"
+E49 = "countries/Highvale.txt"
 
 # Blood Elf
 A91 = "countries/Silvermoon.txt"
