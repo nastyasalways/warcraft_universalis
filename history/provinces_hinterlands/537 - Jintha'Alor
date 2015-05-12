@@ -1,0 +1,28 @@
+# 537 
+
+is_city = yes 
+
+add_core = A60
+controller = A60
+owner = A60
+
+
+
+base_tax = 5 
+manpower = 4 
+ 
+culture = culture_vilebranch
+religion = religion_loa
+ 
+hre = no 
+trade_goods = iron
+ 
+discovered_by = western
+
+622.1.1
+
+
+ = { religion = religion_hakkari }
+
+632.1.1 = { add_core = A61 } 
+
