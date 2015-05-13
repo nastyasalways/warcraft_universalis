@@ -504,7 +504,7 @@ province;red;green;blue;x;x
 503;98;88;1;x;x
 504;248;68;217;x;Sea Ends
 505;255;126;40;x;x
-506;212;62;173;x;x
+506;212;62;173;x;Faldir's Cove
 507;207;126;173;x;x
 508;198;126;173;x;x
 509;189;126;64;x;Plagued Grounds
@@ -525,7 +525,7 @@ province;red;green;blue;x;x
 524;187;24;90;x;x
 525;130;60;50;x;x
 526;88;124;126;x;Nesingwary Base Camp
-527;84;60;126;x;x
+527;84;60;126;x;Northfold Estates
 528;70;124;126;x;x
 529;61;124;0;x;Verdant Enclave
 530;56;60;192;x;Coldarra
@@ -588,7 +588,7 @@ province;red;green;blue;x;x
 587;161;118;0;x;x
 588;157;54;192;x;x
 589;147;54;255;x;x
-590;143;118;128;x;x
+590;143;118;128;x;Eastgarde
 591;138;54;0;x;x
 592;134;118;192;x;x
 593;129;54;64;x;x
@@ -604,7 +604,7 @@ province;red;green;blue;x;x
 603;33;116;255;x;x
 604;24;116;0;x;x
 605;19;52;192;x;x
-606;15;116;64;x;x
+606;15;116;64;x;Trollbane Marches
 607;10;52;255;x;x
 608;6;116;128;x;x
 609;1;52;0;x;x
@@ -621,7 +621,7 @@ province;red;green;blue;x;x
 620;156;50;64;x;x
 621;152;114;255;x;x
 622;147;50;128;x;x
-623;143;114;0;x;x
+623;143;114;0;x;Zeb'Tazz
 624;138;50;192;x;x
 625;133;114;64;x;x
 626;129;50;255;x;x
@@ -639,7 +639,7 @@ province;red;green;blue;x;x
 638;33;112;128;x;x
 639;24;112;192;x;x
 640;19;48;64;x;x
-641;14;112;255;x;x
+641;14;112;255;x;Thandol Valley
 642;5;112;0;x;x
 643;1;48;192;x;x
 644;88;175;171;x;Plaguemist Ravine
@@ -671,7 +671,7 @@ province;red;green;blue;x;x
 670;28;44;192;x;x
 671;23;108;64;x;x
 672;19;44;255;x;x
-673;14;108;128;x;x
+673;14;108;128;x;Arathi Highlands
 674;10;44;0;x;x
 675;5;108;192;x;x
 676;0;44;64;x;x
@@ -685,7 +685,7 @@ province;red;green;blue;x;x
 684;156;42;128;x;x
 685;151;106;0;x;x
 686;147;42;192;x;x
-687;142;106;64;x;x
+687;142;106;64;x;Strom Lowlands
 688;137;42;255;x;x
 689;133;106;128;x;x
 690;128;42;0;x;x
@@ -895,7 +895,7 @@ province;red;green;blue;x;x
 894;59;82;37;x;Grom'arsh Crash Site
 895;81;81;192;x;Sindragosa's Peaks
 896;238;16;102;x;Snowdrift Plains
-897;85;80;32;x;x
+897;85;80;32;x;Dabyrie's Fields
 898;67;80;128;x;Altar of Quetz'lun
 899;62;144;0;x;Voidrune
 900;58;80;192;x;The Geyser Fields
@@ -964,7 +964,7 @@ province;red;green;blue;x;x
 963;165;72;84;x;x
 964;85;72;32;x;x
 965;68;8;179;x;x
-966;66;72;32;x;x
+966;66;72;32;x;Thoradin
 967;62;136;64;x;Silverbrook
 968;57;72;255;x;Amber Ledge
 969;44;136;192;x;x
@@ -979,7 +979,7 @@ province;red;green;blue;x;x
 978;2;72;0;x;x
 979;213;70;173;x;x
 980;199;134;173;x;x
-981;194;70;173;x;x
+981;194;70;173;x;Stromgarde Keep
 982;190;134;0;x;Wyrmrest Temple
 983;185;70;192;x;Garrosh's Landing
 984;171;134;128;x;x
