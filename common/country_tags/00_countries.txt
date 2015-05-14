@@ -103,7 +103,7 @@ A61 = "countries/Revantusk.txt"
 A62 = "countries/Mossflayer.txt"
 A63 = "countries/Firetree.txt"
 A64 = "countries/Witherbark.txt"
-A65 = "countries/Shadowpine.txt"
+A65 = "countries/Smolderthorn.txt"
 
 # Jungle Troll
 A66 = "countries/Gurubashi.txt"
