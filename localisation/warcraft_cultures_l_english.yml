@@ -3,8 +3,11 @@
  culture_group_human: "Human"
  culture_azerothian: "Azerothian"
  culture_gilnean: "Gilnean"
- culture_arathi: "Arathi"
- culture_kul_tiran: "Kul'Tiran"
+ culture_arathi: "Stromic"
+ culture_kul_tiran: "Kul Tiran"
+ culture_lordaeron: "Lordaeron"
+ culture_alterac: "Alteraci"
+ culture_dalaran: "Dalaran"
  
  culture_group_darnassian: "Darnassian"
  culture_night_elf: "Night Elf"
