@@ -92,6 +92,42 @@ culture_group_human = {
 		}
 	}
 	
+	culture_lordaeron = {
+		male_names = {
+		
+		}
+		female_names = {
+	
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	culture_alterac = {
+		male_names = {
+		
+		}
+		female_names = {
+	
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	culture_dalaran = {
+		male_names = {
+		
+		}
+		female_names = {
+	
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
 	culture_kul_tiran = {
 		male_names = {
 		
@@ -278,6 +314,18 @@ culture_group_orc = {
 		}
 	}
 	
+	culture_horde = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
 	culture_bleeding_hollow = {
 		male_names = {
 			
@@ -449,6 +497,42 @@ culture_group_ogre = {
 	}
 	
 	culture_boulderfist = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+	culture_crushridge = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+	culture_stonemaul = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+	culture_dunemaul = {
 		male_names = {
 			
 		}
