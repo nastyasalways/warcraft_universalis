@@ -43,11 +43,15 @@
  culture_blackrock: "Blackrock"
  culture_warsong: "Warsong"
  culture_stormreaver: "Stormreaver"
+ culture_horde: "Hordish"
  
  culture_group_ogre: "Ogre"
  culture_bladespire: "Bladespire"
  culture_ango_rosh: "Ango'rosh"
  culture_boulderfist: "Boulderfist"
+ culture_crushridge: "Crushridge"
+ culture_stonemaul: "Stonemaul"
+ culture_dunemaul: "Dunemaul"
  culture_gordunni: "Gordunni"
  culture_ogri_la: "Ogri'la"
  
