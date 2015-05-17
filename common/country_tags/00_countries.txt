@@ -88,6 +88,7 @@ A50 = "countries/Angorosh.txt"
 A51 = "countries/Boulderfist.txt"
 A52 = "countries/Gordunni.txt"
 A53 = "countries/Ogrila.txt"
+E50 = "countries/Crushridge.txt"
 
 # Draenei
 A54 = "countries/Shattrath.txt"
