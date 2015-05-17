@@ -1,0 +1,9 @@
+# Crushridge 
+government 		= warband 
+mercantilism 		= 0.1 
+technology_group 	= tech_ogre
+religion			= religion_ancestral 
+primary_culture 	= culture_crushridge 
+capital 			= 773
+
+ 
