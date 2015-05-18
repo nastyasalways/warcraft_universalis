@@ -1,7 +1,29 @@
 # Kul Tiras
-government 		= despotic_monarchy
+government 		= kul_tiras
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+technology_group 	= tech_human
+religion			= religion_church_of_the_light 
+primary_culture 	= culture_kul_tiran 
+capital 			= 824 
+
+ 
+592.1.1 = { 
+monarch = { 
+     name = "Daelin" 
+     dynasty = "Proudmoore" 
+		adm = 4
+		dip = 4
+		mil = 4
+ 	} 
+ } 
+
+622.1.1 = { 
+monarch = { 
+     name = "Jaina
+     dynasty = "Proudmoore" 
+		adm = 4
+		dip = 4
+		mil = 4
+		female = yes
+ 	} 
+ } 
