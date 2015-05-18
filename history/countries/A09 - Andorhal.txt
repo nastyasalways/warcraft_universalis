@@ -1,7 +1,29 @@
-# Andorhal
-government 		= despotic_monarchy
+# Mardenholde
+
+government 		= feudal_monarchy
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= human
+religion			= religion_church_of_the_light
+primary_culture 	= culture_lordaeron
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Tirion" 
+     dynasty = "Fordring" 
+		adm = 2
+		dip = 3
+		mil = 4
+ 	} 
+ } 
+
+617.1.1 = { 
+monarch = { 
+     name = "Taelan" 
+     dynasty = "Fordring" 
+		adm = 2
+		dip = 3
+		mil = 2 
+ 	} 
+ } 
+
