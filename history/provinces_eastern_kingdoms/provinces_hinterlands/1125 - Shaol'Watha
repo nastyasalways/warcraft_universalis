@@ -19,7 +19,10 @@ trade_goods = lumber
  
 discovered_by = western 
 
-632.1.1 = { add_core = A61 
+631.1.1 = { add_core = A61
+add_core = A28 
 controller = A61 
 owner = A61 
 culture = culture_revantusk }
+
+633.1.1 = { remove_core = A28}
