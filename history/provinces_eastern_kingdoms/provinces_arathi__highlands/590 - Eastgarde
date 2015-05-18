@@ -2,9 +2,9 @@
 
 is_city = no 
 
-add_core = A61
-controller = A61
-owner = A61
+add_core = A16
+controller = A16
+owner = A16
 capital = "Eastgarde Village"
 
 
@@ -15,7 +15,26 @@ culture = culture_arathi
 religion = religion_church_of_the_light
  
 hre = no 
-trade_goods = iron
+trade_goods = mithril
+
+
  
 discovered_by = western 
+
+617.1.1 = { owner = NAT
+controller = NAT
+culture = culture_horde
+religion = religion_ancestral
+capital = "Eastgarde Internment Camp" }
+
+622.1.1 = { owner = A48
+controller = A48
+add_core = A48
+capital = "Hammerfall" }
+
+
+
+
+
+
 
