@@ -1,7 +1,7 @@
 # Dalaran
 government 		= magocracy_republic
 mercantilism 		= 0.1
-technology_group 	= western
+technology_group 	= tech_human
 religion			= religion_arcane
 primary_culture 	= culture_dalaran
 capital 			= 863
