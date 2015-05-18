@@ -27,5 +27,5 @@ monarch = {
 		mil = 2 
 		female = yes
  	} 
- 	capital = 958
+ 	capital = 942
  } 
