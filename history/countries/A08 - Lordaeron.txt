@@ -1,7 +1,21 @@
 # Lordaeron
-government 		= despotic_monarchy
+government 		= feudal_monarchy
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_human
+religion			= religion_church_of_the_light
+primary_culture 	= culture_lordaeron
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Terenas" 
+     dynasty = "Menithil" 
+		adm = 4
+		dip = 5
+		mil = 3 
+ 	} 
+ } 
+ 
+598.1.1 = { government = high_monarchy }
+
+ 
