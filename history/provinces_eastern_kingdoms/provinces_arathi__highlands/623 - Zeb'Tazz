@@ -1,0 +1,29 @@
+# 623 
+
+is_city = no 
+
+add_core = A65
+controller = A65
+owner = A65
+
+
+
+base_tax = 2 
+manpower = 2 
+ 
+culture = culture_smolderthorn
+religion = religion_loa
+ 
+hre = no 
+trade_goods = fishing_villages
+
+
+ 
+discovered_by = western 
+
+617.1.1 = { add_core = A64
+remove_core = A65
+owner = A64
+controller = A64
+culture = culture_witherbark
+capital = "Witherbark Village" }
