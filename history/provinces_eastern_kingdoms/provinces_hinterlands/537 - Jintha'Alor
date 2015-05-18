@@ -26,5 +26,12 @@ discovered_by = western
 
 631.1.1 = { add_core = A61 }
 
+632.1.1
+ = { owner = A61
+religion = religion_loa
+controller = A61 }
+
+633.1.1 = { culture = culture_revantusk }
+
 
 
