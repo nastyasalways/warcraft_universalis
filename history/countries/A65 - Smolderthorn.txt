@@ -1,0 +1,19 @@
+# Revantusk
+government 		= warband
+mercantilism 		= 0.1
+technology_group 	= tech_troll
+religion			= religion_loa
+primary_culture 	= culture_smolderthorn
+capital 			= 623
+
+592.1.1 = {  
+monarch = {  
+      name = "Voon"  
+     dynasty = "Smolderthorn"  
+ 		adm = 2 
+		dip = 3 
+		mil = 4 
+  	}  
+  }  
+  
+  
