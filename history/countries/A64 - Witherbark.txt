@@ -1,7 +1,19 @@
 # Witherbark
-government 		= despotic_monarchy
+government 		= warband
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+technology_group 	= tech_troll
+religion			= religion_loa
+primary_culture 	= culture_witherbark
+capital 			= 942
+
+592.1.1 = {  
+monarch = {  
+      name = "Zalas"  
+     dynasty = "Witherbark"  
+ 		adm = 2 
+		dip = 3 
+		mil = 3 
+  	}  
+  }  
+  
+  631.1.1 = { capital = 623 }

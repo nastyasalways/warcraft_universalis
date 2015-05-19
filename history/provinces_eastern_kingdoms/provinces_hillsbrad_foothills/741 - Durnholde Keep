@@ -1,0 +1,43 @@
+# 741
+
+is_city = no 
+
+add_core = A11
+controller = A11
+owner = A11
+
+
+
+base_tax = 2 
+manpower = 3 
+ 
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = silver
+
+
+ 
+discovered_by = western 
+
+622.1.1 = { owner = NAT
+controller = NAT }
+
+
+622.1.1 = { owner = A26
+controller = A26
+add_core = A26
+culture = culture_alterac}
+
+631.1.1 = { add_core = E14
+owner = E14
+controller = E14
+religion = religion_forgotten_shadow
+culture = culture_forsaken }
+
+
+
+
+
+

@@ -1,7 +1,50 @@
 # Stromgarde
-government 		= despotic_monarchy
+government 		= absolute_monarchy
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+technology_group 	= tech_human
+religion			= religion_church_of_the_light
+primary_culture 	= culture_arathi
+capital 			= 981
+
+546.1.1 = { 
+monarch = { 
+     name = "Liam" 
+     dynasty = "Trollbane" 
+		adm = 2
+		dip = 2
+		mil = 4 
+ 	} 
+ } 
+
+592.1.1 = { 
+monarch = { 
+     name = "Thoras" 
+     dynasty = "Trollbane" 
+		adm = 3
+		dip = 2
+		mil = 5 
+ 	} 
+ } 
+ 
+ 622.1.1 = { 
+monarch = { 
+     name = "Galen" 
+     dynasty = "Trollbane" 
+		adm = 2
+		dip = 3
+		mil = 2 
+ 	} 
+ }
+ 
+ 631.1.1 = { 
+monarch = { 
+     name = "Amaren" 
+     dynasty = "of Stromgarde" 
+		adm = 2
+		dip = 3
+		mil = 3 
+		female = yes
+		
+ 	} 
+ 	government = military_dictat
+ }

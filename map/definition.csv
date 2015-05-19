@@ -504,7 +504,7 @@ province;red;green;blue;x;x
 503;98;88;1;x;x
 504;248;68;217;x;Sea Ends
 505;255;126;40;x;x
-506;212;62;173;x;x
+506;212;62;173;x;Faldir's Cove
 507;207;126;173;x;x
 508;198;126;173;x;x
 509;189;126;64;x;Plagued Grounds
@@ -516,7 +516,7 @@ province;red;green;blue;x;x
 515;153;126;0;x;x
 516;148;62;192;x;x
 517;143;126;64;x;Revantusk Village
-518;139;62;255;x;x
+518;139;62;255;x;Alterac Pass 
 519;134;126;128;x;x
 520;130;62;0;x;x
 521;255;125;215;x;x
@@ -525,7 +525,7 @@ province;red;green;blue;x;x
 524;187;24;90;x;x
 525;130;60;50;x;x
 526;88;124;126;x;Nesingwary Base Camp
-527;84;60;126;x;x
+527;84;60;126;x;Northfold Estates
 528;70;124;126;x;x
 529;61;124;0;x;Verdant Enclave
 530;56;60;192;x;Coldarra
@@ -536,7 +536,7 @@ province;red;green;blue;x;x
 535;24;124;255;x;x
 536;20;60;128;x;x
 537;15;124;0;x;Jintha'Alor
-538;11;60;192;x;x
+538;11;60;192;x;Thondroril Foothills 
 539;6;124;64;x;x
 540;2;60;255;x;x
 541;0;124;194;x;Mountainous Ruins
@@ -554,7 +554,7 @@ province;red;green;blue;x;x
 553;151;186;110;x;x
 554;148;58;64;x;x
 555;143;122;255;x;x
-556;139;58;128;x;x
+556;139;58;128;x; Strahnbrad
 557;134;122;0;x;x
 558;129;58;192;x;x
 559;88;120;32;x;The Skyreach Pillar
@@ -568,10 +568,10 @@ province;red;green;blue;x;x
 567;33;120;64;x;x
 568;29;56;255;x;x
 569;28;248;0;x;x
-570;24;120;128;x;x
+570;24;120;128;x;Crestfall Island
 571;20;56;0;x;x
 572;15;120;192;x;x
-573;10;56;64;x;x
+573;10;56;64;x;Thondroril Banks
 574;6;120;255;x;x
 575;1;56;128;x;x
 576;0;120;91;x;Frosthold
@@ -588,8 +588,8 @@ province;red;green;blue;x;x
 587;161;118;0;x;x
 588;157;54;192;x;x
 589;147;54;255;x;x
-590;143;118;128;x;x
-591;138;54;0;x;x
+590;143;118;128;x;Eastgarde
+591;138;54;0;x;Chillwind Pass 
 592;134;118;192;x;x
 593;129;54;64;x;x
 594;67;80;32;x;x
@@ -602,9 +602,9 @@ province;red;green;blue;x;x
 601;42;116;192;x;x
 602;38;52;64;x;x
 603;33;116;255;x;x
-604;24;116;0;x;x
+604;24;116;0;x;Drisburg
 605;19;52;192;x;x
-606;15;116;64;x;x
+606;15;116;64;x;Trollbane Marches
 607;10;52;255;x;x
 608;6;116;128;x;x
 609;1;52;0;x;x
@@ -619,10 +619,10 @@ province;red;green;blue;x;x
 618;165;50;0;x;x
 619;161;114;192;x;x
 620;156;50;64;x;x
-621;152;114;255;x;x
+621;152;114;255;x;Kul
 622;147;50;128;x;x
-623;143;114;0;x;x
-624;138;50;192;x;x
+623;143;114;0;x;Zeb'Tazz
+624;138;50;192;x;Chillwind Point
 625;133;114;64;x;x
 626;129;50;255;x;x
 627;163;146;255;x;x
@@ -637,9 +637,9 @@ province;red;green;blue;x;x
 636;42;112;64;x;x
 637;37;48;255;x;x
 638;33;112;128;x;x
-639;24;112;192;x;x
+639;24;112;192;x;Tiras
 640;19;48;64;x;x
-641;14;112;255;x;x
+641;14;112;255;x;Thandol Valley
 642;5;112;0;x;x
 643;1;48;192;x;x
 644;88;175;171;x;Plaguemist Ravine
@@ -671,7 +671,7 @@ province;red;green;blue;x;x
 670;28;44;192;x;x
 671;23;108;64;x;x
 672;19;44;255;x;x
-673;14;108;128;x;x
+673;14;108;128;x;Arathi Highlands
 674;10;44;0;x;x
 675;5;108;192;x;x
 676;0;44;64;x;x
@@ -685,11 +685,11 @@ province;red;green;blue;x;x
 684;156;42;128;x;x
 685;151;106;0;x;x
 686;147;42;192;x;x
-687;142;106;64;x;x
+687;142;106;64;x;Strom Lowlands
 688;137;42;255;x;x
 689;133;106;128;x;x
 690;128;42;0;x;x
-691;196;94;173;x;x
+691;196;94;173;x;Zul'Dare
 692;132;41;144;x;Wildgrowth Mangal
 693;196;90;79;x;x
 694;187;90;79;x;x
@@ -718,8 +718,8 @@ province;red;green;blue;x;x
 717;160;102;128;x;x
 718;155;38;0;x;x
 719;151;102;192;x;x
-720;146;38;64;x;x
-721;142;102;255;x;xi
+720;146;38;64;x;Southpoint Gate
+721;142;102;255;x;Eastpoint Way
 722;137;38;128;x;x
 723;133;102;0;x;x
 724;128;38;192;x;x
@@ -739,7 +739,7 @@ province;red;green;blue;x;x
 738;27;36;255;x;x
 739;23;100;128;x;x
 740;18;36;0;x;x
-741;14;100;192;x;x
+741;14;100;192;x;Durnholde Keep
 742;9;36;64;x;x
 743;4;100;255;x;x
 744;234;227;107;x;x
@@ -754,7 +754,7 @@ province;red;green;blue;x;x
 753;157;34;114;x;Dun Niffelem
 754;155;34;192;x;x
 755;151;98;64;x;x
-756;146;34;255;x;x
+756;146;34;255;x;Misty Shore
 757;141;98;128;x;x
 758;137;34;0;x;x
 759;132;98;192;x;x
@@ -771,7 +771,7 @@ province;red;green;blue;x;x
 770;41;96;192;x;x
 771;36;32;64;x;x
 772;32;96;255;x;x
-773;18;32;192;x;x
+773;18;32;192;x;Alterac City
 774;13;96;64;x;x
 775;9;32;255;x;x
 776;4;96;128;x;x
@@ -822,7 +822,7 @@ province;red;green;blue;x;x
 821;136;154;64;x;x
 822;132;90;255;x;x
 823;55;90;220;x;x
-824;255;25;0;x;x
+824;255;25;0;x;Boralus
 825;210;25;111;x;Sunreaver's Command
 826;0;153;75;x;Frenzyheart Hill
 827;255;24;90;x;Shadow Shore
@@ -843,9 +843,9 @@ province;red;green;blue;x;x
 842;13;88;128;x;x
 843;8;152;0;x;x
 844;4;88;192;x;x
-845;255;23;23;x;x
+845;255;23;23;x;Dun Garok
 846;187;215;128;x;Onslaught Harbor
-847;255;22;200;x;x
+847;255;22;200;x;Tarren Mill
 848;214;86;173;x;x
 849;191;150;192;x;Blue Sky Logging Grounds
 850;186;86;64;x;Temple City of En'kilah
@@ -861,7 +861,7 @@ province;red;green;blue;x;x
 860;131;86;128;x;x
 861;255;21;245;x;x
 862;81;81;255;x;Lakes of Wintergrasp
-863;86;84;126;x;x
+863;86;84;126;x;Dalaran
 864;67;84;126;x;x
 865;63;148;128;x;Grizzly Hills
 866;58;84;0;x;Death's Stand
@@ -895,7 +895,7 @@ province;red;green;blue;x;x
 894;59;82;37;x;Grom'arsh Crash Site
 895;81;81;192;x;Sindragosa's Peaks
 896;238;16;102;x;Snowdrift Plains
-897;85;80;32;x;x
+897;85;80;32;x;Dabyrie's Fields
 898;67;80;128;x;Altar of Quetz'lun
 899;62;144;0;x;Voidrune
 900;58;80;192;x;The Geyser Fields
@@ -941,7 +941,7 @@ province;red;green;blue;x;x
 940;30;76;255;x;x
 941;26;140;128;x;x
 942;16;140;192;x;Shadra'Alor
-943;12;76;64;x;x
+943;12;76;64;x;The Uplands
 944;7;140;255;x;x
 945;3;76;128;x;x
 946;250;203;224;x;Courtyard of the Temples
@@ -955,16 +955,16 @@ province;red;green;blue;x;x
 954;163;138;0;x;x
 955;158;74;192;x;x
 956;153;138;64;x;x
-957;149;74;255;x;x
+957;149;74;255;x;Wellson Island
 958;144;138;128;x;The Altar of Zul
-959;140;74;0;x;x
+959;140;74;0;x;Hillsbrad Fields
 960;135;138;192;x;x
 961;131;74;64;x;x
-962;255;200;150;x;x
+962;255;200;150;x;Purgation Isle
 963;165;72;84;x;x
 964;85;72;32;x;x
 965;68;8;179;x;x
-966;66;72;32;x;x
+966;66;72;32;x;Thoradin
 967;62;136;64;x;Silverbrook
 968;57;72;255;x;Amber Ledge
 969;44;136;192;x;x
@@ -972,14 +972,14 @@ province;red;green;blue;x;x
 971;34;136;32;x;The Glimmering Pillar
 972;30;72;128;x;x
 973;25;136;0;x;x
-974;21;72;192;x;x
+974;21;72;192;x;Rustberg Island
 975;16;136;64;x;The Creeping Ruin
-976;12;72;255;x;x
+976;12;72;255;x;Azureload Coast
 977;7;136;128;x;x
 978;2;72;0;x;x
 979;213;70;173;x;x
 980;199;134;173;x;x
-981;194;70;173;x;x
+981;194;70;173;x;Stromgarde Keep
 982;190;134;0;x;Wyrmrest Temple
 983;185;70;192;x;Garrosh's Landing
 984;171;134;128;x;x
@@ -987,9 +987,9 @@ province;red;green;blue;x;x
 986;162;134;192;x;x
 987;158;70;64;x;x
 988;153;134;255;x;x
-989;149;70;128;x;x
+989;149;70;128;x;Tol Barad
 990;144;134;0;x;Skulk Rock
-991;139;70;192;x;x
+991;139;70;192;x;Southshore
 992;135;134;64;x;x
 993;130;70;255;x;x
 994;67;76;126;x;x
@@ -1007,8 +1007,8 @@ province;red;green;blue;x;x
 1006;30;68;0;x;x
 1007;25;132;192;x;x
 1008;20;68;64;x;x
-1009;16;132;255;x;x
-1010;11;68;128;x;x
+1009;16;132;255;x;Agol'Watha
+1010;11;68;128;x;The Headland
 1011;7;132;0;x;x
 1012;3;196;128;x;x
 1013;2;68;192;x;x
@@ -4095,4 +4095,4 @@ province;red;green;blue;x;x
 4094;22;127;5;x;x
 4095;106;245;73;x;x
 4096;38;219;155;x;x
-4097;16;132;225;x;Agol'Watha
+

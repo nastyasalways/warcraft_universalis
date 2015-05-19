@@ -1,0 +1,32 @@
+# 518 
+
+is_city = no 
+
+add_core = A17
+controller = A17
+owner = A17
+capital = "Gallow's Corner"
+
+
+base_tax = 3 
+manpower = 2 
+ 
+culture = culture_alterac
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = silver
+
+
+ 
+discovered_by = western 
+
+617.1.1 = { owner = E50
+controller = E50
+add_core = E50
+add_core = A26
+remove_core = A17 
+culture = culture_crushridge
+religion = religion_ancestral}
+
+

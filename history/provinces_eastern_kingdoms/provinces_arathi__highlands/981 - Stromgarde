@@ -1,0 +1,31 @@
+# 981 
+
+is_city = yes 
+
+add_core = A16
+controller = A16
+owner = A16
+capital = "Stromgarde Keep"
+
+
+base_tax = 4 
+manpower = 4 
+ 
+culture = culture_arathi
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = army_supplies
+
+
+ 
+discovered_by = western 
+
+
+
+622.1.1 = { add_core = A26
+add_core = A64
+add_core = A51 }
+
+631.1.1 = {owner = A51
+controller = A51 }

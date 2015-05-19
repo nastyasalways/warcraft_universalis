@@ -23,11 +23,11 @@ ship_names = {
 
  
 army_names = { 
-"Army of $PROVINCE$" 
+"Highvale Rangers" 
 } 
 
  
  fleet_names = { 
-	"Fleet of $PROVINCE$" 
+	"Highvale Flotilla" 
 } 
  
