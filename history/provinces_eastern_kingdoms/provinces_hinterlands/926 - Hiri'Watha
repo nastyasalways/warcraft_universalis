@@ -1,0 +1,25 @@
+# 926 
+
+is_city = no 
+
+add_core = A64
+controller = A64
+owner = A64
+
+
+
+base_tax = 2 
+manpower = 1 
+ 
+culture = culture_witherbark
+religion = religion_loa
+ 
+hre = no 
+trade_goods = furs
+ 
+discovered_by = western
+
+631.1.1 = {owner = E14 
+controller = E14 
+culture = culture_forsaken 
+religion = religion_forgotten_shadow}

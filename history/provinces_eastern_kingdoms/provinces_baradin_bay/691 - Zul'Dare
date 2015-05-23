@@ -1,0 +1,32 @@
+# 691
+
+is_city = no 
+
+add_core = A63
+controller = A63
+owner = A63
+
+
+
+base_tax = 2 
+manpower = 2 
+ 
+culture = culture_firetree
+religion = religion_loa
+ 
+hre = no 
+trade_goods = naval_supplies
+
+
+ 
+discovered_by = western 
+
+598.1.1
+ = { owner = A41
+controller = A41
+add_core = A41 }
+
+617.1.1 = { owner = NAT
+controller = NAT 
+remove_core = A63
+remove_core = A41}

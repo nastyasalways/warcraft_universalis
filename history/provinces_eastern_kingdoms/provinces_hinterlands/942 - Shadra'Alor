@@ -1,0 +1,25 @@
+# 942 
+
+is_city = no 
+
+add_core = A64
+controller = A64
+owner = A64
+
+
+
+base_tax = 3 
+manpower = 2
+ 
+culture = culture_witherbark
+religion = religion_loa
+ 
+hre = no 
+trade_goods = silk
+ 
+discovered_by = western
+
+631.1.1 = {owner = a60 
+controller = A60 
+add_core = A60 
+culture = culture_vilebranch}

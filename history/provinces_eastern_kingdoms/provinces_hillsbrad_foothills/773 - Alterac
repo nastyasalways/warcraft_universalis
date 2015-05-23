@@ -1,0 +1,38 @@
+# 773 
+
+is_city = yes 
+
+add_core = A17
+controller = A17
+owner = A17
+capital = "Alterac City"
+
+
+base_tax = 4 
+manpower = 3 
+ 
+culture = culture_alterac
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = sliver
+
+
+ 
+discovered_by = western 
+
+617.1.1 = { owner = NAT
+controller = NAT
+add_core = A41
+add_core = A26
+remove_core = A17
+culture = culture_blackrock
+religion = religion_fel
+capital = "Alterac Ruins" }
+
+622.1.1 = { owner = E50
+controller = E50
+add_core = E50
+remove_core = A41
+culture = culture_crushridge
+religion_ancestral }

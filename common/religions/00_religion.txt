@@ -344,7 +344,7 @@ warcraft_religions = {
 		heretic = { }
 	}
 	
-	religion_demonology = {
+	religion_fel = {
 		color = { 0.1 0.4 0.1 }
 		icon = 1
 		
@@ -356,7 +356,7 @@ warcraft_religions = {
 		}
 		
 		on_convert = {
-			change_religion = religion_demonology
+			change_religion = religion_fel
 			add_prestige = -100
 
 			add_country_modifier = {

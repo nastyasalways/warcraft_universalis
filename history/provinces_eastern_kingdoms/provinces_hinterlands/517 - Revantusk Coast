@@ -1,0 +1,22 @@
+# 517 
+
+is_city = no 
+
+add_core = A61
+controller = A61
+owner = A61
+capital = "Revantusk Village"
+
+
+base_tax = 3 
+manpower = 2 
+ 
+culture = culture_revantusk
+religion = religion_loa
+ 
+hre = no 
+trade_goods = fishing_villages
+ 
+discovered_by = western 
+
+
