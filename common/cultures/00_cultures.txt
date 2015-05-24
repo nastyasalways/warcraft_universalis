@@ -2635,6 +2635,31 @@ culture_group_worgen = {
 			
 		}
 	}
+
+culture_gilnean_worgen = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+culture_lordaeron_worgen = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
 }
 
 culture_group_arrakoa = {
