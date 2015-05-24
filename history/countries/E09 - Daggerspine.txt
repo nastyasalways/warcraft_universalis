@@ -20,5 +20,5 @@ adm = 3
 dip = 2	
 mil = 3
  	} 
-capital = 961 
+capital = 691
 } 
