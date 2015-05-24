@@ -1,0 +1,17 @@
+# Torn Fin
+government 		= tribal_depotism
+mercantilism 		= 0.1 
+technology_group 	= tech_murloc
+religion			= religion_old_gods
+primary_culture 	= culture_torn_fin
+capital 			= 962
+
+617.1.1 = { 
+monarch = { 
+     name = "Muckgill" 
+     dynasty = "Torn Fin" 
+		adm = 1
+		dip = 1
+		mil = 2
+ 	} 
+ } 
