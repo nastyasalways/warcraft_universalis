@@ -5,6 +5,7 @@ is_city = no
 add_core = A11
 controller = A11
 owner = A11
+capital = "Dun Garok"
 
 
 
@@ -23,7 +24,15 @@ discovered_by = western
 
 622.1.1 = { owner = A29
 controller = A29
-add_core = A29 }
+add_core = A29
+add_core = B14
+add_core = E09 }
 
+631.1.1 = {owner = B14
+controller = B14
+remove_core = A29
+culture = culture_mudsnout
+religion = religion_ancestral
+captital = "Nethander's Stead" }
 631.1.1 = {owner = NAt
 controller = NAT }
