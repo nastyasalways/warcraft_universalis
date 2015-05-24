@@ -1,0 +1,20 @@
+# 572 
+
+is_city = no 
+
+base_tax = 1 
+manpower = 1 
+ 
+culture = culture_firetree
+religion = religion_loa
+ 
+hre = no 
+trade_goods = pirates_den
+
+622.1.1 = { owner = E09
+controller = E09
+add_core = E09
+culture = culture_vashjari
+religion = religion_old_gods }
+
+discovered_by = western 
