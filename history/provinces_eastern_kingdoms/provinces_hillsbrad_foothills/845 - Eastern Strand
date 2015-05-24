@@ -34,5 +34,3 @@ remove_core = A29
 culture = culture_mudsnout
 religion = religion_ancestral
 captital = "Nethander's Stead" }
-631.1.1 = {owner = NAt
-controller = NAT }
