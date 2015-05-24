@@ -3,7 +3,7 @@ government = tribal_despotism
 mercantilism = 0.1 
 technology_group = tech_gnoll
 religion= religion_ancestral
-primary_culture = culture_mudnout
+primary_culture = culture_mudsnout
 capital = 558
 
 
