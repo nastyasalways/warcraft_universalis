@@ -211,6 +211,7 @@ B35 = "countries/White Shark.txt"
 B36 = "countries/Tidewalker.txt"
 B37 = "countries/Makaru.txt"
 B38 = "countries/Bogstrok.txt"
+E51 = "countries/Torn Fin.txt"
 
 # Furbolg
 B39 = "countries/Gnarlpine.txt"
