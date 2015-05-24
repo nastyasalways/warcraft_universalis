@@ -33,4 +33,5 @@ controller = B14
 remove_core = A29
 culture = culture_mudsnout
 religion = religion_ancestral
+trade_goods = farms
 captital = "Nethander's Stead" }
