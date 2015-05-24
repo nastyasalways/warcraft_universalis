@@ -1,9 +1,9 @@
 # Torn Fin
 government 		= tribal_depotism
 mercantilism 		= 0.1 
-technology_group 	= tech_murloc
+technology_group 	= tech_depths
 religion			= religion_old_gods
-primary_culture 	= culture_torn_fin
+primary_culture 	= culture_nerglish
 capital 			= 962
 
 617.1.1 = { 
