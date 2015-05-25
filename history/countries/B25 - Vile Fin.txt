@@ -1,7 +1,29 @@
 # Vile Fin
-government 		= despotic_monarchy
-mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+ 
+government = tribal_depotism
+
+mercantilism = 0.1 
+technology_group = tech_depths
+religion= religion_old_gods
+primary_culture = culture_nerglish
+
+
+
+
+622.1.1 = { 
+monarch =
+{ 
+name = "Deeb" 
+     
+dynasty = "Vile Fin" 
+		
+adm = 2
+		
+dip = 1
+		
+mil = 3 	}
+} 
+
+ 
+
+631.1.1 = {capital = 962}
