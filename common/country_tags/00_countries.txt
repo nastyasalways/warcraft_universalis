@@ -314,6 +314,7 @@ E10 = "countries/Blackfathom.txt"
 E11 = "countries/The Scourge.txt"
 E12 = "countries/Cult of the Damned.txt"
 E13 = "countries/Knights of the Ebon Blade.txt"
+E52 = "countries/The Scourge of Lordaeron.txt"
 
 # Undead
 E14 = "countries/The Forsaken.txt"
