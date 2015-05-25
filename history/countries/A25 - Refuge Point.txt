@@ -1,4 +1,4 @@
-# Lordaeron Refuge
+# Refuge Point
 
 government = miltary_dictatorship
 mercantilism = 0.1 
