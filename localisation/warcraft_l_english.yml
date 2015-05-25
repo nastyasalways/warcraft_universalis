@@ -70,8 +70,8 @@
  A23_ADJ: "Theramore"
  A24: "The Argent Dawn"
  A24_ADJ: "Argent"
- A25: "Refuge Point"
- A25_ADJ: "Refuge Point"
+ A25: "Lordaeron Refuge"
+ A25_ADJ: "Lordaeron"
  A26: "Syndicate"
  A26_ADJ: "Syndicate"
  A27: "Ravenholdt"
@@ -517,7 +517,13 @@
  E49: "Highvale"
  E49_ADJ: "Highvale"
  E50: "Crushridge"
- E49_ADJ: "Crushridge"
+ E50_ADJ: "Crushridge"
+  E51: "Vile Fin"
+ E51_ADJ: "Vile Fin"
+  E52: "The Scourge of Lordaeron"
+ E52_ADJ: "Scourge"
+
+
 
  # Governments
  
