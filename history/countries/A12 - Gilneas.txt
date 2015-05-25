@@ -16,7 +16,7 @@ name = "Genn"
 dynasty = "Graymane" 
 		
 adm = 4		
-dip = 1	
+dip = 2	
 mil = 4 	} 
  
 } 
