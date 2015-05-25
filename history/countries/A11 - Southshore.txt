@@ -1,5 +1,5 @@
 # Hillsbrad
-government 		= feudal_monarchy
+government 		= administrative_republic
 mercantilism 		= 0.1
 technology_group 	= western
 religion			= religion_church_of_the_light
