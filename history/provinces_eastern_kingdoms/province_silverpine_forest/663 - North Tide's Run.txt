@@ -1,0 +1,40 @@
+# 663
+
+is_city = no 
+
+add_core = A08
+controller = A08
+owner = A08
+capital = "Tiderun Field"
+
+
+
+base_tax = 2 
+manpower = 1
+ 
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = farms
+
+
+ 
+discovered_by = western 
+
+
+622.1.1 = { owner = B19
+controller = B19
+add_core = B19
+remove_core = A08
+culture = culture_rothide
+religion = religion_the_damned
+capital = The Dead Field }
+
+631.1.1 = { owner = E14
+controller = E14
+add_core = E14
+remove_core = B19
+culture = culture_forsaken
+religion = religion_forgotten_shadow
+capital = "Forsaken Rear Guard" }

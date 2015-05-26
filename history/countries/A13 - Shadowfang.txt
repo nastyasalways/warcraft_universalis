@@ -1,7 +1,40 @@
 # Shadowfang
-government 		= despotic_monarchy
-mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+government = despotic_magocracy
+mercantilism = 0.1 
+technology_group = tech_worgen
+religion= religion_shadow
+primary_culture = culture_gilnean_worgen
+
+
+
+622.1.1 = { 
+monarch =
+{ 
+name = "Arugal" 
+     
+dynasty = "of Gilneas" 
+		
+adm = 3		
+dip = 3	
+mil = 3	} 
+
+ 
+capital = 648} 
+
+
+631.1.1 = = { 
+monarch =
+{ 
+name = "Vincent" 
+     
+dynasty = "Godfrey" 
+		
+adm = 3		
+dip = 3	
+mil = 3	} 
+ 
+
+government = despotic_monarchy
+primary_culture = culture_forsaken 
+technology_group = tech_undead} 
+

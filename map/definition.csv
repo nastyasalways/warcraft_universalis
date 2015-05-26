@@ -570,7 +570,7 @@ province;red;green;blue;x;x
 569;28;248;0;x;x
 570;24;120;128;x;Crestfall Island
 571;20;56;0;x;x
-572;15;120;192;x;x
+572;15;120;192;x;The Forbidding Shore
 573;10;56;64;x;Thondroril Banks
 574;6;120;255;x;x
 575;1;56;128;x;x
@@ -646,7 +646,7 @@ province;red;green;blue;x;x
 645;240;238;129;x;K3
 646;211;46;173;x;x
 647;206;110;173;x;x
-648;197;110;173;x;x
+648;197;110;173;x;Silverpine Foothills
 649;193;46;0;x;Zeramas
 650;188;110;192;x;x
 651;183;46;64;x;Apothecary Camp
@@ -661,7 +661,7 @@ province;red;green;blue;x;x
 660;129;46;128;x;x
 661;35;140;64;x;x
 662;83;44;126;x;x
-663;69;108;126;x;x
+663;69;108;126;x;North Tide's Run
 664;64;44;255;x;Ebon Watch
 665;60;108;128;x;x
 666;55;44;0;x;x
@@ -669,8 +669,8 @@ province;red;green;blue;x;x
 668;37;44;128;x;x
 669;32;108;0;x;x
 670;28;44;192;x;x
-671;23;108;64;x;x
-672;19;44;255;x;x
+671;23;108;64;x;The Sepulcher 
+672;19;44;255;x;Ambermill 
 673;14;108;128;x;Arathi Highlands
 674;10;44;0;x;x
 675;5;108;192;x;x
@@ -683,8 +683,8 @@ province;red;green;blue;x;x
 682;165;42;64;x;x
 683;160;106;255;x;x
 684;156;42;128;x;x
-685;151;106;0;x;x
-686;147;42;192;x;x
+685;151;106;0;x;Pyrewood Village
+686;147;42;192;x;Olsen's Farthing
 687;142;106;64;x;Strom Lowlands
 688;137;42;255;x;x
 689;133;106;128;x;x
@@ -729,7 +729,7 @@ province;red;green;blue;x;x
 728;188;228;233;x;Ulduar
 729;110;36;0;x;x
 730;82;36;126;x;x
-731;68;100;126;x;x
+731;68;100;126;x;Fenris Isle
 732;64;36;0;x;Thor Modan
 733;59;100;192;x;Galakrond's Rest
 734;55;36;64;x;Utgarde Keep
@@ -744,7 +744,7 @@ province;red;green;blue;x;x
 743;4;100;255;x;x
 744;234;227;107;x;x
 745;231;35;179;x;x
-746;196;98;79;x;x
+746;196;98;79;x;The Shining Strand
 747;192;34;255;x;Dun Argol Bay
 748;187;98;128;x;Yrkvinn
 749;183;34;0;x;Explorers' League Outpost
@@ -843,7 +843,7 @@ province;red;green;blue;x;x
 842;13;88;128;x;x
 843;8;152;0;x;x
 844;4;88;192;x;x
-845;255;23;23;x;Dun Garok
+845;255;23;23;x;Eastern Strand
 846;187;215;128;x;Onslaught Harbor
 847;255;22;200;x;Tarren Mill
 848;214;86;173;x;x
@@ -912,7 +912,7 @@ province;red;green;blue;x;x
 911;60;143;34;x;Argent Tournament
 912;163;142;173;x;x
 913;34;136;255;x;x
-914;213;78;173;x;x
+914;213;78;173;x;South Tide's Run
 915;209;142;173;x;x
 916;199;142;173;x;The Suntouched Pillar
 917;195;78;64;x;Altar of Rhunok
@@ -974,7 +974,7 @@ province;red;green;blue;x;x
 973;25;136;0;x;x
 974;21;72;192;x;Rustberg Island
 975;16;136;64;x;The Creeping Ruin
-976;12;72;255;x;Azureload Coast
+976;12;72;255;x;Western Strand
 977;7;136;128;x;x
 978;2;72;0;x;x
 979;213;70;173;x;x
