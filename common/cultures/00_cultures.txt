@@ -92,6 +92,42 @@ culture_group_human = {
 		}
 	}
 	
+	culture_lordaeron = {
+		male_names = {
+		
+		}
+		female_names = {
+	
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	culture_alterac = {
+		male_names = {
+		
+		}
+		female_names = {
+	
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	culture_dalaran = {
+		male_names = {
+		
+		}
+		female_names = {
+	
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
 	culture_kul_tiran = {
 		male_names = {
 		
@@ -267,6 +303,18 @@ culture_group_orc = {
 	}
 	
 	culture_mok_nathal = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+	culture_horde = {
 		male_names = {
 			
 		}
@@ -460,6 +508,42 @@ culture_group_ogre = {
 		}
 	}
 	
+	culture_crushridge = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+	culture_stonemaul = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+	culture_dunemaul = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
 	culture_gordunni = {
 		male_names = {
 			
@@ -555,10 +639,8 @@ culture_group_forest_troll = {
 		"Rin'ji"
 		"Umboda"
 		"Mith'rethis"
-		"Morta'gya"
 		"Tregla"
 		"Retherokk"
-		"Qiaga"
 		"Gan'dranda"
 		"Katoom"
 		"Kotonga"
@@ -567,7 +649,6 @@ culture_group_forest_troll = {
 		"Moz'jin"
 		"Renn'az"
 		"Torntusk"
-		"Yayo'jin"
 		"Ongo'longo"
 		"Vex'tul"
 		"Thresh'jin"
@@ -591,11 +672,11 @@ culture_group_forest_troll = {
 	}
 	
 	female_names = {
-		"Hexx" "Torntusk" "Vosh'gajin"
+		"Hexx" "Torntusk" "Vosh'gajin" "Guthma" "Yayo'jin" "Qiaga" "Morta'gya"
 	}
 	
 	dynasty_names = {
-		"Amani" "Shadowpine" "Vilebranch" "Revantusk" "Mossflayer" "Firetree" "Witherbark" "Shadowpine"
+		"Amani" "Shadowpine" "Vilebranch" "Revantusk" "Mossflayer" "Firetree" "Witherbark" "Shadowpine" "Smolderthorn"
 	}
 	
 	culture_amani = {
@@ -638,13 +719,14 @@ culture_group_forest_troll = {
 		male_names = {
 			"Umboda"
 			"Mith'rethis"
-			"Morta'gya"
 			"Tregla"
 			"Retherokk"
-			"Qiaga"
+			
 		}
 		female_names = {
 			"Hexx"
+                        "Qiaga"
+                        "Morta'gya"
 		}
 		dynasty_names = {
 			"Vilebranch"
@@ -661,11 +743,11 @@ culture_group_forest_troll = {
 			"Moz'jin"
 			"Renn'az"
 			"Torntusk"
-			"Yayo'jin"
 			"Ongo'longo"
 		}
 		female_names = {
 			"Torntusk"
+                        "Yayo'jin"
 		}
 		dynasty_names = {
 			"Revantusk"
@@ -692,6 +774,23 @@ culture_group_forest_troll = {
 	
 	culture_firetree = {
 		male_names = {
+			"Tarak"
+			"Timan"
+			"Gree"
+			"Shnel"
+			"Vorsh"
+			"Hulg"
+		}
+		female_names = {
+			"Guthma"
+		}
+		dynasty_names = {
+			"Firetree"
+		}
+	}
+
+culture_smolderthorn = {
+		male_names = {
 			"Voone"
 			"Tarak"
 			"Timan"
@@ -704,7 +803,7 @@ culture_group_forest_troll = {
 			"Vosh'gajin"
 		}
 		dynasty_names = {
-			"Firetree"
+			"Smolderthorn"
 		}
 	}
 	
@@ -2536,6 +2635,31 @@ culture_group_worgen = {
 			
 		}
 	}
+
+culture_gilnean_worgen = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+culture_lordaeron_worgen = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
 }
 
 culture_group_arrakoa = {

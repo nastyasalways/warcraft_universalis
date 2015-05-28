@@ -1,0 +1,32 @@
+# 959 
+
+is_city = no 
+
+add_core = A11
+controller = A11
+owner = A11
+capital = "Hillsbrad Township"
+
+
+base_tax = 3 
+manpower = 3 
+ 
+culture = culture_lordearon
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = farms
+
+
+ 
+discovered_by = western 
+
+
+631.1.1 = { owner = E14
+controller = E14
+add_core = E14
+culture = culture_forsaken
+religion = religion_forgotten_shadow
+base_tax = 2 
+manpower = 2
+capital = "Sludgeguard Tower" }

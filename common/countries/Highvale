@@ -1,0 +1,33 @@
+# Highvale 
+
+ 
+ graphical_culture = westerngfx 
+ 
+ 
+color = { 67 45 210 } 
+
+ 
+monarch_names = { 
+
+  } 
+ 
+leader_names = { 
+ 
+} 
+
+ 
+ship_names = { 
+
+ 
+} 
+
+ 
+army_names = { 
+"Highvale Rangers" 
+} 
+
+ 
+ fleet_names = { 
+	"Highvale Flotilla" 
+} 
+ 

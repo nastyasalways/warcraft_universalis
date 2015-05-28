@@ -1,0 +1,47 @@
+# 686
+
+is_city = no 
+
+add_core = A08
+controller = A08
+owner = A08
+capital = "Olsen's Farmstead"
+
+
+
+base_tax = 2 
+manpower = 1
+ 
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = farms
+
+
+ 
+discovered_by = western 
+
+
+622.1.1 = { owner = E52
+controller = E52
+add_core = E52
+remove_core = A08
+culture = culture_scourge
+religion = religion_the_damned }
+
+631.1.1 = { owner = E14
+controller = E14
+add_core = E14
+add_core = A12
+remove_core = E52
+culture = culture_forsaken
+religion = religion_forgotten_shadow }
+
+632.1.1 = { owner = NAT
+controller = NAT}
+
+
+
+
+

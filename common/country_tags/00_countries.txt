@@ -88,6 +88,7 @@ A50 = "countries/Angorosh.txt"
 A51 = "countries/Boulderfist.txt"
 A52 = "countries/Gordunni.txt"
 A53 = "countries/Ogrila.txt"
+E50 = "countries/Crushridge.txt"
 
 # Draenei
 A54 = "countries/Shattrath.txt"
@@ -103,7 +104,7 @@ A61 = "countries/Revantusk.txt"
 A62 = "countries/Mossflayer.txt"
 A63 = "countries/Firetree.txt"
 A64 = "countries/Witherbark.txt"
-A65 = "countries/Shadowpine.txt"
+A65 = "countries/Smolderthorn.txt"
 
 # Jungle Troll
 A66 = "countries/Gurubashi.txt"
@@ -143,6 +144,7 @@ A89 = "countries/Winterhoof.txt"
 
 # High Elf
 A90 = "countries/QuelThalas.txt"
+E49 = "countries/Highvale.txt"
 
 # Blood Elf
 A91 = "countries/Silvermoon.txt"
@@ -209,6 +211,7 @@ B35 = "countries/White Shark.txt"
 B36 = "countries/Tidewalker.txt"
 B37 = "countries/Makaru.txt"
 B38 = "countries/Bogstrok.txt"
+E51 = "countries/Torn Fin.txt"
 
 # Furbolg
 B39 = "countries/Gnarlpine.txt"
@@ -311,6 +314,7 @@ E10 = "countries/Blackfathom.txt"
 E11 = "countries/The Scourge.txt"
 E12 = "countries/Cult of the Damned.txt"
 E13 = "countries/Knights of the Ebon Blade.txt"
+E52 = "countries/The Scourge of Lordaeron.txt"
 
 # Undead
 E14 = "countries/The Forsaken.txt"

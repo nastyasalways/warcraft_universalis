@@ -1,7 +1,27 @@
 # Wildhammer
-government 		= despotic_monarchy
+government 		= tribal_kingdom
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+technology_group 	= tech_dwarf
+religion			= religion_ancestral
+primary_culture 	= culture_wildhammer
+capital 			= 889
+
+546.1.1 = { 
+monarch = { 
+     name = "Kurdran" 
+     dynasty = "Wildhammer" 
+		adm = 3
+		dip = 2
+		mil = 5
+ 	} 
+ } 
+ 
+ 617.1.1 = { 
+monarch = { 
+     name = "Falstad" 
+     dynasty = "Wildhammer" 
+		adm = 3
+		dip = 3
+		mil = 4
+ 	} 
+ } 

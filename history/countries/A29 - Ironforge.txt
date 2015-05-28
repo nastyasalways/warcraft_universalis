@@ -1,7 +1,27 @@
 # Ironforge
-government 		= despotic_monarchy
+government 		= constitutional_monarchy
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_dwarf
+religion			= religion_church_of_the_light
+primary_culture 	= culture_bronzebeard
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Magni" 
+     dynasty = "Bronzebeard" 
+		adm = 4
+		dip = 4
+		mil = 4
+ 	} 
+ } 
+ 
+ 631.1.1 = { 
+monarch = { 
+     name = "Dagran" 
+     dynasty = "Thaurissian" 
+		adm = 2
+		dip = 2
+		mil = 2
+ 	} 
+ } 

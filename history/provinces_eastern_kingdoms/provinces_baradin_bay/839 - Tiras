@@ -1,0 +1,21 @@
+# 829
+
+is_city = no 
+
+add_core = A14
+controller = A14
+owner = A14
+
+
+base_tax = 3
+manpower = 3
+ 
+culture = culture_kul_tiran
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = fishing_villages
+
+
+ 
+discovered_by = western 

@@ -1,0 +1,43 @@
+# 672
+
+is_city = no 
+
+add_core = A12
+controller = A12
+owner = A12
+capital = "Pyrewood Keep"
+
+
+
+base_tax = 3 
+manpower = 3
+ 
+culture = culture_gilnean
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = lumber
+
+
+ 
+discovered_by = western 
+
+
+617.1.1 = { owner = A18
+controller = A18
+add_core = A18
+remove_core = A12 }
+
+622.1.1 = {culture = culture_dalaran
+religion = religion_arcane }
+
+
+631.1.1 = {capital = "Ambermill Pocket Dimension" }
+
+632.1.1 = { culture = culture_forsaken
+religion = religion_forgotten_shadow
+owner = NAT
+controller = NAT
+remove_core = A18 
+base_tax = 2
+manpower = 1 }
