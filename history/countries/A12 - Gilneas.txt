@@ -9,18 +9,18 @@ capital = 1
 
 
 598.1.1 = { 
-monarch =
-{ 
-name = "Genn" 
-     
-dynasty = "Graymane" 
-		
-adm = 4		
-dip = 2	
-mil = 4 	} 
- 
+	monarch =
+	{ 
+		name = "Genn" 			 
+		dynasty = "Graymane" 		
+		adm = 4		
+		dip = 2	
+		mil = 4 	
+	} 
 } 
 
 
-631.1.1 = { primary_culture = culture_gilnean_worgen
-technology_group = tech_worgen }
+631.1.1 = { 
+	primary_culture = culture_gilnean_worgen
+	technology_group = tech_worgen 
+}

@@ -1,7 +1,7 @@
 # Southsea Pirates
-government 		= despotic_monarchy
+government 		= pirate_clan
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_human
+religion			= religion_church_of_the_light
+primary_culture 	= culture_kul_tiran
 capital 			= 1
