@@ -1,0 +1,14 @@
+L3DT Mosaic master file
+#MosaicName:	Mip8
+#MosaicType:	RGB
+#FileExt:	png
+#nPxlsX:	704
+#nPxlsY:	256
+#nMapsX:	2
+#nMapsY:	1
+#SubMapSize:	512
+#HorizScale:	160.000000
+#WrapFlag:	FALSE
+#TileState:	0	OK
+#TileState:	1	OK
+#EOF

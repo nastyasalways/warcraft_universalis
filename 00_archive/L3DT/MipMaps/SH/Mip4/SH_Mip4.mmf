@@ -1,0 +1,15 @@
+L3DT Mosaic master file
+#MosaicName:	Mip4
+#MosaicType:	BYTE
+#FileExt:	png
+#nPxlsX:	1408
+#nPxlsY:	512
+#nMapsX:	3
+#nMapsY:	1
+#SubMapSize:	512
+#HorizScale:	80.000000
+#WrapFlag:	FALSE
+#TileState:	0	OK
+#TileState:	1	OK
+#TileState:	2	OK
+#EOF

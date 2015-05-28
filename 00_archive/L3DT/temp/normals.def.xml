@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<varlist name="Settings">
+	<varlist name="MapViewOptions">
+		<varlist name="HF">
+			<string name="IndexedPalette">Monochrome</string>
+		</varlist>
+		<varlist name="WS">
+			<string name="IndexedPalette">Thermal</string>
+		</varlist>
+		<varlist name="SH">
+			<string name="IndexedPalette">InverseBoolean</string>
+		</varlist>
+	</varlist>
+	<varlist name="HF">
+		<float name="HorizScale">10</float>
+		<int name="nx">5632</int>
+		<int name="ny">2048</int>
+	</varlist>
+	<varlist name="LM">
+		<colour name="Sun">255, 244, 222</colour>
+		<colour name="Amb">98, 192, 255</colour>
+		<colour name="Spec">255, 255, 255</colour>
+		<float name="Azim">0</float>
+		<float name="Elev">45</float>
+		<float name="Brightness">1</float>
+		<float name="SunAmbRatio">0.8</float>
+		<bool name="UseWM">false</bool>
+		<bool name="ShadowFlag">true</bool>
+		<bool name="SpecularFlag">true</bool>
+		<bool name="RecalcShadowFlag">false</bool>
+		<bool name="BumpMapping">false</bool>
+		<bool name="MosaicFlag">true</bool>
+		<int name="MosaicSize">512</int>
+		<int name="LM_in_HF">1</int>
+	</varlist>
+	<varlist name="Ops">
+		<bool name="GenTN">true</bool>
+	</varlist>
+	<varlist name="CalcTimers">
+		<varlist name="TN">
+			<float name="GenMap">11.139</float>
+		</varlist>
+		<varlist name="LM">
+			<float name="CastShadows">27.113</float>
+			<float name="CalcLighting">5.944</float>
+		</varlist>
+	</varlist>
+	<varlist name="TN">
+		<bool name="BumpMapping">false</bool>
+		<bool name="TangentFlag">false</bool>
+		<int name="TN_in_HF">1</int>
+		<bool name="MosaicFlag">true</bool>
+		<int name="MosaicSize">512</int>
+	</varlist>
+	<int name="SettingsVersion">2540</int>
+</varlist>
