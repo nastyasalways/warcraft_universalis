@@ -1,7 +1,26 @@
 # Ravenholdt
-government 		= despotic_monarchy
-mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+government = absolute_monarchy
+mercantilism = 0.1 
+technology_group = tech_human
+religion= religion_church_of_the_light
+primary_culture = culture_lordaeron
+capital = 624 
+
+
+
+592.1.1 = { 
+monarch =
+{ 
+name = "Jorach" 
+dynasty = "Ravenholdt" 
+		
+adm = 3		
+dip = 5	
+mil = 3	} 
+
+ 
+} 
+
+
+
+

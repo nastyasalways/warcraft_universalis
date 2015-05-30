@@ -1,0 +1,892 @@
+fire_elemental
+Starting: 1 diplomat
+Egg Clutch: 20% manpower recovery bonus
+Local Nests: 20% build cost
+Matriarchs: 1 bonus shock
+Nest Production: 10% production bonus
+Tool Traders: 1 bonus trader
+Screechers: 10% infantry combat ability
+Winged Fury: 20% cavalry combat ability
+Bonus: 15% coring cost
+
+Gnolls 
+Starting: 25% time to fab claims
+Brawlers: 1% decrease to army tradition (fight with each other)
+Scavengers: While on the move, Gnoll soldiers will eat anything, squirrels, dwarves, and even each other.  25% decrease to attrition
+Skins and Tents: Quickly creating shelter out of skins allows for cheap labor and easy to find materials. Human villages are a Gnoll's favorite place to gather supplies.  10% building cost 5% production cost
+Tribal Mercenaries: Some smaller Gnoll tribes do not care for petty tribal feuds and are willing to fight for the highest bidder. 50% bonus mercenaries 
+Ambush tactics: +1% enemy attrition
+Only the Strong Lead: Gnoll's respect strength above anything. There is always someone waiting in line to take over. 50% heir chance
+The Weak are Food (more food during sieges): During sieges the weaker or freshly deceased Gnoll's are used as food for the guards. This allows sieges to hold out somewhat longer. 15% siege defense
+Bonus: 20% unit cost 10% land forcelimits
+
+Murloc: 
+Starting: 20% naval maintenance modifier
+Tidehunting: 5% tax 5% production
+Oracles: 1 bonus missionary
+Plant Remedies: 15% manpower recovery rate 
+Poisoned Weapons: 5% discipline 
+Coastal Terrors: +1 naval maneuver 
+Idols of Worship (will worship anything): 15% religious unity 
+Mrgrrrggrgrgl: -15% stability cost 
+Bonus: 33% blockade efficiency
+
+Centaur:
+Starting: -30% cavalry cost
+Slave Infantry: Those captured who are fortunate enough to still be able to hold a weapon are given a chance to extend their lives for a short while longer. They are forced to serve as infantry in centaur armies for the rest of their lives. As you can imagine, the elderly, children, and the weak, are not so fortunate and are quickly disposed of. -20% infantry cost 
+The Five Clans: Kolkar, Magram, Gelkis, Maraudine, and Galak make up the five oldest and most powerful clans. Constant feuds stemming from disagreeing khans have prevented the rise of a major centaur power under a single banner. +1 prestige per year
+Deadly Charge: The centaur, a half-humanoid and half-horse race, have a natural affinity when it comes to cavalry charges. 33% cavalry bonus 
+Raid Tribute: Upon returning from raiding or pillaging neighboring provinces, a centaur pays a small percentage of their loot as tribute to their khan. 5% tax bonus
+Sacred Hunting Grounds: As the clan expands and grows, the need for fresh meat and new slaves drives the centaurs deeper into neighboring territory. -25% fabricate claim time
+Great Khan's: Only the most powerful warriors rise to lead their clan. +1 leader shock
+Privacy?: In centaur culture there is no such concept of privacy. As such it much harder to keep secrets hidden. 50% spy defense 
+Bonus: -.5 taken attrition 
+
+Silithid: (test! As with scourge: 170% bonus production, -100% trade -80% tax) 
+Starting: -10% maintenance modifier 
+Hive Networks: 15% siege defense
+Reaver Reserves: 20% bonus forcelimits
+Tunnel Diggers: 10% build cost 
+Overrun the Enemy: 15% morale bonus 
+Poison Stingers: 10% cavalry bonus
+Defend the Hive: 40% reinforce to fort garrison soldiers
+The Endless Swarm: 100% bonus manpower 
+Bonus: 33% manpower reinforce speed
+
+Qiraji:
+Starting: +1 diplomat
+Servants of C'thun: +2 tolerance of the true faith -2 tolerance of heathen
+Bred for War: (battleguards and gladiators) 15% infantry combat ability 
+Cunning: 33% fabricate claim time
+Qiraji Caste: 1 bonus advisor
+Servants of Stone: 10% discipline 
+Qiraji Prophets: -1 revolt risk
+Gem Studded Armors/Ornamented armor:Donned in the finest (wearing gold, gems, other materials) 10% production 10% morale bonus 
+Bonus: 15% heir chance +.5 yearly legitimacy 
+
+Nerubian: 
+Starting: +2 tolerance of the true faith
+Azjol-Nerub- The New Empire: 15% coring cost
+Spiderlords: +1 leader shock 
+Nerubian Ziggurats: 2% religious conversion rate
+Egg Stores: 33% manpower bonus
+Values of Education: -15% advisor cost
+Webbed Tunnel Traps: 1% enemy attrition 
+Viziers: +1 advisor 
+Bonus: 10% morale bonus 5% morale recover rate
+
+Furbolg:
+Starting: +1 missionary
+Neutral Emissaries: +1 diplomat
+Conflict Avoidance: +6 reputation bonus
+Forest Connections: 15% stability cost 
+Shaman Leaders: +1 leader fire
+Ursol: 10% tax bonus
+Ursoc: (sometimes war is unavoidable, remember the traditions of Ursoc) 10% discipline
+Uproot the Corruption: +1% conversion bonus 
+Bonus: +5% trade income 20% trade steering
+
+
+Arakkoa: 
+Starting: 5% morale recover rate
+Arakkoa Caste: 10% stability cost
+Ancient Arcane: 5% discipline bonus 
+Kaliri Feathers: 5% tax bonus 15% local trade trade power
+The Hero-God Terokk: 1% conversion 1 missionary 
+Sharpened claws: 10% infantry combat ability
+Arakkoa Slavers: 10% trade efficiency
+Raise Our Fallen: 20% manpower recovery rate -1 tolerance of the true faith
+Bonus: 15% morale bonus 
+
+Ogre: 
+Starting: +2 relations
+Brute Force: 20% infantry combat ability 
+Reinforced Mines: 5% production 10% defensive 
+Tolerated Violence: +.5 military tradition 
+Enforcers: -1 national revolt risk
+Ogre Lords:  +1 shock 
+Eliminate the Competition (rise to power): -10% stability cost 
+Ogre Magi: +5% discipline 
+Bonus: 20% vassal income
+
+
+
+Old God Cultures: (180% production bonus) 
+Starting: -10% infantry cost 
+Thyzak (Reclamation): 15% coring cost
+Ywaq puul skshgn (they drink your fear): 10% morale bonus
+Ywaq maq oou (they do not die) 25% manpower bonus
+Uothk An' Uuyat (drown in agony): 20% infantry bonus 
+Lilth vwah' uhn'agth fhssh za: (where one falls, many take its place) 33% manpower recovery rate
+Shgn thoq'sk zuq (fear for your life): 
+-1 national revolt
+Shuul (death): 5% discipline 
+Bonus: 20% land forcelimits 
+
+
+Demons/Burning Legion: (hated by almost all) 
+Starting: -33% coring cost
+Mo'Arg Engineers: Outlandish creatures that are technologically brilliant. These engineers are able to craft massive Fel Iron bombs which are able to blow open walls and gates of fortresses. +1 leader siege
+Forge Camps: Massive labor camps that drain lands of their resources. These camps are maintained by Mo'arg engineers in which they craft various tools of destruction.  -10% land maintenance modifier 
+Dreadlord Cunning: Not only are Nathrezim brilliant military tacticians, they are also masters of illusion. Behind the scenes, dreadlords work to undermine and disrupt enemy operations in order to quicken Legion dominance. +1 diplomat -75% fabricate claim time 
+Invasion Points: Demonic battlefield gateways that are set up on the front lines of war. They are not able to move large amounts of troops such as the Cataclysm Gateways, but are still capable of providing additional reinforcements when needed.  +33% reinforce rate
+Fel Reavers: Ground shaking giant mechanical creations that are crafted by Mo'arg engineers and powered by fel magic. The distinctive robotic noises they give off are enough to rout any army before the battle begins.   10% discipline
+Demonic Command: The Eredar, Annihilan Pitlords, and Dreadlords serve as leaders and commanders of  Legions armies. +1 leader shock
+Cataclysm Points: Massive demonic gateways that allow for the Legion to bring in hundreds of soldiers at a time.  100% manpower bonus
+Bonus: 65% manpower recovery rate
+
+Twilights Hammer - Servants of the Old Gods (replace leader with cho'gall causing 1 stability -15 prestige) clan ideas represent a change in what the horde wants/their change in ideals and become crazy
+Starting: 10% stability
+Cho'gal: the first of the ogre magi 1 prestige
+Unleash the Ogre Magi: 15% infantry combat
+(Fervor beyond beli'yeth) Fervor beyond belief: 33% morale  convert or die +3% missionary strength vs heathens
+(Differing Ide'thn) Differing Ideals: 15% coring cost
+(Swellinthrrn Ran'yrrth) Swelling Ranks: 25% manpower
+(Yrr'shalag Vwahuun) Harbinger of the Doom: 20% land force limits
+(Shur'nab.. Shur'nab) The Old Gods: tolerance of heretics/heathens -1 tolerance of heathens and 1 leader shock or fire
+Bonus: 10% tax members revoke money from new members to fund clan
+Event takes place if the twilight clan has not claimed a city/the twilight council is destroyed. (Are they a faction?) They become completely crazy and now search for their own agenda granting more bonus's or are led by a twilight council. 
+
+Twilights Hammer (Orc)
+Starting: .5 accepted culture threshold
+Unleash the Ogre-Magi: Ogre-magi fill the ranks of the orcish Twilights Hammer clan as support troops. +7.5% discipline
+Twilight Spies: The Twilights Hammer clan employs elite spies that are experts in sabotage and assassination. +5% siege ability, 20% spy offense, -10% fabricate claim time
+Shadow Council Influence: Our clan has always been held in high regard as a part of the Shadow Council. +1 papal influence
+Old God Influence: A large portion of our clan answers to the whispers of the Old Gods. +1 revolt risk. 25% religious unity
+Forging the Hammer: Smiths have been employed and have begun shaping a magical artifact. This will be one of the finest war-hammers to ever exist. +1 yearly prestige
+Cho'gal: The immensely powerful twin headed ogre-magi personally teaches his finest generals the ways of the magi. +1 leader fire
+Onwards for the Old Gods: We must fight on and prove our devotion to the Old Gods. What better way than to wage war in their name. -.05 monthly war exhaustion
+Bonus: -10% military tech cost
+
+Kobold:
+Starting: 25% enemy coring cost 
+Large Tunnel Networks: Deep and complicated cave systems protract enemy sieges. 15% defensive bonus 
+Candle Helmets: Candles mounted on helmets provide a great source of light during deep cave mining. +10% production bonus
+Excellent Scavengers: Kobold are natural scavengers and are able to survive in harsh conditions much longer than others.  -25% attrition. 
+Pawned Goods: Kobold's find all sorts of miscellaneous items in the earth, and there is no shortage of merchants willing to buy them. 10% trade steering 
+You No Take Candle: Don't touch anyone else's candle and never let anyone take yours. -1 revolt risk 
+Gem Traders: Kobold mining operations often yield an assortment of many expensive gems. Luckily for foreign traders they willingly sell their stock for a low price, attracting the attention of merchants far and wide.   +5% trade income 25% local trade power
+Clan Lords Treasure: Kobolds follow the strongest and best miner in their clan. Each month, clan members give a portion of their gold to their leader to show their respect. 
+Bonus:  +1 yearly legitimacy +2 diplomatic reputation 
+
+Pirates/Bloodsail/Northsea Freebooters/Southsea Freebooters
+Starting: +20% privateering efficiency 
+Take to the Sea's: Pirates are famed for tenacity on the seas. -10% naval maintenance cost
+Experienced Cannoneers: Most pirates aboard these ships are disciplined ex-naval veterans that found their old profession monetarily lacking. 5% ability for each ship
+Rum and Snuff: A staple of any noteworthy pirate. -1 revolt risk 
+Captured Heavy Cannons: Raids and victories on the seas have netted the navy heavy cannons. 10% heavy ship ability 
+The Dread Pirate: The Dread Pirate is known as the scourge of the seas. This general is an expert of naval warfare and has many victories under their belt. +2 naval leader maneuver
+The Trade Wars: Merchant vessels that pay their toll are placed under protection of the pirates. Those that refuse are raided, taken as ransom, or killed. 15% trade steering 10% local trade power
+No Ports are Safe: Pirate fleets use fast light ships to hunt down blockade runners and are known to conduct heavy shelling of ports to maximize destruction. 25% blockade efficiency
+Bonus: +.5 naval leadership 10% global trade power 
+
+
+Tuskarr: 
+Starting: 1 diplomat
+Welcoming: +6 reputation +1 relation
+Tundra Conditioning: -.25 attrition 
+Tusklords: +25% heir chance +.5 legitimacy 
+Communal Defense: 25% fort replenish rate
+Boating Captains: 10% naval morale
+Fishing and Whaling: 5% production -10 land maintenance
+Peace and Calm: known for nonviolence -25% cost of reducing war exhaustion 
+Bonus: +1 leader maneuver 
+
+Oracles/gorlocs
+Starting: +3 diplomatic rep bonus 25% enemy coring
+Protectors of the Lost: protectors of titan stuff +2% conversion rate
+Lightning Mystics: +1 leader fire
+The Rainspeaker: +1 missionary 
+Amphibians: 10% infantry combat ability 
+Natural Enemies: +1 diplomat
+Fertile Lands: 10% production
+The Mysterious Egg: -10% stability 5% discipline
+Bonus: -20% advisor cost
+
+
+Wolvar
+Starting: +3 diplomatic rep bonus 25% enemy coring cost
+Open to Foreigners: +1 diplomat
+Territorial Conflicts: +.5 military tradition 
+Hunters Tribute: 10% tax bonus 
+Sharpened Claws: +1 leader shock
+The Elder Shamans: 1 bonus advisor -10% advisor cost
+Expert Trackers: 15% infantry combat ability
+Totemic Society: 10% religious unity 10% stability cost 
+Bonus: +1 leader 20% manpower bonus 
+
+Defias Brotherhood: 
+Starting: 20% fort defense
+Legacy of the Masons: The Brotherhood's original founding members were human masons and engineers that were cheated out of an honest works wage and branded as outlaws.  -25% build cost
+Protection of the Brotherhood: Villages pay a fee in order to remain under the protection of the Brotherhood. Areas under this protection use bribes, murder, and intimidation to maintain stability.  10% tax bonus 10% stability cost
+Siege Leaders: Generals with knowledge of structural stability become effective siege leaders.  +1 leader siege
+Knife Squads: Knife squads are used by the Brotherhood to enforce their laws. Murder and thievery against a fellow member is sure to attract the attention of a squad. -1 revolt risk
+Prey on the Merchants: Foreign traders are blackmailed and bullied into supporting Brotherhood operations. 33% local trade power
+Bandit Supply Raids: Experts of sabotage, these bandits sneak behind enemy lines and target supplies lines with high explosive ordinance. +.5 enemy attrition
+The Deadmines: The Deadmines are at the core of the Defias operations. Deep within the cavernous labyrinth lies engineering factories, workshops, and lastly a massive cave holding one of the last Dreadnaught ships on Azeroth. 15% production bonus
+Bonus: % manpower bonus
+
+
+Quillboar:
+Starting: -10% infantry cost 10% land force limits 
+Throned Defenses 10% fort defense .25 enemy attrition  
+Descendants of Agamagon: 33% religious unity 
+Trained from Birth: 5% infantry combat ability
+Hatred of the Outsiders: +1 tolerance of the true -1 heretic
+The Elder High Shaman: +1 leader fire
+Devotion to the Tribe: -1 revolt risk
+Expand the Tribe: -15% coring cost 
+Bonus: 20% spy offense 
+
+
+Illidari:
+Starting: -10% infantry cost
+The Illidari Council: Four blood elf masters of military tactics make up the Illidari Council. These loyal advisors answer only to the true Lord of Outlands.  +1 advisor
+Demon Hunter Initiates: These blood elf and night elf volunteers can be found training day and night on the terraces of the Black Temple. The initiates undergo rigorous training in order to become full fledged demon hunters. They follow the instruction of few surviving Illidari demon hunters. +10% infantry combat ability
+Warglaives of Azzinoth: These legendary blades were once used by a powerful doom guard captain named Azzinoth many thousands of years ago. Once Illidan slew this demon, he claimed the glaives as his own. The blades have a piercing green glow due to the powerful magical fel energy contained within. +1 leader shock
+The Crimson Sigil: The Crimson Sigil are an organization of elite blood elf soldiers that are loyal to Illidan. They are highly respected for their combat skills and are equipped with the best weapons and armor.  10% discipline
+Illidari Taskmasters: Demons that have turned from Sargeras and joined the Illidari on Outlands. These taskmasters overseer the production of many operations. 5% production bonus 
+The Skull of Gul'dan: The skull of the once great orc Stormreaver sorcerer, Gul'dan. Untold power locked away inside of this magical item is waiting to be channeled. +1 leader fire
+Lord of Outlands: From atop the Black Temple the true Lord of Outlands watches over his kingdom. +2 relations +1 diplomat 
+Bonus: 20% religious unity 
+
+The Felsworn (kael) or Sunfury
+The Sunfury:
+Starting: 5% discipline
+High Astromancer: -25% stability cost
+Manabombs: 15% artillery power
+Bloodgem Shards: -1 revolt risk
+Manaforges: 10% production bonus
+Master Engineers: 20% fort defense
+Chaos Orbs: +1 leader fire
+Shadowsword: 15% infantry bonus
+Bonus: -10% land maintenance
+
+Coilskar/Coilfang (vashj)
+
+
+Theramore
+Start: 25% naval modifier
+Diplomatic Negotiators- +6 Diplo rep 1 diplomat
+Keep the fleet ready: -10 naval Maintenance 
+Theramore marines: 20% infantry power
+Admiralty of the West: -2 naval decrease
+Peace and Order: 15% stability cost
+Naval Prowess- 1 ocean leader maneuver
+Bonus: 10% light ship combat 25% naval blockade 
+
+
+SCOURGE (Arthas with permanent leadership- if mechanics don't allow ageless- allow him to just live again after each death for king. Maybe use a whole new leader system.) Make a war with other nations on northrend actually tough. The Drakkari empire should seem like a very hard opponent to beat so they don't steamroll the continent. (see other section in notepad) 
+SCOURGE 
+Starting: -33% decrease coring cost 
+Wasteland: In the wake of Scourge armies there is no life to be found. +1 attrition 
+Endless Legions: No matter how many are killed the undead legions seem to never stop their advance. A thousand will die, and a thousand more will take their place. 33% reinforce rate
+Mindless: Rations are not a major concern of the dead. With little supply lines, we are able to up our forcelimits greatly. 25% land force limits modifier
+Frostmourne: The legendary runeblade weapon of the Lich King Arthas Menethil. This blade is capable of cutting through flesh, bone, and armor with little resistance. Strong weapons and thick shields alike shatter against the magnificent power of Frostmourne. Those that are slain by this weapon have their souls ripped from their bodies and stored inside forever, only until the sword is destroyed. +1 Land Leader Shock 
+Rise: By their own will or without, the fallen rise to their masters call. As the living fight against the Scourge armies, their dead fill our ranks. 20% manpower regen speed no cost to reinforce 20% bonus regen during holy war CB
+Plague of Undeath: Use of the Plague of Undeath on civilian and military population allows us to quickly take cities as well as deliver massive casualties to enemy troops. 15% siege ability 10% artillery combat ability
+Saronite Mines: Saronite mines are manned by Scourge slaves and lesser ghouls. These massive mining operations are overseen by death knight and necromancer commanders. From the mines the ore is hauled off to large forges and turned into armor and weapons. No cost for reinforcing. 
+Bonus: Time to Fabricate Claim -25%
+
+
+Cult of the Damned
+Starting:
+
+Bonus: 
+
+Scarlet Crusade: 
+(Event-crimson dawn-Scarlet Onslaught) 
+Starting: 50% enemy coring cost
+Eradicate the Corruption: They are infected. Every last one of them. We dedicate our lives to eradicate the undead from this world. -25% culture conversion cost
+Zealotry: Our people have given everything to stop the spread of the Scourge. Our sons, daughters, and loved ones have died in the name of the Crusade. Never forget the sacrifices that have been made to ensure our survival. 15% morale bonus -1 tolerance of heretics
+Inquisition of Light: To fight the undead, our monks, priests, and inquisitors train at the cathedrals and monasteries.  2% conversion 
+High Inquisitors: Multiple High Inquisitors allow us to combat the undead with increased efficiency. They are masters of the Holy Light and will destroy any undead that dare to enter our lands. 
+The Grand Crusade: Disciplined, well equipped, and fervent, the Scarlet Crusade has undergone many military reforms since it's creation in order to become a more effective fight force. +.25 military tradition 7.5% discipline  
+Grand Admiral: The Grand Admiral is an esteemed position among the Crusade, nearly on equal footing with the Grand Crusader. Our great admirals make up for our less than noteworthy naval strength. +1 naval fire
+Raven Priests: For the first time the addition of the raven priest sect has allowed Scarlet forces to use shadow magic against the undead forces. +1 heretic/heathen tolerance 5% infantry combat
+Bonus: -.05 war exhaustion per month -20% recruitment time
+
+
+Vrykul:
+Starting: -1% mil tradition decay
+The Awakening: Vrykul were once a dying race. To preserve themselves they placed their bodies in a deep sleep are now being awakened by mystic powers. 20% manpower bonus.
+Treasure Hoards: Thanes and kings hold reserves of gold, jewels, and trinkets. These reserves reflect on a leaders amount of power and respect.  10% tax increase 
+Ascension: Fight hard, never give up your weapon, and show no mercy to those that surrender. Prove yourself on the battlefield in life and you will surely be awarded in the afterlife. 15% morale 
+Trained from Birth: The Vrykul clans are a war-centric society. To show signs of weakness is dishonorable. One that is unfit for combat, is one that is unfit to live. All Vrykul are trained for combat from birth. 10% infantry power
+Longboats: Vrykul longboats are fast, quiet, and packed full of seafaring troops. Many times these ships are loaded with ballista that fire grappling hooks attached to thick ropes that are used to board enemy ships. 10% galley ability
+Rune-Casting: Mystic Vrykul casters that specialize in ancient rune magic. Little is known about the rituals undergone by rune-casters, however all casters are trained for battle. 5% morale recovery rate
+Harsh conditioning(used to harsh landscape): The unforgiving lands of Northrend provide a perfect training ground to Vrykul troops. -1% attrition to them. 
+Proto-Drake Riders: These cavalry are elite troops that ride massive  drakes. These primitive drakes are distant ancestors of the evolved dragons that are widely known throughout the Eastern Kingdoms and Kalimdor. The natural plated under belly and head of a Proto-drakes as well as their large jaw and piercing teeth make them well suited for combat. 20% cavalry power
+Bonus: 10% reinforce rate 5% naval moral recover rate
+
+
+Naga: 
+Cultural-not vashj
+Starting: +1 tolerance of the true faith 10% religious unity
+N'zoth's Pact: -20% core creation cost
+Amphibious: +1 leader maneuver
+Coastal Raiding: 33% blockade efficiency
+Horrors of the Sea: -10% land maintenance modifier
+Sea-Witches: 20% manpower recovery rate
+Even the Light will Die: +15% infantry combat ability 
+A Means to an End - +2 relations +1 diplomat
+Bonus: -25% attrition 
+
+
+Argent Dawn/Argent Crusade:
+(Special starting game mission that creates a PU with Knights of the Ebon Blade, once EB lands are annexed or PU is successful they can form Argent Vanguard) 
+Starting: War Exhaustion -.1
+Righteous Crusade: Our nation and army was born out of necessity. We stand as the bulwark of good, and will follow the forces of evil to the edges of the world. +1 prestige. Improve relations modifier 50%
+Hold the Line: Soldiers of the Crusade stand together, shoulder to shoulder, as brothers and sisters. Race, religion, and wealth mean nothing as a soldier of virtue. 20% morale
+Sacred Ground: These sacred lands are under the protection of the Argent Dawn. .25% enemy attrition 25% enemy coring cost
+Strength of the Light: Our military leaders are guided by righteousness. They wield weapons that are blessed by the light, increasing their power tremendously. 1 leader shock
+Heal the Lands: By allowing Cenarion Circle druids and Holy Churchs' priests to practice their magic, they are able to heal the twisted earth that had been tainted by the Scourge and other evil forces. 2% conversion vs heathen
+Foreign Aid: The Argent Crusade relies on volunteers from both the Horde and Alliance, but also requires supplies and materials to fund the high cost of war. Although the Alliance is the main backer of our crusade, we graciously accept any Horde support as well. 5% tax efficiency 5% production efficiency
+Defend the Weak: Men and women must take up arms against the forces of evil. Those that seek to hurt the innocent must cleansed from this world. 10% fort defense 10% reinforce rate. 10% global garrison growth.
+Bonus: 15% discipline
+
+Knights of the Ebon Blade: service in death / death knights / 
+Argent Vanguard: the best of the knights and argent / ashen verdict smiths
+
+
+Forsaken: 
+If Scourge do not exist, Forsaken are granted Valkyr, giving 33% manpower recovery rate
+Starting: 20% religious unity
+Treasures of Lordaeron - 10% tax
+Will of the Forsaken - 5% morale recover
+Dreadlord Advisor: -25% advisor cost +1 revolt risk
+Forsaken Blight: 30% artillery power
+Royal Apothecary Society -
+Raise the Fleet - 15% naval bonus limit -25% ship build speed 
+Forsaken Deathguard: In life they were champions of Lordaeron, in death they are the Deathguards. 10% discipline
+The New Lords of Lordaeron: +1 legitimacy 
+Bonus: 10% heavy ship ability 10% infantry combat ability
+
+
+
+Drakkari:
+Starting: +20% manpower recovery rate
+Scared Shrines: Our priests place offerings at holy shrines throughout Zul'drak to please the gods. They have our attention for now. -10% stability cost
+The Delight of Battle: Drakkari are known for their love of battle.. this love only comes second to drinking the blood of their fallen enemies -20% war exhaustion cost
+Raptor Pens: Special pens that house eggs and domesticated raptors raised from birth to fight for their Drakkari riders. -20% cavalry cost
+Tolerated Violence: A strong military tradition with successful kings has led to one of the most powerful empires in Northrend. +.25 military tradition 
+Defend Against the Scourge: As the Scourge encroach on our lands, we must fortify every position we have to prevent the unthinkable. 20% fort defense 
+Grand Armory: Deep within the protected citadel, the Drakkari hold massive reserves of weapons and armor in order to supply their recruits much faster than normal troll tribes. -20% global regiment recruit speed
+Champions of Gun'Drak: The elite Drakkari caste. These great warriors have proven themselves and are granted the title of "Champion" by the Frost King himself. Typically used to protect the capital as the last line of defense, they have been called forth to reinforce the core of the army. 25% infantry ability 
+Bonus: +2 leader pool
+
+
+Zandalar
+Starting: 5% trade efficiency 1 diplomat 
+Progenitor of the Trolls: The birth of troll civilization began long ago with the Zandalari. +1 prestige
+The Prophet Zul: The dark prophet Zul is the king's most trusted advisor in the Zanchuli Council. 10% stability cost -10% advisor cost 
+Zandalari Wisdom: Knowledge is a powerful tool, our ancestors were known for it, and with it we can better ourselves and society. 10% idea cost
+Legacy of an Empire: The Zandalari Empire was once vast and rich. Now it is a shadow of its former self. It is time to take back what is rightfully ours. -15% coring cost
+War-God: Only experienced generals that have proven themselves in battle are granted the title of War-God. +1 leader shock
+Embrace the Sea: When we take to the sea there will be nowhere our enemies can hide. 10% naval forcelimits -10% ship cost
+Kalimaste: Unleash war onto the world. Leave none alive! Kalimaste! Kill them all! 15% discipline 
+Bonus:  20% land forcelimits modifier
+
+
+Amani 
+Starting: +10% manpower recovery
+Harsh Rule: Challenge the might of the Amani and you shall find your head parted from your neck. 25% vassal income
+Amani'shi Berserkers: Equipped with two handed razor sharp serrated swords these soldiers are capable of cutting a man in half with a single swing. 10% infantry ability power 
+Warbringers: At the head of each brigade stands a fearsome Amani Warbringer. He charges into battle wearing the skulls of his defeated enemies. 5% morale recover rate
+Arcane Hatred: The elves and humans can keep their arcane tricks. We on the other hand will take pleasure in purging it from our lands. +1 missionary -1 tolerance of heathens
+Vessel the Loa: The spirits of our various animal gods are infused into our most dedicated priests transform them into savage commanders.+1 leader fire
+Amani Bear Cavalry: Deadly, yet slower than our troll brothers that use raptors. Amani use native bears from the sacred forests in our homelands. Ride in and rip our enemies to shreds. 10% cavalry ability
+Da Amani di'chuka: De' Amani never give up. We never forget. We never die. 'Dis is our land: You wanna stay, you stay here forever. We gonna bury you here... -Warlord Zul'Jin. +25% morale 
+Bonus: -20% aggressive expansion impact
+
+Gurubashi
+Starting: -10% infantry cost 
+Gurubashi Arena: A grand arena constructed to allow warriors to hone their skills with fights to the death. +.25 army tradition
+High Priest Society: The high priests stand atop their temples to preach the word of the gods, denounce the heathens, and offer sacrifices. +1 tolerance of the true faith 1% religious conversion rate
+Troll Slavers: In troll society, slaves have never been out of the ordinary. Gurubashi slaves are used to build magnificent temples.. only to be eventually sacrificed on their own works. -15% build cost -20% build power cost
+Zanzil: Once an outcast, the witch doctor Zanzil has been called back to aid his Gurubashi brethren. His unnaturally long life is a testament to the effectiveness of his potions. Now he concocts powerful elixirs that enslave the minds of those that are unfortunate enough to breath them in. +20% siege efficiency 
+Zulian Gold: Stashes of gold coins and jewelry are still found among the local populations. Much of the gold was thought to have been lost during the fall of the Twin Empires and the following sacking of Zul'Gurub after the defeat of Hakkar the Soulflayer and his followers. +10% tax
+Gurubashi Blood Drinker: Heavily armed elite Gurubashi soldiers atop only the largest armored raptors. These fearless trolls are known to be the answer to the cavalry of the Alliance and Horde armies, and what an answer they are. 20% cavalry ability power
+Zin'rokh: This legendary weapon is also known as Zin'rokh: The Destroyer of Worlds. A massive two handed blade passed from bloodlord to bloodlord, it is said that this blade was crafted by the titans themselves. +1 leader shock
+Bonus: 50% manpower modifier
+
+
+Sandfury 
+Starting: +1 hostile attrition
+Windswept Dunes: The desert has given our soldiers the perfect means to train in speed and stealthy movement. Our generals will make use of our tactics to counter the enemies position. +1 leader maneuver. 
+Withering Nation: Slowly our nation wastes away. Nearly forgotten, we have waited for the right time to strike. Discovered relations impact -25% 
+The Martyr: Legend tells that long ago during the war between the trolls and the Qiraji, the massively outnumbered warrior Theka stood his ground and single handedly slaughtered hundreds of Qiraji soldiers before falling to the enemy. To this day he serves as an inspiration for all Farraki soldiers. 10% land morale
+Expel the Foreigners: The humans and goblins come to our lands and try to sell their worthless trinkets and baubles... useless things... remove them and be done with it. Embargo efficiency 33% 
+Sacred Pool of Zul'Farrak: Throughout Tanaris the pools serve as a place of worship for the trolls. Harmless as though it may seem, something sinister stirs beneath the water: 25% religious unity
+Public Executions: A dead man can commit no crime. Let the executions begin! : -1 revolt risk
+Fury of the Sands: The time is now. Soldiers of the Farraki flock to the banners. The empire rises from the desert sands once again to wage war on all who would oppose them. :10% reinforce speed -10% core cost
+Bonus: +.5 army tradition land attrition -.25
+
+
+Generic Troll Ideas 
+Starting: 33% manpower recover rate
+Forest Resources: 5% production bonus
+Clan Warfare: .25 yearly army tradition
+Headhunting: 5% discipline
+Raid Supplies: 1% enemy attrition
+Simple Armaments: -10% land maintenance modifier
+Relentless Assault: 10% infantry ability 
+Chieftain Councils: 1 bonus advisor
+Bonus: -1 revolt risk
+
+
+Draenei ideas
+Starting: tolerance of the true faith +2
+The Exiled Ones: Draenei means "the exiled ones" in their native tongue. The Draenei have fled from the Burning Legion in search for a new homeland and new allies. -25% aggressive expansion impact. 
+Resilient Refugees: Hunted by the Legion and slaughtered by the orcs, the Draenei still stand. These resilient people have forged a strong military and will refuse to bow to any that would challenge their freedom. 15% morale
+The Temple of Karabor: The fall of the temple to the orcs was disastrous. Every Draenei knows of the sacrifices made by the brave men and women in their attempt to save the temple. -1% prestige decay 1 missionary 
+Light's Strength: Paladins make up a vast majority of Draenei forces. These soldiers are heavily armed and   call upon the holy light to grant them additional abilities in combat. 5% discipline
+The Naaru: Those that are born of Light. The Naaru are a race of sentient beings that are bent on stopping Legion and have fled alongside the Draenei.  It is said that the Naaru are truly the purest form of good. 2% conversion rate
+Crystalforged Armaments: These bright purple and pink crystal shards that only Draenei smiths are capable of using to craft are dubbed as crystalforged. Sharper than any known material and stronger that even the hardest metal, they are used rarely used to make whole pieces of equipment. Rather they are used as enhancements on existing gear to increase their effectiveness.  10% infantry ability
+Farseers: The stigma of Broken shamans are slowly easing. Draenei farseers are in essence, shamans. They have embraced shamanist traditions and are able to communicated with nature and their ancestors. tolerance of heretics +1 5% idea cost
+Bonus: +1 leader fire 
+
+Goblin Ideas:
+Starting: 30% local trade power
+Trade Prince: 1 bonus merchant
+Company Contracts: 50% available mercenaries 25% mercenary cost
+Merchant Navy: 20% naval force limit modifier 10% trade steering
+Protected Trade Routes: 15% trade efficiency
+Goblin Engineering: 5% technology cost 5% idea cost
+Deep Mine Extraction: 10% production bonus
+The Price of Loyalty: 10% spy offense 1 diplomat
+Bonus: 20% light ship ability 10% galley ability
+
+Stormwind Ideas
+Starting: 25% imperial authority 
+Unbreakable Will:  The people of Stormwind are the bulwark of humanity in the southern portion of the Eastern Kingdoms and are willing to proudly serve their country. Even in the face of overwhelming odds, the human spirit cannot be crushed so easily. 10% morale 15% manpower recovery 
+Stormwind Ambassadors: A skilled negotiator can go a long way in a world plagued by war.+2 diplomatic relation +2 reputation
+Establish the SI:7: Intelligence gathering is a key part of any nation that hopes to survive in these dangerous times. SI:7 agents are capable of gather information as well as carrying out assassinations. 15% spy offense 15% spy defense 5% infantry combat ability
+Knights of Stormwind: Although knights are no longer a symbol of status and wealth, these knights are still just as impressive as their previous brothers-in-arms. Whether they fight on foot or mounted these professional soldiers are clad in the finest traditional yellow, silver, and blue hand crafted armor and provide a true showing of Stormwind's military might.  5% discipline
+Cathedral of Light: A grand monument dedicated to the Church of the Holy Light that attracts priests and paladins from all over the world. 1 missionary +.5 prestige per year
+House of Nobles: The House of Nobles have a powerful influence over the population. Should Stormwind find herself in a prolonged war these nobles can prove to be a great blessing to quell a restless population. -15% cost of reducing war exhaustion
+Found the Royal Fleet:  The necessity for a strong fleet to protect overseas interests and home ports  has garnered enough attention to upgrade the light fleet into a heavy armada, complete with ironclads and steam powered icebreakers. 5% ship durability 15% heavy ship ability
+Bonus: .25 naval tradition .25 land tradition 
+
+
+Lordaeron
+Starting: +1 legitimacy per year
+Alliance Tacticians: Tacticians and strategists from throughout the seven kingdoms gather at the War Council to discuss matters concerning the safety of humanity.1 bonus advisor -15% advisor cost
+Fertile Farmlands: The north is blessed with perfect farmland and in turn have become the major supplier of grain throughout the kingdoms. 25% manpower bonus +1 reputation
+Spearhead of the Alliance: Lordaeron soldiers fight for their king and country. A professional army must be established in order to secure our borders and maintain stability. 10% infantry 10% cavalry combat ability
+Faith of the Light: the people of Lordaeron are known for their devoutness of the Holy Light. +tolerance of true faith 1 
+The Crown Prince: Legacy is an important part of Lordaeron nobility. For a family line is a sign of end times. +50 heir chance
+National Pride: Sometimes the love of ones country is enough to calm an upset populace. 15% stability cost 
+Provincial Regulations:  A new system of annexing provinces that allows for easier assimilation into the kingdom. 15% coring cost -2 years of nationalism
+Bonus: 15% force limits 
+
+Kul Tiras
+Bonus: 50% naval force modifier
+Port Cities: Kul'Tiras society is based on port towns and cities. Many trader hubs are established in these cities and as such they attract international attention. 15% trade steering
+Naval Tradition: Without a strong naval tradition, our fleets will surely be fall behind the times. In today's world a nation cannot afford to be weak at seas. +1.5 naval trad 5 navy recover
+Armed Merchant Ships: Merchant ships are heavily armed by the state in order to combat rampant piracy. 20% light ship combat
+Advanced Naval Landings: Kul'Tirian naval and ground commanders are taught the importance of flawless manoeuvrability. This advanced training is the epitome of water to land invasion tactics and is studied by nations around the world. +2 land leader maneuver
+Worldwide Imports: The vast amounts of trade goods have gathered international attention. +.5 trade good production +5% trade income
+Imported Lumber: Large quantities of strong yet cheap lumber are purchased from our allies in bulk to supply the needs of our navy. -20% ship cost
+Armada of Kul Tiras: Massive battleships complete with elite marines are are supported by smaller mortar galleys create an unstoppable naval force. 15% heavy ship 5% galley 
+Bonus: 15% blockade efficiency -15% time to fabricate trade conflict
+
+Stromgarde
+Starting: cost to reduce war exhaustion -20%
+Trollbane: The old family name of Trollbane commands respect throughout the world. Without the Trollbane dynasty, humankind may have been eradicated by the troll empires.   +1 yearly prestige +25% heir chance
+Conscription of the Guard: In order to protect the nation from constant assault, a system of conscription was created to provide additional troops to city garrisons. +40% national garrison growth
+The Raven of Strom: Under the banner of the raven our army gathers. Red trim for our enemies blood that will coat the battlefield, a white raven to symbolize the purity and justice of the nation of Stromgarde. 10% bonus forcelimits 10% morale
+Military Professionalism: Our officers, soldiers, and commanders will never break form. They are cold blooded killers that have trained their whole life for the next battle to come. +1.5 army tradition 
+Strength in Unity: Without a strong nation we will wither away and become prey for our neighbours. The royal council has decided it would be best to create a system of annexation that is less of a strain on our own resources. -25% cost to diplomatically annex
+Knights of Stromgarde: The elite cavalry of Stromgarde. They are renowned for their devastating charges and melee combat skill atop horseback. Throughout human nations copycat regiments have been created in attempts to imitate these impressive cavalry. 33% cavalry bonus +5% cavalry cost.
+Trol'kalar: The great sword Trol'kalar is passed from generation to generation. It has taken many troll lives and will continue to due so, troll or not. 1 leader shock
+Bonus: relations decay of me .3
+
+
+Alterac
+Starting: Bonus mercenaries 50%
+Devious Tongues: Rightful claims to land are an amazing thing, but they take time. With a little "influencing" we can speed this lengthy progress up. 33% fabricate claim time
+Open Negotiations: Sometimes dealing with a few shady businessman pays off... Especially when your entire countryside is under siege. -10% Mercenary Maintenance
+Outmaneuver: Our troops are light on their feet, and with a quick military commander we can easily position ourselves to the advantage. +1 leader maneuver 
+Syndicate: The Syndicate are state sponsored assassins, thieves, and spies. This organization is a constant thorn in the side of neighboring nations and would be directly targeted for military attacks if they weren't under Alerac's protection.  25% spy defense 25% spy offense -15% unjustified demands
+Supply Sabotage: We know the terrain better than any others. If they step foot in our lands, they should be prepared for starvation, ambushes, and disease.  +1 attrition for enemies
+War Propaganda: With every little contribution to the cause we will continue to win this war. -.10 monthly war exhaustion
+Falsify Taxes: Pay your dues, or part with your head. Our tax collectors are merciless and the threat of war requires our coffers to be constantly full. 15% tax increase 
+Bonus: 20% vassal income 
+
+
+Gilneas(worgen)
+Starting: -25% building cost -10% build power cost
+Gilnean Industrial Revolution: 10% production efficiency +.1 trade goods
+Isolated Trade: Our nation has thrived on our isolationist policies. With mass industrialization comes new products to sell and a niche in the market. +20% inland trade steering.
+The Worgen Curse: Our isolation has been our doom. Famine, war, and plague has caused much suffering and in return we have become desperate. When Arugal returned with his answer to our problems we were open to any suggestion. This however, is not what we asked for. The worgen curse has spread like wildfire. +1 revolt risk +25% infantry combat ability
+Controlled Fury: As time goes on we have learned to control our curse and transformation. Many see it now as a blessing. Our worgen blood prevents us from become undead minions. Our senses have been heighten and our reflexes quickened. -2 revolt risk
+With Open Arms: With our closed society having recovered the verge of collapse, and nearly bogged down in complete civil war, we are now searching for old alliances. relations decay of me .15 diplomat +1
+Gilnean Court: The Royal Gilnean Court convenes under the moonlight to discuss pressing matters. The moonlight forcibly transforms Gilnean nobles into worgen. This symbolic gesture shows that one has nothing to hide as well as physically showing that they are not an outsider and a spy. -15% advisor cost -10% stability cost
+Gilnean Liberation Front: The Gilnean Liberation Front, or GLF, was established to oust foreign invaders from Gilnean lands. It has been decided that the GLF will continue to function as a strategic advisors as well as spies for rebels in neighbouring nations. rebel support efficiency +.5  
+Bonus: discovered relations impact -.35
+
+
+
+Dalaran
+Starting: tolerance of heretics, heathens
+Center of Arcane Study: Students from around the world gather in Dalaran to pursue arcane education and hone their magical skills. 15% idea cost
+Kirin Tor: 10 tech decrease
+Ward Creation: 20% fort defense
+Expert Mages: 15% discipline
+Archmages: 1 fire leader
+The Eye of Dalaran- 1 prestige? 
+Bonus: 1 maneuver
+
+
+
+Wildhammer 
+Starting: +1 leader maneuver
+Gryphon Riders: 33% cav power 
+Trade posts: 10% trade income
+Air Raids: Wildhammer gryphon rider groups are attached to artillery regiments. They are able to fire their guns and swoop in to pick off unsuspecting guardsmen as well as drop hand-held explosives onto soldiers and buildings. +10% siege ability.
+Brew(name of Brew- something fire) -1 revolt risk 
+Trapping Technique: 10% production
+Dwarven Pride: -2 prestige decay
+Gryphon Ambassadors: Wildhammer ambassadors use the swiftest gryphons to deliver messages and conduct diplomacy. Ambassadors understand that a single day of missed travel could be the difference between the outbreak of war and peace. -40% envoy travel time +2 reputation 
+Bonus: -
+
+Ironforge
+Starting: 33% defensive
+Large Caliber Muskets: High caliber armor piercing rounds help keep enemy charges at bay. These rounds can be fired over a much longer distance than normal guns all while keeping great accuracy. 5% discipline 
+Advanced Production: Massive overhalls to the production system have yielded new techniques that provide a boost the economy.  .5 trade goods modifier +5% tax modifier
+Mortar Detachments: One close combat mortar detachment is allocated per regiment. These men and women are specialized at danger close fire and can easily take out enemies that are entrenched in cover. 7.5% infantry combat ability
+High Explosive Rounds: It is known that Ironforge creates the highest quality of gunpowder. With this gunpoweder, artillery cannons are now capable of firing large shells of high explosive gunpowder over long distances. Enemy regiments are blown to pieces and walls are quickly breeched with this new technology. 15% artillery combat bonus 10% artillery siege
+Arsenal Superiority: Commanders are drilled in combined arms offensives. Using massive artillery barrages to advance musket and pike troops. +1 leader fire
+Grand Forge: In the heart the caverns of Ironforge a massive cauldron hangs above the grand forge, continually flowing with molten iron. Most of Ironforges weapons are made here as the mines provide quite the yield. - 20 regiment cost 
+Mountaineer Training: All Ironforge soldiers are provided a degree of mountaineer training. This type of training helps troops with harsh conditions survival training.-20% attrition
+Bonus
+
+Gnomes
+Start: diplomat 
+Saboteurs: Small and sneaky, gnomish sabateurs are consistently recruited by human and dwarven nations in order to boost their spy capabilities.  33% spy offense
+Mekgineers: Geniuses in mechanical engineering. These field troops deploy and control large war machines to do battle rather than risk their own lives. 10% cavalry power
+Technologically Advanced: Gnome society is build on advancement. They hold the brightest minds in all of Azeroth, however some goblins would argue this point. 10% tech cost
+Naval Technology: Submarines, destroyers, and battleships, the gnomes have it all. They even have self repairing ships. These ships are capable of assessing their own damage and administering makeshift repairs. Ships can repair in costal zones. 
+Well Oiled: Synthetic oil is created by gnomish chemists. This allows for easy access to keep their machines well oiled and problem free. 10% land maintenance
+Gnomish Engineering: Many great inventions have come from gnomish minds. They are at the forefront of discovery and are always one step ahead of any other nation. 10% idea cost
+Mechanical Warfare: Although the gnome population is relatively small, they make up for it by using machines to take their own places. This allows for wars to be waged with little gnomish casualties. 33% manpower recover rate
+Bonus: 5 relation 10 stability
+
+
+Bleeding Hollow
+Starting: Unjustified demands .25
+Logistical Dominance: The Bleeding Hollow clan provide absolute logistics for the orcish horde on Draenor. 10% production efficiency 10% tax modifier
+An Eye for an Eye: The legendary Kilrogg Deadeye lost his eye in battle and still continued to fight on. Prove yourself as an equal orc and surrender. 15% morale bonus
+Siege Engineers: Bleeding Hollow forces counter Alliance artillery with that of their own. Large ballista and glaives are thrown over massive distances and inflict severe casualties to regiments caught in the open. 20% artillery combat ability
+Naval Determination: As the orcs of Draenor found a need for naval power, the Bleeding Hollow stepped in to fill the spot. +1 naval leader fire.
+Armed to the Teeth: Bleeding Hollow naval forces create smaller naval vessels that are jam packed with as much fire power that will fit. 25% galley ability 
+Bleeding Hollow Sappers: Captured gunpowder has benefited the military siege tactics. Even small quantities of gunpowder are incredibly powerful when used effectively on weak spots of fortified walls. +5% siege ability
+Adapt and Overcome: The Bleeding Hollow clan is known for its ability to survive in hostile lands, even when surrounded and cut off from all allies. -25% attrition
+Bonus: war exhaustion -.2 % -5% military technology
+
+
+
+Dragonmaw
+Starting: 10% coring cost
+Drake-Slavers: Drakes are born and bred by the Dragonmaw for war. The rider-drake relationship is not built on a foundation of trust, but rather power. -20% cavalry cost
+Prison Camps: Prisoners of the Dragonmaw are used as forced laborers. It's common knowledge that if you are sent to a Dragonmaw mine, you won't be making it out alive. 10% production bonus 
+Elite Drake Riders: The Dragonmaw are known for their impressive drake cavalry. These troops are equipped with top of the line gear and the ride the most ferocious drakes. 20% cavalry ability
+Dragonmaw Skyclaw: Skyclaw prefer to fight battles mounted atop their drakes, however they can be founds amongst their comrades on foot as well. These unique soldiers use large hooked two handed axes. Not only can they quickly hack apart enemy troops, but the axe is also used to hook enemy riders from their air and ground mounts. 5% discipline
+Flags to Front: At the head of every Dragonmaw legion stands a proud flag bearer. It is an honor to be this chosen individual and many Dragonmaw strive to become this soldier. 10% morale bonus 
+Champions of the Sky: In order to lead, one must prove that they have mastered the skies. A veteran must undergo a series of aerial tests to become a champion. If one fails the test, the lucky will have most likely been killed after falling from the sky. Those unfortunate enough to have lived will be fed to the drakes in the holding pens. If one succeeds they are instated as a Champion and are promoted to lead the Dragonmaw armies. +1 leader maneuver
+Drake-Skull Diplomats: These diplomats wear intimidating draconid skulls to shroud their faces. They are openly hostile and use fear to intimidate nations they deem weaker than themselves, although even the mightiest of nations avoid conflict with these powerful warriors. +2 diplomatic influence
+Bonus: +1 diplomat
+
+
+
+Red Dragonflight
+Starting:
+
+Blue Dragonflight
+Starting:
+
+Green Dragonflight
+Starting: 
+
+Black Dragonflight
+Starting:
+
+Bronze Dragonflight
+Starting: 
+
+Netherwing Dragonflight
+Starting: 20% religious unity
+On Wings of Nether: 
+Bonus: 
+
+
+Laughing Skull
+Start: Global Garrison Growth +.3
+Self Preservation: The other orc clans plot against us. We must think of ourselves and the survival of our clan. +.50 improve relations modifier
+Laughing Skull Assassins: In the dark of the night, the shadowy assassins raid hostile camps. +1 enemy attrition
+Forced Loans: Our military power has allowed us to extort our neighbors and vassals for loans. Most of the time these loans will go unpaid. interest -1 
+First Strike: Counter our enemies and launch our invasions before they have a chance to muster their forces. -25% fabricate claim time
+Ogre Leaders: Our clan is led by powerful ogre-magi. +1 leader fire
+Exploit Our Subjects: In order to gain the full benefit of our vassal-overlord relationship, we have increased taxes and employed forced labor on our vassals. +25% vassal income
+Laughing Skull Loyalists: Through diplomacy and bribes, we place loyalists into important foreign government positions. +4 diplomatic relation
+Bonus: +1 yearly legitimacy
+
+
+Warsong
+Start: -10% coring cost
+The Sword and Axe: Powerful infantry provide the backbone of the Warsong army. 25% infantry ability
+The Hellscream Dynasty: A family that respects strength above all. As long as the Warsong clan exist, the Hellscream name will live on. 75% heir chance
+Gorehowl: The legendary axe Gorehowl gained its fame when it was used to slay the massive pitlord Mannoroth. It is passed from generation to generation and is revered by all orcs. +.25 military tradition -.5% yearly prestige decay
+Pride of Conquest: Our clan prides itself on military conquest. Our hunger for war is understood and admired. -15% aggressive expansion penalty +25% prestige from battles
+Warsong Wolf Riders: These wolf riders are used for scouting purposed. They are always pushing ahead of friendly forces in order to gather information and secure roads. -15% attrition
+Military Assimilation: The Warsong clan absorbs friendly clans and vassals into its own nation in order to bolster its own forces. -10% diplomatic annexation cost 5% land forcelimits 
+Lead from the Front: Officers and generals are taught that it is weak to leader from behind. Lead from the from and show your troops that there is nothing to fear. 2.5% morale recover rate 10% army morale bonus
+Bonus: 10% reinforce rate
+
+Generic Orc Ideas
+Start: 10% tax bonus
+Orcish Horde: 20% manpower bonus
+Adamantine Forged: 10% infantry cost
+Brutal Assault: 5% discipline
+Conquer for the Horde: 10% coring cost
+Strip the Resources: 5% production
+Establish Order: 10% stability cost decrease 
+Prideful: 10% morale bonus
+Bonus: 15% army reinforce rate
+
+
+
+High Elves of Quel Thalas
+Starting: 1 diplomat
+The Sunwell: 20% stability cost
+Defeat of the Amani: -2 army decay
+Arcane mages into the army: 10% discipline
+Eternal Spring: 10% production
+Arcane Law: +2 hereticother
+Ranger-Generals: +1 fire 
+Trade Establish: 15% trade steering
+Bonus 2 prestige decay
+
+Frostwolf
+Start: +1 diplomat
+Frostwolf Ambassadors: Our ambassadors help establish dialogue between feuding clans and promote peace.  +4 diplomatic reputation
+Trade Caravan: Frostwolf trade caravans bring large quantities of trade goods over long distances. Armed soldiers follow the caravans to make sure they are protected from raiders and wildlife. .15 global trade power
+Nature Shamanists: The peaceful Frostwolf shamans are in touch with their ancestors and elemental spirits. Shamanism is important to the Frostwolf clan and its practitioners are highly respected. -1% prestige decay
+Camouflaged Hunters: Our expert hunters and trappers can be recruited and used to bog invading armies down. +1 enemy attrition
+Oshu'gun Spirits: When Oshu'gun crash-landed on Draenor, orcish ancestral spirits were drawn to the mysterious vessel. The Frostwolf clan has established this zone as sacred ground. +1 missionary 
+Frostwolf Howlers: Large wolves that have an affinity for mountainous and snow covered terrain are used as war mounts.  20% cavalry combat ability
+Elemental Calling: Our shamans are able to call upon the many types of elements to aid us in battle. +2.5% morale recover rate +10% manpower recover rate +5% infantry combat
+Bonus: .02 global missionary conversion
+
+Mag'har 
+Start: 20% religious unity
+Isolation: The red pox that spread throughout our clan killed many, but also saved us from the demonic influence. Our isolation was our key to avoiding corruption. 15% stability modifier cost +15% fort defense 
+Uncorrupted: When the other orcs became corrupted their skin turned blood red, and eventually as the haze disappeared the orcs would be known as greenskins. We however have retained our brown color and are easily distinct from other orc clans. 50% spy defense
+Peaceful Neighbour: We are known for our peaceful ways and would much rather be left out of orcish conflicts. improve relation modifier .50
+Orcish Medicine: The Mag'har are known for their powerful medicine and remedies that were developed out of experimentation during the red pox outbreak. 20% manpower recovery
+Architectural Improvements: Our avoidance of war has allowed us to spend time learning how to improve our building capabilities. -5% administration tech cost -20% building cost -10% building power cost.
+Respected Leaders: Mag'har leaders such as the Greatmother are renown for their wisdom. +.5 yearly prestige -5% idea cost
+Justice: We keep the peace with a fair system of justice. -1 revolt risk
+Bonus: +1 tolerance of heretics +1 tolerance of heathens
+
+Draenei ideas
+Starting: tolerance of the true faith +2
+The Exiled Ones: 10% stability modifier
+Resilient Refugees: 20% morale
+The Temple of Karabor: 1 missionary 1 bonus yearly prestige 
+Light's Strength: 15% discipline
+The Naaru: 3% conversion rate
+Crystalforged Armaments: 15% infantry ability
+Farseers: tolerance of heretics +1 5% idea cost
+Bonus: 1 leader fire 
+
+Goblin Ideas
+Starting: 10% trade income
+Trade Prince: 1 bonus merchant
+Company Contracts: 50% available mercenaries 10% mercenary cost
+Merchant Navy: 20% naval force modifier
+Protected Trade Routes: 15% trade steering
+Goblin Engineering: 5% technology cost 5% idea cost
+Deep Mine Extraction: 10% production bonus
+Loyalty can be Bought: 10% spy offense 1 diplomat
+Bonus: 10% light ship ability -.04 gold inflation 
+
+Orgrimmar
+Starting: -1% army tradition decay
+Strength and Honor: Strength and honor are valued above any other trait in orc society. +1 yearly prestige
+Orgrimmar Kor'Kron Assets: Orgrimmar military deploys its Kor'Kron forces throughout the world. The Kor'Kron are made up of mostly elite orcs, but also foreign Horde affiliated volunteers. They serves as the bodyguards for warchiefs and are the direct counterpart to the Alliance 7th Legion and SI:7 ground forces. +10% spy efficiency +10% discipline
+Honorable Combat: In order to resolves differences and avoid blood feuds, orc law allows for honorable combat to take place between two combatants. -1 revolt risk
+Remember our Ancestors: Our ancestors succumbed to demonic temptation. This we must not forget or we will be doomed to repeat the past. -20% stability cost.
+Diverse Populations: Many races and backgrounds are allowed to live in Orgrimmar territory so as long as they support the Horde. -25% culture conversion cost +20% bonus manpower
+Overpower: Large scale assaults that utilize mass bombardments, elite shock troops, and expert battlefield coordination help give Orgrimmar a great advantage in combat. +10% morale +15% land forcelimits +1 land leader maneuver
+Expansionist Policy: We do not want to appear weak to our enemies and allies alike. We must assert our dominance on the mainland as well as overseas overseas. -10% coring cost relations decay of me .15
+Bonus: 25% naval forcelimits. +1 bonus leader
+
+Shadowmoon Clan Orc
+Starting: Relations decay of me .25
+The Elder Shaman: Shadowmoon orcs follow the elder shaman's guidance. To disobey an order or ignore a vision is unheard of. -1 revolt risk
+Demonic Whispers: An outsider from the Twisting Nether has contacted us with a deal. However, our destiny is still our own. Whatever we decide, it must be for the better of our clan. -15% aggressive expansion impact
+Spiritual Revival: Our shamans are the most powerful on all of Draenor. In the past, orcs looked to us for guidance, and they will continue to do so now. +2 diplomatic reputation +1 diplomatic relation
+Students of Shadow: Initiates to the dark arts are promising additions to our clan. They spend day and night researching and unlocking the secrets held within the deep shadows. -5% technology cost
+The First of Their Kind: Warlocks originate from the Shadowmoon clan. These troops are capable of harnessing dark magic and turning it into a destructive weapon. Some warlocks are even known to be able to summon demonic creatures to due their bidding. +15% infantry combat
+Shadowmoon Commanders: The Shadowmoon clan place an emphasis on strong military command. Most clan leaders are highly skilled warlocks and have mastered battlefield tactics. +1 leader fire
+Truth in Shadows: Why listen to anyone else when the void provides all the answers to your questions? Do not doubt the truth in shadow. -10% idea cost.
+Bonus: +2 advisor pool
+
+
+Blackrock Orc
+Starting: -20% regiment cost
+Deep Vein Excavation: The mines are stripped clean of every last resource we can get. No minerals are left untouched. +10% production efficiency.
+Orcish Foundries: Master Blackrock smiths are capable of using our large foundries to our advantage. They are able to constantly pump our high quality weapons and armor for our troops with little cost to us. -10% land maintenance. 
+Blackrock Steel: Our metallurgists have created a new type of steel. Darker and quite stronger than normal steel, it provides better protection and sharper weapons. +2.5% discipline 
+Arms Deals: In order to boost our war capabilities, we have negotiated massive arms deals with our vassals. .2 vassal income. vassal forcelimit bonus +.25
+Dragon Acquisition: We have secured black dragon mounts and are now able to wreak havoc from the skies. +20% cavalry bonus
+Blackrock Spire: Blackrock Spire holds massive deposits of iron, thorium, and strong Blackrock stone. +.15 global trade good size +10% fort defense 
+Intense Drilling: Large formations of orcs gather to participate in military drills. Divisions are broken up into squads that are usually observed by harsh ogre drillmasters. +15% army morale 
+Bonus: -20% regiment recruit time
+
+Dark iron dwarves
+Expert miners
+Slave labor 
+Shadow tactics - military like ambushes 
+Servants of Ragnaros
+Shrouded ambassadors
+
+
+Naga
+Starting: +1 tolerance of the true faith
+N'zoth's Pact: When Nazjatar crumbled and sunk to the sea, its people joined her. On the verge of death, the Highborn elves accepted N'Zoth's proposal. The Highborn would become naga, and in return would serve the Sunken God. -20% core creation cost
+Amphibious: The naga do not use cavalry. They are however, amphibious creatures that launch their assaults from the waters. No river, lake, or coast is safe. +1 leader maneuver
+Krakens: Tentacled beasts from the deep sea. They serve their naga masters as heavy naval support. Their massive tentacles are capable of crushing wooden ships into pieces. While powerful, they are rare, and a loss of one can be devastating. 33% blockade efficiency +35% heavy ship ability +250% heavy ship cost
+Horrors of the Sea: In addition to krakens, the naga have various other types of creatures and allies at their disposal. These can range from murlocs to oceanic Faceless Ones. +20% infantry ability.
+Sea-Witches: Sea-witches are female naga that fill combat roles. These can vary from battlefield healing to casting powerful ice and water spells. 20% manpower recovery rate 2.5% discipline
+Even the Light will Die: 
+you will rest in nyalotha - +3 diplo reputation 1 relation
+Bonus: -25% attrition 
+
+
+Scourge- possible have majority of scourge lands use huge production modifiers instead of tax. Will make counter coring them a lot easier because they're evil/no tax base and give them huge manpower boost. Give them a super low mercantile/trade event so they get nothing from trading. THIS IS HOW TO DEAL WITH NATIONS LIKE SCOURGE AND BURNING LEGION
+Arthas quotes/kelthuzad
+Apocalypse!
+Frostmourne hungers
+All will serve the one true king
+Never ending army
+Precious metals melted down for equipment - increase taxes 
+Cult of the Damn - 2% conv
+
+
+Generic Troll Ideas 
+Starting: 33% manpower recover rate
+Forest Resources: 10% production bonus
+Clan Warfare: .5 yearly army tradition
+Headhunting: 5% discipline
+Raid Supplies: 1% enemy attrition
+Simple Armaments: -5% land maintenance modifier
+Relentless: 10% infantry ability 
+Chieftain Councils: 1 bonus advisor
+Bonus: -1 revolt risk
+
+Frost Vrykul
+Ymierjar Vrykul/njordheim/Valkyrion
+Starting: 10% land forcelimits modifier
+Proto-Drake Reserves: Plagued-proto drakes are much weaker and not nearly as powerful as the other variation of proto-drakes, however they are much easier to catch and as such they plentiful in the Ymierjar ranks. The Ymierjar also employ frost proto drakes in limited numbers. 5% cavalry power -10% cavalry cost. 
+The Death God: The worship of the Death God is a principle of Frost Vrykul society. All worship the Death God without a second thought. 1% conversion rate
+Nascent Valkyr: Skilled Shieldmaidens that have been killed in honorable combat will become Valkyr. Angelic yet deadly, these troops gain the ability to directly communicate to the Death God and are given extraordinary powers. They have the ability raise fallen soldiers, friend and foe alike. In the end the fallen soldiers mindlessly fight for the Valkyr. 15% manpower recover rate  
+The Challenge: All Frost Vrykul strive to be defeated in honorable combat. Upon death they are judged by the Death God. The honorable fallen are raised as Ymierjar. The disgraceful dead are raised as Vargul. 5% morale recover rate
+Champions of Valhalas: These champions are undefeated warriors that have continually fought on the front-lines. A champion of Valhalas is known for their impressive fighting skills and many go on to become captains and even generals.  5% discipline 
+Ymierjar: Fallen and ascended Frost Vrykul warriors that gain unholy strength. These troops are a staple of the Lich Kings army, however Frost Vrykul lords bolster their own forces with these elite shock troops as well. 5% infantry combat ability
+Vargul: The defeated and dishonorable are recycled to the army in order to replenish the ranks. These decaying infantry are almost unrecognizable as once being Vrykul. Despite their own flesh rotting from their body, they are capable warriors. Many do not retain the intelligence of their past life, and as such are only fit to fight as foot soldiers. 20% reinforce rate
+Bonus: -10% land maintenance 
+
+Iron Vrykul: 
+Ironshapers: 30% manpower bonus 
+
+
+Kvaldir:
+Starting: -20% global ship build cost
+Sea-Faring Culture: Where Vrykyl are known for their expertise on land combat, Kvaldir are known for their ferocity on the seas. .5 naval tradition 
+The Gathering Mists: Where Kvaldir travel, the mists are sure to follow. Thick clouds that obscure vision allow for hidden skirmishers to cut down unsuspecting troops. 1% enemy attrition. 
+Fog-Raiders: Naval commanders that use the cover of the magical fog and mist to their advantage. These commanders stealthily navigate the waters without a single audible splash, allowing them to sneak up and ambush stopped enemy ships. 1 naval leader maneuver
+Dragonfleet Longboat: Kvaldir ships are unlike any other. Thick hulls made of a mysterious strong dark wood provide impressive protection as well as speed. The heads of each Kvaldir longboat are carved with intricate designs of dragon heads with ornate deep red rubies for each eye. 25% galley combat ability 5% ship durability
+Mist-Weavers: These skilled conjurors use runic magic to create the impossible. Kvaldir weave the sea into their own bodies, allow them to live and breathe under water. Once a Kvaldir is killed, their corpse disintegrates into mist, reeds, and other ocean life.  5% morale bonus 10% naval morale bonus
+Kvaldir Pillagers: Speedy and efficient raids that leave little behind. Kvaldir may take prisoners for vital information, but they are not known to last long in captivity. 33% blockade efficiency
+Saronite Wavebreakers: Massive Kvaldir ships that use saronite plated hulls, huge ballista, and elite assault marines. They are crewed by hundreds of enslaved rowers in order to maintain a good pace. 10% heavy ship ability. 
+Bonus 25% naval forcelimits 
+
+FIRE ELEMENTAL:
+Starting: +1 diplomatic relation 
+Ambassadors of Flame: Crafty diplomats that can sway even the most loyal subjects towards the will of Ragnaros. +4 diplomat reputation
+Sons of Ragnaros: Ragnaros spawns his minions in vast number from ancient pools of lava and flame. They are born of pure seething fire. 15% manpower bonus
+By Fire be Purged: In the end all shall succumb to flame. Ragnaros and his ancient commanders bring with them unimaginable power and weapons of destruction. +.25 military tradition
+Scorched Earth: Nothing is left for the enemy to use. Countrysides, farms, and even entire towns are turned to smoldering ash. It's people killed or imprisoned. 1% enemy attrition
+Druids of the Flame: These Druids have turned their back on the teachings of Cenarius and now devote themselves to the Firelord. They are capable of shapeshifting into various fire themed creatures, each with a different ability than the last.  10% infantry combat
+Sulfuras, the Hand of Ragnaros: Sulfuras, one of the most legendary and magnificent weapons ever crafted. This massive spiked mace is made of pure red elementium and covered in intricate elemental runes. The air around it is distorted by the blazing heat. When Sulfuras is smashed to the ground, anything not crushed is vaporized instantly in a flash of fire. 
+Lava Moats: Massive rivers of molten lava surround Fire Elemental keeps and strongholds. 15% defensive bonus 
+Bonus: -20% coring cost
+
+WATER ELEMENTAL:
+Starting: +2 reputation 
+Lords of the Sea: 
+
+
+7TH LEGION (elite military) 
+Starting: 15% army morale bonus
+Alliance Sponsors: 7th Legion forces are given funding by Alliance nations throughout Azeroth. Some provide monetary support, equipment, or troops. -10% land maintenance 
+Heavy Support: Ground battles are typically supported by steam tanks, gyrocopters, and Gnomish airplanes. Giving an even greater edge to 7th Legion forces, however putting a slightly larger strain on military supplies. 15% artillery support 5% increased maintenance cost
+Combined Arms Doctrine: Elite infantry made up of paladins, warriors, priests, riflemen, and mages advance under the cover of artillery barrages and steam tank support. 10% discipline
+Nameless Veterans: Veterans that leave this old identity behind. These troops are seasoned from previous wars and reenlist to battle those that threaten Alliance forces. 5% morale recover speed
+Alliance Tacticians: Genius tacticians from various Alliance nations assemble to address battle plans. +1 military tradition 
+Victory on the High Seas: Although our fleet is small, we can still hold our own in battle. Elite marines and sailors crew plated battleships and steamers. 20% heavy ship ability
+High Commanders: Elite Alliance armies, through and through. The most brilliant strategists and skilled warriors add to the 7th Legion armies on the field. +1 leader shock
+Bonus: 33% reinforce rate
+
+Kor'Kron 
+Starting: +25% enemy coring cost
+For the Horde: At it's core the Kor'Kron is an army with a nation. They serve as an elite army and are on teh front lines of every major conflict that the Horde is apart of. Their objectives are to secure key provinces for the bulk of the Horde armies. -25% coring cost
+Warsong Offensive: Named after the Warsong clan, the Warsong Offensive began as a small expedition of troops that found themselves engaged in a series of battles against the Silverwing Sentinels over control of the Ashenvale Forest. As each side increased their numbers they became bogged down in a stalemate of day to day fighting with little ground gained and heavy casualties. Despite this the Warsong Offensive gained much respect for their resilience and now fight alongside the Kor'Kron as their primary invasion force in uncharted lands. +20% army morale
+Gob Squad: Kor'Kron Gob Squad engineers are some of the finest siege commanders in the world. From infiltration, to explosives work, and even paradropping into enemy territory, the Gob Squad can do it all. +15% Siege ability
+Elite Darkspear Skirmishers: Agile and quick, the Darkspear skirmishers hurl javelins and spears over short and medium distances as well as using Goblin made rifles for longer distances shots. +10% infantry ability
+Kor'Kron Marines: Kor'Kron naval and air ships are manned by elite infantry that crew cannons as well as vessel boarding crews. 20% ship durability
+Glory of Battle: Each victory for the Kor'Kron is a victory for the Horde. +50% prestige from battle
+Horde Resource Allocation: Large amounts of Horde resources are spent on maintaining the Kor'Kron's fighting ability. -20% land maintenance 
+Bonus: -20% global ship cost +.5 yearly naval tradition
+
+The Iron Horde (Garrosh's Horde)
+Starting: -33% coring cost
+Anger: The ruler of the Iron Horde commands from the frontlines. Fueled by anger for the enemies of the orcs, Garrosh hones his fury on those who wish to see him deposed. +1 leader shock
+Despair: All foreign religions have been outlawed. Those who continue their illegal worship will be imprisoned or executed.  25% religious unity -2 tolerance of heathens
+Doubt: The loss of rebel troops and increased military crackdown under Garrosh's reign led to decreased rebel civilian morale. -5 years of nationalism
+Hatred: Hatred of our enemies has united Garrosh's allies under one banner. The Dragonmaw have proved to be our biggest supporters. Warlord Zaela rides into battle with her ancient proto-dragon Galakras, and with her the elite dragon rider cavalry. +25% cavalry combat ability +1 land leader maneuver.
+Fear: Whether it was out of greed or fear for their own lives. Many goblin mercenaries and bankers agreed to join Garroshs horde. -10% mercenary cost. -10% mercenary maintenance .2 cost to reduce inflation
+Violence: The path to conquest will be littered with coalition troops. There will be no mercy for those in the wake or the Iron Horde. 10% discipline
+Pride: Formations of Kor'Kron orcs and Garrosh loyalists are inspired by their leader. Garrosh has proven himself as a true Warchief and many are willing to die in his name. The Hellscream name will live in. 20% morale bonus. 
+Bonus: 15% heavy ship ability +20% naval forcelimits
+
+Cult of the Damned(focused on spies, discontent, and religion) 
+Starting: 
+
+Cabal cultists
+Wastewander
+Hydraxian Waterlords
+Water
+Air
+Earth
+Night Elf
+Darkspear
+Tauren
+Ethereal
+Broken- like Ashtongue Deathsworn
+Lost Ones
+Satyr
+Frost Dwarves
+Fel Orc Clan generic?
+Earthen Dwarves/Machine Gnomes
+Makrura
+Tol'vir - stone and normal
+Shadow Council, no longer a group, single nation that controls Auchindoun  MILITARY DICTATORSHIP that is a one to two OPM on Northrend only available at the WoW start. Hates Scourge and Scarlet Crusade
+
+AIR ELEMENTALS
+the 4 winds
+Grand Viziers
+Djinn

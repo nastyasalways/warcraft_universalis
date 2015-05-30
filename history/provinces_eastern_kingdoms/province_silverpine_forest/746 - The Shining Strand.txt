@@ -1,0 +1,40 @@
+# 746 
+
+is_city = no 
+
+add_core = A08
+controller = A08
+owner = A08
+capital = "Deep Elem Mine"
+
+
+
+base_tax = 3 
+manpower = 2
+ 
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = copper
+
+
+ 
+discovered_by = western 
+
+
+622.1.1 = { owner = A13
+controller = A13
+add_core = A13
+add_core = B25
+remove_core = A08
+culture = culture_gilnean_worgen
+religion = religion_shadow }
+
+
+631.1.1 = { owner = B25
+controller = B25
+remove_core = B13
+culture = culture_nerglish
+religion = religion_old_gods
+trade_goods = fishing_villages }

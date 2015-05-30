@@ -21,6 +21,20 @@ trade_goods = fishing_villages
  
 discovered_by = western 
 
+598.1.1
+ = { owner = A41
+controller = A41
+add_core = A41 
+culture = culture_blackrock
+religion = religion_fel}
+
+617.1.1
+ = { owner = A16
+controller = A16
+remove_core = A41 
+culture = culture_arathi
+religion = religion_church_of_the_light}
+
 622.1.1 = { owner = A14
 controller = A14
 add_core = A14 }

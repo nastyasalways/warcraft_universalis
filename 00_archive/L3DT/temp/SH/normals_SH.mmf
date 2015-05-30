@@ -1,0 +1,56 @@
+L3DT Mosaic master file
+#MosaicName:	SH
+#MosaicType:	BYTE
+#FileExt:	png
+#nPxlsX:	5632
+#nPxlsY:	2048
+#nMapsX:	11
+#nMapsY:	4
+#SubMapSize:	512
+#HorizScale:	10.000000
+#WrapFlag:	FALSE
+#TileState:	0	FREE
+#TileState:	1	FREE
+#TileState:	2	FREE
+#TileState:	3	FREE
+#TileState:	4	FREE
+#TileState:	5	FREE
+#TileState:	6	FREE
+#TileState:	7	FREE
+#TileState:	8	FREE
+#TileState:	9	FREE
+#TileState:	10	OK
+#TileState:	11	FREE
+#TileState:	12	FREE
+#TileState:	13	FREE
+#TileState:	14	FREE
+#TileState:	15	FREE
+#TileState:	16	FREE
+#TileState:	17	FREE
+#TileState:	18	OK
+#TileState:	19	FREE
+#TileState:	20	FREE
+#TileState:	21	FREE
+#TileState:	22	FREE
+#TileState:	23	FREE
+#TileState:	24	OK
+#TileState:	25	OK
+#TileState:	26	FREE
+#TileState:	27	FREE
+#TileState:	28	FREE
+#TileState:	29	FREE
+#TileState:	30	FREE
+#TileState:	31	FREE
+#TileState:	32	FREE
+#TileState:	33	FREE
+#TileState:	34	FREE
+#TileState:	35	FREE
+#TileState:	36	FREE
+#TileState:	37	FREE
+#TileState:	38	OK
+#TileState:	39	OK
+#TileState:	40	FREE
+#TileState:	41	FREE
+#TileState:	42	FREE
+#TileState:	43	FREE
+#EOF

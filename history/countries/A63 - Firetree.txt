@@ -6,3 +6,5 @@ religion			= religion_loa
 primary_culture 	= culture_firetree
 capital 			= 691
 
+598.1.1 = {capital = 572}
+
