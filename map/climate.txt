@@ -27,6 +27,10 @@ severe_winter = {
 }
 
 impassable = {
+	508 # Kun'lai Mountains
+	857 # Dun Modr Mountains
+	1066 # Darnassus Tree
+	1096 # The Erupted Mountain
 	1110 # Redridge Mountains
 	1111 # 
 	1112 # 
@@ -112,4 +116,5 @@ impassable = {
 	1826 # Southern Vale Wall
 	1827 # Northern Vale Wall
 	1963 # Dun Murogh Mountains
+
 }

@@ -41,4 +41,39 @@ spriteTypes = {
 		texturefile = "gfx//interface//hindu_deities_strip.dds"
 		noOfFrames = 14
 	}
+	
+	# Terrain
+	# Colony
+	# 332 x 84
+	spriteType = {
+		name = "GFX_colony_terrain_burnt_earth"
+		texturefile = "gfx/interface/colony_terrain_burnt_earth.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_colony_terrain_silvermoon"
+		texturefile = "gfx/interface/colony_terrain_silvermoon.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_colony_terrain_frozen_wastes"
+		texturefile = "gfx/interface/colony_terrain_frozen_wastes.dds"
+	}
+	
+	# Combat
+	# 388 x 80
+	spriteType = {
+		name = "GFX_combat_terrain_burnt_earth"	
+		texturefile = "gfx//interface//combat_terrain_burnt_earth.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_combat_terrain_silvermoon"	
+		texturefile = "gfx//interface//combat_terrain_silvermoon.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_combat_terrain_frozen_wastes"	
+		texturefile = "gfx//interface//combat_terrain_frozen_wastes.dds"
+	}
 }

@@ -1,4 +1,7 @@
+508 # Kun'lai Mountains
+857 # Dun Modr Mountains
 1066 # Darnassus Tree
+1096 # The Erupted Mountain
 1110 # Redridge Mountains
 1111 # 
 1112 # 

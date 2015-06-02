@@ -9,12 +9,39 @@
 #ai_will_do will only check if it's valid,and won't break unions or switch to republic from monarchy, nor check to convert to something earlier in the file.
 #ai_importance determines overall 'quality' of government when government is auto-picked.
 
+# List
+#	magocracy_republic
+#	despotic_magocracy
+#	tinker_republic
+#	orcish_horde
+#	warcraft_horde
+#	warband
+#	roaming_trade_company
+#	pirate_clan
+#	kul_tiras
+#	draconic_kingdom
+#	scourge_horde
+#	insectoid_kingdom
+#	legion
+#	elemental_kingdom
+#	wind_trader_coalition
+#	shado_pan
+#	high_monarchy
+#	7th_legion
+#	argent_crusade
+#	military_dictat
+#	scarlet_crusade
+#	exodar_city
+#	twilight_cabal
+#	old_god_lair
+#	thunderbluff_tribe
+
 magocracy_republic = {
 	republic = yes
 	
 	duration = 8
 	
-	valid_for_new_country = yes
+	valid_for_new_country = no
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
 	
@@ -24,15 +51,15 @@ magocracy_republic = {
 	ai_importance = 1
 
 	#bonus
-	leader_land_fire = 1
-	adm_tech_cost_modifier = -0.1
-	republican_tradition = 0.005
+	technology_cost = -0.05
+	idea_cost = -0.1
+	advisor_cost = -0.25
 }
 
 despotic_magocracy = {
 	republic = yes
 	
-	valid_for_new_country = yes
+	valid_for_new_country = no
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
 	
@@ -41,9 +68,9 @@ despotic_magocracy = {
 	}
 	ai_importance = 1
 	
-	religious_unity = 0.15
-	mil_tech_cost_modifier = -0.1
-	infantry_power = 0.05
+	technology_cost = -0.1
+	idea_cost = -0.05
+	advisor_cost = -0.25
 }
 
 tinker_republic = {
@@ -51,7 +78,7 @@ tinker_republic = {
 	
 	duration = 8
 	
-	valid_for_new_country = yes
+	valid_for_new_country = no
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
 	
@@ -61,16 +88,15 @@ tinker_republic = {
 	ai_importance = 1
 
 	#bonus
-	production_efficiency = 0.05
-	land_maintenance_modifier = -0.1
-	republican_tradition = 0.01
+	production_efficiency = 0.2
+	global_regiment_cost = -0.25
 }
 
 orcish_horde = {
 	monarchy = yes
 	tribal = yes
 	
-	valid_for_new_country = yes
+	valid_for_new_country = no
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
 
@@ -79,16 +105,16 @@ orcish_horde = {
 	}
 	
 	#bonus
-	global_manpower_modifier = 0.1
-	fabricate_claims_time = -0.2
-	diplomatic_upkeep = 2
+	global_manpower_modifier = 0.25
+	province_warscore_cost = -0.25
+	land_morale = 0.1
 }
 
 warcraft_horde = {
 	monarchy = yes
 	tribal = yes
 	
-	valid_for_new_country = yes
+	valid_for_new_country = no
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
 
@@ -97,16 +123,16 @@ warcraft_horde = {
 	}
 	
 	#bonus
-	global_manpower_modifier = 0.15
-	diplomats = 1
-	diplomatic_upkeep = 2
+	global_manpower_modifier = 0.25
+	province_warscore_cost = -0.25
+	discipline = 0.05
 }
 
 warband = {
 	monarchy = yes
 	tribal = yes
 	
-	valid_for_new_country = yes
+	valid_for_new_country = no
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
 
@@ -115,83 +141,310 @@ warband = {
 	}
 	
 	#bonus
+	global_manpower_modifier = 0.25
+	province_warscore_cost = -0.25
 	infantry_power = 0.05
-	global_unrest = -1
-	vassal_income = 0.2
 }
 
-trade_company = {
+roaming_trade_company = {
+	republic = yes
+	
+	duration = 4
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 
+	ai_will_do = {
+		factor = 0
+	}
+	
+	global_trade_income_modifier = 0.1
+	merchants = 1
+	global_own_trade_power = 0.25
 }
 
 pirate_clan = {
+	monarchy = yes
+	tribal = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 
+	ai_will_do = {
+		factor = 0
+	}
+	
+	navy_tradition = 0.05
+	global_ship_cost = -0.25
+	naval_maintenance_modifier = -0.25
 }
 
 kul_tiras = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 
+	ai_will_do = {
+		factor = 0
+	}
+	
+	naval_morale = 0.2
+	naval_forcelimit_modifier = 0.25
+	navy_tradition = 0.05
 }
 
 draconic_kingdom = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 
+	ai_will_do = {
+		factor = 0
+	}
+	
+	global_manpower_modifier = -0.5
+	manpower_recovery_speed = -0.25
+	cavalry_power = 0.25
 }
 
-scourge = {
+scourge_horde = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 
+	ai_will_do = {
+		factor = 0
+	}
+	
+	global_manpower_modifier = 1
+	land_attrition = -0.25
 }
 
 insectoid_kingdom = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 
-
+	ai_will_do = {
+		factor = 0
+	}
+	
+	global_manpower_modifier = 1
+	province_warscore_cost = -0.25
+	reinforce_speed = 0.25
+}
 
 legion = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 
+	ai_will_do = {
+		factor = 0
+	}
+	
+	land_forcelimit_modifier = 0.25
 }
 
 elemental_kingdom = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 
+	ai_will_do = {
+		factor = 0
+	}
+	
+	enemy_core_creation = 1
+	diplomatic_reputation = 1
+	siege_ability = 0.1
 }
 
 wind_trader_coalition = {
+	republic = yes
+	
+	duration = 4
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 
+	ai_will_do = {
+		factor = 0
+	}
+	
+	global_trade_income_modifier = 0.15
+	global_trade_power = 0.1
+	infantry_power = 0.1
+	
 }
 
 shado_pan = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 
+	ai_will_do = {
+		factor = 0
+	}
+	
+	leader_land_shock = 2
+	diplomatic_reputation = 3
+	diplomatic_upkeep = 1
 }
 
 high_monarchy = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 
+	ai_will_do = {
+		factor = 0
+	}
+	
+	diplomatic_upkeep = 4
+	land_forcelimit_modifier = 0.15
+	naval_forcelimit_modifier = 0.15
 }
 
 7th_legion = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 
+	ai_will_do = {
+		factor = 0
+	}
+	
+	discipline = 0.1
 }
 
 argent_crusade = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 
+	ai_will_do = {
+		factor = 0
+	}
+	
+	discipline = 0.1
+	tolerance_own = 3
 }
 
 military_dictat = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 
+	ai_will_do = {
+		factor = 0
+	}
+	
+	army_tradition = 1
+	hostile_attrition = 1
+	land_morale = 0.1
 }
 
 scarlet_crusade = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 
+	ai_will_do = {
+		factor = 0
+	}
+	
+	discipline = 0.1
+	tolerance_own = 3
 }
 
-exodar = {
+exodar_city = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 
+	ai_will_do = {
+		factor = 0
+	}
+	
+	tolerance_own = 1
+	diplomatic_reputation = 3
+	diplomatic_upkeep = 1
 }
 
 twilight_cabal = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 
+	ai_will_do = {
+		factor = 0
+	}
+	
+	land_morale = 0.2
+	infantry_cost = -0.25
+	global_missionary_strength = 0.02
 }
 
 old_god_lair = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 
+	ai_will_do = {
+		factor = 0
+	}
+	
+	land_morale = 0.2
+	infantry_cost = -0.25
+	hostile_attrition = 1
 }
 
 thunderbluff_tribe = {
+	monarchy = yes
+	tribal = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 
+	ai_will_do = {
+		factor = 0
+	}
+	
+	advisor_pool = 1
+	stability_cost_modifier = -0.25
 }

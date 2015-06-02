@@ -71,6 +71,14 @@ categories =  {
 		combat_width = -0.20
 		supply_limit = 6
 		sound_type = forest
+		
+		terrain_override = {
+			724
+			705
+			521
+			760
+			
+		}
 	}
 	
 	#mountain
@@ -194,7 +202,205 @@ categories =  {
 		sound_type = plains
 		color = { 185 106 210  }
 		
+		terrain_override = {
+			
+		}
 	}	
+	
+	# Warcraft
+	burnt_earth = {
+		movement_cost = 1.00
+		local_defensiveness = -0.25
+		supply_limit = 1
+		
+		sound_type = plains
+		
+		color = { 100 0 50 }
+		
+		terrain_override = {
+			1989 1990 1988 1987 1986 1985 1991 1984 1983 1952 1982 1981 1980 1962 1964 1961 1957 1956 1955 1958 1954 1965 1959 1960 1966 
+		}
+	}	
+	
+	frozen_wastes = {
+		movement_cost = 1.00
+		local_defensiveness = -0.25
+		supply_limit = 1
+		
+		sound_type = plains
+		
+		color = { 100 0 10 }
+		
+		terrain_override = {
+			1267 726 523 947 930 777 628 998 901 895 
+		}
+	}
+	
+	# Warcraft: Special
+	darnassus = {
+		movement_cost = 1.00
+		local_defensiveness = 1
+		supply_limit = 10
+		defence = 2
+		
+		sound_type = plains
+		
+		color = { 0 0 20 }
+		
+		terrain_override = {
+			1073
+		}
+	}
+	
+	exodar = {
+		movement_cost = 1.00
+		local_defensiveness = 1
+		supply_limit = 10
+		defence = 2
+		
+		sound_type = plains
+		
+		color = { 0 0 30 }
+		
+		terrain_override = {
+			1087
+		}
+	}
+	
+	ironforge = {
+		movement_cost = 1.00
+		local_defensiveness = 1
+		supply_limit = 10
+		defence = 2
+		
+		sound_type = plains
+		
+		color = { 0 0 40 }
+		
+		terrain_override = {
+			941
+		}
+	}
+	
+	orgrimmar = {
+		movement_cost = 1.00
+		local_defensiveness = 1
+		supply_limit = 10
+		defence = 2
+		
+		sound_type = plains
+		
+		color = { 0 0 50 }
+		
+		terrain_override = {
+			1377
+		}
+	}
+	
+	silvermoon = {
+		movement_cost = 1.00
+		local_defensiveness = 1
+		supply_limit = 10
+		defence = 2
+		
+		sound_type = plains
+		
+		color = { 0 0 60 }
+		
+		terrain_override = {
+			660 676
+		}
+	}
+	
+	stormwind = {
+		movement_cost = 1.00
+		local_defensiveness = 1
+		supply_limit = 10
+		defence = 2
+		
+		sound_type = plains
+		
+		color = { 0 0 60 }
+		
+		terrain_override = {
+			1022
+		}
+	}
+	
+	thunder_bluff = {
+		movement_cost = 1.00
+		local_defensiveness = 1
+		supply_limit = 10
+		defence = 2
+		
+		sound_type = plains
+		
+		color = { 0 0 70 }
+		
+		terrain_override = {
+			1473
+		}
+	}
+	
+	undercity = {
+		movement_cost = 1.00
+		local_defensiveness = 1
+		supply_limit = 10
+		defence = 2
+		
+		sound_type = plains
+		
+		color = { 0 0 80 }
+		
+		terrain_override = {
+			543
+		}
+	}
+	
+	dalaran = {
+		movement_cost = 1.00
+		local_defensiveness = 1
+		supply_limit = 10
+		defence = 2
+		
+		sound_type = plains
+		
+		color = { 0 0 90 }
+		
+		terrain_override = {
+			863
+		}
+	}
+	
+	shattrath = {
+		movement_cost = 1.00
+		local_defensiveness = 1
+		supply_limit = 10
+		defence = 2
+		
+		sound_type = plains
+		
+		color = { 0 0 100 }
+		
+		terrain_override = {
+			1641
+		}
+	}
+	
+	icecrown_citadel = {
+		movement_cost = 1.00
+		local_defensiveness = 1
+		supply_limit = 10
+		defence = 4
+		
+		sound_type = plains
+		
+		color = { 0 0 100 }
+		
+		terrain_override = {
+			1268
+		}
+	}
 }
 	
 ##################################################################
@@ -235,6 +441,21 @@ terrain
 	jungle				= { type = jungle			color = { 	254	 } }
 	
 	terrain_21			= { type = farmlands		color = { 	21	 } }	
+	
+	burnt_earth 		= { type = burnt_earth		color = { 	22	 } }	
+	frozen_wastes		= { type = frozen_wastes	color = { 	23	 } }
+	
+	silvermoon		 	= { type = silvermoon		color = { 	24	 } }
+	darnassus		 	= { type = darnassus		color = { 	25	 } }
+	exodar		 		= { type = exodar			color = { 	26	 } }
+	ironforge		 	= { type = ironforge		color = { 	27	 } }
+	orgrimmar		 	= { type = orgrimmar		color = { 	28	 } }
+	stormwind		 	= { type = stormwind		color = { 	29	 } }
+	thunder_bluff	 	= { type = thunder_bluff	color = { 	30	 } }
+	undercity		 	= { type = undercity		color = { 	31	 } }
+	dalaran		 		= { type = dalaran			color = { 	32	 } }
+	shattrath		 	= { type = shattrath		color = { 	33	 } }
+	icecrown_citadel	= { type = icecrown_citadel		color = { 	34	 } }
 }
 
 ##################################################################

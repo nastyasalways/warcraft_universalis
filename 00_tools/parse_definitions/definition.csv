@@ -255,14 +255,14 @@ province;red;green;blue;type;name
 254;148;52;70;sea;x
 255;128;172;208;sea;x
 256;225;238;138;sea;x
-257;37;10;24;sea;x
-258;105;36;74;sea;x
-259;18;195;33;sea;x
-260;33;90;81;sea;x
-261;106;126;220;sea;x
-262;117;239;127;sea;x
-263;84;106;99;sea;x
-264;71;70;71;sea;x
+257;37;10;24;sea;Southshore Flow
+258;105;36;74;sea;Tarren Mill Crossing
+259;18;195;33;sea;Tarren Mill Flow
+260;33;90;81;sea;Aerie Crossing
+261;106;126;220;sea;Andorhal Crossing
+262;117;239;127;sea;Western Lake of Scholomance
+263;84;106;99;sea;Eastern Lake of Scholomance
+264;71;70;71;sea;x;Plagued River
 265;115;161;62;sea;x
 266;129;159;35;sea;x
 267;20;251;214;sea;x
@@ -504,9 +504,9 @@ province;red;green;blue;type;name
 503;98;88;1;sea;x
 504;248;68;217;sea;x
 505;255;126;40;x;Northern Headlands
-506;212;62;r;x;Faldir's Cove
+506;212;62;173;x;Faldir's Cove
 507;207;126;173;x;Eastwall Tower
-508;198;126;173;x;x
+508;198;126;173;wasteland;Kun'lai Mountains
 509;189;126;64;x;Plagued Grounds
 510;185;62;255;x;Warsong Hold
 511;171;126;192;x;Ruins of Zul'Mamwe
@@ -568,7 +568,7 @@ province;red;green;blue;type;name
 567;33;120;64;x;Maclure Vineyards
 568;29;56;255;x;x
 569;28;248;0;x;x
-570;24;120;128;x;x
+570;24;120;128;x;Crestfall
 571;20;56;0;x;Mosshide Fen
 572;15;120;192;x;x
 573;10;56;64;x;x
@@ -637,7 +637,7 @@ province;red;green;blue;type;name
 636;42;112;64;x;Nesingwary's Expedition
 637;37;48;255;x;Ravenhill
 638;33;112;128;x;Sorrowmurk
-639;24;112;192;x;x
+639;24;112;192;x;The Great Anchorage
 640;19;48;64;x;x
 641;14;112;255;x;Boulderfist Hall
 642;5;112;0;x;Stratholme
@@ -689,7 +689,7 @@ province;red;green;blue;type;name
 688;137;42;255;x;Andorhal
 689;133;106;128;x;x
 690;128;42;0;x;The Dead Scar
-691;196;94;173;x;x
+691;196;94;173;x;Zol'Dure
 692;132;41;144;x;Wildgrowth Mangal
 693;196;90;79;x;Wild Shore
 694;187;90;79;x;x
@@ -744,7 +744,7 @@ province;red;green;blue;type;name
 743;4;100;255;x;Zul'Mashar
 744;234;227;107;x;Elementium Depths
 745;231;35;179;x;x
-746;196;98;79;x;The Decripit Fields
+746;196;98;79;x;The Decrepit Fields
 747;192;34;255;x;Dun Argol Bay
 748;187;98;128;x;Yrkvinn
 749;183;34;0;x;Explorers' League Outpost
@@ -822,7 +822,7 @@ province;red;green;blue;type;name
 821;136;154;64;x;The Writhing Haunt
 822;132;90;255;x;Zeb'Nowa
 823;55;90;220;x;x
-824;255;25;0;x;x
+824;255;25;0;x;Kul'Tiras
 825;210;25;111;x;Sunreaver's Command
 826;0;153;75;x;Frenzyheart Hill
 827;255;24;90;x;Shadow Shore
@@ -855,7 +855,7 @@ province;red;green;blue;type;name
 854;159;86;255;x;x
 855;154;150;128;x;Shimmer Ridge
 856;150;86;0;x;The Maw of Mountains
-857;145;150;192;x;Dun Modr Mountains
+857;145;150;192;wasteland;Dun Modr Mountains
 858;141;86;64;x;Tempest Isles
 859;136;150;255;x;The Weeping Cave
 860;131;86;128;x;An'telas
@@ -955,7 +955,7 @@ province;red;green;blue;type;name
 954;163;138;0;x;Eastvale Logging Camp
 955;158;74;192;x;x
 956;153;138;64;x;Kharanos
-957;149;74;255;x;x
+957;149;74;255;x;Farson Hold
 958;144;138;128;x;The Altar of Zuli
 959;140;74;0;x;The Sludge Fields
 960;135;138;192;x;Zeb'Watha
@@ -972,7 +972,7 @@ province;red;green;blue;type;name
 971;34;136;32;x;The Glimmering Pillar
 972;30;72;128;x;x
 973;25;136;0;x;Frostmane Retreat
-974;21;72;192;x;x
+974;21;72;192;x;Forgotten Hill
 975;16;136;64;x;The Creeping Ruin
 976;12;72;255;x;Azurelode Mine
 977;7;136;128;x;x
@@ -987,7 +987,7 @@ province;red;green;blue;type;name
 986;162;134;192;x;Tower of Azora
 987;158;70;64;x;x
 988;153;134;255;x;Ironband's Compound
-989;149;70;128;x;x
+989;149;70;128;x;Tol Barad
 990;144;134;0;x;Skulk Rock
 991;139;70;192;x;Ruins of Southshore
 992;135;134;64;x;Acherus: the Ebon Hold
@@ -1094,7 +1094,7 @@ province;red;green;blue;type;name
 1093;62;114;9;x;Ammen Vale
 1094;197;249;144;x;Nestlewood Hills
 1095;97;217;132;x;Azure Lakes
-1096;74;126;7;x;The Erupted Mountain
+1096;74;126;7;wasteland;The Erupted Mountain
 1097;15;238;131;x;Bilgewater Lumber Yard
 1098;28;123;115;x;KTC Oil Platform
 1099;150;139;57;x;Gallywix Docks
@@ -1172,31 +1172,31 @@ province;red;green;blue;type;name
 1171;125;52;50;sea;x
 1172;197;121;151;sea;x
 1173;99;151;119;sea;x
-1174;227;56;172;sea;x
-1175;74;149;22;sea;x
-1176;246;216;231;sea;x
-1177;188;91;36;sea;x
-1178;62;15;21;sea;x
-1179;62;254;213;sea;x
-1180;25;68;8;sea;x
-1181;107;192;254;sea;x
-1182;86;38;223;sea;x
+1174;227;56;172;lake;Zeb'Nowa Lakes
+1175;74;149;22;lake;Deatholme Flow
+1176;246;216;231;lake;Lakes of the Sun and Moon
+1177;188;91;36;lake;Stratholme Lake
+1178;62;15;21;lake;Northdale Lake
+1179;62;254;213;lake;Eastwall Flow
+1180;25;68;8;lake;Lake of the Light
+1181;107;192;254;lake;Mereldar
+1182;86;38;223;sea;Plagued Spring
 1183;91;75;85;sea;x
-1184;30;111;63;sea;x
-1185;222;238;151;sea;x
-1186;192;90;184;sea;x
+1184;30;111;63;lake;Quil'danil Flow
+1185;222;238;151;lake;Jintha'alor Lakes
+1186;192;90;184;lake;Shadra'alor Lakes
 1187;83;84;188;sea;x
 1188;0;77;220;sea;x
 1189;122;209;198;sea;x
-1190;96;110;239;sea;x
-1191;205;225;207;sea;x
-1192;86;215;161;sea;x
-1193;160;92;229;sea;x
-1194;167;234;50;sea;x
+1190;96;110;239;lake;Fenrir Lake
+1191;205;225;207;lake;Decrepit Lake
+1192;86;215;161;lake;Greymane Lake
+1193;160;92;229;lake;Beren's Flow
+1194;167;234;50;lake;Tarren Lake
 1195;143;106;107;sea;x
 1196;169;204;30;sea;x
-1197;47;22;31;sea;x
-1198;114;24;107;sea;x
+1197;47;22;31;lake;Witherbark Lake
+1198;114;24;107;lake;Stromgarde Pools
 1199;88;36;220;sea;x
 1200;24;148;148;sea;x
 1201;212;98;128;sea;x
@@ -1206,55 +1206,55 @@ province;red;green;blue;type;name
 1205;5;186;7;sea;x
 1206;162;201;25;sea;x
 1207;185;152;251;sea;x
-1208;126;200;80;sea;x
-1209;88;24;34;sea;x
+1208;126;200;80;lake;Lake Algaz
+1209;88;24;34;lake;Lake Vawser
 1210;128;166;103;sea;x
-1211;178;252;74;sea;x
-1212;11;158;58;sea;Iceflow Lake
+1211;178;252;74;lake;Loch Modan
+1212;11;158;58;lake;Iceflow Lake
 1213;83;5;156;sea;x
-1214;67;58;254;sea;x
+1214;67;58;254;lake;Northshire River
 1215;7;7;153;sea;x
 1216;62;112;205;sea;x
 1217;150;22;24;sea;x
 1218;74;46;159;sea;x
-1219;151;46;20;sea;x
-1220;254;170;151;sea;x
-1221;35;57;182;sea;x
-1222;49;172;132;sea;x
-1223;62;176;35;sea;x
+1219;151;46;20;lake;Blackrock Lake
+1220;254;170;151;lake;Lake Everstill
+1221;35;57;182;lake;Stonard Pools
+1222;49;172;132;lake;Zul'Gurub Lake
+1223;62;176;35;lake;Sentinel Lake
 1224;167;14;101;x;x
 1225;167;20;254;x;Jotunheim Shore
 1226;237;54;177;x;Forgotten Cliffs
 1227;109;59;224;x;x
 1228;117;160;65;x;Thunderfall
 1229;183;133;125;x;x
-1230;46;113;62;x;Amber Waters
-1231;234;188;20;x;Upper Geyser Pools
-1232;20;15;166;x;Lower Geyser Pools
+1230;46;113;62;lake;Amber Waters
+1231;234;188;20;lake;Upper Geyser Pools
+1232;20;15;166;lake;Lower Geyser Pools
 1233;133;59;143;x;The Nexus
-1234;207;60;82;x;Death's Lake
-1235;211;149;194;sea;x
-1236;154;157;125;sea;x
-1237;219;5;139;sea;x
-1238;4;106;75;sea;x
+1234;207;60;82;lake;Death's Lake
+1235;211;149;194;lake;Skyreach Flow
+1236;154;157;125;lake;Frenzyheart Lake
+1237;219;5;139;lake;The Maker's Lake
+1238;4;106;75;lake;The Lost Lake
 1239;229;245;245;sea;x
-1240;234;82;75;sea;x
-1241;189;117;179;sea;x
-1242;16;198;212;sea;x
-1243;201;60;115;sea;x
+1240;234;82;75;lake;Lifeblood Crossing
+1241;189;117;179;lake;River's Heart
+1242;16;198;212;lake;Glimmering Lake
+1243;201;60;115;lake;Icemist Lake
 1244;169;93;207;sea;x
-1245;133;239;73;sea;x
+1245;133;239;73;lake;Lake of Stars
 1246;85;16;151;sea;x
-1247;110;19;103;sea;x
+1247;110;19;103;lake;Moa'ki Pools
 1248;139;70;55;sea;x
 1249;129;141;159;sea;x
-1250;170;99;231;sea;x
+1250;170;99;231;lake;Silverbrook Lake
 1251;184;8;30;sea;x
 1252;171;131;105;sea;x
-1253;40;214;114;sea;x
-1254;47;20;64;sea;x
+1253;40;214;114;lake;Grizzlemaw Lake
+1254;47;20;64;sea;Lake of Skorn
 1255;183;154;255;sea;x
-1256;9;202;253;sea;x
+1256;9;202;253;sea;Wildervar Lake
 1257;225;230;218;sea;x
 1258;156;18;142;x;North Coldarra Coast
 1259;162;24;53;x;South Coldarra Coast
@@ -1464,7 +1464,7 @@ province;red;green;blue;type;name
 1463;217;226;57;x;Southern Swamp
 1464;10;13;215;x;Razorfen Approach
 1465;188;97;177;x;Sorrowful Path
-1466;64;201;65;x;Sorrowful Mountains
+1466;64;201;65;wastelandi;Sorrowful Mountains
 1467;129;187;212;x;Stonetalon Pass
 1468;54;209;8;x;Wildmane Water Well
 1469;64;68;138;x;Camp Sungraze
@@ -1944,11 +1944,11 @@ province;red;green;blue;type;name
 1943;19;82;3;x;Ironforge Airfield
 1944;0;94;204;x;Algaz Station
 1945;225;181;136;x;South Gate Pass
-1946;129;115;116;sea;Helm's Bed Lake
-1947;35;165;107;sea;Amberstill Lake
-1948;73;30;153;sea;Ironforge Pools
+1946;129;115;116;lake;Helm's Bed Lake
+1947;35;165;107;lake;Amberstill Lake
+1948;73;30;153;lake;Ironforge Pools
 1949;200;28;159;x;Anvilmar
-1950;84;148;33;sea;Coldridge Lake
+1950;84;148;33;lake;Coldridge Lake
 1951;166;218;252;x;Frostmane Hold
 1952;51;96;95;x;Blackrock Mountain
 1953;93;19;139;x;Stonewrought Pass
@@ -1999,24 +1999,24 @@ province;red;green;blue;type;name
 1998;175;154;211;x;Janeiro's Point
 1999;180;229;184;x;The Deadmines
 2000;111;140;110;x;The Molsen Farm
-2001;100;93;9;x;x
-2002;86;169;14;x;x
-2003;86;136;166;x;x
-2004;14;137;126;x;x
-2005;102;141;87;x;x
-2006;35;199;98;x;x
-2007;233;222;54;x;xi
-2008;240;163;196;x;x
-2009;186;210;146;x;x
-2010;72;28;105;x;x
-2011;113;46;103;x;x
-2012;198;113;110;x;x
-2013;128;251;146;x;x
-2014;34;49;211;x;x
-2015;172;21;22;x;x
-2016;70;131;76;x;x
-2017;56;233;169;x;x
-2018;142;60;49;x;x
+2001;100;93;9;lake;Northpass Lakes
+2002;86;169;14;lake;Terrorlake
+2003;86;136;166;x;Wellson Shipyard
+2004;14;137;126;x;Cape of Lost Hope
+2005;102;141;87;x;Rustberg Vilage
+2006;35;199;98;x;The Darkwood
+2007;233;222;54;x;Largo's Overlook
+2008;240;163;196;x;The Restless Front
+2009;186;210;146;x;Tol Barad Approach
+2010;72;28;105;x;Baradin Hold
+2011;113;46;103;x;Ironclad Garrison
+2012;198;113;110;x;Slagworks
+2013;128;251;146;x;Warden's Vigil
+2014;34;49;211;x;Green Lantern Slums
+2015;172;21;22;x;Boralus Farmlands
+2016;70;131;76;sea;Skorn Flow
+2017;56;233;169;sea;Winterhoof River
+2018;142;60;49;x;Wildervar Flow
 2019;243;73;97;x;x
 2020;117;245;81;x;x
 2021;205;107;162;x;x
