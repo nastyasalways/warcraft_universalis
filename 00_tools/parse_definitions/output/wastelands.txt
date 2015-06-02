@@ -1,4 +1,5 @@
-1110 # 
+1066 # Darnassus Tree
+1110 # Redridge Mountains
 1111 # 
 1112 # 
 1113 # 
@@ -13,7 +14,6 @@
 1122 # 
 1123 # 
 1124 # 
-1125 # Stormfeather Outpost
 1126 # 
 1127 # 
 1128 # 
@@ -21,33 +21,29 @@
 1130 # Grim Mountains
 1131 # Wetland Mountains
 1132 # Loch Modan Mountains
-1133 # 
-1134 # 
-1135 # 
+1133 # Ironforge Mountains
+1135 # Loch Modan Mountains
 1136 # Twilight Mountains
-1137 # 
 1138 # 
-1139 # 
-1140 # 
-1141 # 
-1142 # 
+1139 # Dun Morogh Mountains
+1141 # Ironforge Mountains
 1143 # 
-1144 # 
+1144 # Azerothian Mountains
 1145 # 
 1146 # 
-1147 # 
+1147 # Burning Mountains
 1148 # 
 1149 # 
-1150 # 
+1150 # Westfall Mountains
 1151 # 
 1152 # 
-1153 # 
+1153 # Sorrowful Mountains
 1154 # 
 1155 # 
 1156 # 
-1157 # 
-1158 # 
-1159 # 
+1157 # Zul'kunda Mountains
+1158 # Blasted Mountains
+1159 # Tainted Mountains
 1160 # 
 1161 # The Maelstrom
 1291 # Mountains of Northrend
@@ -87,3 +83,4 @@
 1825 # Vale Mountains
 1826 # Southern Vale Wall
 1827 # Northern Vale Wall
+1963 # Dun Murogh Mountains
