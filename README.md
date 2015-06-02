@@ -1,5 +1,9 @@
 # Warcraft Universalis
-Warcraft Universalis is a mod for Europa Universalis 4.
+Warcraft Universalis is an ambitious project that attempts to recreate the Warcraft universe as we know it.
+
+The aim of this mod is to recreate the lore from Blizzard Entertainment's Warcraft series within Paradox Interactive's Europa Universalis 4 engine.
+
+Allowing for a unique EU4 experience where the player does not simply play at altering the course of history but is in fact steeped in a whole other fictional universe filled with magic, demons, dragons and fantasy whilst retaining a very Europa Universalis feel. 
 
 Visit the Paradoxplaza forums for [discussion](https://forum.paradoxplaza.com/forum/index.php?threads/mod-warcraft-universalis-offical-thread.747368/) (requires you to own a copy of Europa Universalis 4 before you can view the thread).
 
