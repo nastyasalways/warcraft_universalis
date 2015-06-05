@@ -3,7 +3,7 @@ government 		= constitutional_monarchy
 mercantilism 		= 0.1
 technology_group 	= tech_dwarf
 religion			= religion_church_of_the_light
-primary_culture 	= culture_bronzebeard
+primary_culture 	= culture_ironforge
 capital 			= 1
 
 546.1.1 = { 

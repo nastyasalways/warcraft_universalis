@@ -35,6 +35,7 @@
 #	twilight_cabal
 #	old_god_lair
 #	thunderbluff_tribe
+#	minor_tribe
 
 magocracy_republic = {
 	republic = yes
@@ -447,4 +448,19 @@ thunderbluff_tribe = {
 	
 	advisor_pool = 1
 	stability_cost_modifier = -0.25
+}
+
+minor_tribe = {
+	monarchy = yes
+	tribal = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+
+	ai_will_do = {
+		factor = 0
+	}
+	
+	stability_cost_modifier = -0.1
 }

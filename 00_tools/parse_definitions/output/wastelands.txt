@@ -1,3 +1,4 @@
+368 # Outland Space
 508 # Kun'lai Mountains
 857 # Dun Modr Mountains
 1066 # Darnassus Tree
@@ -63,6 +64,7 @@
 1424 # Northern Cliffs
 1425 # Southern Cliffs
 1427 # Orgrimmar Cliffs
+1466 # Sorrowful Mountains
 1478 # Northern Thunder Bluff Mountains
 1479 # Western Thunder Bluff Mountains
 1480 # Southern Thunder Bluff Mountains
@@ -87,3 +89,4 @@
 1826 # Southern Vale Wall
 1827 # Northern Vale Wall
 1963 # Dun Murogh Mountains
+2019 # Outland Rift

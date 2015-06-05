@@ -22,7 +22,7 @@ primary_culture = culture_gilnean_worgen
 } 
 
 
-631.1.1 = = { 
+631.1.1 = { 
 	monarch =
 	{ 
 		name = "Vincent" 

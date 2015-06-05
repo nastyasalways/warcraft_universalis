@@ -1,7 +1,7 @@
 # QuelThalas
 government 		= despotic_monarchy
 mercantilism 		= 0.1
-technology_group 	= tech_quel_dorei
+technology_group 	= tech_thalassian
 religion			= religion_arcane
 primary_culture 	= culture_high_elf
 capital 			= 660

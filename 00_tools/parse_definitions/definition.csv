@@ -366,7 +366,7 @@ province;red;green;blue;type;name
 365;145;21;56;sea;x
 366;66;71;224;sea;x
 367;168;241;54;sea;x
-368;20;87;132;sea;x
+368;20;87;132;wasteland;Outland Space
 369;68;171;91;sea;x
 370;140;120;10;sea;x
 371;193;186;21;sea;x
@@ -689,7 +689,7 @@ province;red;green;blue;type;name
 688;137;42;255;x;Andorhal
 689;133;106;128;x;x
 690;128;42;0;x;The Dead Scar
-691;196;94;173;x;Zol'Dure
+691;196;94;173;x;Zul'Dare
 692;132;41;144;x;Wildgrowth Mangal
 693;196;90;79;x;Wild Shore
 694;187;90;79;x;x
@@ -1185,9 +1185,9 @@ province;red;green;blue;type;name
 1184;30;111;63;lake;Quil'danil Flow
 1185;222;238;151;lake;Jintha'alor Lakes
 1186;192;90;184;lake;Shadra'alor Lakes
-1187;83;84;188;sea;x
-1188;0;77;220;sea;x
-1189;122;209;198;sea;x
+1187;83;84;188;lake;Scarlet Lake
+1188;0;77;220;lake;Waters of Brill
+1189;122;209;198;lake;Tirisfal Lake
 1190;96;110;239;lake;Fenrir Lake
 1191;205;225;207;lake;Decrepit Lake
 1192;86;215;161;lake;Greymane Lake
@@ -1222,7 +1222,7 @@ province;red;green;blue;type;name
 1221;35;57;182;lake;Stonard Pools
 1222;49;172;132;lake;Zul'Gurub Lake
 1223;62;176;35;lake;Sentinel Lake
-1224;167;14;101;x;x
+1224;167;14;101;lake;Writhing Waters
 1225;167;20;254;x;Jotunheim Shore
 1226;237;54;177;x;Forgotten Cliffs
 1227;109;59;224;x;x
@@ -1255,7 +1255,7 @@ province;red;green;blue;type;name
 1254;47;20;64;sea;Lake of Skorn
 1255;183;154;255;sea;x
 1256;9;202;253;sea;Wildervar Lake
-1257;225;230;218;sea;x
+1257;225;230;218;lake;Lake of Giants
 1258;156;18;142;x;North Coldarra Coast
 1259;162;24;53;x;South Coldarra Coast
 1260;4;1;108;x;East Coldarra Coast
@@ -1464,7 +1464,7 @@ province;red;green;blue;type;name
 1463;217;226;57;x;Southern Swamp
 1464;10;13;215;x;Razorfen Approach
 1465;188;97;177;x;Sorrowful Path
-1466;64;201;65;wastelandi;Sorrowful Mountains
+1466;64;201;65;wasteland;Sorrowful Mountains
 1467;129;187;212;x;Stonetalon Pass
 1468;54;209;8;x;Wildmane Water Well
 1469;64;68;138;x;Camp Sungraze
@@ -1584,7 +1584,7 @@ province;red;green;blue;type;name
 1583;113;246;83;x;Darkcloud Pinnacle
 1584;18;228;27;x;Westreach Summit
 1585;113;30;120;x;Highperch
-1586;50;31;101;x;Portal to Outland
+1586;50;31;101;x;The Dark Portal
 1587;19;119;82;x;The Legion Front
 1588;121;213;196;x;Zeth'gor
 1589;75;51;125;x;Expedition Armory
@@ -1618,7 +1618,7 @@ province;red;green;blue;type;name
 1617;135;121;97;x;Orebor Harborage
 1618;36;182;64;wasteland;Zanger Mountains
 1619;50;83;16;x;Path to Blade Edge Mountains
-1620;84;208;197;x;Nagrand Approach
+1620;84;208;197;x;Zangar Ridge
 1621;26;117;65;x;Warmaul Hill
 1622;99;249;244;x;Forge Camp Hate
 1623;175;55;172;x;Forge Camp Fear
@@ -1633,8 +1633,8 @@ province;red;green;blue;type;name
 1632;254;189;1;x;Telaar
 1633;125;89;73;x;Kil'sorrow Fortress
 1634;177;75;138;x;Burning Blade Ruins
-1635;1;26;68;x;Warmaul Plains
-1636;214;159;187;x;Halaa Crossroads
+1635;1;26;68;x;Warmaul Crossroads
+1636;214;159;187;x;Southwind Cleft
 1637;30;242;65;x;Burning Blade Plains
 1638;14;57;36;x;Garadar Plains
 1639;60;242;105;wasteland;Shattrath Mountains
@@ -1650,13 +1650,13 @@ province;red;green;blue;type;name
 1649;77;75;92;x;Auchindoun
 1650;75;41;194;x;Bleeding Hollow Ruins
 1651;61;112;53;x;Skettis
-1652;169;72;239;x;Hellfire Path
-1653;16;0;35;x;Zangermarsh Path
-1654;59;24;220;x;Bonechewer Woods
+1652;169;72;239;x;Razorthorn Shelf
+1653;16;0;35;x;Zangermarsh Swamp
+1654;59;24;220;x;Raastok Glade
 1655;230;19;12;x;Eastern Bone Wastes
 1656;254;193;35;x;Western Bone Wastes
 1657;212;51;66;x;Southern Bone Wastes
-1658;170;9;222;x;Shattrath Plains
+1658;170;9;222;x;Plains of Terokkar
 1659;129;190;204;wasteland;Mountains of Skettis
 1660;4;147;138;wasteland;Shadowmoon Mountains
 1661;111;240;93;x;Shadowmoon Village
@@ -1672,14 +1672,14 @@ province;red;green;blue;type;name
 1671;145;143;85;x;The Black Temple
 1672;26;153;191;x;Dragonmaw Fortress
 1673;190;97;239;x;Netherwing Ledge
-1674;55;237;20;x;Path to Tekkorak Forest
+1674;55;237;20;x;Shadowed Wastes
 1675;58;92;95;x;Shadowmoon Wastes
 1676;17;154;183;x;Wildhammer Wastes
 1677;30;67;211;x;Warden's Cage
 1678;244;19;138;x;Fel Wastes
-1679;86;13;250;x;Fel Point
+1679;86;13;250;x;Oronok's Farm
 1680;198;76;90;x;Forge Camp Terror
-1681;60;96;186;x;Ogri'ta
+1681;60;96;186;x;Ogri'la
 1682;171;60;34;x;Forge Camp Wrath
 1683;29;32;218;x;Raven's Wood
 1684;35;102;222;x;Grishnath
@@ -1697,7 +1697,7 @@ province;red;green;blue;type;name
 1696;65;165;157;x;Bash'ir Landing
 1697;175;46;129;x;The Crystal Spine
 1698;197;103;90;x;Forge Camp Anger
-1699;91;153;7;x;Path to Netherstorm
+1699;91;153;7;x;Netherwarpped Passage
 1700;93;76;29;wasteland;Bladespire Mountains
 1701;235;21;1;x;Manaforge B'naar
 1702;27;217;159;x;Area 52
@@ -1730,7 +1730,7 @@ province;red;green;blue;type;name
 1729;59;83;227;x;Tian Monastery
 1730;77;159;240;x;Terrace of Ten Thunders
 1731;244;132;214;x;Honeydew Village
-1732;234;102;39;x;Breezy Meadows
+1732;234;102;39;x;Emperor's Omen
 1733;197;31;42;x;Grookin Woods
 1734;35;116;25;x;Moonwater Islands
 1735;238;202;218;x;Paw'don Islands
@@ -2017,88 +2017,88 @@ province;red;green;blue;type;name
 2016;70;131;76;sea;Skorn Flow
 2017;56;233;169;sea;Winterhoof River
 2018;142;60;49;x;Wildervar Flow
-2019;243;73;97;x;x
-2020;117;245;81;x;x
-2021;205;107;162;x;x
-2022;58;60;5;x;x
-2023;74;216;2;x;x
-2024;204;36;62;x;x
-2025;92;121;196;x;x
-2026;99;108;53;x;x
-2027;144;38;111;x;x
-2028;168;226;92;x;x
-2029;239;50;48;x;x
-2030;48;189;130;x;x
-2031;76;169;203;x;x
-2032;146;195;247;x;x
-2033;195;176;33;x;x
-2034;130;118;133;x;x
-2035;219;170;130;x;x
-2036;53;169;221;x;x
-2037;55;90;127;x;x
-2038;115;90;17;x;x
-2039;11;59;83;x;x
-2040;163;146;71;x;x
-2041;213;61;208;x;x
-2042;9;227;28;x;x
-2043;205;166;10;x;x
-2044;120;96;161;x;x
-2045;56;252;81;x;x
-2046;195;182;211;x;x
-2047;235;23;206;x;x
-2048;30;177;130;x;x
-2049;170;45;60;x;x
-2050;129;253;41;x;x
-2051;44;241;122;x;x
-2052;144;208;46;x;x
-2053;2;65;20;x;x
-2054;239;208;157;x;x
-2055;118;40;121;x;x
-2056;147;53;85;x;x
-2057;188;57;47;x;x
-2058;82;182;184;x;x
-2059;180;88;244;x;x
-2060;54;243;108;x;x
-2061;30;238;92;x;x
-2062;247;239;253;x;x
-2063;41;207;190;x;x
-2064;112;32;26;x;x
-2065;115;218;150;x;x
-2066;106;107;171;x;x
-2067;242;245;97;x;x
-2068;19;39;153;x;x
-2069;110;179;222;x;x
-2070;159;63;166;x;x
-2071;199;67;57;x;x
-2072;214;60;175;x;x
-2073;224;55;43;x;x
-2074;100;1;95;x;x
-2075;46;23;156;x;x
-2076;120;108;172;x;x
-2077;140;134;65;x;x
-2078;194;242;109;x;x
-2079;4;34;135;x;x
-2080;133;86;209;x;x
-2081;86;34;242;x;x
-2082;118;113;22;x;x
-2083;126;121;254;x;x
-2084;152;196;210;x;x
-2085;49;7;3;x;x
-2086;137;21;218;x;x
-2087;240;145;165;x;x
-2088;14;253;20;x;x
-2089;23;3;180;x;x
-2090;105;47;28;x;x
-2091;152;118;207;x;x
-2092;159;175;34;x;x
-2093;194;1;150;x;x
-2094;154;42;146;x;x
-2095;198;151;139;x;x
-2096;204;126;202;x;x
-2097;207;218;104;x;x
-2098;207;196;140;x;x
-2099;82;189;215;x;x
-2100;60;114;63;x;x
+2019;243;73;97;wasteland;Outland Rift
+2020;117;245;81;lake;Skettis Lake
+2021;205;107;162;lake;Shadowmoon Lake
+2022;58;60;5;lake;Bonechewer Lake
+2023;74;216;2;lake;Shattrath Lake
+2024;204;36;62;lake;Garadar Lake
+2025;92;121;196;lake;Sunspring Lake
+2026;99;108;53;x;Lake of Kul Tiras
+2027;144;38;111;x;Waters of Deathknell
+2028;168;226;92;x;The Stair of Destiny
+2029;239;50;48;x;Spinebreaker Post
+2030;48;189;130;x;Forge Camp: Mageddon
+2031;76;169;203;x;Forge Camp: Rage
+2032;146;195;247;x;Invasion Point: Annibhilator
+2033;195;176;33;x;The Warp Fields
+2034;130;118;133;x;The Great Fissure
+2035;219;170;130;x;Fallen Sky Ridge
+2036;53;169;221;x;Netherwing Fields
+2037;55;90;127;x;Ruins of Baa'ri
+2038;115;90;17;x;Blackwind Landing
+2039;11;59;83;x;Veil Harr'ik
+2040;163;146;71;x;Terokk's Rest
+2041;213;61;208;x;Veil Shienor
+2042;9;227;28;x;Grangol'var Village
+2043;205;166;10;x;Veil Skith
+2044;120;96;161;x;Tomb of Lights
+2045;56;252;81;x;Veil Shalas
+2046;195;182;211;x;Veil Lithic
+2047;235;23;206;x;Shadowtomb
+2048;30;177;130;x;Veil Reskk
+2049;170;45;60;x;Umbrafen Marsh
+2050;129;253;41;x;Clan Watch
+2051;44;241;122;x;Windyreed Village
+2052;144;208;46;x;Windyreed Pass
+2053;2;65;20;x;Raven's Pass
+2054;239;208;157;x;Razor Ridge
+2055;118;40;121;x;Singing Ridge
+2056;147;53;85;x;The Heap
+2057;188;57;47;x;The Scrap Field
+2058;82;182;184;x;Cosmowrench
+2059;180;88;244;x;Ethereum Staging Grounds
+2060;54;243;108;x;Eco-dome Farfield
+2061;30;238;92;x;Socrethar's Seat
+2062;247;239;253;x;Feralfen Village
+2063;41;207;190;x;Quagg Ridge
+2064;112;32;26;x;Hewn Bog
+2065;115;218;150;x;Daggerfen Village
+2066;106;107;171;x;Ango'rosh Stronghold
+2067;242;245;97;x;Slingtail Pits
+2068;19;39;153;x;Wreck of the Vanguard
+2069;110;179;222;x;Den of Sorrow
+2070;159;63;166;x;Twinspire Keep
+2071;199;67;57;x;Camp Gormal
+2072;214;60;175;x;Serpent's Overlook
+2073;224;55;43;x;Dookin' Grounds
+2074;100;1;95;x;Shrine of the Dawn
+2075;46;23;156;x;Greenstone Village
+2076;120;108;172;x;Forest Heart
+2077;140;134;65;x;Camp Nooka Nooka
+2078;194;242;109;x;Honeydew Hills
+2079;4;34;135;x;Grookin Groves
+2080;133;86;209;x;Honeydew Shrine
+2081;86;34;242;sea;x
+2082;118;113;22;sea;x
+2083;126;121;254;sea;x
+2084;152;196;210;sea;x
+2085;49;7;3;sea;x
+2086;137;21;218;sea;x
+2087;240;145;165;sea;x
+2088;14;253;20;sea;x
+2089;23;3;180;sea;x
+2090;105;47;28;sea;x
+2091;152;118;207;sea;x
+2092;159;175;34;sea;x
+2093;194;1;150;sea;x
+2094;154;42;146;sea;x
+2095;198;151;139;sea;x
+2096;204;126;202;sea;x
+2097;207;218;104;sea;x
+2098;207;196;140;sea;x
+2099;82;189;215;sea;x
+2100;60;114;63;sea;x
 2101;174;96;117;x;x
 2102;1;182;115;x;x
 2103;32;1;233;x;x

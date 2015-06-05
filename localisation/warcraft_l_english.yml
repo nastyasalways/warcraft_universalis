@@ -665,6 +665,11 @@
  thunderbluff_tribe_ruler: "Chief"
  thunderbluff_tribe_ruler_female: "Cheifess"
  
+ minor_tribe: "Tribe"
+ minor_tribe_desc: ""
+ minor_tribe_ruler: "Chief"
+ minor_tribe_ruler_female: "Cheifess"
+ 
  # Religions
  religion_titan: "Titanic"
  religion_sect_of_dragons: "Sect of Dragons"
@@ -805,3 +810,4 @@
  
  scarlet_crusade_weakness: "Scarlet Crusade Weakness"
  desc_scarlet_crusade_weakness: "The citizens of our realm are far and few between. We will struggle to fill our manpower pool and will most likely have to resort to mercenaries."
+ 

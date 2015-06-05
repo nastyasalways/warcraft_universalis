@@ -1,5 +1,339 @@
 # A province can belong to several regions.
 
+# Warcraft
+# Eastern Kingdoms
+isle_of_quel_danas = {
+	690 521 760 724 705 
+}
+
+eversong_woods = {
+	558 978 676 660 704 944 626 609 643 1064 659 960 520 575 540 593 961 892 
+}
+
+ghostlands = {
+	1029 1013 993 844 806 822 860 876 945 1012 1041 808 791 776 1039 1038 629
+}
+
+eastern_plaguelands = {
+	592 625 608 642 723 1921 743 729 507 932 1922 915 922 1011 1028 519 639 574 1054 928 891 778 875 
+}
+
+western_plaguelands = {
+	790 607 591 1923 703 722 688 821 843 859 805 742 775 
+}
+
+tirisfal_glades = {
+	964 979 1044 1015 560 931 740 1928 543 528 1927 1925 1926 646 662 727 
+}
+
+silverpine_forest = {
+	648 731 677 711 663 746 671 702 672 686 685 1924 720 
+}
+
+hillsbrad_foothills = {
+	756 943 773 556 538 518 1010 836 959 976 991 1027 741 721 845 
+}
+
+region_gilneas = {
+	914 505 525 848 757 809 789 774 962 927 908 890 820 842 858 804 
+}
+
+tol_barad = {
+	2004 957 2003 2006 2005 2007 2009 2008 974 989 2011 2012 2010 2013
+}
+
+zul_dare = {
+	691
+}
+
+kul_tiras = {
+	570 2015 824 639 2014
+}
+
+arathi_highlands = {
+	1931 1000 966 1929 527 981 1934 673 1932 687 506 897 1937 1935 1936 641 623 606
+}
+
+the_hinterlands = {
+	1930 889 644 926 763 942 975 958 990 1009 1026 1125 537 1938 517
+}
+
+wetlands = {
+	874 788 1939 1940 999 516 536 554 571 1032 656 605 589 622 1055 580
+}
+
+twilight_highlands = {
+	841 803 1061 1025 878 925 787 873 856 888 802 610 1016 755 739 701 632 614 581 542 613 730 631 561 710 744
+}
+
+loch_modan = {
+	1942 1941 1047 792 1046 1137 655 552 1945 1048 1944 
+}
+
+dun_morogh = {
+	515 988 1943 1134 1007 973 956 941 855 817 1949 801 839 872 1140 887 1951 
+}
+
+badlands = {
+	1967 1979 1974 1978 1969 1971 1972 1973 1976 1975 1970 1968 1977 
+}
+
+searing_gorge = {
+	1953 1954 1955 1956 1957 1958 1965 1959 1960 1966 1961 1964 1962 
+}
+
+burning_steppes = {
+	1952 1980 1981 1982 1983 1991 1984 1987 1986 1985 1990 1988 1989 
+}
+
+redridge_mountains = {
+	1994 650 772 752 737 717 683 785 800 1992 816 838 669 1993  
+}
+
+elwynn_forest = {
+	661 954 1005 986 913 587 619 603 550 567 1058 533 1022 
+}
+
+swamp_of_sorrows = {
+	885 638 547 949 707 994 725 864 594 879 1995 
+}
+
+blasted_lands = {
+	884 630 1050 807 1045 1033 1034 1043 1042 553 1035 1037 869 814 836 853
+}
+
+deadwind_pass = {
+	938 953 921 
+}
+
+duskwood = {
+	1021 1004 903 1057 985 970 586 698 653 682 637 618 602 
+}
+
+westfall = {
+	622 904 627 837 870 751 200 736 716 771 596 815 612 799 1999 784 
+}
+
+stranglethorn_vale = {
+	1996 1997 601 585 636 652 681 697 715 750 735 783 565 1056 548 531 511 1020 1003 984 969 920 937 902 852 868 883 996 693 997 1998 
+}
+
+# Kalimdor
+teldrassil = {
+	1070 1073 1069 1072 1068 1067 1071 1065 
+}
+
+bloodmyst_isle = {
+	1085 1084 1075 1074 1076 1078 1077 1081 1083 1082 1080 1079 
+}
+
+azuremyst_isle = {
+	1086 1088 1089 1095 1087 1093 1090 1091 1092 
+}
+
+moonglade = {
+	1325 1436 1324 
+}
+
+darkshore = {
+	
+}
+
+winterspring = {
+
+}
+
+felwood = {
+
+}
+
+mount_hyjal = {
+
+}
+
+ashenvale = {
+
+}
+
+azshara = {
+
+}
+
+durotar = {
+
+}
+
+northern_barrens = {
+
+}
+
+stonetalon_mountains = {
+
+}
+
+desolace = {
+
+}
+
+mulgore = {
+
+}
+
+southern_barrens = {
+
+}
+
+dustwallow_marsh = {
+
+}
+
+thousand_needles = {
+
+}
+
+feralas = {
+
+}
+
+silithus = {
+
+}
+
+un_goro_crater = {
+
+}
+
+tanaris = {
+
+}
+
+uldum = {
+
+}
+
+ahn_qiraj = {
+
+}
+
+# Maelstrom
+the_lost_isles = {
+
+}
+
+# Northrend
+
+borean_tundra = {
+
+}
+
+wintergrasp = {
+
+}
+
+dragonblight = {
+
+}
+
+sholazar_basin = {
+
+}
+
+icecrown = {
+
+}
+
+storm_peak = {
+
+}
+
+zul_drak = {
+
+}
+
+grizzly_hills = {
+
+}
+
+crystalsong = {
+
+}
+
+howling_fjord = {
+
+}
+
+# Outland 
+hellfire_peninsula = {
+
+}
+
+zangermarsh = {
+
+}
+
+terokkar_forest = {
+
+}
+
+nagrand = {
+
+}
+
+shadowmoon_valley = {
+
+}
+
+blades_edge_mountains = {
+
+}
+
+netherstorm = {
+
+}
+
+# Pandaria 
+timeless_isle = {
+
+}
+
+isle_of_thunder = {
+
+}
+
+isle_of_giants = {
+
+}
+
+the_jade_forest = {
+
+}
+
+valley_of_the_four_winds = {
+
+}
+
+krasarang_wilds = {
+
+}
+
+dread_wastes = {
+
+}
+
+vale_of_eternal_blossoms = {
+
+}
+
+townlong_steppes = {
+
+}
+
+kun_lai_summit = {
+
+}
+
+
+
 
 
 # Old

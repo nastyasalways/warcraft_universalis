@@ -584,5 +584,77 @@ warcraft_religions = {
 		heretic = { }
 	}
 	
+	religion_therazane = {
+		color = { 0.15 0.15 0.15 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_ragnaros
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+
+		heretic = { }
+	}
+
+	religion_al_akir = {
+		color = { 0.15 0.15 0.15 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_ragnaros
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+
+		heretic = { }
+	}
+
+	religion_neptulon = {
+		color = { 0.15 0.15 0.15 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_ragnaros
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+
+		heretic = { }
+	}
+	
 	crusade_name = CRUSADE
 }

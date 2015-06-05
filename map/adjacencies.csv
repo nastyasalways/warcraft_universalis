@@ -1,2 +1,20 @@
 From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
+1699;1704;;;;;;;Path to Netherstorm to Ruins of Enkatt
+1704;1705;;;;;;;Ruins of Enkatt to Manaforge
+1704;1710;;;;;;;Ruins of Enkatt to Eco-Dome Midrealm
+1704;1711;;;;;;;Ruins of Enkatt to Stormspire
+1702;1710;;;;;;;Area 52 to Eco-Dome Midrealm
+1703;1710;;;;;;;Arklon Ruins to Eco-Dome Midrealm
+1703;1706;;;;;;;Arklon Ruins to Manaforge Coruu
+1707;1709;;;;;;;Sunfury Hold to Manaforge Duro
+1709;1717;;;;;;;Manaforge Duro to Tempest Keep
+1709;1716;;;;;;;Manaforge Duro to Celestial Ridge
+1709;1715;;;;;;;Manaforge Duro to Manaforge Ultris
+1710;1715;;;;;;;Eco-Dome Midrealm to Manaforge Ultris
+1710;1711;;;;;;;Eco-Dome Midrealm to Stormspire
+1715;1714;;;;;;;Manaforge Ultris to Ruins of Farahlon
+1715;1711;;;;;;;Manaforge Ultris to Stormspire
+1705;1711;;;;;;;Manafroge Ara to Stormspire
+1666;1673;;;;;;;Sanctum of the Stars to Netherwing Ledge
+1672;1673;;;;;;;Dragonmaw Fortress to Netherwing Ledge
 -1;-1;;-1;-1;-1;-1;-1;-1;

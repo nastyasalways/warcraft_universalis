@@ -17,6 +17,8 @@ technology = {
 	cavalry_shock  		= 	0.8	
 	artillery_shock 	=	0.05
 	land_morale 		= 	2.0
+	
+	enable = debug_unit
 }
 
 technology = {
