@@ -18,8 +18,7 @@ hre = no
 trade_goods = grain
 
 
- 
-discovered_by = discovered_by = tech_human
+discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian
 discovered_by = tech_vrykul
