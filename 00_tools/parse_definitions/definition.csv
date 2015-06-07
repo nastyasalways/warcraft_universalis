@@ -537,7 +537,7 @@ province;red;green;blue;type;name
 536;20;60;128;x;Fallen Cliffs
 537;15;124;0;x;Jintha'alor
 538;11;60;192;x;Tarren Mill
-539;6;124;64;x;Scarlet Fields
+539;6;124;64;x;Tyr's Hand
 540;2;60;255;x;The Scorched Grove
 541;0;124;194;x;Mountainous Ruins
 542;212;58;79;x;Dunwald Ruins
@@ -579,7 +579,7 @@ province;red;green;blue;type;name
 578;184;183;51;x;Sholazar Coast
 579;80;119;60;x;x
 580;211;54;173;x;Swiftgear Station
-581;198;118;173;x;x
+581;198;118;173;x;Dunwald Coast
 582;193;54;255;x;Altar of Sseratus
 583;189;118;128;x;The Forgotten Shore
 584;184;54;0;x;Kamagua
@@ -595,7 +595,7 @@ province;red;green;blue;type;name
 594;67;80;32;x;Stagalbog
 595;181;181;52;x;The Makers' Overlook
 596;83;52;126;x;Moonbrook
-597;70;116;126;x;x
+597;70;116;126;x;Dragonmaw Point
 598;65;52;192;x;Voltarus
 599;60;116;64;x;Naxxramas
 600;56;52;255;x;Ember Clutch
@@ -603,7 +603,7 @@ province;red;green;blue;type;name
 602;38;52;64;x;Vul'gol Ogre Mound
 603;33;116;255;x;Goldshire
 604;24;116;0;x;x
-605;19;52;192;x;x
+605;19;52;192;x;Angerfang Hills
 606;15;116;64;x;Hammerfall
 607;10;52;255;x;Uther's tomb
 608;6;116;128;x;Plaguewood
@@ -612,7 +612,7 @@ province;red;green;blue;type;name
 611;9;115;187;x;x
 612;211;50;79;x;Westfall Lighthouse
 613;207;114;79;x;Crucible of Carnage
-614;197;114;79;x;x
+614;197;114;79;x;Firebeard's Coast
 615;193;50;128;x;Thrym's End
 616;184;50;192;x;x
 617;170;114;128;x;x
@@ -801,7 +801,7 @@ province;red;green;blue;type;name
 800;31;92;128;x;Stonewatch
 801;27;156;0;x;Coldridge Valley
 802;22;92;192;x;Kirkhaven
-803;18;156;64;x;x
+803;18;156;64;x;Vermillion Passage
 804;13;92;255;x;Aderic's Repose
 805;8;156;128;x;The menders Stead
 806;4;92;0;x;Zul'aman
@@ -849,7 +849,7 @@ province;red;green;blue;type;name
 848;214;86;173;x;Emberstone Mine
 849;191;150;192;x;Blue Sky Logging Grounds
 850;186;86;64;x;Temple City of En'kilah
-851;182;150;255;x;Fort Wildervar
+851;182;150;252;x;Fort Wildervar
 852;173;150;0;x;Spirit Den
 853;168;86;192;x;The Tainted Scar
 854;159;86;255;x;x
@@ -2094,12 +2094,12 @@ province;red;green;blue;type;name
 2093;194;1;150;sea;x
 2094;154;42;146;sea;x
 2095;198;151;139;sea;x
-2096;204;126;202;sea;x
-2097;207;218;104;sea;x
-2098;207;196;140;sea;x
-2099;82;189;215;sea;x
-2100;60;114;63;sea;x
-2101;174;96;117;x;x
+2096;204;126;202;x;Tree Passage
+2097;207;218;104;x;Mosslight Shore
+2098;207;196;140;x;Savage Shore
+2099;82;189;215;x;Mosslight Hills
+2100;60;114;63;x;The Savage Remains
+2101;174;96;117;x;Crystal Passage
 2102;1;182;115;x;x
 2103;32;1;233;x;x
 2104;242;202;165;x;x

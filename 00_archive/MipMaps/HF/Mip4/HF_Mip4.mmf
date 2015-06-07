@@ -1,0 +1,18 @@
+L3DT Mosaic master file
+#MosaicName:	Mip4
+#MosaicType:	HF
+#FileExt:	hfz
+#nPxlsX:	1408
+#nPxlsY:	512
+#nMapsX:	3
+#nMapsY:	1
+#SubMapSize:	512
+#HorizScale:	4.000000
+#WrapFlag:	FALSE
+#UnifiedScale:	TRUE
+#GlobalMinAlt:	0.000000
+#GlobalMaxAlt:	159.371689
+#TileState:	0	OK
+#TileState:	1	OK
+#TileState:	2	OK
+#EOF

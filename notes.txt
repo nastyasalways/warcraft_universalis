@@ -4,3 +4,7 @@ git commit -m "First commit"												# Commits the tracked changes and prepar
 git remote add origin https://github.com/vawser/warcraft_universalis.git 	# Sets the new remote
 git remote -v 																# Verifies the new remote URL
 git push origin master														# Pushes the changes in your local repository up to the remote repository you specified as the origin
+
+# L3DT
+Re-import with vertical range 0-255
+Re-scale after export

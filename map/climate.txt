@@ -119,4 +119,5 @@ impassable = {
 	1827 # Northern Vale Wall
 	1963 # Dun Murogh Mountains
 	2019 # Outland Rift
+
 }
