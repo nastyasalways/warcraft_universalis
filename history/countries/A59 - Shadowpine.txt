@@ -1,7 +1,18 @@
 # Shadowpine
-government 		= despotic_monarchy
+# Amani
+government 		= warband
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_troll
+religion			= religion_loa
+primary_culture 	= culture_shadowpine
 capital 			= 1
+
+592.1.1 = {  
+monarch = {  
+      name = "Kel'gash"  
+     dynasty = "Shadowpine"  
+ 		adm = 3 
+		dip = 3
+		mil = 3 
+  	}  
+  }  

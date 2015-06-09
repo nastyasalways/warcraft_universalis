@@ -1,7 +1,18 @@
 # Amani
-government 		= despotic_monarchy
+government 		= warband
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_troll
+religion			= religion_loa
+primary_culture 	= culture_amani
 capital 			= 1
+
+592.1.1 = {  
+monarch = {  
+      name = "Zul'jin"  
+     dynasty = "Amani"  
+ 		adm = 4 
+		dip = 5 
+		mil = 5 
+  	}  
+  }  
+  

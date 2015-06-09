@@ -669,6 +669,11 @@
  minor_tribe_desc: ""
  minor_tribe_ruler: "Chief"
  minor_tribe_ruler_female: "Cheiftess"
+
+ theocratic_government: "Theocracy"
+ theocratic_government_desc: ""
+ theocratic_government_ruler: "High Priest"
+ theocratic_government_ruler_female: "High Priestess"
  
  # Religions
  religion_titan: "Titanic"
@@ -689,7 +694,7 @@
  religion_the_damned: "The Damned"
  religion_terokk: "Terokk"
  religion_ancestral: "Ancestral"
- religion_loa: "Loa Pantheon"
+ religion_loa: "Loa Voodoo"
  religion_celestial: "Celestials"
  religion_arkkorok: "Arkkorok"
  religion_void: "Void"
