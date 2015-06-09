@@ -1,5 +1,5 @@
 # Menethil
-government 		= feudal_monarchy
+government 		= military_dictat
 mercantilism 		= 0.1
 technology_group 	= tech_human 
 religion			= religion_church_of_the_light

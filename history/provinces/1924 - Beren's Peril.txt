@@ -52,3 +52,24 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+617.1.1 = { owner = A18
+controller = A18
+add_core = A18
+remove_core = A12 }
+
+
+
+622.1.1 = { owner = E52
+controller = E52
+add_core = E52
+remove_core = A08
+culture = culture_scourge
+religion = religion_the_damned }
+
+631.1.1 = { add_core = E14
+owner = E14
+controller = E14
+religion = religion_forgotten_shadow
+culture = culture_forsaken
+capital = "Southpoint Gate" }
+

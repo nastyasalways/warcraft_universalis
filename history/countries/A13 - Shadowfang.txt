@@ -34,7 +34,7 @@ primary_culture = culture_gilnean_worgen
 		mil = 3	
 	} 
 
-	government = despotic_monarchy
+	government = military_dictat
 	primary_culture = culture_forsaken 
 	technology_group = tech_undead
 } 

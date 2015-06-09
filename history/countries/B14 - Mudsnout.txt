@@ -1,5 +1,5 @@
 # Mudsnout
-government = tribal_despotism
+government = minor_tribe
 mercantilism = 0.1 
 technology_group = tech_gnoll
 religion= religion_ancestral
