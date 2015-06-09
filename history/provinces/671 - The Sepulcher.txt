@@ -1,18 +1,18 @@
 # 671
 is_city = yes 
 
-add_core = B19
-controller = B19
-owner = B19
-capital = "The Sepulcher"
+add_core = A08
+owner = A08
+controller = A08
+capital = "Olsen's Farthing"
 
 base_tax = 1 
 base_manpower = 1
 base_production = 1
 
  
-culture = culture_rothide
-religion = religion_ancestral
+culture = culture_lordaeron
+religion = religion_church_of_the_light
  
 hre = no 
 trade_goods = grain
@@ -66,4 +66,5 @@ discovered_by = tech_gnome
 	remove_core = B19
 	culture = culture_forsaken
 	religion = religion_forgotten_shadow
+        capital = "The Sepulcher"
 }

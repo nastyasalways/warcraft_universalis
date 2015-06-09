@@ -625,8 +625,8 @@
  E49_ADJ: "Highvale"
  E50: "Crushridge"
  E50_ADJ: "Crushridge"
- E51: "Vile Fin"
- E51_ADJ: "Vile Fin"
+ E51: "Torn Fin"
+ E51_ADJ: "Torn Fin"
  E52: "The Scourge of Lordaeron"
  E52_ADJ: "Scourge"
  
@@ -649,17 +649,17 @@
  orcish_horde: "Orcish Horde"
  orcish_horde_desc: ""
  orcish_horde_ruler: "Warchief"
- orcish_horde_ruler_female: "Warchiefess"
+ orcish_horde_ruler_female: "Warchieftess"
  
  warcraft_horde: "Horde"
  warcraft_horde_desc: ""
  warcraft_horde_ruler: "Warchief"
- warcraft_horde_ruler_female: "Warchiefess"
+ warcraft_horde_ruler_female: "Warchieftess"
  
  warband: "Warband"
  warband_desc: ""
  warband_ruler: "Warlord"
- warband_ruler_female: "Warlady"
+ warband_ruler_female: "Warlord"
  
  roaming_trade_company: "Trade Company"
  roaming_trade_company_desc: ""
@@ -704,7 +704,7 @@
  wind_trader_coalition: "Wind Trader Coalition"
  wind_trader_coalition_desc: ""
  wind_trader_coalition_ruler: "Nexus King"
- wind_trader_coalition_ruler_female: "Nexus King"
+ wind_trader_coalition_ruler_female: "Nexus Queen"
  
  shado_pan: "Shado-pan"
  shado_pan_desc: ""
@@ -739,7 +739,7 @@
  exodar_city: "Exodar"
  exodar_city_desc: ""
  exodar_city_ruler: "Prophet"
- exodar_city_ruler_female: "Prophet"
+ exodar_city_ruler_female: "Prophetess"
  
  twilight_cabal: "Twilight Cabal"
  twilight_cabal_desc: ""
@@ -754,12 +754,17 @@
  thunderbluff_tribe: "Tribe"
  thunderbluff_tribe_desc: ""
  thunderbluff_tribe_ruler: "Chief"
- thunderbluff_tribe_ruler_female: "Cheifess"
+ thunderbluff_tribe_ruler_female: "Cheiftess"
  
  minor_tribe: "Tribe"
  minor_tribe_desc: ""
  minor_tribe_ruler: "Chief"
- minor_tribe_ruler_female: "Cheifess"
+ minor_tribe_ruler_female: "Cheiftess"
+
+ theocratic_government: "Theocracy"
+ theocratic_government_desc: ""
+ theocratic_government_ruler: "High Priest"
+ theocratic_government_ruler_female: "High Priestess"
  
  # Religions
  religion_titan: "Titanic"
@@ -780,7 +785,7 @@
  religion_the_damned: "The Damned"
  religion_terokk: "Terokk"
  religion_ancestral: "Ancestral"
- religion_loa: "Loa Pantheon"
+ religion_loa: "Loa Voodoo"
  religion_celestial: "Celestials"
  religion_arkkorok: "Arkkorok"
  religion_void: "Void"

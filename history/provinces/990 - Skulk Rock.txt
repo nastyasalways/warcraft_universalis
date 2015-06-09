@@ -1,17 +1,30 @@
 # 990
-is_city = no
 
+<<<<<<< HEAD
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
+=======
+is_city = yes
+>>>>>>> origin/master
 
-culture = noculture
-religion = noreligion
+add_core = A60
+controller = A60
+owner = A60
 
-hre = no
-trade_goods = grain
+base_tax = 2 
+manpower = 1 
 
+<<<<<<< HEAD
+=======
+culture = culture_vilebranch
+religion = religion_loa 
+ 
+hre = no 
+trade_goods = military_supplies
+ 
+>>>>>>> origin/master
 discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian
@@ -50,4 +63,11 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
+<<<<<<< HEAD
+=======
+ 
+617.1.1 = { remove_core = A60 
+owner = xxx 
+controller = xxx  }
+>>>>>>> origin/master
 

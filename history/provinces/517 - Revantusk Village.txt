@@ -1,17 +1,32 @@
-# 517
-is_city = no
+# 517 
 
+<<<<<<< HEAD
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
+=======
+is_city = yes
+>>>>>>> origin/master
 
-culture = noculture
-religion = noreligion
+add_core = A61
+controller = A61
+owner = A61
+capital = "Revantusk Village"
 
-hre = no
-trade_goods = grain
 
+<<<<<<< HEAD
+=======
+base_tax = 3 
+manpower = 2 
+ 
+culture = culture_revantusk
+religion = religion_loa
+ 
+hre = no 
+trade_goods = fishing_villages
+ 
+>>>>>>> origin/master
 discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian
@@ -50,4 +65,8 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
 

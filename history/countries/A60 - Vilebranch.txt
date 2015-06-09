@@ -6,6 +6,17 @@ religion			= religion_loa
 primary_culture 	= culture_vilebranch
 capital 			= 537
 
+592.1.1 = {  
+monarch = {  
+      name = "Kazra'jin"  
+     dynasty = "Vilebranch"  
+ 		adm = 2
+		dip = 2 
+		mil = 3 
+  	}  
+  }  
+
+
 622.1.1 = { 
 monarch = { 
      name = "Hexx" 
@@ -16,9 +27,10 @@ monarch = {
 		female = yes
  	} 
  	religion		= religion_hakkari
+        government = theocratic_government
  } 
  
- 622.1.1 = { 
+ 631.1.1 = { 
 monarch = { 
      name = "Qiaga" 
      dynasty = "Vilebranch" 

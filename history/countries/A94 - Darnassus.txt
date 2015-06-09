@@ -1,7 +1,7 @@
 # Darnassus
-government 		= despotic_monarchy
+government 		= theocratic_government
 mercantilism 		= 0.1
 technology_group 	= western
-religion			= noreligion
+religion			= religion_elune
 primary_culture 	= noculture
 capital 			= 1
