@@ -716,10 +716,10 @@
  high_monarchy_ruler: "High King"
  high_monarchy_ruler_female: "High Queen"
  
- 7th_legion: "7th Legion"
- 7th_legion_desc: ""
- 7th_legion_ruler: "High Commander"
- 7th_legion_ruler_female: "High Commander"
+ seventh_legion: "7th Legion"
+ seventh_legion_desc: ""
+ seventh_legion_ruler: "High Commander"
+ seventh_legion_ruler_female: "High Commander"
  
  argent_crusade: "Argent Crusade"
  argent_crusade_desc: ""

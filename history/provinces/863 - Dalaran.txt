@@ -5,7 +5,9 @@ controller = A18
 owner = A18
 
 base_tax = 1
-manpower = 1
+base_manpower = 1
+base_production = 1
+
 
 culture = noculture
 religion = noreligion

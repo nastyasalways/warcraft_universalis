@@ -15,7 +15,13 @@ aristocracy_ideas = {
 	}
 
 	trigger = {
-		government = monarchy
+		OR = {
+			government = monarchy
+			government = noble_republic
+			government = theocracy
+		}
+		
+		
 	}
 	
 	noble_knights = {
@@ -23,7 +29,7 @@ aristocracy_ideas = {
 		cavalry_cost = -0.15
 	}
 	local_nobility = {
-		enemy_core_creation = 1.0
+		enemy_core_creation = 0.5
 		vassal_income = 0.10
 	}
 	serfdom = {
@@ -66,6 +72,8 @@ plutocracy_ideas = {
 
 	trigger = {
 		NOT = { government = monarchy }
+		NOT = { government = noble_republic }
+		NOT = { government = theocracy }
 	}
 	
 	tradition_of_payment = {
@@ -81,7 +89,7 @@ plutocracy_ideas = {
 		merchants = 1
 	}
 	free_subjects = {
-		global_trade_goods_size = 0.1
+		global_trade_goods_size_modifier = 0.1
 	}
 	free_cities = {
 		caravan_power = 0.25
@@ -127,6 +135,10 @@ innovativeness_ideas = {
 	
 	ai_will_do = {
 		factor = 1
+		modifier = {
+			factor = 3
+			government = steppe_horde
+		}		
 	}
 }
 
@@ -153,7 +165,9 @@ religious_ideas = {
 	devoutness = {
 		tolerance_own = 1
 		papal_influence = 2
+		devotion = 0.5
 		monthly_fervor_increase = 0.25
+		church_power_modifier = 0.1
 	}
 	religious_tradition = {
 		prestige = 1
@@ -313,7 +327,8 @@ defensive_ideas = {
 		land_maintenance_modifier = -0.10
 	}	
 	defensive_mentality = {
-		defensiveness = 0.33
+		defensiveness = 0.2
+		fort_maintenance_modifier = -0.1
 	}
 	supply_trains = {
 		reinforce_speed = 0.33
@@ -359,7 +374,16 @@ trade_ideas = {
 	}
 	
 	ai_will_do = {
-		factor = 1	
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = { num_of_cities = 6 }
+			NOT = { government = merchant_republic }
+		}
+		modifier = {
+			factor = 0.33
+			NOT = { government = merchant_republic }
+		}		
 	}
 }
 
@@ -370,7 +394,7 @@ economic_ideas = {
 	category = ADM
 
 	bonus = {
-		inflation_action_cost = -0.33
+		development_cost = -0.2
 	}	
 	
 	bureaucracy = {
@@ -404,7 +428,11 @@ economic_ideas = {
 		modifier = {
 			factor = 1.5
 			inflation = 10
-		}			
+		}
+		modifier = {
+			factor = 3
+			government = steppe_horde
+		}
 	}
 }
 
@@ -449,7 +477,22 @@ exploration_ideas = {
 		modifier = {
 			factor = 0.1
 			NOT = { num_of_ports = 3 }
-		}							
+		}				
+		modifier = {
+			factor = 0.1
+			NOT = { technology_group = western }
+		}			
+		modifier = {
+			factor = 0.1
+			capital_scope = {
+				NOT = {
+					region = french_region
+					region = iberian_peninsula
+					region = british_isles
+					region = the_low_countries
+				}
+			}
+		}
 		modifier = {
 			factor = 2.0
 			num_of_ports = 5	
@@ -487,7 +530,7 @@ maritime_ideas = {
 		global_ship_repair = 0.2
 	}
 	grand_navy = {
-		naval_forcelimit_modifier = 0.25
+		naval_forcelimit_modifier = 0.5
 	}
 	ships_penny = {
 		global_ship_cost = -0.1
@@ -525,16 +568,16 @@ quality_ideas = {
 		infantry_power = 0.1
 	}
 	quality_education = {
-		recover_army_morale_speed = 0.05
+		army_tradition = 1
 	}
 	finest_of_horses = {
 		cavalry_power = 0.1
 	}
 	escort_ships = {
-		naval_morale = 0.10
+		ship_durability = 0.05
 	}
 	naval_drill = {
-		recover_navy_morale_speed = 0.05
+		naval_morale = 0.10
 	}
 	copper_bottoms = {
 		naval_attrition = -0.25
@@ -570,9 +613,9 @@ quantity_ideas = {
 	national_arsenal = {
 		naval_forcelimit_modifier = 0.25
 	}
-	forced_labor_system = {
-		build_power_cost = -0.2
-	}
+	garrison_conscription = {
+		garrison_size = 0.25	
+    }
 	expanded_supply_trains = {
 		land_attrition = -0.1
 	}	
@@ -623,7 +666,15 @@ expansion_ideas = {
 			factor = 0
 			NOT = { has_idea_group = exploration_ideas }
 			NOT = { is_colonial_nation = yes }
-		}					
+		}	
+		modifier = {
+			factor = 0.1
+			NOT = { 
+				technology_group = western
+				technology_group = eastern
+				technology_group = muslim
+			}
+		}				
 	}
 }
 
@@ -632,7 +683,7 @@ administrative_ideas = {
 	category = ADM
 	
 	bonus = {
-		global_trade_goods_size = 0.1
+		global_trade_goods_size_modifier = 0.1
 	}
 	
 	organised_mercenary_payment = {
@@ -659,6 +710,10 @@ administrative_ideas = {
 	
 	ai_will_do = {
 		factor = 1
+		modifier = {
+			factor = 3
+			government = steppe_horde
+		}		
 	}
 }
 
@@ -754,7 +809,7 @@ naval_ideas = {
 		leader_naval_shock = 1
 	}
 	improved_rams = {
-		galley_power = 0.1
+		galley_power = 0.25
 	}
 	naval_cadets = {
 		leader_naval_fire = 1
@@ -766,10 +821,10 @@ naval_ideas = {
 		naval_maintenance_modifier = -0.1		
 	}
 	oak_forests_for_ships = {
-		heavy_ship_power = 0.1
+		heavy_ship_power = 0.20
 	}
 	superior_seamanship = {
-		naval_morale = 0.10
+		naval_morale = 0.15
 	}	
 	
 	ai_will_do = {

@@ -79,7 +79,6 @@ impassable = {
 	1159 # Tainted Mountains
 	1160 # 
 	1161 # The Maelstrom
-	1291 # Mountains of Northrend
 	1410 # The Stonetalon Mountains
 	1411 # The Jadefire Hills
 	1412 # Bloodvemon Hills
@@ -119,5 +118,7 @@ impassable = {
 	1827 # Northern Vale Wall
 	1963 # Dun Murogh Mountains
 	2019 # Outland Rift
+	2124 # Mountains of Coldarra
+	2137
 
 }

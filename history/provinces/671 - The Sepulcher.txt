@@ -7,7 +7,9 @@ owner = B19
 capital = "The Sepulcher"
 
 base_tax = 1 
-manpower = 1
+base_manpower = 1
+base_production = 1
+
  
 culture = culture_rothide
 religion = religion_ancestral

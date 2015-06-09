@@ -57,9 +57,8 @@ technology = {
 	year = 1453
 		
 	trade_range	= 10
-
 	marketplace = yes 
-	dock = yes
+	
 }
 
 technology = {
@@ -74,7 +73,7 @@ technology = {
 	# Tech 6
 	year = 1479
 	
-	embassy = yes
+	shipyard = yes
 
 }
 
@@ -91,17 +90,17 @@ technology  = {
 	# Tech 8
 	year = 1505
 	
+	dock = yes	
 
 	trade_range				=	10
-	trade_depot = yes 
-	drydock = yes 
+	naval_morale			=	0.2
+
 }
 
 technology = {
 	# Tech 9
 	year = 1518
 	
-	naval_morale			=	0.2
 	naval_maintenance		= 	0.2	
 	range					=	50
 	
@@ -127,39 +126,40 @@ technology = {
 	
 	range					= 	100
 
-	canal = yes
-	shipyard = yes
+	wharf = yes
+
 }
 
 technology = {
 	# Tech 12
 	year = 1557
+	naval_morale			=	0.4
 	
-	wharf = yes
-	tradecompany = yes
 }
 
 technology = {
 	# Tech 13
 	year = 1570
 	
-	grand_shipyard = yes 
-	road_network = yes
+	trade_efficiency 		= 	0.1
+	enable = brig
+
 }
 
 technology = {
 	# Tech 14
 	year = 1583
 	
+	tradecompany = yes
+
+	
 	enable = galleass
-	enable = brig
 }
 
 technology = {
 	# Tech 15
 	year = 1596
 	
-	naval_morale			=	0.4
 	naval_maintenance		= 	0.2	
 	range					=	50
 	global_colonial_growth  = 	15
@@ -175,28 +175,28 @@ technology = {
 	trade_efficiency 		= 	0.1
 	trade_range				=	20
 
-	post_office = yes
-	naval_arsenal = yes
 }
 
 technology = {
 	# Tech 17
 	year = 1622
 	
-	trade_efficiency 		= 	0.1
 	trade_range				=	20
 	range					=	50
+	
+	
+	trade_depot = yes 
+
 
 	enable = merchantman
-	enable = galiot
 }
 
 technology = {
 	# Tech 18
 	year = 1635
 	
-	customs_house =	yes
-	naval_base = yes
+	enable = galiot
+	naval_morale			=	0.5
 	
 }
 
@@ -204,11 +204,11 @@ technology = {
 	# Tech 19
 	year = 1648
 	
-	naval_morale			=	0.5
 	naval_maintenance		= 	0.25	
 	range					=	50
 	
-	admiralty = yes
+	grand_shipyard = yes 
+	
 	
 	enable = wargalleon
 	enable = frigate
@@ -217,17 +217,16 @@ technology = {
 technology = {
 	# Tech 20
 	year = 1661
+
+	trade_efficiency 		= 	0.1
+	trade_range				=	20
 	
-	refinery = yes
-	royal_palace = yes
 }
 
 technology = {
 	# Tech 21
 	year = 1674
 	
-	trade_efficiency 		= 	0.1
-	trade_range				=	20
 
 	enable = chebeck
 }
@@ -239,7 +238,8 @@ technology = {
 	naval_morale			=	0.5
 	naval_maintenance		= 	0.25
 	
-	allow_client_states = yes		
+
+	stock_exchange = yes
 
 	reduced_naval_attrition = yes
 	enable = twodecker
@@ -252,6 +252,8 @@ technology = {
 	
 	global_colonial_growth  = 	25	
 	range					=	150
+	allow_client_states = yes		
+
 	
 	enable = heavy_frigate
 }
@@ -259,6 +261,10 @@ technology = {
 technology = {
 	# Tech 24
 	year = 1715
+	
+	
+	drydock = yes 
+
 	
 	trade_efficiency 		= 	0.1
 	trade_range				=	20

@@ -7,7 +7,9 @@ owner = A08
 capital = "Tiderun Field"
 
 base_tax = 2 
-manpower = 1
+base_manpower = 1
+base_production = 1
+
  
 culture = culture_lordaeron
 religion = religion_church_of_the_light

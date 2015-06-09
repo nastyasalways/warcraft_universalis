@@ -35,6 +35,9 @@ categories =  {
 		movement_cost = 1.10
 		
 		supply_limit = 10
+		allowed_num_of_buildings = 2
+		nation_designer_cost_multiplier = 1.1
+		
 		sound_type = plains
 		color = { 103 167 214  }	
 	}
@@ -44,7 +47,10 @@ categories =  {
 		defence = 1
 
 		combat_width = -0.20
-		supply_limit = 6
+		supply_limit = 3
+		local_development_cost = 0.2
+		nation_designer_cost_multiplier = 0.9
+		
 		sound_type = forest
 		color = { 91 123 45 }                                   
 	}
@@ -53,24 +59,29 @@ categories =  {
 	hills = {
 		movement_cost = 1.40
 		defence = 1
+		
 		local_defensiveness = 0.1
-		color = { 109 115 141 }
-
+		local_development_cost = 0.25
 		combat_width = -0.25
-		supply_limit = 4
+		nation_designer_cost_multiplier = 0.85
+		supply_limit = 2
+		
 		sound_type = mountain
+		color = { 109 115 141 }
 	}
 
 	#woods
 	woods = {
 		movement_cost = 1.10
 		defence = 1
-		
-		color = { 165 205 108 }
 
+		local_development_cost = 0.15
 		combat_width = -0.20
+		nation_designer_cost_multiplier = 0.9
 		supply_limit = 6
+		
 		sound_type = forest
+		color = { 165 205 108 }
 		
 		terrain_override = {
 			724
@@ -85,13 +96,15 @@ categories =  {
 	mountain = {
 		movement_cost = 1.5
 		defence = 2
-		local_defensiveness = 0.25
-		color = { 117 108 119 }
-		
 
+		local_defensiveness = 0.25
+		local_development_cost = 0.5
 		combat_width = -0.50
-		supply_limit = 4
+		nation_designer_cost_multiplier = 0.75
+		supply_limit = 2
+		
 		sound_type = mountain
+		color = { 117 108 119 }
 	}
 	
 
@@ -99,8 +112,10 @@ categories =  {
 	impassable_mountains = {
 		movement_cost = 8.0
 		defence = 6
-		sound_type = desert
 		
+		local_development_cost = 10
+		
+		sound_type = desert
 		color = { 128 128 128 }
 	}
 
@@ -109,9 +124,11 @@ categories =  {
 		movement_cost = 1.0
 
 		supply_limit = 8
+		allowed_num_of_buildings = 1
+		nation_designer_cost_multiplier = 1
+		
 		sound_type = plains
 		color = { 211 201 184 }
-		
 	}
 	
 
@@ -120,8 +137,11 @@ categories =  {
 		movement_cost = 1.5
 		defence = 1
 
+		local_development_cost = 0.35
 		combat_width = -0.25
+		nation_designer_cost_multiplier = 0.8
 		supply_limit = 4
+		
 		sound_type = jungle
 		color = { 40 180 149 }
 
@@ -130,8 +150,12 @@ categories =  {
 	marsh = {
 		movement_cost = 1.3
 		defence = 1
+
+		local_development_cost = 0.25
 		combat_width = -0.25
-		supply_limit = 4
+		nation_designer_cost_multiplier = 0.85
+		supply_limit = 2
+		
 		sound_type = forest
 		color = { 76 112 105 }
 	}
@@ -142,7 +166,11 @@ categories =  {
 	
 		supply_limit = 4
 		sound_type = desert
+		local_development_cost = 0.35
+		#local_build_cost = 0.35
+		nation_designer_cost_multiplier = 0.8
 		
+		sound_type = desert
 		color = { 220 210 0 }
 	}
 	
@@ -150,18 +178,23 @@ categories =  {
 	coastal_desert = {
 		movement_cost = 1.0
 		
-		color = { 200 128 0 }
-
-		supply_limit = 4
+		local_development_cost = 0.25
+		#local_build_cost = 0.25
+		nation_designer_cost_multiplier = 0.9	
+	
 		sound_type = desert
+		color = { 200 128 0 }
 	}
 	
 	coastline = {
 		movement_cost = 1.0
 
+		local_development_cost = 0.1
+		#local_build_cost = 0.1
+		nation_designer_cost_multiplier = 0.95		
 		supply_limit = 6
+		
 		sound_type = sea
-
 		color = { 200 128 0 }
 	}	
 	
@@ -169,7 +202,11 @@ categories =  {
 	drylands = {
 		movement_cost = 1.00
 
+		local_development_cost = 0.05
+		nation_designer_cost_multiplier = 0.95
 		supply_limit = 6
+		allowed_num_of_buildings = 1
+		
 		sound_type = plains
 		color = { 208 158 108  }		
 	}
@@ -178,18 +215,24 @@ categories =  {
 	highlands = {
 		movement_cost = 1.40
 		defence = 1
+	
 		local_defensiveness = 0.1
-		color = { 135 70 0 }
-
+		local_development_cost = 0.2
+		nation_designer_cost_multiplier = 0.9	
 		combat_width = -0.25
 		supply_limit = 6
+		
 		sound_type = mountain
+		color = { 135 70 0 }
 	}
 
 	savannah = {
 		movement_cost = 1.00
 			
+		local_development_cost = 0.15
+		nation_designer_cost_multiplier = 0.95	
 		supply_limit = 4
+		
 		sound_type = plains
 		color = { 201 214 148  }		
 	}
@@ -198,7 +241,10 @@ categories =  {
 	steppe = {
 		movement_cost = 1.00
 		
+		local_development_cost = 0.10
+		nation_designer_cost_multiplier = 0.95
 		supply_limit = 6
+		
 		sound_type = plains
 		color = { 185 106 210  }
 		
@@ -210,11 +256,13 @@ categories =  {
 	# Warcraft
 	burnt_earth = {
 		movement_cost = 1.00
+		
+		local_development_cost = 0.5
+		nation_designer_cost_multiplier = 0.95
 		local_defensiveness = -0.25
 		supply_limit = 1
 		
 		sound_type = plains
-		
 		color = { 100 0 50 }
 		
 		terrain_override = {
@@ -224,11 +272,13 @@ categories =  {
 	
 	frozen_wastes = {
 		movement_cost = 1.00
+		
+		local_development_cost = 0.5
+		nation_designer_cost_multiplier = 0.95
 		local_defensiveness = -0.25
 		supply_limit = 1
 		
 		sound_type = plains
-		
 		color = { 100 0 10 }
 		
 		terrain_override = {
@@ -239,12 +289,14 @@ categories =  {
 	# Warcraft: Special
 	darnassus = {
 		movement_cost = 1.00
-		local_defensiveness = 1
-		supply_limit = 10
 		defence = 2
 		
-		sound_type = plains
+		local_defensiveness = 1
+		supply_limit = 10
+		local_development_cost = -0.25
+		nation_designer_cost_multiplier = 1
 		
+		sound_type = plains
 		color = { 0 0 20 }
 		
 		terrain_override = {
@@ -254,12 +306,14 @@ categories =  {
 	
 	exodar = {
 		movement_cost = 1.00
-		local_defensiveness = 1
-		supply_limit = 10
 		defence = 2
 		
-		sound_type = plains
+		local_defensiveness = 1
+		supply_limit = 10
+		local_development_cost = -0.25
+		nation_designer_cost_multiplier = 1
 		
+		sound_type = plains
 		color = { 0 0 30 }
 		
 		terrain_override = {
@@ -269,12 +323,14 @@ categories =  {
 	
 	ironforge = {
 		movement_cost = 1.00
-		local_defensiveness = 1
-		supply_limit = 10
 		defence = 2
 		
-		sound_type = plains
+		local_defensiveness = 1
+		supply_limit = 10
+		local_development_cost = -0.25
+		nation_designer_cost_multiplier = 1
 		
+		sound_type = plains
 		color = { 0 0 40 }
 		
 		terrain_override = {
@@ -284,12 +340,15 @@ categories =  {
 	
 	orgrimmar = {
 		movement_cost = 1.00
-		local_defensiveness = 1
-		supply_limit = 10
+		movement_cost = 1.00
 		defence = 2
 		
-		sound_type = plains
+		local_defensiveness = 1
+		supply_limit = 10
+		local_development_cost = -0.25
+		nation_designer_cost_multiplier = 1
 		
+		sound_type = plains
 		color = { 0 0 50 }
 		
 		terrain_override = {
@@ -299,12 +358,14 @@ categories =  {
 	
 	silvermoon = {
 		movement_cost = 1.00
-		local_defensiveness = 1
-		supply_limit = 10
 		defence = 2
 		
-		sound_type = plains
+		local_defensiveness = 1
+		supply_limit = 10
+		local_development_cost = -0.25
+		nation_designer_cost_multiplier = 1
 		
+		sound_type = plains
 		color = { 0 0 60 }
 		
 		terrain_override = {
@@ -314,12 +375,14 @@ categories =  {
 	
 	stormwind = {
 		movement_cost = 1.00
-		local_defensiveness = 1
-		supply_limit = 10
 		defence = 2
 		
-		sound_type = plains
+		local_defensiveness = 1
+		supply_limit = 10
+		local_development_cost = -0.25
+		nation_designer_cost_multiplier = 1
 		
+		sound_type = plains
 		color = { 0 0 60 }
 		
 		terrain_override = {
@@ -329,12 +392,14 @@ categories =  {
 	
 	thunder_bluff = {
 		movement_cost = 1.00
-		local_defensiveness = 1
-		supply_limit = 10
 		defence = 2
 		
-		sound_type = plains
+		local_defensiveness = 1
+		supply_limit = 10
+		local_development_cost = -0.25
+		nation_designer_cost_multiplier = 1
 		
+		sound_type = plains
 		color = { 0 0 70 }
 		
 		terrain_override = {
@@ -344,12 +409,14 @@ categories =  {
 	
 	undercity = {
 		movement_cost = 1.00
-		local_defensiveness = 1
-		supply_limit = 10
 		defence = 2
 		
-		sound_type = plains
+		local_defensiveness = 1
+		supply_limit = 10
+		local_development_cost = -0.25
+		nation_designer_cost_multiplier = 1
 		
+		sound_type = plains
 		color = { 0 0 80 }
 		
 		terrain_override = {
@@ -359,12 +426,14 @@ categories =  {
 	
 	dalaran = {
 		movement_cost = 1.00
-		local_defensiveness = 1
-		supply_limit = 10
 		defence = 2
 		
-		sound_type = plains
+		local_defensiveness = 1
+		supply_limit = 10
+		local_development_cost = -0.25
+		nation_designer_cost_multiplier = 1
 		
+		sound_type = plains
 		color = { 0 0 90 }
 		
 		terrain_override = {
@@ -374,12 +443,14 @@ categories =  {
 	
 	shattrath = {
 		movement_cost = 1.00
-		local_defensiveness = 1
-		supply_limit = 10
 		defence = 2
 		
-		sound_type = plains
+		local_defensiveness = 1
+		supply_limit = 10
+		local_development_cost = -0.25
+		nation_designer_cost_multiplier = 1
 		
+		sound_type = plains
 		color = { 0 0 100 }
 		
 		terrain_override = {
@@ -389,12 +460,14 @@ categories =  {
 	
 	icecrown_citadel = {
 		movement_cost = 1.00
+		defence = 2
+		
 		local_defensiveness = 1
 		supply_limit = 10
-		defence = 4
+		local_development_cost = -0.25
+		nation_designer_cost_multiplier = 1
 		
 		sound_type = plains
-		
 		color = { 0 0 100 }
 		
 		terrain_override = {

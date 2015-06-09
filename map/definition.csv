@@ -579,7 +579,7 @@ province;red;green;blue;type;name
 578;184;183;51;x;Sholazar Coast
 579;80;119;60;x;x
 580;211;54;173;x;Swiftgear Station
-581;198;118;173;x;Dunwald Coast
+581;198;118;173;x;Obsidian Forest
 582;193;54;255;x;Altar of Sseratus
 583;189;118;128;x;The Forgotten Shore
 584;184;54;0;x;Kamagua
@@ -595,7 +595,7 @@ province;red;green;blue;type;name
 594;67;80;32;x;Stagalbog
 595;181;181;52;x;The Makers' Overlook
 596;83;52;126;x;Moonbrook
-597;70;116;126;x;Dragonmaw Point
+597;70;116;126;x;Highbank
 598;65;52;192;x;Voltarus
 599;60;116;64;x;Naxxramas
 600;56;52;255;x;Ember Clutch
@@ -612,7 +612,7 @@ province;red;green;blue;type;name
 611;9;115;187;x;x
 612;211;50;79;x;Westfall Lighthouse
 613;207;114;79;x;Crucible of Carnage
-614;197;114;79;x;Firebeard's Coast
+614;197;114;79;x;Twilight Shore
 615;193;50;128;x;Thrym's End
 616;184;50;192;x;x
 617;170;114;128;x;x
@@ -628,11 +628,11 @@ province;red;green;blue;type;name
 627;163;146;255;x;Sandy Shores
 628;255;112;90;x;Scourge Temples
 629;102;240;0;x;Windrunner Spire
-630;83;48;32;x;x
+630;83;48;32;x;Nethergarde Keep
 631;78;112;32;x;Crushblow
 632;69;112;32;x;Firebeard's Patrol
 633;65;48;64;x;Light's Reach
-634;b;x;Wintergarde Keep
+634;60;112;255;x;Wintergarde Keep
 635;56;48;128;x;Westguard Keep
 636;42;112;64;x;Nesingwary's Expedition
 637;37;48;255;x;Ravenhill
@@ -1285,7 +1285,7 @@ province;red;green;blue;type;name
 1284;148;120;110;x;Drak'Tharon Keep
 1285;85;58;19;x;Zim'torga Approach
 1286;144;73;179;x;Gundrak Coast
-1287;98;153;17;x;Gundrak Approach
+1287;98;153;17;x;Gundrak Passage
 1288;56;82;205;x;Howling Pass
 1289;178;151;132;x;Venture Bay
 1290;111;174;245;x;The Ancient Lift
@@ -2135,34 +2135,34 @@ province;red;green;blue;type;name
 2134;231;227;240;x;Scarlet Point
 2135;69;89;72;x;Nighthaven
 2136;181;227;217;x;Moonshone Pass
-2137;100;204;112;x;x
-2138;37;96;7;x;x
-2139;160;153;228;x;x
-2140;78;233;209;x;x
-2141;202;197;76;x;x
-2142;80;213;153;x;x
-2143;74;100;46;x;x
-2144;85;219;34;x;x
-2145;189;184;159;x;x
-2146;226;248;102;x;x
-2147;140;189;19;x;x
-2148;2;30;55;x;x
-2149;235;229;176;x;x
-2150;12;223;161;x;x
-2151;50;211;182;x;x
-2152;24;132;103;x;x
-2153;236;167;6;x;x
-2154;30;239;99;x;x
-2155;48;73;171;x;x
-2156;62;23;71;x;x
-2157;165;142;168;x;x
-2158;110;1;138;x;x
-2159;130;200;160;x;x
-2160;28;22;171;x;x
-2161;228;168;237;x;x
-2162;157;137;94;x;x
-2163;250;227;72;x;x
-2164;50;144;192;x;x
+2137;100;204;112;wasteland;Mountains of Northrend
+2138;37;96;7;x;Goldshire Woods
+2139;160;153;228;x;Goldshire Farms
+2140;78;233;209;x;Northshire Abbey
+2141;202;197;76;x;Stormwind Harbour
+2142;80;213;153;x;Pools of Stormwind
+2143;74;100;46;x;Stonecairn Hills
+2144;85;219;34;x;Jasperlode Mine
+2145;189;184;159;x;Woods of Elwynn
+2146;226;248;102;x;Crystal Lake Trail
+2147;140;189;19;x;Westvale Path
+2148;2;30;55;x;Eastvale Path
+2149;235;229;176;x;Stormwind Gates
+2150;12;223;161;x;Dusky Bank
+2151;50;211;182;x;Withered Remains
+2152;24;132;103;x;Raven's Cloister
+2153;236;167;6;x;Howling Stones
+2154;30;239;99;x;The Raging Ravine
+2155;48;73;171;x;Murky Pools
+2156;62;23;71;x;The Quagmire
+2157;165;142;168;x;Nethergarde Caves
+2158;110;1;138;x;The Murky Shore
+2159;130;200;160;x;Crackling Ruins
+2160;28;22;171;x;Jin'jii Ruins
+2161;228;168;237;x;Deadman's Foil
+2162;157;137;94;x;Darkshire Pass
+2163;250;227;72;x;The Crumbling Cliff
+2164;50;144;192;x;The Obsidian Scar
 2165;195;132;33;x;x
 2166;124;123;121;x;x
 2167;161;106;64;x;x
