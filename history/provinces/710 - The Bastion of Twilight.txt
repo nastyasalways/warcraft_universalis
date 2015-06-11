@@ -1,13 +1,13 @@
 # 710
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 6
+base_manpower = 6
+base_production = 6
 
 
-culture = noculture
-religion = noreligion
+culture = culture_earth
+religion = religion_therazane
 
 hre = no
 trade_goods = grain
