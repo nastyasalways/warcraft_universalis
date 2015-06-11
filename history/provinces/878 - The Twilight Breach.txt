@@ -7,7 +7,7 @@ base_production = 2
 
 
 culture = n_zoth
-religion = old_gods
+religion = religion_old_gods
 
 hre = no
 trade_goods = grain

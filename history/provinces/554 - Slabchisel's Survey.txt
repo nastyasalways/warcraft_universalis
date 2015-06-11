@@ -1,8 +1,8 @@
 # 554 Mosshide Camp
 is_city = yes
-add_core = B14
-controller = B14
-owner = B14
+add_core = B13
+controller = B13
+owner = B13
 
 base_tax = 2
 base_manpower = 2

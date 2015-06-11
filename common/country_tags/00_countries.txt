@@ -105,6 +105,7 @@ A62 = "countries/Mossflayer.txt"
 A63 = "countries/Firetree.txt"
 A64 = "countries/Witherbark.txt"
 A65 = "countries/Smolderthorn.txt"
+E55 = "countries/Shadowglen.txt"
 
 # Jungle Troll
 A66 = "countries/Gurubashi.txt"
@@ -244,6 +245,7 @@ B59 = "countries/Whitewhisker.txt"
 B60 = "countries/Bloodspore.txt"
 B61 = "countries/Magmoth.txt"
 B62 = "countries/Shalerhorn.txt"
+E53 = "countries/Tunnel Rat.txt"
 
 # Harpy
 B63 = "countries/Bloodfury.txt"
@@ -363,6 +365,10 @@ E45 = "countries/Osul.txt"
 E46 = "countries/Deadtalker.txt"
 E47 = "countries/Burilgi.txt"
 E48 = "countries/Palewind.txt"
+
+# Trogg
+
+E54 = "countries/Stonesplinter.txt"
 
 # Formables
 #Arak

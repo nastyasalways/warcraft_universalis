@@ -10,7 +10,7 @@ base_production = 1
 
 
 culture = culture_red
-religion = religion_wyrmcult
+religion = religion_sect_of_dragons
 
 hre = no
 trade_goods = grain

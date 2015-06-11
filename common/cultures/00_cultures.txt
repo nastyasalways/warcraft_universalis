@@ -822,6 +822,22 @@ culture_smolderthorn = {
 			"Witherbark"
 		}
 	}
+
+       culture_shadowglen = {
+		male_names = {
+			"Krag'Jin"
+			"Nimar"
+			"Zul'rogg"
+			"Witherheart"
+			"Qeeju"
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			"Witherbark"
+		}
+	}
 }
 
 culture_group_jungle_troll = {
@@ -3038,6 +3054,32 @@ culture_group_gnomish = {
 	}
 		
 	culture_gnome = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+}
+
+culture_group_trogg = {
+	graphical_culture = westerngfx
+
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
+	culture_stonesplinter = {
 		male_names = {
 			
 		}

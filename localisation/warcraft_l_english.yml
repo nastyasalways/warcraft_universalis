@@ -629,6 +629,12 @@
  E51_ADJ: "Torn Fin"
  E52: "The Scourge of Lordaeron"
  E52_ADJ: "Scourge"
+ E53: "Tunnel Rat"
+ E53_ADJ: "Tunnel Rat"
+ E54: "Stonesplinter"
+ E54_ADJ: "Stonesplinter"
+ E55: "Shadowglen"
+ E55_ADJ: "Shadowglen"
  
  # Governments
  magocracy_republic: "Magocracy Republic"
@@ -775,7 +781,7 @@
  religion_arcanum: "Arcanum"
  religion_old_gods: "Old Gods"
  religion_shadow: "Shadow and Necromancy"
- religion_church_of_the_light: "Church of the Light"
+ religion_church_of_the_light: "Church of the Holy Light"
  religion_heretics_of_the_light: "Heretics of the Light"
  religion_light_of_the_naaru: "Light of the Naaru"
  religion_elune: "Elune"
@@ -791,6 +797,10 @@
  religion_void: "Void"
  religion_mystery_of_the_makers: "Mystery of the Makers"
  religion_ragnaros: "Ragnaros"
+ religion_therazane: "Therazane"
+ religion_al_akir: "Al' Akir"
+ religion_neptulon: "Neptulon"
+ religion_geomancy: "Geomancy"
  
  # Factions
  faction_lower_spire: "The Lower Spire"
@@ -884,6 +894,8 @@
  tech_ethereal_desc: "With the Ethereal technology group, technology levels are standard cost (100%)."
  tech_gnome: "Gnomish"
  tech_gnome_desc: "With the Gnomish technology group, technology levels are standard cost (100%)."
+ tech_trogg: "Trogg"
+ tech_trogg_desc: "With the Trogg technology group, technology levels are standard cost (100%)."
  
  # Triggered Modifiers
  draconic_weakness: "Draconic Weakness"

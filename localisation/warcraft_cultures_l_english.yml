@@ -69,6 +69,7 @@
  culture_firetree: "Firetree"
  culture_witherbark: "Witherbark"
  culture_smolderthorn: "Smolderthorn"
+ culture_shadowglen: "Shadowglen"
  
  culture_group_jungle_troll: "Jungle Troll"
  culture_gurubashi: "Gurubashi"
@@ -274,3 +275,6 @@
  
  culture_group_gnomish: "Gnomish"
  culture_gnome: "Gnome"
+
+ culture_group_trogg: "Trogg"
+ culture_stonesplinter: "Stonespliter"

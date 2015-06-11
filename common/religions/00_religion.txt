@@ -596,7 +596,7 @@ warcraft_religions = {
 		}
 		
 		on_convert = {
-			change_religion = religion_ragnaros
+			change_religion = religion_therazane
 			add_prestige = -100
 
 			add_country_modifier = {
@@ -620,7 +620,7 @@ warcraft_religions = {
 		}
 		
 		on_convert = {
-			change_religion = religion_ragnaros
+			change_religion = religion_al_akir
 			add_prestige = -100
 
 			add_country_modifier = {
@@ -644,7 +644,7 @@ warcraft_religions = {
 		}
 		
 		on_convert = {
-			change_religion = religion_ragnaros
+			change_religion = religion_neptulon
 			add_prestige = -100
 
 			add_country_modifier = {
@@ -656,5 +656,29 @@ warcraft_religions = {
 		heretic = { }
 	}
 	
+religion_geomancy = {
+		color = { 0.15 0.15 0.15 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_geomancy
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+
+		heretic = { }
+	}
+
 	crusade_name = CRUSADE
 }
