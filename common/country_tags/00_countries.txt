@@ -54,12 +54,14 @@ A24 = "countries/The Argent Dawn.txt"
 A25 = "countries/Refuge Point.txt"
 A26 = "countries/Syndicate.txt"
 A27 = "countries/Ravenholdt.txt"
+E59 = "countries/Karazhan.txt"
 
 # Dwarven
 A28 = "countries/Wildhammer.txt"
 A29 = "countries/Ironforge.txt"
 A30 = "countries/Dark Iron.txt"
 A31 = "countries/Frostborn.txt"
+E56 = "countries/Thorium Brotherhood.txt"
 
 # Gnomish
 A32 = "countries/Gnomeregan.txt"
@@ -115,6 +117,7 @@ A69 = "countries/Skullsplitter.txt"
 A70 = "countries/Darkspear.txt"
 A71 = "countries/Atalai.txt"
 A72 = "countries/Hakkari.txt"
+E58 = "countries/Zanzil.txt"
 
 # Sand Troll
 A73 = "countries/Sandfury.txt"
@@ -369,6 +372,7 @@ E48 = "countries/Palewind.txt"
 # Trogg
 
 E54 = "countries/Stonesplinter.txt"
+E57 = "countries/Stonevault.txt"
 
 # Formables
 #Arak

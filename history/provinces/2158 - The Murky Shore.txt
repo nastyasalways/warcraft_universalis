@@ -1,13 +1,17 @@
-# 2159
-is_city = no
+# 2158
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = B29
+controller = B29
+add_core = B29
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
 
-culture = noculture
-religion = noreligion
+culture = culture_marshfin
+religion = religion_old_gods
 
 hre = no
 trade_goods = grain

@@ -1,13 +1,18 @@
-# 1962
-is_city = no
+# 1962 Blackrock Depths
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+is_city = yes
+
+owner = A30
+controller = A30
+add_core = A30
+
+base_tax = 8
+base_manpower = 8
+base_production = 8
 
 
-culture = noculture
-religion = noreligion
+culture = culture_dark_iron
+religion = religion_ragnaros
 
 hre = no
 trade_goods = grain

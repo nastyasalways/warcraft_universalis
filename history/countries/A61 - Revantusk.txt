@@ -1,10 +1,21 @@
 # Revantusk
-government 		= minor_tribe
+government 		= warband
 mercantilism 		= 0.1
 technology_group 	= tech_troll
 religion			= religion_loa
 primary_culture 	= culture_revantusk
 capital 			= 517
+
+
+546.1.1 = {  
+monarch = {  
+      name = "Moz'jin"  
+     dynasty = "Revantusk"  
+ 		adm = 3 
+		dip = 4 
+		mil = 3 
+  	}  
+  }  
 
 592.1.1 = {  
 monarch = {  

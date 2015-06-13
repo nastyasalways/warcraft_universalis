@@ -1,13 +1,17 @@
 # 1957
 is_city = no
 
+owner = E26
+controller = E26
+add_core = E26
+
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
 
-culture = noculture
-religion = noreligion
+culture = culture_fire
+religion = religion_ragnaros
 
 hre = no
 trade_goods = grain

@@ -222,7 +222,7 @@
  
  culture_group_titan: "Titan"
  culture_tol_vir: "Tol'vir"
- culture_modan: "Modan"
+ culture_earthen: "Earthen"
  culture_ironforge: "Ironforge"
  culture_wildhammer: "Wildhammer"
  culture_dark_iron: "Dark Iron"
@@ -277,4 +277,5 @@
  culture_gnome: "Gnome"
 
  culture_group_trogg: "Trogg"
- culture_stonesplinter: "Stonespliter"
+ culture_stonesplinter: "Stonesplinter"
+ culture_stonevault: "Stonevault"

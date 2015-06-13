@@ -1,13 +1,17 @@
-# 1980
-is_city = no
+# 1980 Altar of Ragnaros
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = E26
+controller = E26
+add_core = E26
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
+culture = culture_fire
+religion = religion_ragnaros
 
 hre = no
 trade_goods = grain

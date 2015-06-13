@@ -1,13 +1,18 @@
 # 1971
-is_city = no
-
-base_tax = 1
-base_manpower = 1
-base_production = 1
+is_city = yes
 
 
-culture = noculture
-religion = noreligion
+owner = A30
+controller = A30
+add_core = A30
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+
+culture = culture_dark_iron
+religion = religion_ragnaros
 
 hre = no
 trade_goods = grain

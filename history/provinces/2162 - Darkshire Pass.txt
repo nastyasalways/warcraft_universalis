@@ -1,13 +1,16 @@
-# 2157
-is_city = no
+# 938
+is_city = yrd
+
+owner = E59
+controller = E59
+add_core = E59
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
-
-culture = noculture
-religion = noreligion
+culture = culture_azeroth
+religion = religion_arcane
 
 hre = no
 trade_goods = grain

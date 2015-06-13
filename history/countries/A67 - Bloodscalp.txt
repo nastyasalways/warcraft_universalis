@@ -1,7 +1,7 @@
 # Bloodscalp
-government 		= despotic_monarchy
+government 		= warband
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+technology_group 	= tech_troll
+religion			= religion_loa
+primary_culture 	= culture_bloodscalp
+capital 			= 750

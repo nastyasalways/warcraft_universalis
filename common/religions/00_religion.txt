@@ -680,5 +680,29 @@ religion_geomancy = {
 		heretic = { }
 	}
 
+religion_tech = {
+		color = { 0.15 0.15 0.15 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_tech
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+
+		heretic = { }
+	}
+
 	crusade_name = CRUSADE
 }

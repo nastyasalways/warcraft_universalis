@@ -1,13 +1,16 @@
 # 1987
-is_city = no
+is_city = yes
+
+owner = A99
+controller = A99
+add_core = A99
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
-
-culture = noculture
-religion = noreligion
+culture = culture_black
+religion = religion_old_gods
 
 hre = no
 trade_goods = grain

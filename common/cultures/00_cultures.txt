@@ -2504,7 +2504,7 @@ culture_group_titan = {
 		}
 	}
 	
-	culture_modan = {
+	culture_earthen = {
 		male_names = {
 			
 		}

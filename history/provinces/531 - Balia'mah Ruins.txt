@@ -1,13 +1,17 @@
 # 531
-is_city = no
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = A69
+controller = A69
+add_core = A69
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
+culture = culture_skullsplitter
+religion = religion_loa
 
 hre = no
 trade_goods = grain

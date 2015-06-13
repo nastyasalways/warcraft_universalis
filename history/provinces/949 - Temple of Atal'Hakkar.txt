@@ -1,13 +1,17 @@
 # 949
-is_city = no
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = A71
+controller = A71
+add_core = A71
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
 
 
-culture = noculture
-religion = noreligion
+culture = culture_atal_ai
+religion = religion_hakkari
 
 hre = no
 trade_goods = grain

@@ -1,7 +1,17 @@
 # Dark Iron
-government 		= despotic_monarchy
+government 		= absolute_monarchy
 mercantilism 		= 0.1
 technology_group 	= tech_dwarf
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+religion			= religion_ragnaros
+primary_culture 	= culture_dark_iron
+capital 			= 1962
+
+546.1.1 = { 
+monarch = { 
+     name = "Dagran" 
+     dynasty = "Thaurassian" 
+		adm = 4
+		dip = 3
+		mil = 4
+ 	} 
+ } 
