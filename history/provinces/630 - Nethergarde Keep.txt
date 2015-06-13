@@ -1,10 +1,9 @@
-# 1050 Rockard
+# 630
 is_city = yes
 
 base_tax = 4
 base_manpower = 4
 base_production = 4
-
 
 
 culture = culture_gurubashi

@@ -643,6 +643,8 @@
  E58_ADJ: "Zanzil"
  E59: "Karazhan"
  E59_ADJ: "Karazhan"
+ E60: "Rockpool"
+ E60_ADJ: "Rockpool"
  
  # Governments
  magocracy_republic: "Magocracy Republic"

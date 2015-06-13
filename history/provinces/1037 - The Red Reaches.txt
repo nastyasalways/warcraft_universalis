@@ -1,13 +1,19 @@
 # 1037
-is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+is_city = yes
+
+owner = E60
+controller = E60
+add_core = E60
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
+
+culture = culture_nerglish
+religion = religion_neptulon
 
 hre = no
 trade_goods = grain

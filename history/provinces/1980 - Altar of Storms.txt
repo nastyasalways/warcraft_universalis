@@ -1,4 +1,4 @@
-# 1980 Altar of Ragnaros
+# 1980 Altar of Ragnaros (located in burning steppes)
 is_city = yes
 
 owner = E26
