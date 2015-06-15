@@ -3,7 +3,7 @@ government 		= minor_tribe
 mercantilism 		= 0.1 
 technology_group 	= tech_trogg
 religion			= religion_geomancy
-primary_culture 	= culture_stonevault
+primary_culture 	= culture_trogg
 capital 			= 962
 
 546.1.1 = { 

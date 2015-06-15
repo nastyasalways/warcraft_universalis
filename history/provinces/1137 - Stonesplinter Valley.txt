@@ -10,7 +10,7 @@ base_manpower = 3
 base_production = 3
 
 
-culture = culture_stonesplinter
+culture = culture_trogg
 religion = religion_geomancy
 
 hre = no

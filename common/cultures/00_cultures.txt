@@ -2333,6 +2333,18 @@ culture_group_kobold = {
 			
 		}
 	}
+
+	culture_tunnel_rat = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
 }
 
 culture_group_harpy = {
@@ -3079,7 +3091,7 @@ culture_group_trogg = {
 			
 	}
 		
-	culture_stonesplinter = {
+	culture_trogg = {
 		male_names = {
 			
 		}
@@ -3090,4 +3102,6 @@ culture_group_trogg = {
 			
 		}
 	}
+
+
 }

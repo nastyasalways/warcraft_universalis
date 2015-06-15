@@ -8,6 +8,17 @@ capital 			= 691
 
 598.1.1 = {capital = 572}
 
+546.1.1 = {  
+monarch = {  
+      name = "Marz'hor"  
+     dynasty = "Firetree"  
+ 		adm = 3
+		dip = 3
+		mil = 3 
+  	}  
+  }  
+
+
 592.1.1 = {  
 monarch = {  
       name = "Markhor"  

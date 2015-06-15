@@ -5,3 +5,13 @@ technology_group 	= tech_troll
 religion			= religion_loa
 primary_culture 	= culture_gurubashi
 capital 			= 783
+
+546.1.1 = {  
+monarch = {  
+      name = "Jeklik"  
+     dynasty = "Gurubashi"  
+ 		adm = 2 
+		dip = 3 
+		mil = 4 
+  	}  
+  }  

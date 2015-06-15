@@ -6,7 +6,7 @@ base_manpower = 2
 base_production = 2
 
 
-culture = n_zoth
+culture = culture_n_zoth
 religion = religion_old_gods
 
 hre = no

@@ -1,31 +1,19 @@
 # 958 The Altar of Zul
-
-<<<<<<< HEAD
-base_tax = 1
-base_manpower = 1
-base_production = 1
-
-=======
 is_city = yes 
->>>>>>> origin/master
-
 add_core = A60
 controller = A60
 owner = A60
 
-
-<<<<<<< HEAD
-=======
-base_tax = 2 
-manpower = 1
+base_tax = 3
+base_manpower = 3
+base_production = 3
  
 culture = culture_vilebranch
 religion = religion_loa
  
 hre = no 
 trade_goods = artifact_digsite
- 
->>>>>>> origin/master
+
 discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian

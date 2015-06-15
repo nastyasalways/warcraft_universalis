@@ -1,6 +1,10 @@
 # 1986
 is_city = no
 
+owner = E26
+controller = E26
+add_core = E26
+
 base_tax = 2
 base_manpower = 2
 base_production = 2

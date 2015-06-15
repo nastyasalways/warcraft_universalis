@@ -1,28 +1,13 @@
-<<<<<<< HEAD
 # 528
 is_city = yes
 add_core = A08
 controller = A08
 owner = A08
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
-=======
-#528 Cold Hearth Manor
-
-is_city = yes
-
-add_core = A08
-controller = A08
-owner = A08
->>>>>>> origin/master
-
-base_tax = 1 
-manpower = 1
-
- 
 culture = culture_lordaeron
 religion = religion_church_of_the_light
  

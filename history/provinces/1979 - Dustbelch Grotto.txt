@@ -1,15 +1,16 @@
 # 1979
 is_city = yes
 
-culture = culture_stonevault
-religion = religion_geomancy
+owner = E57
+controller = E57
+add_core = E57
 
 base_tax = 3
 base_manpower = 3
 base_production = 3
 
 
-culture = culture_stonevault
+culture = culture_trogg
 religion = religion_geomancy
 
 hre = no

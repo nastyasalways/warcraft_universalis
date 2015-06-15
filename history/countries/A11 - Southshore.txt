@@ -1,10 +1,22 @@
 # Hillsbrad
 government 		= feudal_monarchy
+government_rank = 1
 mercantilism 		= 0.1
 technology_group 	= tech_human
 religion			= religion_church_of_the_light
 primary_culture 	= culture_lordaeron
 capital 			= 741
+
+546.1.1 = { 
+monarch = { 
+     name = "Aedelyn" 
+     dynasty = "Blackmoore" 
+		adm = 2
+		dip = 2
+		mil = 4
+ 	} 
+ } 
+
 
 598.1.1 = { 
 

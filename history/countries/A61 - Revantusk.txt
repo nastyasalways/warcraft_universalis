@@ -1,5 +1,6 @@
 # Revantusk
 government 		= warband
+government_rank = 2
 mercantilism 		= 0.1
 technology_group 	= tech_troll
 religion			= religion_loa

@@ -1,31 +1,17 @@
-<<<<<<< HEAD
 # 673
 is_city = yes
 add_core = A16
 controller = A16
 owner = A16
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
-
-=======
-# 673 
-
-is_city = yes
->>>>>>> origin/master
-
-add_core = A16
-controller = A16
-owner = A16
-capital = "Refuge Point"
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
 
-<<<<<<< HEAD
-=======
-base_tax = 1 
-manpower = 1 
- 
+capital = "Refuge Pointe"
+
+
 culture = culture_arathi
 religion = religion_church_of_the_light
  
@@ -33,8 +19,6 @@ hre = no
 trade_goods = army_suppliess
 
 
- 
->>>>>>> origin/master
 discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian
@@ -72,10 +56,6 @@ discovered_by = tech_mantid
 discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
-<<<<<<< HEAD
 discovered_by = tech_gnome
-=======
-discovered_by = tech_gnome  
 
->>>>>>> origin/master
 

@@ -1,40 +1,22 @@
-<<<<<<< HEAD
 # 773
 is_city = yes
 add_core = A17
 controller = A17
 owner = A17
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 6
+base_manpower = 6
+base_production = 6
 
-=======
-# 773 
-
-is_city = yes 
->>>>>>> origin/master
-
-add_core = A17
-controller = A17
-owner = A17
 capital = "Alterac City"
 
 
-<<<<<<< HEAD
-=======
-base_tax = 4 
-manpower = 3 
- 
 culture = culture_alterac
 religion = religion_church_of_the_light
  
 hre = no 
 trade_goods = sliver
 
-
- 
->>>>>>> origin/master
 discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian
@@ -72,10 +54,8 @@ discovered_by = tech_mantid
 discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
-<<<<<<< HEAD
 discovered_by = tech_gnome
-=======
-discovered_by = tech_gnome 
+ 
 
 617.1.1 = { owner = A41
 controller = A41
@@ -91,6 +71,6 @@ controller = E50
 add_core = E50
 remove_core = A41
 culture = culture_crushridge
-religion_ancestral }
->>>>>>> origin/master
+religion_geomancy }
+
 

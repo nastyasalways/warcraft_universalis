@@ -1,4 +1,4 @@
-# Karazhan
+# Tirisfal
 government 		= despotic_magocracy
 mercantilism 		= 0.1 
 technology_group 	= tech_human
@@ -8,7 +8,7 @@ capital 			= 953
 
 546.1.1 = { 
 	monarch = { 
-		name = "Medivh" 
+		name = "Aegywnn" 
 		dynasty = "of Tirisfal" 
 		adm = 4
 		dip = 5

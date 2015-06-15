@@ -23,12 +23,6 @@ groups = {
 		trade_company = yes
 	}
 
-	tech_dwarf = {
-		modifier = 0
-		start_level = 1
-		cav_to_inf_ratio = 0.5
-		trade_company = yes
-	}
 
 	tech_darnassian = {
 		modifier = 0

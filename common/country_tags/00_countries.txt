@@ -55,6 +55,7 @@ A25 = "countries/Refuge Point.txt"
 A26 = "countries/Syndicate.txt"
 A27 = "countries/Ravenholdt.txt"
 E59 = "countries/Karazhan.txt"
+E61 = "countries/Tirisfal.txt"
 
 # Dwarven
 A28 = "countries/Wildhammer.txt"

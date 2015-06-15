@@ -1,26 +1,14 @@
 # 991
-<<<<<<< HEAD
+
 is_city = yes
 add_core = A11
 controller = A11
 owner = A11
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
-=======
+base_tax = 4
+base_manpower = 4
+base_production = 4
 
-is_city = yes 
-
-add_core = A11
-controller = A11
-owner = A11
-
->>>>>>> origin/master
-
-
-base_tax = 3 
-manpower = 3 
  
 culture = culture_lordaeron
 religion = religion_church_of_the_light
@@ -81,6 +69,7 @@ culture = culture_lordaeron }
 631.1.1 = { owner = E14
 controller = E14
 add_core = E14
-base_tax = 1
-manpower = 1
+base_tax = 2
+base_manpower = 2
+base_production = 2
 capital = "Ruins of Southshore" }

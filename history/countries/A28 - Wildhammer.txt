@@ -1,7 +1,7 @@
 # Wildhammer
 government 		= tribal_kingdom
 mercantilism 		= 0.1
-technology_group 	= tech_dwarf
+technology_group 	= tech_titan
 religion			= religion_ancestral
 primary_culture 	= culture_wildhammer
 capital 			= 889

@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
  # Cultures
  culture_group_human: "Human"
  culture_azerothian: "Azerothian"
@@ -157,6 +157,7 @@
  
  culture_group_undead: "Undead"
  culture_forsaken: "Forsaken"
+ culture_undead_troll: "Undead Troll"
  
  culture_group_gnoll: "Gnoll"
  culture_blackpaw: "Blackpaw"
@@ -206,6 +207,7 @@
  culture_bloodspore: "Bloodspore"
  culture_magmoth: "Magmoth"
  culture_shalerhorn: "Shalerhorn"
+ culture_tunnel_rat: "Tunnel Rat"
  
  culture_group_harpy: "Harpy"
  culture_bloodfury: "Bloodfury"
@@ -277,5 +279,4 @@
  culture_gnome: "Gnome"
 
  culture_group_trogg: "Trogg"
- culture_stonesplinter: "Stonesplinter"
- culture_stonevault: "Stonevault"
+ culture_trogg: "Trogg"
