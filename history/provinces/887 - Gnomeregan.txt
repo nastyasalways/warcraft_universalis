@@ -4,13 +4,13 @@ add_core = A32
 controller = A32
 owner = A32
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 6
+base_manpower = 6
+base_production = 6
 
 
-culture = noculture
-religion = noreligion
+culture = culture_gnome
+religion = religion_tech
 
 hre = no
 trade_goods = grain

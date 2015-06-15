@@ -1,25 +1,13 @@
 # 731
-
-<<<<<<< HEAD
-base_tax = 1
-base_manpower = 1
-base_production = 1
-
-=======
 is_city = yes 
->>>>>>> origin/master
-
 add_core = A08
 controller = A08
 owner = A08
 capital = "Fenris Keep"
 
-
-<<<<<<< HEAD
-=======
-
-base_tax = 3 
-manpower = 3
+base_tax = 4
+base_manpower = 4
+base_production = 4
  
 culture = culture_lordaeron
 religion = religion_church_of_the_light
@@ -27,9 +15,6 @@ religion = religion_church_of_the_light
 hre = no 
 trade_goods = fishing_villages
 
-
- 
->>>>>>> origin/master
 discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian
@@ -68,8 +53,6 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
-<<<<<<< HEAD
-=======
 
 
 622.1.1 = { owner = B19
@@ -85,5 +68,5 @@ add_core = A11
 remove_core = B19
 culture = culture_lordaeron_worgen
 religion = religion_church_of_the_light }
->>>>>>> origin/master
+
 

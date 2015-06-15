@@ -5,9 +5,10 @@ add_core = A12
 controller = A12
 owner = A12
 
-base_tax = 3 
-manpower = 2
- 
+base_tax = 2 
+base_manpower = 2
+base_production = 2
+
 culture = culture_gilnean
 religion = religion_church_of_the_light
  
@@ -80,6 +81,6 @@ Capital = "The Forsaken Front }
 
 632.1.1 = { owner = A01
 controller = A01
-culture = culture_bronzebeard
+culture = culture_ironforge
 religion = religion_church_of_the_light
 capital = "7th Legion Base Camp" }

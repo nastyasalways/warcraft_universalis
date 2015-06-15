@@ -1,16 +1,8 @@
 # 1142
 is_city = yes
-add_core = A29
-controller = A29
-owner = A29
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
-
-
-culture = noculture
-religion = noreligion
+culture = culture_frostmane
+religion = religion_loa
 
 hre = no
 trade_goods = grain

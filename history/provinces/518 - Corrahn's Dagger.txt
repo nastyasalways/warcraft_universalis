@@ -1,30 +1,13 @@
-<<<<<<< HEAD
 # 518
 is_city = yes
-add_core = A11
-controller = A11
-owner = A11
-
-base_tax = 1
-base_manpower = 1
-base_production = 1
-
-=======
-# 518 
-
-is_city = yes 
->>>>>>> origin/master
-
 owner = B14
 controller = B14
 add_core = B14
 capital = "Mudsnout Den"
 
-
-<<<<<<< HEAD
-=======
-base_tax = 3 
-manpower = 2 
+base_tax = 2
+base_manpower = 3
+base_production = 2
  
 culture = culture_mudsnout
 religion = religion_ancestral
@@ -32,9 +15,6 @@ religion = religion_ancestral
 hre = no 
 trade_goods = silver
 
-
- 
->>>>>>> origin/master
 discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian
@@ -73,8 +53,7 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
-<<<<<<< HEAD
-=======
+
 
 622.1.1 = { owner = A26
 controller = A26
@@ -94,5 +73,5 @@ capital = "Stormpike Camp" }
 632.1.1 = { owner = xxx 
 controller = xxx
 capital = "Sofera's Naze" }
->>>>>>> origin/master
+
 

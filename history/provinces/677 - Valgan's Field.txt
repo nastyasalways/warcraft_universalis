@@ -1,29 +1,16 @@
-<<<<<<< HEAD
 # 677
 is_city = yes
 add_core = A08
 controller = A08
 owner = A08
+capital = "Valgan's Farmstead"
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
-
-=======
-# 677 
+base_tax = 3
+base_manpower = 2
+base_production = 3
 
 is_city = yes 
 
-add_core = A08
-controller = A08
-owner = A08
-capital = "Valgan's Farmstead"
-
->>>>>>> origin/master
-
-
-base_tax = 2 
-manpower = 1
  
 culture = culture_lordaeron
 religion = religion_church_of_the_light
@@ -31,10 +18,6 @@ religion = religion_church_of_the_light
 hre = no 
 trade_goods = grain
 
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/master
 discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian
@@ -73,8 +56,7 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
-<<<<<<< HEAD
-=======
+
 
 
 622.1.1 = { owner = A13
@@ -88,5 +70,5 @@ religion = religion_shadow }
 631.1.1 = { owner = xxx
 controller = xxx
 remove_core = A13 }
->>>>>>> origin/master
+
 

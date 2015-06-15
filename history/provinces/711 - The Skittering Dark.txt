@@ -1,26 +1,13 @@
 # 711
-<<<<<<< HEAD
 is_city = yes
-add_core = A08
-controller = A08
-owner = A08
-
-base_tax = 1
-base_manpower = 1
-base_production = 1
-
-=======
-
-is_city = yes 
-
 add_core = B19
 controller = B19
 owner = B19
->>>>>>> origin/master
 
-base_tax = 1 
-manpower = 1
- 
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
 culture = culture_rothide
 religion = religion_ancestral
 
@@ -65,15 +52,10 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
-<<<<<<< HEAD
-=======
 
 622.1.1 { owner = xxx
 controller = xxx
 remove_core = B19 }
  
 
-
-
->>>>>>> origin/master
 

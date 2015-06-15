@@ -1,7 +1,7 @@
 # Ironforge
 government 		= constitutional_monarchy
 mercantilism 		= 0.1
-technology_group 	= tech_dwarf
+technology_group 	= tech_titan
 religion			= religion_church_of_the_light
 primary_culture 	= culture_ironforge
 capital 			= 1

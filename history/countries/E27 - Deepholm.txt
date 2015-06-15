@@ -1,7 +1,7 @@
 # Deepholm
-government 		= despotic_monarchy
+government 		= elemental_kingdom
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_elemental
+religion			= religion_therazane
+primary_culture 	= culture_water
 capital 			= 1

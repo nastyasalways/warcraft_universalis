@@ -1,0 +1,17 @@
+# Torn Fin
+government 		= minor_tribe
+mercantilism 		= 0.1 
+technology_group 	= tech_depths
+religion			= religion_neptulon
+primary_culture 	= culture_nerglish
+capital 			= 1
+
+546.1.1 = { 
+	monarch = { 
+		name = "Salt-Flop" 
+		dynasty = "Rockpool" 
+		adm = 1
+		dip = 1
+		mil = 2
+	} 
+} 

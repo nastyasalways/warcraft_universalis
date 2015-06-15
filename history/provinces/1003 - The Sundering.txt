@@ -1,13 +1,17 @@
 # 1003
-is_city = no
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = B28
+controller= B28
+add_core = B28
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
 
-culture = noculture
-religion = noreligion
+culture = culture_nerglish
+religion = religion_old_gods
 
 hre = no
 trade_goods = grain

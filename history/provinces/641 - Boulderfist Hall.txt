@@ -1,31 +1,16 @@
-<<<<<<< HEAD
-# 641
-is_city = yes
-add_core = A16
-controller = A16
-owner = A16
-
-base_tax = 1
-base_manpower = 1
-base_production = 1
-
-=======
 # 641 Thandol Valley
-
-is_city = yes 
->>>>>>> origin/master
-
+is_city = yes
 add_core = A65
-add_core = A16
 controller = A65
 owner = A65
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
 capital = "Smolderthorn Hold"
 
-
-<<<<<<< HEAD
-=======
-base_tax = 3
-manpower = 2 
  
 culture = culture_smolderthorn
 religion = religion_loa
@@ -33,9 +18,6 @@ religion = religion_loa
 hre = no 
 trade_goods = iron
 
-
- 
->>>>>>> origin/master
 discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian
@@ -73,17 +55,15 @@ discovered_by = tech_mantid
 discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
-<<<<<<< HEAD
 discovered_by = tech_gnome
-=======
-discovered_by = tech_gnome  
+ 
 
 617.1.1 = { owner = A51
 controller = A51
 add_core = A51
 remove_core = A65
 culture = culture_boulderfist
-religion = religion_ancestral
+religion = religion_geomancy
 capital = "Boulderfist Hall" }
->>>>>>> origin/master
+
 

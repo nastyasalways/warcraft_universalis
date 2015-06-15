@@ -54,12 +54,15 @@ A24 = "countries/The Argent Dawn.txt"
 A25 = "countries/Refuge Point.txt"
 A26 = "countries/Syndicate.txt"
 A27 = "countries/Ravenholdt.txt"
+E59 = "countries/Karazhan.txt"
+E61 = "countries/Tirisfal.txt"
 
 # Dwarven
 A28 = "countries/Wildhammer.txt"
 A29 = "countries/Ironforge.txt"
 A30 = "countries/Dark Iron.txt"
 A31 = "countries/Frostborn.txt"
+E56 = "countries/Thorium Brotherhood.txt"
 
 # Gnomish
 A32 = "countries/Gnomeregan.txt"
@@ -105,6 +108,7 @@ A62 = "countries/Mossflayer.txt"
 A63 = "countries/Firetree.txt"
 A64 = "countries/Witherbark.txt"
 A65 = "countries/Smolderthorn.txt"
+E55 = "countries/Shadowglen.txt"
 
 # Jungle Troll
 A66 = "countries/Gurubashi.txt"
@@ -114,6 +118,7 @@ A69 = "countries/Skullsplitter.txt"
 A70 = "countries/Darkspear.txt"
 A71 = "countries/Atalai.txt"
 A72 = "countries/Hakkari.txt"
+E58 = "countries/Zanzil.txt"
 
 # Sand Troll
 A73 = "countries/Sandfury.txt"
@@ -212,6 +217,7 @@ B36 = "countries/Tidewalker.txt"
 B37 = "countries/Makaru.txt"
 B38 = "countries/Bogstrok.txt"
 E51 = "countries/Torn Fin.txt"
+E60 = "Countries/Rockpool.txt"
 
 # Furbolg
 B39 = "countries/Gnarlpine.txt"
@@ -244,6 +250,7 @@ B59 = "countries/Whitewhisker.txt"
 B60 = "countries/Bloodspore.txt"
 B61 = "countries/Magmoth.txt"
 B62 = "countries/Shalerhorn.txt"
+E53 = "countries/Tunnel Rat.txt"
 
 # Harpy
 B63 = "countries/Bloodfury.txt"
@@ -363,6 +370,11 @@ E45 = "countries/Osul.txt"
 E46 = "countries/Deadtalker.txt"
 E47 = "countries/Burilgi.txt"
 E48 = "countries/Palewind.txt"
+
+# Trogg
+
+E54 = "countries/Stonesplinter.txt"
+E57 = "countries/Stonevault.txt"
 
 # Formables
 #Arak

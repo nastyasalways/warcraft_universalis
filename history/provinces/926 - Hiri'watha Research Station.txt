@@ -1,24 +1,14 @@
 # 926 
-
-<<<<<<< HEAD
-base_tax = 1
-base_manpower = 1
-base_production = 1
-
-=======
 is_city = yes 
->>>>>>> origin/master
+
 
 add_core = A64
 controller = A64
 owner = A64
-province_name = "Hiri'watha"
 
-
-<<<<<<< HEAD
-=======
-base_tax = 2 
-manpower = 1 
+base_tax = 3
+base_manpower = 3
+base_production = 3
  
 culture = culture_witherbark
 religion = religion_loa
@@ -26,7 +16,6 @@ religion = religion_loa
 hre = no 
 trade_goods = furs
  
->>>>>>> origin/master
 discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian
