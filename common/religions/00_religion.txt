@@ -197,7 +197,7 @@ warcraft_religions = {
 	}
 	
 	religion_church_of_the_light = {
-		color = { 0.1 0.4 0.1 }
+		color = { 254 235 137 }
 		icon = 1
 		
 		country = {
@@ -441,7 +441,7 @@ warcraft_religions = {
 	}
 	
 	religion_loa = {
-		color = { 0.1 0.4 0.1 }
+		color = { 102 5 146 }
 		icon = 1
 		
 		country = {

@@ -191,7 +191,7 @@ B13 = "countries/Mosshide.txt"
 B14 = "countries/Mudsnout.txt"
 B15 = "countries/Riverpaw.txt"
 B16 = "countries/Shadowhide.txt"
-B17 = "countries/Redridge.txt"
+B17 = "countries/Redridge Gnolls.txt"
 B18 = "countries/Palemane.txt"
 B19 = "countries/Rothide.txt"
 
