@@ -1,8 +1,8 @@
-# Gnomeregan
+# Redridge
 
 graphical_culture = westerngfx
 
-color = { 12 70 217 }
+color = { 255 20 104 }
 
 monarch_names = {
 

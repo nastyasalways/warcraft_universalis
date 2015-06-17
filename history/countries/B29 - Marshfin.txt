@@ -3,7 +3,7 @@ government 		= minor_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_depths
 religion			= religion_old_gods
-primary_culture 	= culture_marshfin
+primary_culture 	= culture_nerglish
 capital 			= 1995
 
 546.1.1 = { 
