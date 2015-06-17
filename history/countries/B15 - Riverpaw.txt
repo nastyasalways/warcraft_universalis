@@ -1,7 +1,18 @@
 # Riverpaw
-government 		= despotic_monarchy
+government 		= minor_tribe
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_gnoll
+religion			= religion_ancestral
+primary_culture 	= culture_riverpaw
 capital 			= 1
+
+546.1.1 = { 
+	monarch = { 
+		name = "Brashclaw" 
+		dynasty = "Riverpaw" 
+		adm = 3
+		dip = 3
+		mil = 3
+                
+	} 
+}

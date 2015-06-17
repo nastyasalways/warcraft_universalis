@@ -9,7 +9,7 @@ base_tax = 4
 base_manpower = 3
 base_production = 4
 
-culture = culture_azeroth
+culture = culture_azerothian
 religion = religion_arcane
 
 hre = no

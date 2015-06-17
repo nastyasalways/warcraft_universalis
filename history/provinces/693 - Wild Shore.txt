@@ -1,17 +1,13 @@
 # 693
 is_city = yes
 
-owner = A15
-controller= A15
-add_core = A15
-
 base_tax = 4
 base_manpower = 4
 base_production = 4
 
 
-culture = culture_azerothian
-religion = religion_church_of_the_light
+culture = culture_gurubashi
+religion = religion_loa
 
 hre = no
 trade_goods = grain

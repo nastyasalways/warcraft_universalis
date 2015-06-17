@@ -5,3 +5,13 @@ technology_group 	= tech_troll
 religion			= religion_loa
 primary_culture 	= culture_winterax
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Drakuru" 
+     dynasty = "Winterax" 
+		adm = 3
+		dip = 4
+		mil = 3
+ 	} 
+ } 

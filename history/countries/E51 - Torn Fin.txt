@@ -6,6 +6,16 @@ religion			= religion_old_gods
 primary_culture 	= culture_nerglish
 capital 			= 962
 
+546.1.1 = {  
+monarch = {  
+      name = "Killgurgle"  
+     dynasty = "Torn Fin"  
+ 		adm = 3 
+		dip = 3
+		mil = 3 
+  	}  
+  }  
+
 617.1.1 = { 
 	monarch = { 
 		name = "Muckgill" 

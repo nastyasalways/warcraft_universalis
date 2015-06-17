@@ -1,12 +1,12 @@
 # Stonesplinter
 government 		= minor_tribe
 mercantilism 		= 0.1 
-technology_group 	= tech_trogg
+technology_group 	= tech_primitive
 religion			= religion_geomancy
 primary_culture 	= culture_trogg
 capital 			= 962
 
-617.1.1 = { 
+546.1.1 = { 
 	monarch = { 
 		name = "Rockjaw" 
 		dynasty = "Stonesplinter" 

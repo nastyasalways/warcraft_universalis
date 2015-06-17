@@ -7,7 +7,7 @@ religion			= religion_loa
 primary_culture 	= culture_witherbark
 capital 			= 942
 
-592.1.1 = {  
+546.1.1 = {  
 monarch = {  
       name = "Mai'jin"  
      dynasty = "Witherbark"  

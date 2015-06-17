@@ -1,9 +1,8 @@
 #1011 Scarlet Farmlands/Havenshire
-
 is_city = yes 
-add_core = A10
-controller = A10
-owner = A10
+add_core = E62
+controller = E62
+owner = E62
 capital = "Havenshire"
 
 base_tax = 3

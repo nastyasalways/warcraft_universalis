@@ -5,3 +5,14 @@ technology_group 	= tech_titan
 religion			= religion_titan
 primary_culture 	= culture_earthen
 capital 			= 1
+
+546.1.1 = { 
+	monarch = { 
+		name = "Agalon" 
+		dynasty = "the Watcher" 
+		adm = 3
+		dip = 3
+		mil = 3
+                
+	} 
+}

@@ -1,16 +1,13 @@
 # 1996
 is_city = yes
 
-owner = A68
-controller = A68
-add_core = A68
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
 
-culture = culture_shatterspear
+culture = culture_gurubashi
 religion = religion_loa
 
 hre = no

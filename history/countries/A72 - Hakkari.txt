@@ -5,3 +5,13 @@ technology_group 	= tech_troll
 religion			= religion_hakkari
 primary_culture 	= culture_hakkari
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Ogom" 
+     dynasty = "Atal'ai" 
+		adm = 3
+		dip = 4
+		mil = 3
+ 	} 
+ } 

@@ -647,6 +647,8 @@
  E60_ADJ: "Rockpool"
  E61: "Tirisfal Guardians"
  E61_ADJ: "Tirisfal"
+ E62: "Tyr's Hand"
+ E62_ADJ: "Tyr's Hand"
  
  # Governments
  magocracy_republic: "Magocracy Republic"
@@ -778,11 +780,6 @@
  minor_tribe_desc: ""
  minor_tribe_ruler: "Chief"
  minor_tribe_ruler_female: "Cheiftess"
-
- theocratic_government: "Theocracy"
- theocratic_government_desc: ""
- theocratic_government_ruler: "High Priest"
- theocratic_government_ruler_female: "High Priestess"
  
  # Religions
  religion_titan: "Titanic"
@@ -907,8 +904,8 @@
  tech_ethereal_desc: "With the Ethereal technology group, technology levels are standard cost (100%)."
  tech_gnome: "Gnomish"
  tech_gnome_desc: "With the Gnomish technology group, technology levels are standard cost (100%)."
- tech_trogg: "Trogg"
- tech_trogg_desc: "With the Trogg technology group, technology levels are standard cost (100%)."
+ tech_primitive: "Primitive"
+ tech_primitive_desc: "With the Primitive technology group, technology levels are standard cost (100%)."
  
  # Triggered Modifiers
  draconic_weakness: "Draconic Weakness"

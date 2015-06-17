@@ -1,8 +1,30 @@
 # Darkshire
-government 		= feudal_monarchy
+government 		= administrative_republic
 government_rank = 1
 mercantilism 		= 0.1
 technology_group 	= tech_human 
 religion			= religion_church_of_the_light
 primary_culture 	= culture_azerothian
 capital 			= 1
+
+546.1.1 = { 
+	monarch = { 
+		name = "Gavin" 
+		dynasty = "Carevin" 
+		adm = 3
+		dip = 3
+		mil = 3
+                
+	} 
+}
+
+617.1.1 = { 
+	monarch = { 
+		name = "Ello" 
+		dynasty = "Ebonlocke" 
+		adm = 3
+		dip = 3
+		mil = 3
+                
+	} 
+}  

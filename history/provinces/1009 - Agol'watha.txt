@@ -59,6 +59,9 @@ discovered_by = tech_gnome
 controller = xxx
 owner = xxx }
 
-631.1.1 = {add_core = A60
+630.2.2 = { controller = xxx
+           owner = xxx }
+
+631.1.1 = { add_core = A60
 controller = A60
 owner = A60 }

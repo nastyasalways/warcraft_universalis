@@ -4,13 +4,13 @@ add_core = A02
 controller = A02
 owner = A02
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 3
+base_manpower = 2
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
+culture = culture_azerothian
+religion = religion_church_of_the_light
 
 hre = no
 trade_goods = grain

@@ -5,3 +5,13 @@ technology_group 	= tech_depths
 religion			= religion_old_gods
 primary_culture 	= culture_marshfin
 capital 			= 1995
+
+546.1.1 = { 
+monarch = { 
+     name = "Mudgargle" 
+     dynasty = "Marshfin" 
+		adm = 3
+		dip = 3
+		mil = 3
+ 	} 
+ } 

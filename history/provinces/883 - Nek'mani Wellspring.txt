@@ -1,16 +1,16 @@
 # 883
 is_city = yes
 
-owner = E58
-controller= E58
-add_core = E58
+owner = A68
+controller = A68
+add_core = A68
 
 base_tax = 3
 base_manpower = 3
 base_production = 3
 
 
-culture = culture_gurubashi
+culture = culture_shatterspear
 religion = religion_loa
 
 hre = no

@@ -5,3 +5,13 @@ technology_group 	= tech_elemental
 religion			= religion_neptulon
 primary_culture 	= culture_earth
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Neptulon" 
+     dynasty = "the Tidehunter" 
+		adm = 4
+		dip = 4
+		mil = 5
+ 	} 
+ } 
