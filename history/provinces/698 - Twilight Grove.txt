@@ -1,19 +1,19 @@
 # 698
 is_city = yes
-add_core = A03
-controller = A03
-owner = A03
+add_core = B04
+controller = B04
+owner = B04
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 4
+base_manpower = 4
+base_production = 4
 
 
-culture = noculture
-religion = noreligion
+culture = culture_green
+religion = religion_sect_of_dragons
 
 hre = no
-trade_goods = grain
+trade_goods = timber
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

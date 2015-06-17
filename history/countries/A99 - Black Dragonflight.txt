@@ -5,3 +5,13 @@ technology_group 	= tech_dragonkin
 religion			= religion_old_gods
 primary_culture 	= culture_black
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Deathwing" 
+     dynasty = "the Destroyer" 
+		adm = 4
+		dip = 5
+		mil = 5
+ 	} 
+ } 

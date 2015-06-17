@@ -6,7 +6,15 @@ religion= religion_ancestral
 primary_culture = culture_mudsnout
 capital = 558
 
-
+546.1.1 = { 
+monarch = { 
+     name = "Muzzlemaw" 
+     dynasty = "Mudsnout" 
+		adm = 3
+		dip = 3
+		mil = 3
+ 	} 
+ } 
 
 622.1.1 = { 
 monarch =

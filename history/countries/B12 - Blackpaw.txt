@@ -5,3 +5,13 @@ technology_group 	= tech_gnoll
 religion			= religion_ancestral
 primary_culture 	= culture_blackpaw
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Banzai" 
+     dynasty = "Blackpaw" 
+		adm = 3
+		dip = 3
+		mil = 3
+ 	} 
+ } 

@@ -1,9 +1,6 @@
 # 920
 is_city = yes
 
-owner = E58
-controller= E58
-add_core = E58
 
 base_tax = 3
 base_manpower = 3

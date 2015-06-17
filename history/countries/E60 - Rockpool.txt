@@ -8,10 +8,11 @@ capital 			= 1
 
 546.1.1 = { 
 	monarch = { 
-		name = "Salt-Flop" 
+		name = "Nep-Nep" 
 		dynasty = "Rockpool" 
 		adm = 1
 		dip = 1
 		mil = 2
+                female = yes
 	} 
 } 

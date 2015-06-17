@@ -5,3 +5,23 @@ technology_group 	= tech_goblin
 religion			= religion_tech
 primary_culture 	= culture_venture
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Gunkraz" 
+     dynasty = "Venture" 
+		adm = 3
+		dip = 3
+		mil = 3
+ 	} 
+ } 
+
+592.1.1 = { 
+monarch = { 
+     name = "Razdunk" 
+     dynasty = "Venture" 
+		adm = 3
+		dip = 3
+		mil = 3
+ 	} 
+ } 

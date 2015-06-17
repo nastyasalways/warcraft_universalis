@@ -4,16 +4,16 @@ add_core = A03
 controller = A03
 owner = A03
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 3
+base_manpower = 2
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
+culture = culture_azerothian
+religion = religion_church_of_the_light
 
 hre = no
-trade_goods = grain
+trade_goods = timber
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

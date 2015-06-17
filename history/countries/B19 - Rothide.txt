@@ -5,3 +5,13 @@ technology_group 	= tech_gnoll
 religion			= religion_ancestral
 primary_culture 	= culture_rothide
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Snarlmane" 
+     dynasty = "Rothide" 
+		adm = 3
+		dip = 4
+		mil = 3
+ 	} 
+ } 

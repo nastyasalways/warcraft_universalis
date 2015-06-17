@@ -8,10 +8,11 @@ capital 			= 953
 
 546.1.1 = { 
 	monarch = { 
-		name = "Aegywnn" 
-		dynasty = "of Tirisfal" 
+		name = "Magna" 
+		dynasty = "Aegywnn" 
 		adm = 4
 		dip = 5
 		mil = 4
+                female = yes
 	} 
 } 

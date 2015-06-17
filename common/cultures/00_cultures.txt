@@ -676,7 +676,7 @@ culture_group_forest_troll = {
 	}
 	
 	dynasty_names = {
-		"Amani" "Shadowpine" "Vilebranch" "Revantusk" "Mossflayer" "Firetree" "Witherbark" "Shadowpine" "Smolderthorn"
+		"Amani" "Shadowpine" "Vilebranch" "Revantusk" "Mossflayer" "Firetree" "Witherbark" "Shadowglen" "Smolderthorn"
 	}
 	
 	culture_amani = {
@@ -835,7 +835,7 @@ culture_smolderthorn = {
 		
 		}
 		dynasty_names = {
-			"Witherbark"
+			"Shadowglen"
 		}
 	}
 }
@@ -2575,6 +2575,18 @@ culture_group_titan = {
 			
 		}
 	}
+
+	culture_trogg = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
 }
 
 culture_group_elemental = {
@@ -3078,30 +3090,3 @@ culture_group_gnomish = {
 	}
 }
 
-culture_group_trogg = {
-	graphical_culture = westerngfx
-
-	male_names = {
-			
-	}
-	female_names = {
-		
-	}
-	dynasty_names = {
-			
-	}
-		
-	culture_trogg = {
-		male_names = {
-			
-		}
-		female_names = {
-		
-		}
-		dynasty_names = {
-			
-		}
-	}
-
-
-}

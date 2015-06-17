@@ -5,3 +5,14 @@ technology_group 	= tech_elemental
 religion			= religion_therazane
 primary_culture 	= culture_water
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Therazane" 
+     dynasty = "the Stonemother" 
+		adm = 4
+		dip = 4
+		mil = 4
+                female = yes
+ 	} 
+ } 

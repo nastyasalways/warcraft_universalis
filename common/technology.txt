@@ -276,7 +276,7 @@ groups = {
 		trade_company = yes
 	}
 	
-tech_trogg = {
+        tech_primitive = {
 		modifier = 0
 		start_level = 1
 		cav_to_inf_ratio = 0.5

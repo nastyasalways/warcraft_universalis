@@ -5,3 +5,13 @@ technology_group 	= tech_elemental
 religion			= religion_ragnaros
 primary_culture 	= culture_fire
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Ragnaros" 
+     dynasty = "the Firelord" 
+		adm = 4
+		dip = 4
+		mil = 5
+ 	} 
+ } 

@@ -1,8 +1,8 @@
 # 557 Light's Hope Chapel
 is_city = yes
-add_core = A10
-controller = A10
-owner = A10
+add_core = E62
+controller = E62
+owner = E62
 
 base_tax = 3
 base_manpower = 3

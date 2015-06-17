@@ -5,3 +5,13 @@ technology_group 	= tech_depths
 religion			= religion_old_gods
 primary_culture 	= culture_nerglish
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Murkeye" 
+     dynasty = "Bluegill" 
+		adm = 3
+		dip = 4
+		mil = 3
+ 	} 
+ } 

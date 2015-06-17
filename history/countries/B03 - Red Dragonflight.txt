@@ -5,3 +5,14 @@ technology_group 	= tech_dragonkin
 religion			= religion_sect_of_dragons
 primary_culture 	= culture_red
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Alexstrasza" 
+     dynasty = "the Life-Binder" 
+		adm = 4
+		dip = 5
+		mil = 3
+                female = yes
+ 	} 
+ } 
