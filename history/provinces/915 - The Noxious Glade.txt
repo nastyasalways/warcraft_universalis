@@ -13,6 +13,9 @@ base_production = 3
 culture = culture_blackpaw
 religion = religion_ancestral
 
+hre = no 
+trade_goods = lumber
+
 discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian

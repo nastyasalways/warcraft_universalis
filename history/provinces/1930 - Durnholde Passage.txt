@@ -6,7 +6,7 @@ base_production = 1
 
 
 hre = no
-trade_goods = furs
+trade_goods = smugglers
 
 culture = culture_wildhammer
 religion = religion_ancestral

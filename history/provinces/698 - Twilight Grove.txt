@@ -13,7 +13,7 @@ culture = culture_green
 religion = religion_sect_of_dragons
 
 hre = no
-trade_goods = timber
+trade_goods = lumber
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

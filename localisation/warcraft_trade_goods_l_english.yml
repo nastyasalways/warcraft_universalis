@@ -1,0 +1,49 @@
+l_english:
+ # WOOD
+ ashenvale_lumber: "Ashenvale Lumber"
+ lumber: "Lumber"
+ # Mines, METALS & ORES
+ stone: "Stone"
+ dark_iron: "Dark Iron"
+ saronite: "Saronite"
+ mithril: "Mithril"
+ thorium: "Thorium"
+ fel_iron: "Fel Iron"
+ khorium: "Khorium"
+ adamantite: "Adamantite"
+ titanium: "Titanium"
+ elementium: "Elementium"
+ ghost_iron: "Ghost Iron"
+ gemstones: "Gemstones"
+ # FOOD
+ grain_silo: "Granaries"
+ grain: "Farms"
+ # LEATHER/FURS:
+ fur: "Hides"
+ # CLOTH
+ runecloth: "Runecloth"
+ netherweave: "Netherweave Cloth"
+ # ARCHAEOLOGY/DIGSITES
+ fossils: "Fossils"
+ artifacts: "Artifacts"
+ # SPECIALISTS & OUTLAWS
+ smugglers: "Smugglers"
+ pirates: "Pirates"
+ engineers: "Workshops"
+ mages: "Magi"
+ # SUPPLIES
+ army_supplies: "Army Supplies"
+ # MOUNTS & WARBEASTS
+ warmounts: "Warmounts"
+ flying_mounts: "Flying Mounts"
+ warbeasts: "Warbeasts"
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 

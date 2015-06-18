@@ -16,7 +16,7 @@ culture = culture_lordaeron
 religion = religion_church_of_the_light
  
 hre = no 
-trade_goods = silver
+trade_goods = gold
 
 
 discovered_by = tech_human
@@ -63,5 +63,5 @@ controller = E14
 add_core = E14
 culture = culture_forsaken
 religion = religion_forgotten_shadow
-trade_goods = breeder
+trade_goods = warbeasts
 capital = "Azurelode Spider Farm" }

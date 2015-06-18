@@ -13,7 +13,7 @@ religion = religion_loa
  
  
 hre = no 
-trade_goods = artifact_digsite
+trade_goods = artifacts
  
 
 discovered_by = tech_human

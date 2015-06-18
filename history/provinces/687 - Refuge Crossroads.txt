@@ -12,7 +12,7 @@ culture = culture_arathi
 religion = religion_church_of_the_light
  
 hre = no 
-trade_goods = linen
+trade_goods = cloth
 
 
 discovered_by = tech_human

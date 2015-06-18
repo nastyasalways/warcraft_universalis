@@ -9,7 +9,7 @@ culture = culture_wildhammer
 religion = religion_ancestral
  
 hre = no 
-trade_goods = smuggler_haven
+trade_goods = smugglers
  
 discovered_by = tech_human
 discovered_by = tech_darnassian

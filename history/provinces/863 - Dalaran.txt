@@ -12,7 +12,7 @@ culture = culture_dalaran
 religion = religion_arcane
  
 hre = no 
-trade_goods =  runecloth
+trade_goods =  mages
 
 
 discovered_by = tech_human
