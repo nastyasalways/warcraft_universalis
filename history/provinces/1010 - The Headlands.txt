@@ -16,7 +16,7 @@ culture = culture_lordaeron
 religion = religion_church_of_the_light
  
 hre = no 
-trade_goods = military_supplies
+trade_goods = fur
 
 
 discovered_by = tech_human

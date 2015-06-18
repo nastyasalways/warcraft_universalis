@@ -5,15 +5,15 @@ add_core = A60
 controller = A60
 owner = A60 
 
-base_tax = 2
-base_manpower = 2
-base_production = 2
+base_tax = 3
+base_manpower = 3
+base_production = 3
  
 culture = culture_vilebranch
 religion = religion_loa
  
 hre = no 
-trade_goods = fishing_villages
+trade_goods = fish
  
 
 discovered_by = tech_human
@@ -59,9 +59,6 @@ discovered_by = tech_gnome
 controller = xxx
 owner = xxx }
 
-630.2.2 = { controller = xxx
-           owner = xxx }
-
-631.1.1 = { add_core = A60
+631.1.1 = {add_core = A60
 controller = A60
 owner = A60 }

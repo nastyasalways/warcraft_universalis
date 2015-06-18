@@ -14,7 +14,7 @@ culture = culture_earth
 religion = religion_therazane
  
 hre = no 
-trade_goods = keystone_digsite
+trade_goods = artifacts
 
 
 discovered_by = tech_human

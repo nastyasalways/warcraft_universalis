@@ -12,7 +12,7 @@ culture = culture_fire
 religion = religion_ragnaros
  
 hre = no 
-trade_goods = keystone_digsite
+trade_goods = artifacts
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

@@ -14,7 +14,7 @@ culture = culture_air
 religion = religion_al_akir
  
 hre = no 
-trade_goods = keystone_digsite
+trade_goods = artifacts
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

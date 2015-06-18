@@ -15,7 +15,7 @@ culture = culture_alterac
 religion = religion_church_of_the_light
  
 hre = no 
-trade_goods = sliver
+trade_goods = gold
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

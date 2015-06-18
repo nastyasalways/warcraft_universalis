@@ -12,7 +12,7 @@ culture = culture_rothide
 religion = religion_ancestral
 
 hre = no 
-trade_goods = grain
+trade_goods = warbeasts
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

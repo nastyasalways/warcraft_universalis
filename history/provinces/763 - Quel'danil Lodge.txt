@@ -15,7 +15,7 @@ culture = culture_witherbark
 religion = religion_loa 
 
 hre = no 
-trade_goods = furs
+trade_goods = fur
  
 discovered_by = tech_human
 discovered_by = tech_darnassian

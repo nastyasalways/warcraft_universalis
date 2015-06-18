@@ -12,6 +12,9 @@ base_production = 2
 
 culture = culture_lordaeron
 religion = religion_church_of_the_light
+
+hre = no 
+trade_goods = cloth
  
 discovered_by = tech_human
 discovered_by = tech_darnassian

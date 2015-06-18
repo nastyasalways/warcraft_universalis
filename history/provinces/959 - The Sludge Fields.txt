@@ -16,7 +16,7 @@ culture = culture_lordaeron
 religion = religion_church_of_the_light
  
 hre = no 
-trade_goods = farms
+trade_goods = grain
 
  
 discovered_by = tech_human

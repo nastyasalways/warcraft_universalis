@@ -16,7 +16,7 @@ culture = culture_revantusk
 religion = religion_loa
  
 hre = no 
-trade_goods = fishing_villages
+trade_goods = fish
  
 discovered_by = tech_human
 discovered_by = tech_darnassian

@@ -1,0 +1,163 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new resources, make sure they are uniquely named.
+# Please add price definitions to prices.txt as well.
+
+#WOOD
+ashenvale_lumber = {
+	color = { 0.96 0.93 0.58 }
+}
+
+lumber = {
+	color = { 0.11 0.17 0.4 }
+}
+
+
+# tropical_wood - already present
+
+#MINES, METALS, & ORES
+stone = {
+	color = { 0.72 0.49 0.44 }
+}
+
+dark_iron = {
+	color = { 0.86 0.19 0.19 }
+}
+
+# gold - already present
+
+
+saronite = {
+	color = { 0.55 0.82 0.97 }
+}
+
+mithril = {
+	color = { 0.54 0.40 0.31 }
+}
+
+# iron - already present
+
+thorium = {
+	color = { 0.93 0.98 0.98 }
+}
+
+fel_iron = {
+	color = { 0.11 0.17 0.4 }
+}
+
+# copper - already present
+
+khorium = {
+	color = { 0.85 0.46 0.15 }
+}
+
+
+adamantite= {
+	color = { 1.0 0.84 0.19 }
+}
+
+titanium= {
+	color = { 0.6 0.62 0.65 }
+}
+
+elementium  = {
+	color = { 0.0 0.0 0.0 }
+}
+
+ghost_iron  = {
+	color = { 0.75 0.7 0.63 }
+}
+
+gemstones = {
+	color = { 0.07 0.33 0.09 }
+}
+
+
+# FOOD
+
+grain_silo = {
+	color = { 0.4 0.65 0.38 }
+}
+
+# grain - rename to "Farms" in localization
+
+# wine - already present
+
+# fish - already present
+
+#LEATHER/FURS:
+
+# fur - rename to "Hides" in localization
+
+#CLOTH
+
+# cloth - already present
+
+# silk - already present
+
+runecloth = {
+	color = { 0.18 0.57 0.8 }
+}
+
+netherweave = {
+	color = { 0.22 0.15 0.09 }
+}
+
+#ARCHAEOLOGY/DIGSITES
+
+fossils = {
+	color = { 0.52 0.68 0.6 }
+}
+
+artifacts = {
+	color = { 0.74 0.95 0.68 }
+}
+
+#SPECIALISTS & OUTLAWS
+
+smugglers = {
+	color = { 0.33 0.56 0.38 }
+	modifier = {
+		global_spy_defence = 0.25
+	}
+}
+
+pirates = {
+	color = { 0.45 0.21 0.09 }
+}
+
+engineers = {
+	color = { 0.33 0.56 0.38 }
+}
+
+mages = {
+	color = { 0.33 0.56 0.38 }
+}
+
+#SUPPLIES
+
+# naval_supplies - already present
+
+army_supplies = {
+	color = { 0.72 0.10 0.10 }
+}
+
+#MOUNTS & WARBEASTS
+
+warmounts = {
+	color = { 0.63 0.17 0.50 }
+}
+
+flying_mounts = {
+	color = { 0.45 0.47 0.09 }
+}
+
+warbeasts = {
+	color = { 0.8 0.5 0.5 }
+}
+
+
+
+#UNKNOWN
+unknown = {
+	color = { 0.5 0.5 0.5 }
+}
