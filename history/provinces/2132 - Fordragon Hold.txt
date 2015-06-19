@@ -1,16 +1,22 @@
-# 1272
+# 2132
 is_city = yes
 
-base_tax = 2
-base_manpower = 2
-base_production = 2
+owner = B64
+controller = B64
+add_core = B64
+capital = "Coldwind Lair"
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
 
 
-culture = culture_crystal_nymph
-religion = religion_druidic
+culture = culture_coldwind
+religion = religion_al_akir
+
 
 hre = no
-trade_goods = gemstones
+trade_goods = army_supplies
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

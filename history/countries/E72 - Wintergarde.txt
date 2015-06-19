@@ -1,0 +1,31 @@
+# Lordaeron
+government 		= military_dictat
+mercantilism 		= 0.1
+technology_group 	= tech_human
+religion			= religion_church_of_the_light
+primary_culture 	= culture_lordaeron
+capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Ulbrec" 
+     dynasty = "Dinnesmore" 
+		adm = 3
+		dip = 4
+		mil = 4
+ 	} 
+ } 
+
+592.1.1 = { 
+monarch = { 
+     name = "Blanchard" 
+     dynasty = "Dinnesmore" 
+		adm = 4
+		dip = 3
+		mil = 4 
+ 	} 
+ } 
+ 
+
+
+ 

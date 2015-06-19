@@ -1309,6 +1309,30 @@ culture_group_aqir = {
 			
 		}
 	}
+	
+        culture_nerubian = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+        culture_mantid = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
 }
 
 culture_group_demonic = {
@@ -1807,6 +1831,30 @@ culture_group_undead = {
 	}
 		
 	culture_forsaken = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+        culture_revenant = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+        
+        culture_undead_troll = {
 		male_names = {
 			
 		}
@@ -2369,30 +2417,10 @@ culture_group_harpy = {
 		
 	}
 	dynasty_names = {
-		male_names = {
-			
-		}
-		female_names = {
 		
-		}
-		dynasty_names = {
-			
-		}	
 	}
 		
 	culture_bloodfury = {
-		male_names = {
-			
-		}
-		female_names = {
-		
-		}
-		dynasty_names = {
-			
-		}
-	}
-	
-	culture_coldwind = {
 		male_names = {
 			
 		}
@@ -2429,6 +2457,18 @@ culture_group_harpy = {
 	}
 	
 	culture_screeching = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_coldwind = {
 		male_names = {
 			
 		}
@@ -3214,6 +3254,120 @@ culture_group_saurok = {
 	}
 		
 	culture_saurok = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+}
+
+culture_group_taunka = {
+	graphical_culture = westerngfx
+
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
+	culture_icemist = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+}
+
+culture_group_giant = {
+	graphical_culture = westerngfx
+
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
+	culture_frost_giant = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+        culture_ice_giant = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+}
+
+culture_group_dryad = {
+	graphical_culture = westerngfx
+
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
+	culture_forest_nymph = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+        culture_frost_nymph = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+        
+        culture_crystal_nymph = {
 		male_names = {
 			
 		}

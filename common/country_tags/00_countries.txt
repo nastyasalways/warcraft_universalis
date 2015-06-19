@@ -57,6 +57,7 @@ A27 = "countries/Ravenholdt.txt"
 E59 = "countries/Karazhan.txt"
 E61 = "countries/Tirisfal.txt"
 E62 = "countries/Tyr's Hand.txt"
+E72 = "countries/Wintergarde.txt"
 
 # Dwarven
 A28 = "countries/Wildhammer.txt"
@@ -165,6 +166,7 @@ A95 = "countries/Nighthaven.txt"
 A96 = "countries/AhnKahet.txt"
 A97 = "countries/AhnQiraj.txt"
 A98 = "countries/Silithid.txt"
+E74 = "countries/AzjolNerub.txt"
 
 # Dragonkin
 A99 = "countries/Black Dragonflight.txt"
@@ -395,6 +397,10 @@ E70 = "countries/Pearlfin.txt"
 # Saurok
 
 E71 = "countries/Slitherscale.txt"
+
+# Taunka
+
+E73 = "countries/Icemist.txt"
 
 
 # Formables

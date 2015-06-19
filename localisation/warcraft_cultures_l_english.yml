@@ -43,7 +43,7 @@ l_english:
  culture_blackrock: "Blackrock"
  culture_warsong: "Warsong"
  culture_stormreaver: "Stormreaver"
- culture_horde: "Hordish"
+ culture_horde: "Horde Orc Clans"
  
  culture_group_ogre: "Ogre"
  culture_bladespire: "Bladespire"
@@ -110,6 +110,7 @@ l_english:
  culture_nerubian: "Nerubian"
  culture_qiraji: "Qiraji"
  culture_silithid: "Silithid"
+ culture_mantid: "Mantid"
  
  culture_group_demonic: "Demonic"
  culture_man_ari: "Man'ari"
@@ -159,6 +160,7 @@ l_english:
  culture_group_undead: "Undead"
  culture_forsaken: "Forsaken"
  culture_undead_troll: "Undead Troll"
+ culture_revenant: "Revenant"
  
  culture_group_gnoll: "Gnoll"
  culture_blackpaw: "Blackpaw"
@@ -290,4 +292,18 @@ l_english:
 
  culture_group_saurok: "Saurok"
  culture_saurok: "Saurok"
+
+ culture_group_taunka: "Taunka"
+ culture_icemist: "Icemist"
+
+ culture_group_giant: "Giant"
+ culture_frost_giant: "Frost Giant"
+ culture_ice_giant: "Ice Giant"
+
+ culture_group_dryad: "Dyrad"
+ culture_forest_nymph: "Forest Nypmh"
+ culture_frost_nymph: "Frost Nymph"
+ culture_crystal_nymph: "Crystal Nypmh"
+ 
+ 
 

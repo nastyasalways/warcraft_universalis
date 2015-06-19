@@ -1,7 +1,17 @@
 # Bronze Dragonflight
-government 		= despotic_monarchy
+government 		= draconic_kingdom
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_dragonkin
+religion			= religion_sect_of_dragons
+primary_culture 	= culture_bronze
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Norzdormu" 
+     dynasty = "the Timeless" 
+		adm = 5
+		dip = 5
+		mil = 4
+ 	} 
+ } 
