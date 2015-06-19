@@ -3,7 +3,7 @@ government 		= elemental_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_elemental
 religion			= religion_therazane
-primary_culture 	= culture_water
+primary_culture 	= culture_earth
 capital 			= 1
 
 546.1.1 = { 

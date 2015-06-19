@@ -1,0 +1,17 @@
+# Pearlfin Tribe
+government 		= tribal_democracy
+mercantilism 		= 0.1 
+technology_group 	= tech_depths
+religion		= religion_celestial
+primary_culture 	= culture_jinyu
+capital 			= 1
+
+546.1.1 = { 
+	monarch = { 
+		name = "Lusshan" 
+		dynasty = "Pearlfin" 
+		adm = 4
+		dip = 4
+		mil = 3
+	} 
+} 

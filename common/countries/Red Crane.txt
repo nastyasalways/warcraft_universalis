@@ -1,8 +1,8 @@
-# Skullsplitter
+# Warsong
 
 graphical_culture = westerngfx
 
-color = { 56 71 109 }
+color = { 96 174 148 }
 
 monarch_names = {
 

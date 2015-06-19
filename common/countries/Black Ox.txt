@@ -1,8 +1,8 @@
-# Skullsplitter
+# White Shark
 
 graphical_culture = westerngfx
 
-color = { 56 71 109 }
+color = { 139 244 118 }
 
 monarch_names = {
 

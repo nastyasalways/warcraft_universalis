@@ -84,6 +84,10 @@ grain_silo = {
 
 # fish - already present
 
+ale  = {
+	color = { 0.75 0.7 0.63 }
+}
+
 #LEATHER/FURS:
 
 # fur - rename to "Hides" in localization
@@ -112,7 +116,7 @@ artifacts = {
 	color = { 0.74 0.95 0.68 }
 }
 
-#SPECIALISTS & OUTLAWS
+#SPECIAL RESOURCES & OUTLAWS
 
 smugglers = {
 	color = { 0.33 0.56 0.38 }
@@ -125,11 +129,11 @@ pirates = {
 	color = { 0.45 0.21 0.09 }
 }
 
-engineers = {
+workshops = {
 	color = { 0.33 0.56 0.38 }
 }
 
-mages = {
+arcane = {
 	color = { 0.33 0.56 0.38 }
 }
 
@@ -143,7 +147,7 @@ army_supplies = {
 
 #MOUNTS & WARBEASTS
 
-warmounts = {
+mounts = {
 	color = { 0.63 0.17 0.50 }
 }
 

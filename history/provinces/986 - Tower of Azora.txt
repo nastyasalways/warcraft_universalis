@@ -13,7 +13,7 @@ culture = culture_azerothian
 religion = religion_arcane
 
 hre = no
-trade_goods = mages
+trade_goods = arcane
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

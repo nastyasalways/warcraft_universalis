@@ -18,6 +18,7 @@ l_english:
  # FOOD
  grain_silo: "Granaries"
  grain: "Farms"
+ ale: "Ale"
  # LEATHER/FURS:
  fur: "Hides"
  # CLOTH
@@ -26,15 +27,15 @@ l_english:
  # ARCHAEOLOGY/DIGSITES
  fossils: "Fossils"
  artifacts: "Artifacts"
- # SPECIALISTS & OUTLAWS
+ # SPECIAL RESOURCES & OUTLAWS
  smugglers: "Smugglers"
  pirates: "Pirates"
- engineers: "Workshops"
- mages: "Magi"
+ workshops: "Workshops"
+ arcane: "Arcane Power"
  # SUPPLIES
  army_supplies: "Army Supplies"
  # MOUNTS & WARBEASTS
- warmounts: "Warmounts"
+ mounts: "Mounts"
  flying_mounts: "Flying Mounts"
  warbeasts: "Warbeasts"
  
