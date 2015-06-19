@@ -356,6 +356,11 @@ E34 = "countries/Mantid Empire.txt"
 E35 = "countries/Huojin.txt"
 E36 = "countries/Tushui.txt"
 E37 = "countries/Shado Pan.txt"
+E63 = "countries/Jade Serpent.txt"
+E64 = "countries/Black Ox.txt"
+E65 = "countries/Red Crane.txt"
+E66 = "countries/White Tiger.txt"
+
 
 # Mogu
 E38 = "countries/Gurthan.txt"
@@ -363,6 +368,7 @@ E39 = "countries/Harthak.txt"
 E40 = "countries/Kargesh.txt"
 E41 = "countries/Mogu Shan.txt"
 E42 = "countries/Shao Tien.txt"
+E67 = "countries/Gormali.txt"
 
 # Yaungol
 E43 = "countries/Bataari.txt"
@@ -376,6 +382,20 @@ E48 = "countries/Palewind.txt"
 
 E54 = "countries/Stonesplinter.txt"
 E57 = "countries/Stonevault.txt"
+
+# Hozen
+
+E68 = "countries/Grookin.txt"
+E69 = "countries/Oona.txt"
+
+# Jinyu
+
+E70 = "countries/Pearlfin.txt"
+
+# Saurok
+
+E71 = "countries/Slitherscale.txt"
+
 
 # Formables
 #Arak

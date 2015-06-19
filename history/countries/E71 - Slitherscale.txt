@@ -1,0 +1,17 @@
+# Slitherscale Tribe
+government 		= warband
+mercantilism 		= 0.1 
+technology_group 	= tech_primitive
+religion		= religion_ancestral
+primary_culture 	= culture_saurok
+capital 			= 1
+
+546.1.1 = { 
+	monarch = { 
+		name = "Borokhula" 
+		dynasty = "Slitherscale" 
+		adm = 3
+		dip = 3
+		mil = 3
+	} 
+} 

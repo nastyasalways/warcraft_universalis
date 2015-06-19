@@ -96,6 +96,7 @@ l_english:
  culture_venture: "Venture"
  culture_copperpinch: "Copperpinch"
  culture_blackwater: "Blackwater"
+ culture_giblin: "Giblin"
  
  culture_group_tauren: "Tauren"
  culture_bloodhoof: "Bloodhoof"
@@ -132,8 +133,8 @@ l_english:
  
  culture_group_depths: "Depths"
  culture_mak_ra: "Mak'ra"
- culture_nerglish: "Nerglish"
- culture_giblin: "Giblin"
+ culture_nerglish: "Murloc"
+ culture_jinyu: "Jinyu"
  
  culture_group_old_god: "Old God"
  culture_yogg_saron: "Yogg'Saron"
@@ -198,7 +199,7 @@ l_english:
  culture_rainspeaker: "Rainspeaker"
  culture_mosswalker: "Mosswalker"
  culture_sparktouched: "Sparktouched"
- 
+
  culture_group_kobold: "Kobold"
  culture_drywhisker: "Drywhisker"
  culture_gravelsnout: "Gravelsnout"
@@ -253,7 +254,11 @@ l_english:
  culture_group_pandaren: "Pandaren"
  culture_huojin: "Huojin"
  culture_tuskui: "Tuskui"
- culture_shado_pan: "Shadow-Pan"
+ culture_shado_pan: "Shado-Pan"
+ culture_jade_serpent: "Jade Serpent"
+ culture_black_ox: "Black Ox"
+ culture_jred_crane: "Red Crane"
+ culture_white_tigert: "White Tiger"
  
  culture_group_mantid: "Mantid"
  culture_klaxxi: "Klaxxi"
@@ -278,3 +283,11 @@ l_english:
  
  culture_group_gnomish: "Gnomish"
  culture_gnome: "Gnome"
+
+ culture_group_hozen: "Hozen"
+ culture_forest_hozen: "Forest Hozen"
+ culture_forest_hozen: "Mountain Hozen"
+
+ culture_group_saurok: "Saurok"
+ culture_saurok: "Saurok"
+

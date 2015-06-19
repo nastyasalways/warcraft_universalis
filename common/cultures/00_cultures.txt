@@ -1569,6 +1569,18 @@ culture_group_depths = {
 			
 		}
 	}
+
+culture_jinyu = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
 }
 
 culture_group_old_god = {
@@ -2850,6 +2862,54 @@ culture_group_pandaren = {
 			
 		}
 	}
+
+	culture_jade_serpent = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_black_ox = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_red_crane = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_white_tiger = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
 }
 
 culture_group_mantid = {
@@ -2940,6 +3000,18 @@ culture_group_mogu = {
 	}
 	
 	culture_kargesh = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+        culture_gormali = {
 		male_names = {
 			
 		}
@@ -3090,3 +3162,66 @@ culture_group_gnomish = {
 	}
 }
 
+culture_group_hozen = {
+	graphical_culture = westerngfx
+
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
+	culture_forest_hozen = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_mountain_hozen = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+}
+
+culture_group_saurok = {
+	graphical_culture = westerngfx
+
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
+	culture_saurok = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+}
