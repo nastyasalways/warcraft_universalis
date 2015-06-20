@@ -1,16 +1,21 @@
 # 1829
-is_city = no
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = E84
+controller = E84
+add_core = E84
+capital = "Stoneplow Garrison"
+
+base_tax = 2
+base_manpower = 3
+base_production = 2
 
 
-culture = noculture
-religion = noreligion
+culture = culture_red_crane
+religion = religion_celestial
 
 hre = no
-trade_goods = grain
+trade_goods = army_supplies
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

@@ -1,0 +1,26 @@
+# The Unbound (Crystal nymphs & satyrs)
+
+graphical_culture = westerngfx
+
+color = { 41 97 218 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

@@ -362,6 +362,7 @@ E63 = "countries/Jade Serpent.txt"
 E64 = "countries/Black Ox.txt"
 E65 = "countries/Red Crane.txt"
 E66 = "countries/White Tiger.txt"
+E84 = "countries/Tillers.txt"
 
 
 # Mogu
@@ -371,6 +372,7 @@ E40 = "countries/Kargesh.txt"
 E41 = "countries/Mogu Shan.txt"
 E42 = "countries/Shao Tien.txt"
 E67 = "countries/Gormali.txt"
+E81 = "countries/Dojani.txt"
 
 # Yaungol
 E43 = "countries/Bataari.txt"
@@ -393,14 +395,31 @@ E69 = "countries/Oona.txt"
 # Jinyu
 
 E70 = "countries/Pearlfin.txt"
+E82 = "countries/Fallsong.txt"
 
 # Saurok
 
 E71 = "countries/Slitherscale.txt"
+E76 = "countries/Glintrok.txt"
+E80 = "countries/Darkhatched.txt"
+E83 = "countries/Riverblade.txt"
 
 # Taunka
 
 E73 = "countries/Icemist.txt"
+
+# Virmen
+
+E75 = "countries/Twitcheel.txt"
+
+# Dyrad
+
+E77 = "countries/The Unbound.txt"
+E79 = "countries/Sisterhood of Winter.txt"
+
+# Giant
+
+E78 = "countries/Crystalvice.txt"
 
 
 # Formables

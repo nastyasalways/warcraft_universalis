@@ -1,0 +1,23 @@
+# The Sisterhood of Winter (Frost Nymphs)
+government 		= minor_tribe
+mercantilism 		= 0.1
+technology_group 	= tech_darnassian
+religion			= religion_druidic
+primary_culture 	= culture_frost_nymph
+capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Sarendryana" 
+     dynasty = "Snowstar"
+     female = yes  
+		adm = 3
+		dip = 3
+		mil = 3
+ 	} 
+ } 
+
+
+
+
+ 

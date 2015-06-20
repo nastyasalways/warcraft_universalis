@@ -1481,6 +1481,18 @@ culture_group_satyr = {
 			
 		}
 	}
+
+	culture_crystal_satyr = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
 }
 
 culture_group_naga = {
@@ -1855,6 +1867,18 @@ culture_group_undead = {
 	}
         
         culture_undead_troll = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+        culture_ghost = {
 		male_names = {
 			
 		}
@@ -2616,6 +2640,18 @@ culture_group_titan = {
 		}
 	}
 	
+	culture_iron = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
 	culture_frostborn = {
 		male_names = {
 			
@@ -3062,6 +3098,18 @@ culture_group_mogu = {
 			
 		}
 	}
+
+        culture_dojani = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
 }
 
 culture_group_yaungol = {
@@ -3253,7 +3301,43 @@ culture_group_saurok = {
 			
 	}
 		
-	culture_saurok = {
+	culture_slitherscale = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_glintrok = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_riverblade = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_darkhatched = {
 		male_names = {
 			
 		}
@@ -3368,6 +3452,56 @@ culture_group_dryad = {
 	}
         
         culture_crystal_nymph = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+}
+
+culture_group_virmen = {
+	graphical_culture = westerngfx
+
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
+	culture_twitcheel = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+        culture_springtail = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+        
+        culture_snagtooth = {
 		male_names = {
 			
 		}

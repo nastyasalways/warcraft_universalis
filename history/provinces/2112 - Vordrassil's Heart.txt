@@ -1,19 +1,16 @@
-# 768
+# 
 is_city = yes
-owner = B82
-controller = B82
-add_core = B82
 
 base_tax = 3
-base_manpower = 3
+base_manpower = 2
 base_production = 3
 
 
-culture = culture_moa_ki
-religion = religion_ancestral
+culture = culture_frostpaw
+religion = religion_old_gods
 
 hre = no
-trade_goods = fish
+trade_goods = saronite
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
