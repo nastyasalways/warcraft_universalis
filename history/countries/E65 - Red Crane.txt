@@ -1,18 +1,28 @@
-# Jade Serpent Clan
-government 		= theocracy
+# Red Crane Clan
+government 		= theocratic_government
 mercantilism 		= 0.1 
 technology_group 	= tech_pandaren
 religion		= religion_celestial
-primary_culture 	= culture_jade_serpent
+primary_culture 	= culture_red_crane
 capital 			= 1
 
 546.1.1 = { 
 	monarch = { 
-		name = "Liu" 
-		dynasty = "Flameheart" 
+		name = "Ni" 
+		dynasty = "Mistwalker" 
 		adm = 3
 		dip = 3
-		mil = 3
-                female = yes
+		mil = 2
+	} 
+} 
+
+
+582.1.1 = { 
+	monarch = { 
+		name = "Koro" 
+		dynasty = "Mistwalker" 
+		adm = 2
+		dip = 3
+		mil = 2
 	} 
 } 

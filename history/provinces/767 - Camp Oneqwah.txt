@@ -1,16 +1,20 @@
-# 1018
-is_city = no
+# 
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+is_city = yes
+owner = E73
+controller = E73
+add_core = E73
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
+culture = culture_icemist
+religion = religion_ancestral
 
 hre = no
-trade_goods = grain
+trade_goods = fur
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

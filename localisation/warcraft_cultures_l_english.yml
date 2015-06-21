@@ -43,7 +43,7 @@ l_english:
  culture_blackrock: "Blackrock"
  culture_warsong: "Warsong"
  culture_stormreaver: "Stormreaver"
- culture_horde: "Hordish"
+ culture_horde: "Horde Orc Clans"
  
  culture_group_ogre: "Ogre"
  culture_bladespire: "Bladespire"
@@ -110,6 +110,7 @@ l_english:
  culture_nerubian: "Nerubian"
  culture_qiraji: "Qiraji"
  culture_silithid: "Silithid"
+ culture_mantid: "Mantid"
  
  culture_group_demonic: "Demonic"
  culture_man_ari: "Man'ari"
@@ -124,6 +125,7 @@ l_english:
  culture_blackheart: "Blackheart"
  culture_hatefury: "Hatefury"
  culture_legashi: "Legashi"
+ culture_crystal_satyr: "Crystal Satyr"
  
  culture_group_naga: "Naga"
  culture_nazja: "Nazja"
@@ -159,6 +161,8 @@ l_english:
  culture_group_undead: "Undead"
  culture_forsaken: "Forsaken"
  culture_undead_troll: "Undead Troll"
+ culture_revenant: "Revenant"
+ culture_ghost: "Ghosts"
  
  culture_group_gnoll: "Gnoll"
  culture_blackpaw: "Blackpaw"
@@ -230,6 +234,7 @@ l_english:
  culture_wildhammer: "Wildhammer"
  culture_dark_iron: "Dark Iron"
  culture_frostborn: "Frostborn"
+ culture_iron: "Iron Assembly"
  culture_trogg: "Trogg"
  
  culture_group_elemental: "Elemental"
@@ -240,6 +245,8 @@ l_english:
  
  culture_group_worgen: "Worgen"
  culture_wolfcult: "Wolfcult"
+ culture_gilnean_worgen: "Gilnean"
+ culture_lordaeron_worgen: "Lordaeron"
  
  culture_group_arrakoa: "Arrakoa"
  culture_sethekk: "Sethekk"
@@ -257,7 +264,7 @@ l_english:
  culture_shado_pan: "Shado-Pan"
  culture_jade_serpent: "Jade Serpent"
  culture_black_ox: "Black Ox"
- culture_jred_crane: "Red Crane"
+ culture_red_crane: "Red Crane"
  culture_white_tigert: "White Tiger"
  
  culture_group_mantid: "Mantid"
@@ -269,6 +276,8 @@ l_english:
  culture_gurthan: "Gurthan"
  culture_harthak: "Harthak"
  culture_kargesh: "Kargesh"
+ culture_gormali: "Gormali"
+ culture_dojani: "Dojani"
  
  culture_group_yaungol: "Yaungol"
  culture_bataari: "Bataari"
@@ -289,5 +298,27 @@ l_english:
  culture_forest_hozen: "Mountain Hozen"
 
  culture_group_saurok: "Saurok"
- culture_saurok: "Saurok"
+ culture_slitherscale: "Slitherscale"
+ culture_glintrok: "Glintrok"
+ culture_darkhatched: "Darkhatched"
+ culture_riverblade: "Riverblade"
+
+ culture_group_taunka: "Taunka"
+ culture_icemist: "Icemist"
+
+ culture_group_giant: "Giant"
+ culture_frost_giant: "Frost Giant"
+ culture_ice_giant: "Ice Giant"
+
+ culture_group_dryad: "Dyrad"
+ culture_forest_nymph: "Forest Nypmh"
+ culture_frost_nymph: "Frost Nymph"
+ culture_crystal_nymph: "Crystal Nypmh"
+
+ culture_group_virmen: "Virmen"
+ culture_twitcheel: "Twitcheel"
+ culture_springtail: "Springtail"
+ culture_snagtooth: "Snagtooth"
+ 
+ 
 

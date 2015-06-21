@@ -1,7 +1,27 @@
 # Silverbrook
-government 		= despotic_monarchy
+government 		= military_dictat
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+technology_group 	= tech_human
+religion			= religion_church_of_the_light
+primary_culture 	= culture_lordaeron
+capital 			= 967
+
+546.1.1 = { 
+monarch = { 
+     name = "Jonathan" 
+     dynasty = "Silverbrook" 
+		adm = 3
+		dip = 3
+		mil = 3
+ 	} 
+ }
+
+592.1.1 = { 
+monarch = { 
+     name = "Robert" 
+     dynasty = "Silverbrook" 
+		adm = 3
+		dip = 4
+		mil = 3
+ 	} 
+ }  

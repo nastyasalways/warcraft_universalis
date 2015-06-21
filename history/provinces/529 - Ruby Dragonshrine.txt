@@ -1,16 +1,20 @@
-# 529
-is_city = no
+#529
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = B03
+controller = B03
+add_core = B03
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
+culture = culture_red
+religion = religion_sect_of_dragons
 
 hre = no
-trade_goods = grain
+trade_goods = flying_mounts
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

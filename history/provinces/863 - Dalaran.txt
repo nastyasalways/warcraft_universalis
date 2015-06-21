@@ -1,4 +1,4 @@
-# 863
+# 863 (Eastern Kingdoms)
 is_city = yes
 add_core = A18
 controller = A18

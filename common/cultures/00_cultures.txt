@@ -1309,6 +1309,30 @@ culture_group_aqir = {
 			
 		}
 	}
+	
+        culture_nerubian = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+        culture_mantid = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
 }
 
 culture_group_demonic = {
@@ -1447,6 +1471,18 @@ culture_group_satyr = {
 	}
 	
 	culture_legashi = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_crystal_satyr = {
 		male_names = {
 			
 		}
@@ -1807,6 +1843,42 @@ culture_group_undead = {
 	}
 		
 	culture_forsaken = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+        culture_revenant = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+        
+        culture_undead_troll = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+        culture_ghost = {
 		male_names = {
 			
 		}
@@ -2369,30 +2441,10 @@ culture_group_harpy = {
 		
 	}
 	dynasty_names = {
-		male_names = {
-			
-		}
-		female_names = {
 		
-		}
-		dynasty_names = {
-			
-		}	
 	}
 		
 	culture_bloodfury = {
-		male_names = {
-			
-		}
-		female_names = {
-		
-		}
-		dynasty_names = {
-			
-		}
-	}
-	
-	culture_coldwind = {
 		male_names = {
 			
 		}
@@ -2429,6 +2481,18 @@ culture_group_harpy = {
 	}
 	
 	culture_screeching = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_coldwind = {
 		male_names = {
 			
 		}
@@ -2576,6 +2640,18 @@ culture_group_titan = {
 		}
 	}
 	
+	culture_iron = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
 	culture_frostborn = {
 		male_names = {
 			
@@ -3022,6 +3098,18 @@ culture_group_mogu = {
 			
 		}
 	}
+
+        culture_dojani = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
 }
 
 culture_group_yaungol = {
@@ -3213,7 +3301,207 @@ culture_group_saurok = {
 			
 	}
 		
-	culture_saurok = {
+	culture_slitherscale = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_glintrok = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_riverblade = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_darkhatched = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+}
+
+culture_group_taunka = {
+	graphical_culture = westerngfx
+
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
+	culture_icemist = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+}
+
+culture_group_giant = {
+	graphical_culture = westerngfx
+
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
+	culture_frost_giant = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+        culture_ice_giant = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+}
+
+culture_group_dryad = {
+	graphical_culture = westerngfx
+
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
+	culture_forest_nymph = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+        culture_frost_nymph = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+        
+        culture_crystal_nymph = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+}
+
+culture_group_virmen = {
+	graphical_culture = westerngfx
+
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
+	culture_twitcheel = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+        culture_springtail = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+        
+        culture_snagtooth = {
 		male_names = {
 			
 		}

@@ -11,8 +11,8 @@ base_manpower = 3
 base_production = 3
 
 
-culture = culture_saurok
-religion = religion_ancestral
+culture = culture_slitherscale
+religion = religion_voodoo
 
 hre = no
 trade_goods = fish

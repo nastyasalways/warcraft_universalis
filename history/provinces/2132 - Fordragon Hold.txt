@@ -1,16 +1,22 @@
-# 768
-is_city = no
+# 2132
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = B64
+controller = B64
+add_core = B64
+capital = "Coldwind Lair"
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
 
 
-culture = noculture
-religion = noreligion
+culture = culture_coldwind
+religion = religion_al_akir
+
 
 hre = no
-trade_goods = grain
+trade_goods = army_supplies
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

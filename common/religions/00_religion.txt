@@ -704,5 +704,29 @@ religion_tech = {
 		heretic = { }
 	}
 
+religion_voodoo = {
+		color = { 0.25 0.15 0.25 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_voodoo
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+
+		heretic = { }
+	}
+
 	crusade_name = CRUSADE
 }

@@ -1,16 +1,16 @@
-# 2131
-is_city = no
+# 
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 3
+base_manpower = 2
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
+culture = culture_frostpaw
+religion = religion_old_gods
 
 hre = no
-trade_goods = grain
+trade_goods = saronite
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
