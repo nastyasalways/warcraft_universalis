@@ -1,4 +1,4 @@
-# Riverblade Saurok
+# Mistblade Saurok
 government 		= warband
 mercantilism 		= 0.1
 technology_group 	= tech_primitive
@@ -8,8 +8,8 @@ capital 			= 1
 
 546.1.1 = { 
 monarch = { 
-     name = "Arness" 
-     dynasty = "Riverblade" 
+     name = "Dessan" 
+     dynasty = "Mistblade" 
 		adm = 3
 		dip = 2
 		mil = 4
@@ -18,8 +18,8 @@ monarch = {
 
  592.1.1 = { 
 monarch = { 
-     name = "Slovan" 
-     dynasty = "Riverblade" 
+     name = "Lizon" 
+     dynasty = "Mistblade" 
 		adm = 3
 		dip = 2
 		mil = 4

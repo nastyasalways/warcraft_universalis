@@ -692,7 +692,13 @@
  E83: "Riverblade"
  E83_ADJ: "Riverblade"
  E84: "Tillers"
- E83_ADJ: "Tiller"
+ E84_ADJ: "Tiller"
+ E85: "Muckscale"
+ E85_ADJ: "Muckscale"
+ E86: "Mistblade"
+ E86_ADJ: "Mistblade"
+ E87: "Rikkitun"
+ E87_ADJ: "Rikkitun"
  
  # Governments
  magocracy_republic: "Magocracy Republic"

@@ -1,15 +1,15 @@
-# Riverblade Saurok
+# Muckscale Saurok
 government 		= warband
 mercantilism 		= 0.1
 technology_group 	= tech_primitive
 religion			= religion_voodoo
-primary_culture 	= culture_riverblade
+primary_culture 	= culture_muckscale
 capital 			= 1
 
 546.1.1 = { 
 monarch = { 
-     name = "Arness" 
-     dynasty = "Riverblade" 
+     name = "Grinlok" 
+     dynasty = "Muckscale" 
 		adm = 3
 		dip = 2
 		mil = 4
@@ -18,8 +18,8 @@ monarch = {
 
  592.1.1 = { 
 monarch = { 
-     name = "Slovan" 
-     dynasty = "Riverblade" 
+     name = "Serpentus" 
+     dynasty = "Muckscale" 
 		adm = 3
 		dip = 2
 		mil = 4

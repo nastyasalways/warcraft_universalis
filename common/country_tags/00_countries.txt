@@ -403,6 +403,8 @@ E71 = "countries/Slitherscale.txt"
 E76 = "countries/Glintrok.txt"
 E80 = "countries/Darkhatched.txt"
 E83 = "countries/Riverblade.txt"
+E85 = "countries/Muckscale.txt"
+E86 = "countries/Mistblade.txt"
 
 # Taunka
 
@@ -420,6 +422,10 @@ E79 = "countries/Sisterhood of Winter.txt"
 # Giant
 
 E78 = "countries/Crystalvice.txt"
+
+# Sprite
+
+E87 = "countries/Rikkitun.txt"
 
 
 # Formables
