@@ -8,21 +8,12 @@ capital 			= 1
 
 546.1.1 = { 
 	monarch = { 
-		name = "Ni" 
-		dynasty = "Mistwalker" 
-		adm = 3
-		dip = 3
-		mil = 2
+		name = "Chi-Ji " 
+		dynasty = "the Red Crane" 
+		adm = 4
+		dip = 4
+		mil = 3
 	} 
 } 
 
 
-582.1.1 = { 
-	monarch = { 
-		name = "Koro" 
-		dynasty = "Mistwalker" 
-		adm = 2
-		dip = 3
-		mil = 2
-	} 
-} 

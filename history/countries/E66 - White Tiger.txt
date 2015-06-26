@@ -1,5 +1,5 @@
-# Jade Serpent Clan
-government 		= theocracy
+# White Tiger Clan
+government 		= theocratic_government
 mercantilism 		= 0.1 
 technology_group 	= tech_pandaren
 religion		= religion_celestial
@@ -8,11 +8,10 @@ capital 			= 1
 
 546.1.1 = { 
 	monarch = { 
-		name = "Liu" 
-		dynasty = "Flameheart" 
+		name = "Xuen" 
+		dynasty = "the White Tiger" 
 		adm = 3
 		dip = 3
-		mil = 3
-                female = yes
+		mil = 4
 	} 
 } 

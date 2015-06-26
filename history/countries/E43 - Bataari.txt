@@ -1,7 +1,27 @@
 # Bataari
-government 		= despotic_monarchy
+government 		= warband
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_tauren
+religion			= religion_ragnaros
+primary_culture 	= culture_bataari
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Qobi" 
+     dynasty = "Bataari" 
+		adm = 3
+		dip = 3
+		mil = 3
+ 	} 
+ } 
+
+592.1.1 = { 
+monarch = { 
+     name = "Ur-Bataar" 
+     dynasty = "Bataari" 
+		adm = 3
+		dip = 3
+		mil = 3
+ 	} 
+ } 

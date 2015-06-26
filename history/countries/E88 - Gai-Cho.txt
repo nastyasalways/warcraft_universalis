@@ -1,15 +1,15 @@
-# Palewind
+# Gai-Cho Tribe
 government 		= warband
 mercantilism 		= 0.1
 technology_group 	= tech_tauren
 religion			= religion_ragnaros
-primary_culture 	= culture_palewind
+primary_culture 	= culture_gai_cho
 capital 			= 1
 
 546.1.1 = { 
 monarch = { 
-     name = "Yorgol" 
-     dynasty = "Palewind" 
+     name = "Montak" 
+     dynasty = "Gai-Cho" 
 		adm = 3
 		dip = 3
 		mil = 3
@@ -18,10 +18,14 @@ monarch = {
 
 592.1.1 = { 
 monarch = { 
-     name = "Nun Zo" 
-     dynasty = "Palewind" 
+     name = "Cheng Bo" 
+     dynasty = "Gai-Cho" 
 		adm = 3
 		dip = 3
 		mil = 3
  	} 
  } 
+
+
+
+ 

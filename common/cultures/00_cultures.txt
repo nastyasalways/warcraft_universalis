@@ -3146,6 +3146,18 @@ culture_group_mogu = {
 			
 		}
 	}
+
+        culture_shan_ze = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
 }
 
 culture_group_yaungol = {
@@ -3222,6 +3234,42 @@ culture_group_yaungol = {
 	}
 	
 	culture_palewind = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_gai_cho = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_ruqin = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_yongqi = {
 		male_names = {
 			
 		}

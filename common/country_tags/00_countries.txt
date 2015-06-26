@@ -363,6 +363,7 @@ E64 = "countries/Black Ox.txt"
 E65 = "countries/Red Crane.txt"
 E66 = "countries/White Tiger.txt"
 E84 = "countries/Tillers.txt"
+E91 = "countries/Anglers.txt"
 
 
 # Mogu
@@ -373,6 +374,7 @@ E41 = "countries/Mogu Shan.txt"
 E42 = "countries/Shao Tien.txt"
 E67 = "countries/Gormali.txt"
 E81 = "countries/Dojani.txt"
+E92 = "countries/Shan'ze.txt"
 
 # Yaungol
 E43 = "countries/Bataari.txt"
@@ -381,6 +383,9 @@ E45 = "countries/Osul.txt"
 E46 = "countries/Deadtalker.txt"
 E47 = "countries/Burilgi.txt"
 E48 = "countries/Palewind.txt"
+E88 = "countries/Gai-Cho.txt"
+E89 = "countries/Ruqin.txt"
+E90 = "countries/Yongqi.txt"
 
 # Trogg
 

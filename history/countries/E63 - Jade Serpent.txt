@@ -8,11 +8,11 @@ capital 			= 1
 
 546.1.1 = { 
 	monarch = { 
-		name = "Liu" 
-		dynasty = "Flameheart" 
+		name = "Yu'lon" 
+		dynasty = "the Jade Serpent" 
 		adm = 3
 		dip = 3
-		mil = 3
+		mil = 4
                 female = yes
 	} 
 } 
