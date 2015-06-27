@@ -234,7 +234,7 @@ l_english:
  culture_wildhammer: "Wildhammer"
  culture_dark_iron: "Dark Iron"
  culture_frostborn: "Frostborn"
- culture_iron: "Iron Assembly"
+ culture_iron: "Iron Dwarf"
  culture_trogg: "Trogg"
  
  culture_group_elemental: "Elemental"
@@ -242,6 +242,9 @@ l_english:
  culture_earth: "Earth"
  culture_water: "Water"
  culture_air: "Air"
+ culture_sprite: "Sprite"
+ culture_mistwalker: "Mistwalker"
+ culture_ooze: "Ooze"
  
  culture_group_worgen: "Worgen"
  culture_wolfcult: "Wolfcult"
@@ -278,6 +281,7 @@ l_english:
  culture_kargesh: "Kargesh"
  culture_gormali: "Gormali"
  culture_dojani: "Dojani"
+ culture_shan_ze: "Shan'ze"
  
  culture_group_yaungol: "Yaungol"
  culture_bataari: "Bataari"
@@ -286,6 +290,9 @@ l_english:
  culture_deadtalker: "Deadtalker"
  culture_burilgi: "Burilgi"
  culture_palewind: "Palewind"
+ culture_gai_cho: "Gai-Cho"
+ culture_ruqin: "Ruqin"
+ culture_yongqi: "Yongqi"
  
  culture_group_ethereal: "Ethereal"
  culture_k_areshi: "K'areshi"
@@ -302,6 +309,8 @@ l_english:
  culture_glintrok: "Glintrok"
  culture_darkhatched: "Darkhatched"
  culture_riverblade: "Riverblade"
+ culture_muckscale: "Muckscale"
+ culture_mistblade: "Mistblade"
 
  culture_group_taunka: "Taunka"
  culture_icemist: "Icemist"

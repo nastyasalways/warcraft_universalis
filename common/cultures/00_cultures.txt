@@ -2737,6 +2737,42 @@ culture_group_elemental = {
 			
 		}
 	}
+
+	culture_sprite = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+        culture_mistwalker = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+        culture_ooze = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
 }
 
 culture_group_worgen = {
@@ -3110,6 +3146,18 @@ culture_group_mogu = {
 			
 		}
 	}
+
+        culture_shan_ze = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
 }
 
 culture_group_yaungol = {
@@ -3186,6 +3234,42 @@ culture_group_yaungol = {
 	}
 	
 	culture_palewind = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_gai_cho = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_ruqin = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_yongqi = {
 		male_names = {
 			
 		}
@@ -3338,6 +3422,30 @@ culture_group_saurok = {
 	}
 
 	culture_darkhatched = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_muckscale = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_mistblade = {
 		male_names = {
 			
 		}

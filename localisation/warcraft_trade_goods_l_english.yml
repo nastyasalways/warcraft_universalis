@@ -1,7 +1,9 @@
 l_english:
- # WOOD
+ # WOOD & ORGANIC
  ashenvale_lumber: "Ashenvale Lumber"
  lumber: "Lumber"
+ kypari: "Kypari Amber"
+ oil: "Oil"
  # Mines, METALS & ORES
  stone: "Stone"
  dark_iron: "Dark Iron"

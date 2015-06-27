@@ -11,8 +11,15 @@ lumber = {
 	color = { 0.11 0.17 0.4 }
 }
 
+kypari = {
+	color = { 0.96 0.93 0.58 }
+}
 
 # tropical_wood - already present
+
+oil = {
+	color = { 0.93 0.98 0.98 }
+}
 
 #MINES, METALS, & ORES
 stone = {
