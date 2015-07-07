@@ -16,7 +16,7 @@ culture = culture_nerglish
 religion = religion_neptulon
 
 hre = no
-trade_goods = grain
+trade_goods = fish
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

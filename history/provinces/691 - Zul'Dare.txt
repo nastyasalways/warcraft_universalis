@@ -11,7 +11,7 @@ culture = culture_firetree
 religion = religion_loa
  
 hre = no 
-trade_goods = grain
+trade_goods = pirates
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

@@ -127,6 +127,13 @@
  MISTS_OF_PANDARIA_DESC: "Pandaria emerges."
  WARLORDS_OF_DRAENOR_NAME: "Warlords of Draenor"
  WARLORDS_OF_DRAENOR_DESC: "Garrosh escapes."
+ FALL_OF_STORMWIND_NAME: "The Fall of Stormwind"
+ FALL_OF_STORMWIND_DESC: "Stormwind has fallen to the brutal Orcish Horde"
+ BEYOND_THE_DARK_PORTAL_NAME: "Beyond the Dark Portal"
+ BEYOND_THE_DARK_PORTAL_DESC: "The Horde of Draenor invades Azeroth once more"
+ THE_FROZEN_THRONE_NAME: "The Frozen Throne"
+ THE_FROZEN_THRONE_DESC: "Illidan Stormrage attempts to destroy the Frozen throne."
+
  
  # Countries
  A01: "Stormwind"
@@ -709,7 +716,14 @@
  E91_ADJ: "Angler"
  E92: "Shan'ze"
  E92_ADJ: "Shan'ze"
- 
+ E93: "Grummle Caravans"
+ E93_ADJ: "Grummle"
+ E94: "Ookin"
+ E94_ADJ: "Ookin"
+ E95: "Inkgill"
+ E95_ADJ: "Inkgill"
+
+
  # Governments
  magocracy_republic: "Magocracy Republic"
  magocracy_republic_desc: ""

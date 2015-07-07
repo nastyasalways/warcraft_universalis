@@ -1,16 +1,20 @@
 # 1915
-is_city = no
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = E41
+controller = E41
+add_core = E41
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
 
 
-culture = noculture
-religion = noreligion
+culture = culture_korune
+religion = religion_titan
 
 hre = no
-trade_goods = grain
+trade_goods = crypts
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

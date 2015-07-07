@@ -14,7 +14,7 @@ culture = culture_trogg
 religion = religion_geomancy
 
 hre = no
-trade_goods = grain
+trade_goods = copper
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

@@ -236,6 +236,7 @@ l_english:
  culture_frostborn: "Frostborn"
  culture_iron: "Iron Dwarf"
  culture_trogg: "Trogg"
+ culture_grummle: "Grummle"
  
  culture_group_elemental: "Elemental"
  culture_fire: "Fire"
@@ -268,7 +269,7 @@ l_english:
  culture_jade_serpent: "Jade Serpent"
  culture_black_ox: "Black Ox"
  culture_red_crane: "Red Crane"
- culture_white_tigert: "White Tiger"
+ culture_white_tiger: "White Tiger"
  
  culture_group_mantid: "Mantid"
  culture_klaxxi: "Klaxxi"
@@ -282,6 +283,7 @@ l_english:
  culture_gormali: "Gormali"
  culture_dojani: "Dojani"
  culture_shan_ze: "Shan'ze"
+ culture_korune: "Korune"
  
  culture_group_yaungol: "Yaungol"
  culture_bataari: "Bataari"
@@ -302,7 +304,7 @@ l_english:
 
  culture_group_hozen: "Hozen"
  culture_forest_hozen: "Forest Hozen"
- culture_forest_hozen: "Mountain Hozen"
+ culture_mountain_hozen: "Mountain Hozen"
 
  culture_group_saurok: "Saurok"
  culture_slitherscale: "Slitherscale"

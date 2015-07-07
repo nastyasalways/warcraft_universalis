@@ -13,7 +13,7 @@ culture = culture_shadowhide
 religion = religion_ancestral
 
 hre = no
-trade_goods = grain
+trade_goods = army_supplies
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

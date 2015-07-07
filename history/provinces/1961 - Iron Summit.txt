@@ -14,8 +14,7 @@ culture = culture_dark_iron
 religion = religion_ragnaros
 
 hre = no
-trade_goods = grain
-
+trade_goods = thorium
 discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian

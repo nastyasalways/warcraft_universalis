@@ -11,7 +11,7 @@ culture = culture_earth
 religion = religion_therazane
 
 hre = no
-trade_goods = grain
+trade_goods = elementium
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

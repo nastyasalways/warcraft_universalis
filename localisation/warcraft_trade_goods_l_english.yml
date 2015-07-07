@@ -29,11 +29,13 @@ l_english:
  # ARCHAEOLOGY/DIGSITES
  fossils: "Fossils"
  artifacts: "Artifacts"
+ crypts: "Crypts"
  # SPECIAL RESOURCES & OUTLAWS
  smugglers: "Smugglers"
  pirates: "Pirates"
  workshops: "Workshops"
  arcane: "Arcane Power"
+ fel: "Fel Energy"
  # SUPPLIES
  army_supplies: "Army Supplies"
  # MOUNTS & WARBEASTS

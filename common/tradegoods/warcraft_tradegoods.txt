@@ -123,6 +123,11 @@ artifacts = {
 	color = { 0.74 0.95 0.68 }
 }
 
+crypts = {
+	color = { 0.07 0.33 0.09 }
+}
+
+
 #SPECIAL RESOURCES & OUTLAWS
 
 smugglers = {
@@ -142,6 +147,10 @@ workshops = {
 
 arcane = {
 	color = { 0.33 0.56 0.38 }
+}
+
+fel = {
+	color = { 0.85 0.46 0.15 }
 }
 
 #SUPPLIES
