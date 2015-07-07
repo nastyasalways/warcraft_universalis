@@ -10,11 +10,11 @@ base_manpower = 2
 base_production = 2
 
 
-culture = culture_bloodscalp
-religion = religion_loa
+culture = culture_murkgill
+religion = religion_old_gods
 
 hre = no
-trade_goods = grain
+trade_goods = artifacts
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

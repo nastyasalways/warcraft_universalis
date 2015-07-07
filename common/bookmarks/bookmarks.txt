@@ -20,6 +20,13 @@ bookmark =
 
 bookmark =
 {
+	name = "FALL_OF_STORMWIND_NAME"
+	desc = "FALL_OF_STORMWIND_DESC"
+	date = 597.1.1
+}
+
+bookmark =
+{
 	name = "SECOND_WAR_NAME"
 	desc = "SECOND_WAR_DESC"
 	date = 598.1.1
@@ -27,9 +34,23 @@ bookmark =
 
 bookmark =
 {
+	name = "BEYOND_THE_DARK_PORTAL_NAME"
+	desc = "BEYOND_THE_DARK_PORTAL_DESC"
+	date = 600.1.1
+}
+
+bookmark =
+{
 	name = "THIRD_WAR_NAME"
 	desc = "THIRD_WAR_DESC"
 	date = 617.1.1
+}
+
+bookmark =
+{
+	name = "THE_FROZEN_THRONE_NAME"
+	desc = "THE_FROZEN_THRONE_DESC"
+	date = 618.1.1
 }
 
 bookmark =

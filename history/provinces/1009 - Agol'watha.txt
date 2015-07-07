@@ -60,6 +60,10 @@ controller = xxx
 owner = xxx
 culture = culture_ooze }
 
+
+630.11.11 = { controller = xxx
+owner = xxx}
+
 631.1.1 = {add_core = A60
 controller = A60
 owner = A60

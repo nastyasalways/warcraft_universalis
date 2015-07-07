@@ -10,7 +10,7 @@ culture = culture_mosshide
 religion = religion_ancestral
 
 hre = no
-trade_goods = grain
+trade_goods = mounts
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

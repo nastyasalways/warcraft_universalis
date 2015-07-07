@@ -14,7 +14,7 @@ culture = culture_lordaeron
 religion = religion_arcane
  
 hre = no 
-trade_goods = grain
+trade_goods = arcane
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

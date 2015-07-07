@@ -10,7 +10,7 @@ culture = culture_n_zoth
 religion = religion_old_gods
 
 hre = no
-trade_goods = grain
+trade_goods = fish
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

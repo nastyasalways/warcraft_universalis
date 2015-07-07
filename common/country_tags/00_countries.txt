@@ -396,11 +396,13 @@ E57 = "countries/Stonevault.txt"
 
 E68 = "countries/Grookin.txt"
 E69 = "countries/Oona.txt"
+E94 = "countries/Ookin.txt"
 
 # Jinyu
 
 E70 = "countries/Pearlfin.txt"
 E82 = "countries/Fallsong.txt"
+E95 = "countries/Inkgill.txt"
 
 # Saurok
 
@@ -431,6 +433,10 @@ E78 = "countries/Crystalvice.txt"
 # Sprite
 
 E87 = "countries/Rikkitun.txt"
+
+# Grummle
+
+E93 = "countries/Grummle.txt"
 
 
 # Formables

@@ -13,7 +13,7 @@ culture = culture_gnome
 religion = religion_tech
 
 hre = no
-trade_goods = grain
+trade_goods = naval_supplies
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

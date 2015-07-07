@@ -1,16 +1,20 @@
 # 1907
-is_city = no
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = E41
+controller = E41
+add_core = E41
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
+culture = culture_korune
+religion = religion_titan
 
 hre = no
-trade_goods = grain
+trade_goods = artifacts
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

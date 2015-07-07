@@ -11,7 +11,7 @@ culture = culture_gurubashi
 religion = religion_loa
 
 hre = no
-trade_goods = grain
+trade_goods = artifacts
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -52,3 +52,4 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+592.1.1 = { trade_goods = fel }

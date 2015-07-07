@@ -2675,6 +2675,18 @@ culture_group_titan = {
 			
 		}
 	}
+
+	culture_grummle = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
 }
 
 culture_group_elemental = {
@@ -3148,6 +3160,18 @@ culture_group_mogu = {
 	}
 
         culture_shan_ze = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+        culture_korune = {
 		male_names = {
 			
 		}

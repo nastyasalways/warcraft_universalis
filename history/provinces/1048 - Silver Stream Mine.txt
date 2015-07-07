@@ -14,7 +14,7 @@ culture = culture_tunnel_rat
 religion = religion_geomancy
 
 hre = no
-trade_goods = grain
+trade_goods = army_supplies
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
