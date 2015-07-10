@@ -86,6 +86,7 @@ A45 = "countries/Dragonmaw.txt"
 A46 = "countries/Frostwolf.txt"
 A47 = "countries/MokNathal.txt"
 A48 = "countries/Orgrimmar.txt"
+E98 = "countries/Black Tooth Grin.txt"
 
 # Ogre
 A49 = "countries/Bladespire.txt"
@@ -94,6 +95,10 @@ A51 = "countries/Boulderfist.txt"
 A52 = "countries/Gordunni.txt"
 A53 = "countries/Ogrila.txt"
 E50 = "countries/Crushridge.txt"
+E96 = "countries/Dreadmaul.txt"
+E97 = "countries/Splinterfist.txt"
+E99 = "countries/Firegut.txt"
+F01 = "countries/Stonespire.txt"
 
 # Draenei
 A54 = "countries/Shattrath.txt"
@@ -364,6 +369,7 @@ E65 = "countries/Red Crane.txt"
 E66 = "countries/White Tiger.txt"
 E84 = "countries/Tillers.txt"
 E91 = "countries/Anglers.txt"
+F02 = "countries/Golden Lotus.txt"
 
 
 # Mogu
@@ -412,6 +418,7 @@ E80 = "countries/Darkhatched.txt"
 E83 = "countries/Riverblade.txt"
 E85 = "countries/Muckscale.txt"
 E86 = "countries/Mistblade.txt"
+F03 = "countries/Skumblade.txt"
 
 # Taunka
 

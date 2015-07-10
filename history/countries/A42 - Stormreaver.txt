@@ -1,7 +1,19 @@
 # Stormreaver
-government 		= despotic_monarchy
+government 		= warband
 mercantilism 		= 0.1
 technology_group 	= tech_orc
-religion			= noreligion
-primary_culture 	= noculture
+religion			= religion_fel
+primary_culture 	= culture_stormreaver
 capital 			= 1
+
+
+597.1.1 = { 
+	monarch = { 
+		name = "Gul'dan" 
+		dynasty = "of the Shadowmoon" 
+		adm = 5
+		dip = 5
+		mil = 3
+                
+	} 
+}

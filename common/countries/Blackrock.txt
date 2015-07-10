@@ -2,7 +2,7 @@
 
 graphical_culture = westerngfx
 
-color = { 70 147 13 }
+color = { 172 62 91 }
 
 monarch_names = {
 

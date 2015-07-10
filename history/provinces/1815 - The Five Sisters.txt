@@ -1,16 +1,15 @@
 # 1815
-is_city = no
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
-
-culture = noculture
-religion = noreligion
+culture = culture_golden_lotus
+religion = religion_celestial
 
 hre = no
-trade_goods = grain
+trade_goods = stone
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

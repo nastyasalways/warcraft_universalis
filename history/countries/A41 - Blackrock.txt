@@ -1,7 +1,33 @@
 # Blackrock
-government 		= despotic_monarchy
+government 		= warband
 mercantilism 		= 0.1
 technology_group 	= tech_orc
-religion			= noreligion
-primary_culture 	= noculture
+religion			= religion_fel
+primary_culture 	= culture_blackrock
 capital 			= 1
+
+
+546.1.1 = { 
+	monarch = { 
+		name = "Blackhand" 
+		dynasty = "Blackhand" 
+		adm = 3
+		dip = 3
+		mil = 5
+                
+	} 
+}
+
+
+592.1.1 = { government = orcish_horde }
+
+597.1.1 = { 
+	monarch = { 
+		name = "Orgrim" 
+		dynasty = "Doomhammer" 
+		adm = 4
+		dip = 5
+		mil = 5
+                
+	} 
+}

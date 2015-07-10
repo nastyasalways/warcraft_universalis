@@ -722,6 +722,20 @@
  E94_ADJ: "Ookin"
  E95: "Inkgill"
  E95_ADJ: "Inkgill"
+ E96: "Dreadmaul"
+ E96_ADJ: "Dreadmaul"
+ E97: "Splinterfist"
+ E97_ADJ: "Splinterfist"
+ E98: "Black Tooth Grin"
+ E98_ADJ: "Black Tooth Grin"
+ E99: "Firegut"
+ E99_ADJ: "Firegut"
+ F01: "Stonespire"
+ F01_ADJ: "Stonespire"
+ F02: "Golden Lotus"
+ F02_ADJ: "Golden Lotus"
+ F03: "Skumblade"
+ F03_ADJ: "Skumblade"
 
 
  # Governments
@@ -1003,4 +1017,3 @@
  
  scarlet_crusade_weakness: "Scarlet Crusade Weakness"
  desc_scarlet_crusade_weakness: "The citizens of our realm are far and few between. We will struggle to fill our manpower pool and will most likely have to resort to mercenaries."
- 

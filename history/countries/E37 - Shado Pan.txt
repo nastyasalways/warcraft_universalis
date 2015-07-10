@@ -1,5 +1,5 @@
 # Shado Pan
-government 		= theocratic_government
+government 		= monastic_order_government
 mercantilism 		= 0.1 
 technology_group 	= tech_pandaren
 religion		= religion_celestial

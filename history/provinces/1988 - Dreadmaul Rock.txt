@@ -1,17 +1,13 @@
 # 1988
 is_city = yes
 
-owner = A99
-controller = A99
-add_core = A99
-
 base_tax = 4
 base_manpower = 4
 base_production = 4
 
 
-culture = culture_black
-religion = religion_old_gods
+culture = culture_dark_iron
+religion = religion_ragnaros
 
 hre = no
 trade_goods = dark_iron
@@ -55,3 +51,9 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+597.1.1 = { owner = E98
+controller = E98
+add_core = E98
+add_core = E99
+culture = culture_firegut
+religion = religion_geomancy }
