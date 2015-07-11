@@ -1,7 +1,19 @@
 # Dragonmaw
-government 		= despotic_monarchy
+government 		= warband
 mercantilism 		= 0.1
 technology_group 	= tech_orc
-religion			= noreligion
-primary_culture 	= noculture
+religion			= religion_fel
+primary_culture 	= culture_dragonmaw
 capital 			= 1
+
+
+592.1.1 = { 
+	monarch = { 
+		name = "Zuluhed" 
+		dynasty = "the Whacked" 
+		adm = 4
+		dip = 3
+		mil = 3
+                
+	} 
+}

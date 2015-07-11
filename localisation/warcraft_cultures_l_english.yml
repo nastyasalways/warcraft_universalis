@@ -43,7 +43,7 @@ l_english:
  culture_blackrock: "Blackrock"
  culture_warsong: "Warsong"
  culture_stormreaver: "Stormreaver"
- culture_horde: "Horde Orc Clans"
+ culture_horde: "Horde Clans"
  
  culture_group_ogre: "Ogre"
  culture_bladespire: "Bladespire"
@@ -54,6 +54,10 @@ l_english:
  culture_dunemaul: "Dunemaul"
  culture_gordunni: "Gordunni"
  culture_ogri_la: "Ogri'la"
+ culture_dreadmaul: "Dreadmaul"
+ culture_splinterfist: "Splinterfist"
+ culture_stonespire: "Stonespire"
+ culture_firegut: "Firegut"
  
  culture_group_draenei: "Draenei"
  culture_shattrathi: "Shattrathi"
@@ -270,6 +274,7 @@ l_english:
  culture_black_ox: "Black Ox"
  culture_red_crane: "Red Crane"
  culture_white_tiger: "White Tiger"
+ culture_golden_lotus: "Golden Lotus"
  
  culture_group_mantid: "Mantid"
  culture_klaxxi: "Klaxxi"
@@ -313,6 +318,7 @@ l_english:
  culture_riverblade: "Riverblade"
  culture_muckscale: "Muckscale"
  culture_mistblade: "Mistblade"
+ culture_skumblade: "Skumblade"
 
  culture_group_taunka: "Taunka"
  culture_icemist: "Icemist"

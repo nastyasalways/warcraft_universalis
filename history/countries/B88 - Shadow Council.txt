@@ -1,7 +1,19 @@
 # Shadow Council
-government 		= despotic_monarchy
+government 		= theocratic_government
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_orc
+religion			= religion_fel
+primary_culture 	= culture_horde
 capital 			= 1
+
+
+546.1.1 = { 
+	monarch = { 
+		name = "Gul'dan" 
+		dynasty = "of the Shadowmoon" 
+		adm = 5
+		dip = 5
+		mil = 3
+                
+	} 
+}

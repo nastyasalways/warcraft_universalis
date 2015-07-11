@@ -1,0 +1,26 @@
+# Black Tooth Grin
+
+government 		= warband
+mercantilism 		= 0.1 
+technology_group 	= tech_orc
+religion		= religion_fel
+primary_culture 	= culture_blackrock
+capital 			= 1
+
+597.1.1 = { 
+	monarch = { 
+		name = "Rend" 
+		dynasty = "Blackhand" 
+		adm = 3
+		dip = 3
+		mil = 4
+	} 
+	heir = { 
+		name = "Maim" 
+		dynasty = "Blackhand" 
+		adm = 3
+		dip = 3
+		mil = 3
+	} 
+} 
+

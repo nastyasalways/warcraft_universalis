@@ -54,3 +54,12 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+592.1.1 = { owner = E96
+controller = E96
+add_core = E96
+culture = culture_dreadmaul
+religion = religion_geomancy }
+
+597.1.1 = { owner = xxx
+controller = xxx
+remove_core = E96 }
