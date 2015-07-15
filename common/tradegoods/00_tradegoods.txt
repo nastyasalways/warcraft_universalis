@@ -176,7 +176,6 @@ tropical_wood = {
 	}
 }
 
-
 unknown = {
 	color = { 0.5 0.5 0.5 }
 }
