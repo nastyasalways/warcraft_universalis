@@ -166,10 +166,10 @@ province;red;green;blue;type;name
 165;156;180;19;sea;x
 166;159;54;54;sea;x
 167;142;215;28;sea;x
-168;240;146;24;sea;x
-169;157;103;111;sea;x
-170;73;224;144;sea;x
-171;184;39;29;sea;x
+168;240;146;24;sea;Granite Flow
+169;157;103;111;sea;Light's Lake
+170;73;224;144;sea;Light's Wash
+171;184;39;29;sea;Vordrassil's River
 172;167;32;40;sea;x
 173;158;54;207;sea;x
 174;218;51;208;sea;x
@@ -177,8 +177,8 @@ province;red;green;blue;type;name
 176;128;137;28;sea;x
 177;154;14;97;sea;x
 178;48;208;143;sea;x
-179;179;222;106;sea;x
-180;135;198;216;sea;x
+179;179;222;106;sea;Halvarde Wash
+180;135;198;216;sea;Utgarde Waters
 181;161;19;131;sea;x
 182;106;66;74;sea;x
 183;144;106;91;sea;x
@@ -348,10 +348,10 @@ province;red;green;blue;type;name
 347;34;193;236;sea;x
 348;51;103;69;sea;x
 349;22;29;235;sea;x
-350;4;242;101;sea;x
-351;63;77;212;sea;x
-352;52;31;21;sea;x
-353;40;82;122;sea;x
+350;4;242;101;sea;Blue Sky Lake
+351;63;77;212;sea;Amberpine River
+352;52;31;21;sea;Amberpine Wash
+353;40;82;122;sea;Bay of Naxxramas
 354;222;52;210;sea;x
 355;229;52;82;sea;x
 356;234;1;48;sea;x
@@ -664,7 +664,7 @@ province;red;green;blue;type;name
 663;69;108;126;x;Forsaken Rear Guard
 664;64;44;255;x;Ebon Watch
 665;60;108;128;x;x
-666;55;44;0;x;x
+666;55;44;0;sea;Waters of Gjalerbron
 667;42;108;255;x;x
 668;37;44;128;x;x
 669;32;108;0;x;Render's Valley
@@ -1249,7 +1249,7 @@ province;red;green;blue;type;name
 1248;139;70;55;sea;x
 1249;129;141;159;sea;x
 1250;170;99;231;lake;Silverbrook Lake
-1251;184;8;30;sea;x
+1251;184;8;30;sea;The Forgotten Flow
 1252;171;131;105;sea;x
 1253;40;214;114;lake;Grizzlemaw Lake
 1254;47;20;64;sea;Lake of Skorn
@@ -2016,7 +2016,7 @@ province;red;green;blue;type;name
 2015;172;21;22;x;Boralus Farmlands
 2016;70;131;76;sea;Skorn Flow
 2017;56;233;169;sea;Winterhoof River
-2018;142;60;49;x;Wildervar Flow
+2018;142;60;49;sea;Wildervar Flow
 2019;243;73;97;wasteland;Outland Rift
 2020;117;245;81;lake;Skettis Lake
 2021;205;107;162;lake;Shadowmoon Lake
