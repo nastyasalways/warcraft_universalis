@@ -19,7 +19,7 @@ monarch = {
 
 592.1.1 = { 
 monarch = { 
-     name = "Terenas" 
+     name = "Terenas II" 
      dynasty = "Menethil" 
 		adm = 4
 		dip = 5

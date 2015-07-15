@@ -59,3 +59,10 @@ controller = A44
 add_core = A44
 culture = culture_burning_blade
 religion = religion_fel }
+
+600.1.1 = { owner = B15
+controller = B15
+remove_core = A44
+religion = religion_ancestral
+culture = culture_riverpaw }
+

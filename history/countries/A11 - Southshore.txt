@@ -17,8 +17,19 @@ monarch = {
  	} 
  } 
 
+592.1.1 = { 
 
-598.1.1 = { 
+monarch = { 
+     name = "Luke" 
+     dynasty = "Abbendis" 
+		adm = 3
+		dip = 3
+		mil = 4
+ 	} 
+ 	government = military_dictat
+ } 
+
+597.1.1 = { 
 
 monarch = { 
      name = "Anduin " 
@@ -26,14 +37,24 @@ monarch = {
 		adm = 4
 		dip = 5
 		mil = 5
+ 	}  
+ } 
+
+600.1.1 = { 
+
+monarch = { 
+     name = "Aedelas" 
+     dynasty = "Blackmoore" 
+		adm = 3
+		dip = 3
+		mil = 3 
  	} 
- 	government = military_dictat 
  } 
 
 617.1.1 = { 
 
 monarch = { 
-     name = "Henry " 
+     name = "Henry" 
      dynasty = "Maleb" 
 		adm = 3
 		dip = 3

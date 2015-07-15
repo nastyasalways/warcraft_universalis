@@ -64,7 +64,7 @@ add_core = A08
 remove_core = A12 }
 
 
-622.1.1 = { owner = A13
+618.1.1 = { owner = A13
 controller = A13
 add_core = A13
 remove_core = A08

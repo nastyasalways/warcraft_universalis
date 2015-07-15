@@ -1,0 +1,26 @@
+# Shadowsworn orc cult
+
+graphical_culture = westerngfx
+
+color = { 52 120 110 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

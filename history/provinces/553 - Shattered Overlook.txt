@@ -57,3 +57,6 @@ controller = A43
 add_core = A43
 culture = culture_twilights_hammer
 religion = religion_fel }
+
+600.1.1 = { owner = xxx
+controller = xxx }

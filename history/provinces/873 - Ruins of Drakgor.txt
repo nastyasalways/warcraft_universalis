@@ -51,3 +51,11 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+598.1.1 = { owner = A45
+controller = A45
+add_core = A45
+culture = culture_dragonmaw
+religion = religion_fel }
+
+600.1.1 = { owner = xxx
+controller = xxx }

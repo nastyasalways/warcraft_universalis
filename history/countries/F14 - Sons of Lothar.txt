@@ -1,0 +1,32 @@
+# Hillsbrad
+government 		= military_dictat
+government_rank = 1
+mercantilism 		= 0.1
+technology_group 	= tech_human
+religion			= religion_church_of_the_light
+primary_culture 	= culture_lordaeron
+capital 			= 1
+
+600.1.1 = { 
+
+monarch = { 
+     name = "Turalyon" 
+     dynasty = "of Lordaeron" 
+		adm = 4
+		dip = 4
+		mil = 5 
+ 	} 
+ } 
+
+617.1.1 = { 
+
+monarch = { 
+     name = "Daneth" 
+     dynasty = "Trollbane" 
+		adm = 4
+		dip = 3
+		mil = 5
+ 	} 
+culture = culture_arathi
+ } 
+

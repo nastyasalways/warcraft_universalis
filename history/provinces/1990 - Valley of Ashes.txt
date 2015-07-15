@@ -57,6 +57,9 @@ add_core = E98
 culture = culture_blackrock
 religion = religion_fel }
 
+600.1.1 = { owner = xxx
+controller = xxx }
+
 617.1.1 = { owner = A99
 controller = A99
 add_core = A99

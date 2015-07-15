@@ -15,3 +15,5 @@ monarch = {
 		mil = 3
  	} 
  } 
+
+622.1.1 = { religion = religion_the_damned }

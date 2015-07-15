@@ -59,3 +59,10 @@ controller = A42
 add_core = A42
 culture = culture_stormreaver
 religion = religion_fel }
+
+600.1.1 = {owner = F11
+controller = F11
+add_core = F11
+remove_core = A43
+culture = culture_nerglish
+religion = religion_old_gods}

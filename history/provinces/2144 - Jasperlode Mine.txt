@@ -59,3 +59,8 @@ controller = B58
 add_core = B58
 culture = culture_goldtooth
 religion = religion_geomancy }
+
+617.1.1 = { owner = A01
+controller = A01
+culture = culture_azerothian
+religion = religion_church_of_the_light }

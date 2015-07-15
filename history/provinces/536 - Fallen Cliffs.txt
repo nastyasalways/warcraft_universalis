@@ -1,16 +1,16 @@
 # 536
 is_city = yes
-add_core = B13
-controller = B13
-owner = B13
+add_core = A29
+controller = A29
+owner = A29
 
-base_tax = 2
-base_manpower = 2
-base_production = 2
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
-culture = culture_mosshide
-religion = religion_ancestral
+culture = culture_ironforge
+religion = religion_church_of_the_light
 
 hre = no
 trade_goods = fish
@@ -54,3 +54,19 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+
+598.1.1 = { owner = A40
+controller = A40
+add_core = A40
+culture = culture_bleeding_hollow 
+religion = religion_fel }
+
+600.1.1 = { owner = A29
+controller = A29
+remove_core = A40
+culture = culture_ironforge 
+religion = religion_church_of_the_light}
+
+631.1.1 = { owner = xxx
+controller = xxx
+remove_core = A40 }

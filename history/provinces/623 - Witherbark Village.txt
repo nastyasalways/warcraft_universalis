@@ -58,7 +58,7 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome  
 
 
-617.1.1 = { add_core = A64
+600.1.1 = { add_core = A64
 remove_core = A65
 owner = A64
 controller = A64

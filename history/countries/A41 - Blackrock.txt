@@ -9,7 +9,7 @@ capital 			= 1
 
 546.1.1 = { 
 	monarch = { 
-		name = "Blackhand" 
+		name = "" 
 		dynasty = "Blackhand" 
 		adm = 3
 		dip = 3
@@ -19,7 +19,15 @@ capital 			= 1
 }
 
 
-592.1.1 = { government = orcish_horde }
+592.1.1 = { government = orcish_horde
+        heir = { 
+		name = "Rend" 
+		dynasty = "Blackhand" 
+		adm = 3
+		dip = 3
+		mil = 4
+	}  
+}
 
 597.1.1 = { 
 	monarch = { 
@@ -29,5 +37,23 @@ capital 			= 1
 		dip = 5
 		mil = 5
                 
+	} 
+}
+
+600.1.1 = { 
+	monarch = { 
+		name = "Rend" 
+		dynasty = "Blackhand" 
+		adm = 3
+		dip = 3
+		mil = 4
+                
+	} 
+	heir = { 
+		name = "Maim" 
+		dynasty = "Blackhand" 
+		adm = 3
+		dip = 3
+		mil = 3
 	} 
 }

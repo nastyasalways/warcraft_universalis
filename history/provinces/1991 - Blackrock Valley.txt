@@ -57,3 +57,7 @@ add_core = A41
 add_core = F01
 culture = culture_stonespire
 religion = religion_geomancy }
+
+600.1.1 = { add_core = A65
+owner = F01
+controller = F01 }

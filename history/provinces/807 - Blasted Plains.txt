@@ -57,3 +57,14 @@ controller = A43
 add_core = A43
 culture = culture_twilights_hammer
 religion = religion_fel }
+
+600.1.1 = { owner = F14
+controller = F14
+add_core = F14
+add_core = A18
+remove_core = A43
+culture = culture_dalaran
+religion = religion_arcane }
+
+600.1.1 = { owner = xxx
+controller = xxx }

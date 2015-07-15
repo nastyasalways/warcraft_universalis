@@ -63,7 +63,6 @@ remove_core = A12
 culture = culture_dalaran
 religion = religion_arcane}
 
-
 622.1.1 = { owner = A13
 controller = A13
 add_core = A13

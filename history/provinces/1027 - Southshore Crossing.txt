@@ -67,7 +67,7 @@ controller = A11
 remove_core = A01
 culture = culture_lordaeron }
 
-622.1.1 = { owner = xxx 
+618.1.1 = { owner = xxx 
 controller = xxx }
 
 631.1.1 = { owner = E14

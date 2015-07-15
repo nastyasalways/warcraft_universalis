@@ -1,0 +1,29 @@
+# Palemane
+government 		= minor_tribe
+mercantilism 		= 0.1
+technology_group 	= tech_gnoll
+religion			= religion_ancestral
+primary_culture 	= culture_woodpaw
+capital 			= 1
+
+546.1.1 = { 
+	monarch = { 
+		name = "Miblon" 
+		dynasty = "Woodpaw" 
+		adm = 3
+		dip = 3
+		mil = 3
+                
+	} 
+}
+
+600.1.1 = { 
+	monarch = { 
+		name = "Grell" 
+		dynasty = "Woodpaw" 
+		adm = 3
+		dip = 3
+		mil = 4
+                
+	} 
+}

@@ -1,9 +1,5 @@
 # 1964
-is_city = no
-
-owner = A30
-controller = A30
-add_core = A30
+is_city = yes
 
 base_tax = 2
 base_manpower = 2
@@ -55,3 +51,14 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+598.1.1 = { owner = E98
+controller = E98
+add_core = E98
+culture = culture_blackrock
+religion = religion_fel }
+
+600.1.1 = { owner = xxx
+controller = xxx
+remove_core = E98
+culture = culture_dark_iron
+religion = religion_ragnaros }

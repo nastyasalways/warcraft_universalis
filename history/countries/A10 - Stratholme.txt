@@ -15,4 +15,24 @@ monarch = {
 		dip = 3
 		mil = 3
  	} 
- } 
+ }
+
+592.1.1 = { 
+monarch = { 
+     name = "Alexander II" 
+     dynasty = "Rivendare" 
+		adm = 3
+		dip = 3
+		mil = 3
+ 	} 
+ }  
+
+517.1.1 = {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 0
+		mil = 0
+		dip = 0
+		regent = yes
+	}
+}

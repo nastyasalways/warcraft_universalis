@@ -62,5 +62,3 @@ discovered_by = tech_gnome
 controller = A30
 culture = culture_dark_iron
 religion = religion_ragnaros }
->>>>>>> origin/master
-

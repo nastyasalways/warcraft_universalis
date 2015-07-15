@@ -1,10 +1,6 @@
 # 885
 is_city = yes
 
-owner = B29
-controller = B29
-add_core = B29
-
 base_tax = 4
 base_manpower = 4
 base_production = 4

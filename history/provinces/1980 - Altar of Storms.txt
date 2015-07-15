@@ -61,3 +61,8 @@ add_core = A42
 culture = culture_stormreaver
 religion = religion_fel 
 trade_goods = fel}
+
+600.1.1 = { owner = A41
+controller = A41
+add_core = A41
+culture = culture_blackrock }

@@ -59,11 +59,18 @@ owner = A08
 remove_core = A12
 culture = culture_lordaeron}
 
+618.1.1 = { owner = E52 
+controller = E52
+add_core = E52
+religion = religion_the_damned
+culture = culture_scourge }
+
 
 622.1.1 = { owner = A13
 controller = A13
 add_core = A13
 remove_core = A08
+remove_core = E52
 culture = culture_gilnean_worgen
 religion = religion_shadow }
 

@@ -51,3 +51,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+600.1.1 = { owner = F06
+controller = F06
+add_core = F06
+culture = culture_dustbelcher }

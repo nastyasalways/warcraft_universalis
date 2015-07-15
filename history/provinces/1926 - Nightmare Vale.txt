@@ -52,3 +52,10 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
+
+618.1.1 = { add_core = F16
+controller = F16
+owner = F16 }
+
+622.1.1 = { controller = xxx
+owner = xxx }

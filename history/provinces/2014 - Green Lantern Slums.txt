@@ -4,14 +4,15 @@ add_core = A14
 controller = A14
 owner = A14
 
-base_tax = 2
-manpower = 2
+base_tax = 3
+base_manpower = 3
+base_production = 3
  
 culture = culture_kul_tiran
 religion = religion_church_of_the_light
  
 hre = no 
-trade_goods = grain
+trade_goods = fish
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

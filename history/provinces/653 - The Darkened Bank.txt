@@ -1,4 +1,4 @@
-# 653
+# 653 The Misty Bank
 is_city = yes
 add_core = A03
 controller = A03
@@ -59,3 +59,16 @@ controller = A44
 add_core = A44
 culture = culture_burning_blade
 religion = religion_fel }
+
+600.1.1 = {owner = xxx
+controller = xxx
+culture = culture_azerothian
+religion = religion_church_of_the_light }
+
+616.11.11 = {owner = xxx
+controller = xxx }
+
+617.1.1 = { owner = F12
+controller = F12
+add_core = F12
+remove_core = A44 }

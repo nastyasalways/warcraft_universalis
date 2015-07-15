@@ -1,5 +1,7 @@
 # 2004
+is_city = yes
 add_core = A16
+add_core = F04
 controller = A16
 owner = A16
 
@@ -12,7 +14,7 @@ culture = culture_arathi
 religion = religion_church_of_the_light
  
 hre = no 
-trade_goods = grain
+trade_goods = fish
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -53,5 +55,16 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+598.1.1 = { owner = A63
+controller = A63
+add_core = A63
+culture = culture_firetree
+religion = religion_loa }
 
-
+600.1.1 = { owner = A14
+controller = A14
+add_core = A14
+remove_core = A63
+remove_core = A16
+culture = culture_kul_tiran
+religion = religion_church_of_the_light }

@@ -1,0 +1,26 @@
+# Sons of Lothar
+
+graphical_culture = westerngfx
+
+color = { 238 159 200 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

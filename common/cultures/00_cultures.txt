@@ -457,6 +457,30 @@ culture_group_orc = {
 			
 		}
 	}
+
+	culture_burning_blade = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_thunderlord = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
 }
 
 culture_group_ogre = {
@@ -605,6 +629,54 @@ culture_group_ogre = {
 	}
 
 	culture_stonespire = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_mogrosh = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_dustbelcher = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_deadwind = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_bloodeye = {
 		male_names = {
 			
 		}
@@ -974,6 +1046,18 @@ culture_group_jungle_troll = {
 	}
 	
 	culture_hakkari = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_jellyneck = {
 		male_names = {
 			
 		}
@@ -2037,6 +2121,18 @@ culture_group_gnoll = {
 	}
 	
 	culture_rothide = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_woodpaw = {
 		male_names = {
 			
 		}

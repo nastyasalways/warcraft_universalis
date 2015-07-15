@@ -67,7 +67,7 @@ capital = "Syndicate Camp"}
 controller = A29
 add_core = A29
 remove_core = A26
-culture = culture_bronzebeard
+culture = culture_ironforge
 capital = "Stormpike Camp" }
 
 632.1.1 = { owner = xxx 

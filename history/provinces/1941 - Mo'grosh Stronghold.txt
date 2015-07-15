@@ -59,3 +59,17 @@ discovered_by = tech_gnome
 597.1.1 = { owner = xxx
 controller = xxx
 remove_core = A76 }
+
+597.11.11 = { owner = xxx
+controller = xxx }
+
+598.1.1 = { owner = A40
+controller = A40
+add_core = A40
+add_core = F05
+culture = culture_mogrosh 
+religion = religion_geomancy }
+
+600.1.1 = { owner = F05
+controller = F05
+remove_core = A40 }
