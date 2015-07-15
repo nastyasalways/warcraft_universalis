@@ -56,5 +56,5 @@ discovered_by = tech_gnome
 
 592.1.1 = { religion = religion_fel}
 
-597.1.1 = { owner = xxx
-controller = xxx }
+597.1.1 = { owner = XXX
+controller = XXX }

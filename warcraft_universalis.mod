@@ -34,6 +34,8 @@ replace_path = "common/technologies"
 replace_path = "common/trade_companies"
 replace_path = "common/tradenodes"
 replace_path = "common/triggered_modifiers"
+replace_path = "common/parliament_issues"
+replace_path = "common/parliament_bribes"
 
 replace_path = "history/provinces"
 replace_path = "history/countries"
@@ -46,4 +48,4 @@ tags=
 	"Alternative History"
 }
 picture="image.png"
-supported_version = "1.12"
+supported_version = "1.13"

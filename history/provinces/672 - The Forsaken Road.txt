@@ -75,6 +75,6 @@ remove_core = A13
 culture = culture_forsaken
 religion = religion_forgotten_shadow }
 
-631.1.1 = {  owner = xxx
-controller = xxx
+631.1.1 = {  owner = XXX
+controller = XXX
 remove_core = E14 }

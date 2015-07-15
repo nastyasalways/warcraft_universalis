@@ -17,7 +17,6 @@ hre = no
 trade_goods = cloth
 
 
- 
 discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian
@@ -57,24 +56,32 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-597.1.1 = { owner = A01
-controller = A01
-core = A01
-culture = culture_azerothian }
+597.1.1 = { 
+	owner = A01
+	controller = A01
+	add_core = A01
+	culture = culture_azerothian 
+}
 
-600.1.1 = { owner = A11
-controller = A11
-remove_core = A01
-culture = culture_lordaeron }
+600.1.1 = { 
+	owner = A11
+	controller = A11
+	remove_core = A01
+	culture = culture_lordaeron 
+}
 
-622.1.1 = { owner = xxx 
-controller = xxx }
+622.1.1 = {
+	controller = XXX
+	owner = XXX
+}
 
-631.1.1 = { owner = E14
-controller = E14
-add_core = E14
-culture = culture_forsaken
-religion = religion_forgotten_shadow }
+631.1.1 = { 
+	owner = E14
+	controller = E14
+	add_core = E14
+	culture = culture_forsaken
+	religion = religion_forgotten_shadow 
+}
 
 
 

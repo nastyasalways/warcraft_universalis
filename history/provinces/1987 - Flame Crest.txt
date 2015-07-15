@@ -5,7 +5,7 @@ base_tax = 1
 base_manpower = 1
 base_production = 1
 
-culture = fire
+culture = culture_fire
 religion = religion_ragnaros
 
 hre = no

@@ -61,8 +61,8 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome 
  
 
-617.1.1 = { owner = xxx
-controller = xxx
+617.1.1 = { owner = XXX
+controller = XXX
 culture = culture_horde
 religion = religion_ancestral
 capital = "Eastgarde Internment Camp" }

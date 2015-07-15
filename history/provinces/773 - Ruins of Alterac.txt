@@ -57,20 +57,24 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
  
 
-617.1.1 = { owner = A41
-controller = A41
-add_core = A41
-add_core = A26
-remove_core = A17
-culture = culture_blackrock
-religion = religion_fel
-capital = "Alterac Ruins" }
+617.1.1 = { 
+	owner = A41
+	controller = A41
+	add_core = A41
+	add_core = A26
+	remove_core = A17
+	culture = culture_blackrock
+	religion = religion_fel
+	capital = "Alterac Ruins" 
+}
 
-622.1.1 = { owner = E50
-controller = E50
-add_core = E50
-remove_core = A41
-culture = culture_crushridge
-religion_geomancy }
+622.1.1 = { 
+	owner = E50
+	controller = E50
+	add_core = E50
+	remove_core = A41
+	culture = culture_crushridge
+	religion = religion_geomancy 
+}
 
 

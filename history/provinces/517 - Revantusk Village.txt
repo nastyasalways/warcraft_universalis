@@ -1,12 +1,9 @@
 # 517 
 
 is_city = yes
-
-add_core = A61
-controller = A61
 owner = A61
-capital = "Revantusk Village"
-
+controller = A61
+add_core = A61
 
 base_tax = 4
 base_manpower = 4
@@ -18,6 +15,8 @@ religion = religion_loa
 hre = no 
 trade_goods = fish
  
+capital = "Revantusk Village"
+
 discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian
