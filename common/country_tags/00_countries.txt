@@ -241,6 +241,7 @@ B38 = "countries/Bogstrok.txt"
 E51 = "countries/Torn Fin.txt"
 E60 = "Countries/Rockpool.txt"
 F11 = "Countries/Redgill.txt"
+F22 = "countries/Greengill.txt"
 
 # Furbolg
 B39 = "countries/Gnarlpine.txt"
@@ -340,12 +341,14 @@ E07 = "countries/Strashaz.txt"
 E08 = "countries/Riplash.txt"
 E09 = "countries/Daggerspine.txt"
 E10 = "countries/Blackfathom.txt"
+F23 = "countries/Darkspine.txt"
 
 # Scourge
 E11 = "countries/The Scourge.txt"
 E12 = "countries/Cult of the Damned.txt"
 E13 = "countries/Knights of the Ebon Blade.txt"
 E52 = "countries/The Scourge of Lordaeron.txt"
+F21 = "countries/Deatholme.txt"
 
 # Undead
 E14 = "countries/The Forsaken.txt"

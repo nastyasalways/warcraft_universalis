@@ -258,6 +258,7 @@ l_english:
  culture_sprite: "Sprite"
  culture_mistwalker: "Mistwalker"
  culture_ooze: "Ooze"
+ culture_treant: "Treant"
  
  culture_group_worgen: "Worgen"
  culture_wolfcult: "Wolfcult"
