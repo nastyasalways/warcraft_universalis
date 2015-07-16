@@ -63,13 +63,24 @@ remove_core = A76 }
 597.11.11 = { owner = xxx
 controller = xxx }
 
-598.1.1 = { owner = A40
+598.1.1 = { 
+owner = A40
 controller = A40
 add_core = A40
 add_core = F05
 culture = culture_mogrosh 
-religion = religion_geomancy }
+religion = religion_geomancy 
+}
 
-600.1.1 = { owner = F05
+600.1.1 = { 
+owner = F05
 controller = F05
-remove_core = A40 }
+remove_core = A40 
+}
+
+631.1.1 = { 
+owner = A43
+controller = A43
+add_core = A43
+religion = religion_old_gods 
+}

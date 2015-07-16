@@ -57,13 +57,17 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 
-622.1.1 = { owner = A29
+622.1.1 = { 
+owner = A29
 controller = A29
 add_core = A29
-add_core = E09 }
+add_core = E09 
+}
 
-631.1.1 = {owner = xxx
+631.1.1 = {
+owner = xxx
 controller = xxx
-culture = culture_ghost}
+culture = culture_ghost
+}
 
 

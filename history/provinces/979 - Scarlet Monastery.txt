@@ -54,14 +54,20 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-618.1.1 = { owner = xxx
-controller = xxx }
+618.1.1 = { 
+owner = xxx
+controller = xxx 
+}
 
-621.11.11 = { owner = xxx
-controller = xxx }
+621.11.11 = { 
+owner = xxx
+controller = xxx 
+}
 
-622.1.1 = { add_core = A22
+622.1.1 = { 
+add_core = A22
 remove_core = A08
 religion = religion_scarlet_light
 controller = A22
-owner = A22 }
+owner = A22 
+}
