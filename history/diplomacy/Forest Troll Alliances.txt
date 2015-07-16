@@ -10,7 +10,7 @@ vassal = {
 	first = A58
 	second = A62
 	start_date = 546.1.1
-	end_date = 617.1.1
+	end_date = 600.1.1
 }
 
 # Zul'jin's United Troll Tribes
@@ -18,42 +18,42 @@ vassal = {
 	first = A58
 	second = A63
 	start_date = 592.1.1
-	end_date = 617.1.1
+	end_date = 600.1.1
 }
 
 vassal = {
 	first = A58
 	second = A60
 	start_date = 592.1.1
-	end_date = 617.1.1
+	end_date = 600.1.1
 }
 
 vassal = {
 	first = A58
 	second = A64
 	start_date = 592.1.1
-	end_date = 617.1.1
+	end_date = 600.1.1
 }
 
 vassal = {
 	first = A58
 	second = A61
 	start_date = 592.1.1
-	end_date = 617.1.1
+	end_date = 600.1.1
 }
 
 vassal = {
 	first = A58
 	second = A65
 	start_date = 592.1.1
-	end_date = 617.1.1
+	end_date = 600.1.1
 }
 
 vassal = {
 	first = A58
 	second = E55
 	start_date = 592.1.1
-	end_date = 617.1.1
+	end_date = 600.1.1
 }
 
 #Smolderthorn - Firetree Alliance

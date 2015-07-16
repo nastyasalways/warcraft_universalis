@@ -58,3 +58,9 @@ controller = E98
 add_core = E98
 culture = culture_blackrock
 religion = religion_fel }
+
+600.1.1 = { owner = A04
+controller = A04
+remove_core = E98
+culture = culture_azerothian
+religion = religion_church_of_the_light }

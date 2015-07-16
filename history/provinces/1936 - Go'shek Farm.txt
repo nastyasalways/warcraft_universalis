@@ -17,22 +17,6 @@ religion = religion_loa
 hre = no 
 trade_goods = grain
 
-
-617.1.1 = { owner = A16
-controller = A16
-remove_core = A65
-culture = culture_arathi
-religion = religion_church_of_the_light
-capital = "Trollbane Hobby Farm" }
-
-622.1.1 = { owner = A48
-controller = A48
-add_core = A48
-culture = culture_horde
-religion = religion_ancestral
-capital = "Go'Shek Farm" }
-
-
 discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian
@@ -73,3 +57,16 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 
+600.1.1 = { owner = A16
+controller = A16
+remove_core = A65
+culture = culture_arathi
+religion = religion_church_of_the_light
+capital = "Trollbane Hobby Farm" }
+
+622.1.1 = { owner = A48
+controller = A48
+add_core = A48
+culture = culture_horde
+religion = religion_ancestral
+capital = "Go'Shek Farm" }

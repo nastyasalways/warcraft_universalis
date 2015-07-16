@@ -56,3 +56,9 @@ controller = A41
 add_core = A41
 culture = culture_blackrock
 religion = religion_fel }
+
+600.1.1 = { owner = A65
+controller = A65
+add_core = A65
+culture = culture_smolderthorn
+religion = religion_loa }

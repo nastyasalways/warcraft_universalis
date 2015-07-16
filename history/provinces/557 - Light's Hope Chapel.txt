@@ -13,7 +13,7 @@ culture = culture_lordaeron
 religion = religion_church_of_the_light
  
 hre = no 
-trade_goods = army_supplies
+trade_goods = crypts
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -53,3 +53,13 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
+
+622.1.1 = { add_core = A24
+remove_core = A10
+controller = A24
+owner = A24
+religion = religion_argent_light }
+
+627.1.1 = { owner = F19
+controller = F19
+add_core = F19 }

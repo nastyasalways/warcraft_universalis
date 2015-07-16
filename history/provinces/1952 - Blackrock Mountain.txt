@@ -60,3 +60,8 @@ controller = A41
 add_core = A41
 culture = culture_blackrock
 religion = religion_fel }
+
+600.1.1 = { add_core = A65
+add_core = F01 }
+
+617.1.1 = { add_core = A99 }

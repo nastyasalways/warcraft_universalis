@@ -59,9 +59,8 @@ discovered_by = tech_gnome
 
 
 622.1.1 = { 
-	owner = A30 
-	controller = A30
-	culture = culture_dark_iron
-	religion = religion_ragnaros 
+owner = A30 
+controller = A30
+culture = culture_dark_iron
+religion = religion_ragnaros 
 }
-

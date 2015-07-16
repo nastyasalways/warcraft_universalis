@@ -1,0 +1,19 @@
+# Shadowsworn
+government 		= despotic_magocracy
+mercantilism 		= 0.1
+technology_group 	= tech_undead
+religion			= religion_shadow
+primary_culture 	= culture_forsaken
+capital 			= 1
+
+
+617.1.1 = { 
+	monarch = { 
+		name = "Morbent" 
+		dynasty = "Fel" 
+		adm = 4
+		dip = 4
+		mil = 3
+                
+	} 
+}

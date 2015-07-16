@@ -1,0 +1,27 @@
+# Jellyneck
+government 		= warband
+mercantilism 		= 0.1 
+technology_group 	= tech_troll
+religion		= religion_loa
+primary_culture 	= culture_jellyneck
+capital 			= 1
+
+546.1.1 = { 
+	monarch = { 
+		name = "Jojo" 
+		dynasty = "Jellyneck" 
+		adm = 3
+		dip = 3
+		mil = j
+	} 
+} 
+
+600.1.1 = { 
+	monarch = { 
+		name = "Jon Jon" 
+		dynasty = "Jellyneck" 
+		adm = 3
+		dip = 3
+		mil = 3
+	} 
+} 

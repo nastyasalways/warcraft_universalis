@@ -59,3 +59,7 @@ add_core = A43
 add_core = E96
 culture = culture_dreadmaul
 religion = religion_geomancy }
+
+600.1.1 = { owner = E96
+controller = E96
+remove_core = A43 }

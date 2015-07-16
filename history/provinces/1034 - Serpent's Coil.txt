@@ -65,3 +65,9 @@ controller = A42
 add_core = A42
 remove_core = B88
 culture = culture_stormreaver}
+
+597.1.1 = { owner = F13
+controller = F13
+add_core = F13
+remove_core = A42 }
+

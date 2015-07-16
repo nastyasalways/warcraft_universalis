@@ -54,8 +54,19 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-597.1.1 = { owner = XXX
-controller = XXX
-remove_core = A02
+597.1.1 = { 
+owner = A42
+controller = A42
+add_core = A42
+culture = culture_stormreaver
+religion = religion_fel 
+}
+
+600.1.1 = {
+owner = F11
+controller = F11
+add_core = F11
+remove_core = A43
 culture = culture_nerglish
-religion = religion_old_gods }
+religion = religion_old_gods
+}

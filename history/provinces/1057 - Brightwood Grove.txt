@@ -59,3 +59,15 @@ controller = A40
 add_core = A40
 culture = culture_bleeding_hollow 
 religion = religion_fel }
+
+600.1.1 = {owner = xxx
+controller = xxx
+culture = culture_azerothian
+religion = religion_church_of_the_light }
+
+616.11.11 = {owner = xxx
+controller = xxx }
+
+617.1.1 = { owner = A03
+controller = A03
+remove_core = A43 }

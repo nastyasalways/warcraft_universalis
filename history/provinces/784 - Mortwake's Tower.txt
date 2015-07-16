@@ -10,10 +10,10 @@ base_production = 2
 
 
 culture = culture_azerothian
-religion = religion_church_of_the_light
+religion = religion_arcane
 
 hre = no
-trade_goods = smugglers
+trade_goods = arcane
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -59,3 +59,21 @@ controller = A43
 add_core = A43
 culture = culture_twilights_hammer
 religion = religion_fel }
+
+600.1.1 = {owner = xxx
+controller = xxx
+culture = culture_azerothian
+religion = religion_arcane }
+
+616.11.11 = {owner = xxx
+controller = xxx }
+
+617.1.1 = { owner = A02
+controller = A02
+remove_core = A43 }
+
+618.1.1 = { trade_good = smugglers
+religon = church_of_the_light
+add_core = A07
+owner = A07
+controller = A07 }

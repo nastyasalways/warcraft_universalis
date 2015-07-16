@@ -5,7 +5,8 @@ controller = A14
 owner = A14
 
 base_tax = 3
-manpower = 3
+base_manpower = 3
+base_production = 3
  
 culture = culture_kul_tiran
 religion = religion_church_of_the_light

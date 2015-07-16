@@ -22,7 +22,7 @@ monarch = {
 monarch = { 
      name = "Tirion" 
      dynasty = "Fordring" 
-		adm = 2
+		adm = 3
 		dip = 3
 		mil = 4
  	} 

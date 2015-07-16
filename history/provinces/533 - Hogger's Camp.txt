@@ -59,3 +59,9 @@ controller = A41
 add_core = A41
 culture = culture_blackrock
 religion = religion_fel }
+
+600.1.1 = { owner = B15
+controller = B15
+remove_core = A41
+religion = religion_ancestral
+culture = culture_riverpaw }

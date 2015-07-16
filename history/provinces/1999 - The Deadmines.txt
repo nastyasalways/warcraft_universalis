@@ -1,15 +1,15 @@
 # 1999
 is_city = yes
-add_core = B15
-controller = B15
-owner = B15
+add_core = B18
+controller = B18
+owner = B18
 
 base_tax = 4
 base_manpower = 4
 base_production = 4
 
 
-culture = culture_riverpaw
+culture = culture_palemane
 religion = religion_ancestral
 
 hre = no
@@ -54,12 +54,27 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-592.1.1 = { owner = E96
-controller = E96
-add_core = E96
-culture = culture_dreadmaul
-religion = religion_geomancy }
+592.1.1 = { 
+owner = F07
+controller = F07
+add_core = F07
+culture = culture_deadwind
+religion = religion_geomancy 
+}
 
-597.1.1 = { owner = XXX
-controller = XXX
-remove_core = E96 }
+597.1.1 = { 
+owner = xxx
+controller = xxx
+remove_core = F07 
+}
+
+616.11.11 = { 
+owner = xxx
+controller = xxx 
+}
+
+617.1.1 = { 
+owner = A07
+controller = A07 
+add_core = A07 
+}

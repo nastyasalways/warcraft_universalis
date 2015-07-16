@@ -8,11 +8,20 @@ capital 			= 1
 
 592.1.1 = { 
 	monarch = { 
-		name = "Turok" 
-		dynasty = "Dreadmaul" 
+		name = "Grol" 
+		dynasty = "the Destroyer" 
 		adm = 3
 		dip = 3
 		mil = 3
 	} 
 } 
 
+533.1.1 = { 
+	monarch = { 
+		name = "Toothsmash" 
+		dynasty = "the Annihilator" 
+		adm = 3
+		dip = 3
+		mil = 3
+	} 
+} 

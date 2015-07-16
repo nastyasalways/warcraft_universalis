@@ -59,3 +59,17 @@ controller = E98
 add_core = E98
 culture = culture_blackrock
 religion = religion_fel }
+
+600.1.1 = { owner = xxx
+controller = xxx }
+
+
+616.11.11 = {owner = xxx
+controller = xxx }
+
+617.1.1 = {owner = F11
+controller = F11
+add_core = F11
+remove_core = E98
+culture = culture_nerglish
+religion = religion_old_gods}

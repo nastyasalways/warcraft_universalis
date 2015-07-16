@@ -1,5 +1,8 @@
 # 744
 is_city = yes
+owner = E27
+controller = E27
+add_core = E27
 
 base_tax = 4
 base_manpower = 4

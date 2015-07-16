@@ -4,7 +4,7 @@ l_english:
  culture_azerothian: "Azerothian"
  culture_gilnean: "Gilnean"
  culture_arathi: "Stromic"
- culture_kul_tiran: "Kul Tiran"
+ culture_kul_tiran: "Tirasian"
  culture_lordaeron: "Lordaeron"
  culture_alterac: "Alteraci"
  culture_dalaran: "Dalaran"
@@ -43,7 +43,9 @@ l_english:
  culture_blackrock: "Blackrock"
  culture_warsong: "Warsong"
  culture_stormreaver: "Stormreaver"
- culture_horde: "Horde Clans"
+ culture_burning_blade: "Burning Blade"
+ culture_thunderlord: "Thunderlord"
+ culture_horde: "Hordish"
  
  culture_group_ogre: "Ogre"
  culture_bladespire: "Bladespire"
@@ -58,6 +60,10 @@ l_english:
  culture_splinterfist: "Splinterfist"
  culture_stonespire: "Stonespire"
  culture_firegut: "Firegut"
+ culture_mogrosh: "Mo'grosh"
+ culture_dustbelcher: "Dustbelcher"
+ culture_bloodeye: "Bloodeye"
+ culture_deadwind: "Deadwind"
  
  culture_group_draenei: "Draenei"
  culture_shattrathi: "Shattrathi"
@@ -83,6 +89,7 @@ l_english:
  culture_darkspear: "Darkspear"
  culture_atal_ai: "Atal'ai"
  culture_hakkari: "Hakkari"
+ culture_jellyneck: "Jellyneck"
  
  culture_group_sand_troll: "Sand Troll"
  culture_sand_fury: "Sand Fury"
@@ -177,6 +184,7 @@ l_english:
  culture_redridge: "Redridge"
  culture_palemane: "Palemane"
  culture_rothide: "Rothide"
+ culture_woodpaw: "Woodpaw"
  
  culture_group_centaur: "Centaur"
  culture_galak: "Galak"
@@ -195,7 +203,7 @@ l_english:
  culture_frostpaw: "Frostpaw"
  culture_redfang: "Redfang"
  
- culture_group_wolfvar: "Wolfvar"
+ culture_group_wolfvar: "Wolvar"
  culture_bloodpaw: "Bloodpaw"
  culture_frenzyheart: "Frenzyheart"
  culture_howling: "Howling"

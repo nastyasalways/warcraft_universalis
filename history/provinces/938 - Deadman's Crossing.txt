@@ -55,3 +55,9 @@ controller = A40
 add_core = A40
 culture = culture_bleeding_hollow 
 religion = religion_fel }
+
+600.1.1 = { owner = xxx
+controller = xxx
+remove_core = A40
+culture = culture_deadwind
+religion = religion_geomancy }

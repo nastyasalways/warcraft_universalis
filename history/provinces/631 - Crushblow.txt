@@ -1,16 +1,20 @@
 # 631
 is_city = yes
 
+owner = F09
+controller = F09
+add_core = F09
+
 base_tax = 3
 base_manpower = 3
 base_production = 3
 
 
-culture = culture_wildhammer
-religion = religion_ancestral
+culture = culture_jellyneck
+religion = religion_loa
 
 hre = no
-trade_goods = army_supplies
+trade_goods = flying_mounts
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

@@ -124,7 +124,7 @@ warcraft_religions = {
 		heretic = { }
 	}
 	
-	religion_arcanum = {
+	religion_scarlet_light = {
 		color = { 0.1 0.4 0.1 }
 		icon = 1
 		
@@ -136,7 +136,7 @@ warcraft_religions = {
 		}
 		
 		on_convert = {
-			change_religion = religion_arcanum
+			change_religion = religion_scarlet_light
 			add_prestige = -100
 
 			add_country_modifier = {
@@ -220,7 +220,7 @@ warcraft_religions = {
 		heretic = { }
 	}
 	
-	religion_heretics_of_the_light = {
+	religion_argent_light = {
 		color = { 0.1 0.4 0.1 }
 		icon = 1
 		
@@ -232,7 +232,7 @@ warcraft_religions = {
 		}
 		
 		on_convert = {
-			change_religion = religion_heretics_of_the_light
+			change_religion = religion_argent_light
 			add_prestige = -100
 
 			add_country_modifier = {
@@ -257,6 +257,30 @@ warcraft_religions = {
 		
 		on_convert = {
 			change_religion = religion_light_of_the_naaru
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+		
+		heretic = { }
+	}
+
+	religion_light_of_the_sunwell = {
+		color = { 0.1 0.4 0.1 }
+		icon = 1
+		
+		country = {
+			
+		}
+		province = {
+		
+		}
+		
+		on_convert = {
+			change_religion = religion_light_of_the_sunwell
 			add_prestige = -100
 
 			add_country_modifier = {

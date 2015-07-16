@@ -65,3 +65,14 @@ controller = A42
 add_core = A42
 remove_core = B88
 culture = culture_stormreaver}
+
+600.1.1 = { owner = F14
+controller = F14
+add_core = F14
+add_core = A18
+remove_core = A42
+culture = culture_dalaran
+religion = religion_arcane }
+
+617.1.1 = { owner = xxx
+controller = xxx }

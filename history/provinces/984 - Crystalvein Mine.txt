@@ -1,17 +1,17 @@
 # 984
 is_city = yes
 
-owner = A81
-controller = A81
-add_core = A81
+owner = A69
+controller = A69
+add_core = A69
 
 base_tax = 3
 base_manpower = 2
 base_production = 3
 
 
-culture = culture_venture
-religion = religion_tech
+culture = culture_skullsplitter
+religion = religion_loa
 
 hre = no
 trade_goods = gemstones
@@ -55,3 +55,8 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+622.1.1 = { culture = culture_venture
+religion = religion_tech
+owner = A81
+controller = A81
+add_core = A81 }

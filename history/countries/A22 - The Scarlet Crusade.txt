@@ -1,7 +1,31 @@
 # The Scarlet Crusade
-government 		= despotic_monarchy
+government 	        = scarlet_crusade
+government_rank = 1
 mercantilism 		= 0.1
 technology_group 	= tech_human
-religion			= noreligion
-primary_culture 	= noculture
+religion			= religion_scarlet_light
+primary_culture 	= culture_lordaeron
 capital 			= 1
+
+622.1.1 = { 
+
+monarch = { 
+     name = "Saiden" 
+     dynasty = "Dathrohan" 
+		adm = 3
+		dip = 3
+		mil = 4
+ 	} 
+
+heir = { 
+     name = "Brigitte" 
+     dynasty = "Abbendis" 
+		adm = 4
+		dip = 3
+		mil = 5
+           female = yes
+           birth_date = 599.12.11
+ 	} 
+} 
+
+

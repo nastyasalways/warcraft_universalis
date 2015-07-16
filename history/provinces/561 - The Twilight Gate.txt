@@ -1,12 +1,15 @@
 # 561
 is_city = yes
+owner = F09
+controller = F09
+add_core = F09
 
 base_tax = 3
 base_manpower = 3
 base_production = 3
 
-culture = culture_earth
-religion = religion_therazane
+culture = culture_jellyneck
+religion = religion_loa
 
 hre = no
 trade_goods = army_supplies
@@ -50,3 +53,9 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+600.1.1 = { owner = F08
+controller = F08
+add_core = F08
+remove_core = F09
+culture = culture_bloodeye
+religion = religion_geomancy }
