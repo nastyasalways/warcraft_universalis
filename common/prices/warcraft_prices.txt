@@ -1,0 +1,130 @@
+# base_price = X			base price in $. (default is 1.0 if not specified
+# goldtype = yes/no			This resource works like 'gold' if yes, using prices from mine-value in province instead of supply/demand and baseprice. Also creates gold-inflation
+
+ashenvale_lumber = {
+	base_price = 1
+}
+
+lumber = {
+	base_price = 1
+}
+
+kypari = {
+	base_price = 1
+}
+
+oil = {
+	base_price = 1
+}
+
+stone = {
+	base_price = 1
+}
+
+dark_iron = {
+	base_price = 1
+}
+
+saronite = {
+	base_price = 1
+}
+
+mithril = {
+	base_price = 1
+}
+
+thorium = {
+	base_price = 1
+}
+
+fel_iron = {
+	base_price = 1
+}
+
+khorium = {
+	base_price = 1
+}
+
+adamantite = {
+	base_price = 1
+}
+
+titanium = {
+	base_price = 1
+}
+
+elementium = {
+	base_price = 1
+}
+
+ghost_iron = {
+	base_price = 1
+}
+
+gemstones = {
+	base_price = 1
+}
+
+gemstones = {
+	base_price = 1
+}
+
+ale = {
+	base_price = 1
+}
+
+runecloth = {
+	base_price = 1
+}
+
+netherweave = {
+	base_price = 1
+}
+
+fossils = {
+	base_price = 1
+}
+
+artifacts = {
+	base_price = 1
+}
+
+crypts = {
+	base_price = 1
+}
+
+smugglers = {
+	base_price = 1
+}
+
+pirates = {
+	base_price = 1
+}
+
+workshops = {
+	base_price = 1
+}
+
+arcane = {
+	base_price = 1
+}
+
+fel = {
+	base_price = 1
+}
+
+army_supplies = {
+	base_price = 1
+}
+
+mounts = {
+	base_price = 1
+}
+
+flying_mounts = {
+	base_price = 1
+}
+
+warbeasts = {
+	base_price = 1
+}

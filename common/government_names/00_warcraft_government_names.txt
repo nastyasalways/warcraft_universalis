@@ -21,16 +21,18 @@ orc_ogre_clan = {
 	}
 	
 	trigger = {
-		OR = {
-			government = tribal_despotism
-			government = minor_tribe
-                        government = warband
-			government = tribal_federation
-		}    
-                OR = {
-			technology_group = tech_orc
-                        technology_group = tech_ogre
-		}  
+		AND = {
+			OR = {
+				government = tribal_despotism
+				government = minor_tribe
+				government = warband
+				government = tribal_federation
+			}    
+			OR = {
+				technology_group = tech_orc
+				technology_group = tech_ogre
+			}  
+		}
 	}
 }
 
@@ -54,13 +56,15 @@ troll_tribe = {
 	}
 	
 	trigger = {
-		OR = {
-			government = tribal_despotism
-			government = minor_tribe
-                        government = warband
-			government = tribal_federation
-		}     
-                technology_group = tech_troll
+		AND = {
+			OR = {
+				government = tribal_despotism
+				government = minor_tribe
+				government = warband
+				government = tribal_federation
+			}     
+			technology_group = tech_troll
+		}
 	}
 }
 
@@ -84,11 +88,8 @@ wildhammer_clan = {
 	}
 	
 	trigger = {
-		        primary_culture = culture_wildhammer
-			government = monarchy
-			
-                        
-		  
+		primary_culture = culture_wildhammer
+		government = monarchy 
 	}
 }
 
@@ -238,7 +239,7 @@ dark_iron_monarchy = {
 	
 	trigger = {
 		government = monarchy
-                primary_culture = culture_dark_iron
+		primary_culture = culture_dark_iron
 	}
 }
 
@@ -263,7 +264,7 @@ ironforge_monarchy = {
 	
 	trigger = {
 		government = monarchy
-                primary_culture = culture_ironforge
+		primary_culture = culture_ironforge
 	}
 }
 
@@ -288,30 +289,6 @@ admiralship = {
 	
 	trigger = {
 		government = kul_tiras
-	}
-}
-
-default_monarchy = {
-	rank = {
-		1 = DUCHY
-		2 = KINGDOM
-		3 = EMPIRE
-	}	
-	
-	ruler_male = {
-		1 = DUKE
-		2 = KING
-		3 = EMPEROR
-	}
-	
-	ruler_female = {
-		1 = DUCHESS
-		2 = QUEEN	
-		3 = EMPRESS
-	}
-	
-	trigger = {
-		government = monarchy
 	}
 }
 
@@ -407,9 +384,8 @@ light_theocracy = {
 	}
 	
 	trigger = {
-                religion = religion_church_of_the_light		
-                government = theocracy
-                 
+		religion = religion_church_of_the_light		
+		government = theocracy     
 	}
 }
 
@@ -458,8 +434,9 @@ magocracy = {
 	
 	trigger = {
 		OR = { 
-                government = despotic_magocracy
-                government = magocracy_republic
+			government = despotic_magocracy
+			government = magocracy_republic
+		}
 	}
 }
 

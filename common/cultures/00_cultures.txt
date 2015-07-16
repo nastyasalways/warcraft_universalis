@@ -845,8 +845,8 @@ culture_group_forest_troll = {
 		}
 		female_names = {
 			"Hexx"
-                        "Qiaga"
-                        "Morta'gya"
+			"Qiaga"
+			"Morta'gya"
 		}
 		dynasty_names = {
 			"Vilebranch"
@@ -909,7 +909,7 @@ culture_group_forest_troll = {
 		}
 	}
 
-culture_smolderthorn = {
+	culture_smolderthorn = {
 		male_names = {
 			"Voone"
 			"Tarak"
@@ -943,7 +943,7 @@ culture_smolderthorn = {
 		}
 	}
 
-       culture_shadowglen = {
+	culture_shadowglen = {
 		male_names = {
 			"Krag'Jin"
 			"Nimar"
@@ -1442,7 +1442,7 @@ culture_group_aqir = {
 		}
 	}
 	
-        culture_nerubian = {
+	culture_nerubian = {
 		male_names = {
 			
 		}
@@ -1454,7 +1454,7 @@ culture_group_aqir = {
 		}
 	}
 
-        culture_mantid = {
+	culture_mantid = {
 		male_names = {
 			
 		}
@@ -1986,7 +1986,7 @@ culture_group_undead = {
 		}
 	}
 	
-        culture_revenant = {
+	culture_revenant = {
 		male_names = {
 			
 		}
@@ -1998,7 +1998,7 @@ culture_group_undead = {
 		}
 	}
         
-        culture_undead_troll = {
+	culture_undead_troll = {
 		male_names = {
 			
 		}
@@ -2010,7 +2010,7 @@ culture_group_undead = {
 		}
 	}
 
-        culture_ghost = {
+	culture_ghost = {
 		male_names = {
 			
 		}
@@ -2906,7 +2906,7 @@ culture_group_elemental = {
 		}
 	}
 
-        culture_mistwalker = {
+	culture_mistwalker = {
 		male_names = {
 			
 		}
@@ -2918,7 +2918,7 @@ culture_group_elemental = {
 		}
 	}
 
-        culture_ooze = {
+	culture_ooze = {
 		male_names = {
 			
 		}
@@ -2956,7 +2956,7 @@ culture_group_worgen = {
 		}
 	}
 
-culture_gilnean_worgen = {
+	culture_gilnean_worgen = {
 		male_names = {
 			
 		}
@@ -2968,7 +2968,7 @@ culture_gilnean_worgen = {
 		}
 	}
 
-culture_lordaeron_worgen = {
+	culture_lordaeron_worgen = {
 		male_names = {
 			
 		}
@@ -2979,7 +2979,6 @@ culture_lordaeron_worgen = {
 			
 		}
 	}
-
 }
 
 culture_group_arrakoa = {
@@ -3291,7 +3290,7 @@ culture_group_mogu = {
 		}
 	}
 	
-        culture_gormali = {
+	culture_gormali = {
 		male_names = {
 			
 		}
@@ -3303,7 +3302,7 @@ culture_group_mogu = {
 		}
 	}
 
-        culture_dojani = {
+	culture_dojani = {
 		male_names = {
 			
 		}
@@ -3315,7 +3314,7 @@ culture_group_mogu = {
 		}
 	}
 
-        culture_shan_ze = {
+	culture_shan_ze = {
 		male_names = {
 			
 		}
@@ -3327,7 +3326,7 @@ culture_group_mogu = {
 		}
 	}
 
-        culture_korune = {
+	culture_korune = {
 		male_names = {
 			
 		}
@@ -3701,7 +3700,7 @@ culture_group_giant = {
 		}
 	}
 	
-        culture_ice_giant = {
+	culture_ice_giant = {
 		male_names = {
 			
 		}
@@ -3739,7 +3738,7 @@ culture_group_dryad = {
 		}
 	}
 	
-        culture_frost_nymph = {
+	culture_frost_nymph = {
 		male_names = {
 			
 		}
@@ -3751,7 +3750,7 @@ culture_group_dryad = {
 		}
 	}
         
-        culture_crystal_nymph = {
+	culture_crystal_nymph = {
 		male_names = {
 			
 		}
@@ -3789,7 +3788,7 @@ culture_group_virmen = {
 		}
 	}
 	
-        culture_springtail = {
+	culture_springtail = {
 		male_names = {
 			
 		}
@@ -3801,7 +3800,7 @@ culture_group_virmen = {
 		}
 	}
         
-        culture_snagtooth = {
+	culture_snagtooth = {
 		male_names = {
 			
 		}

@@ -71,8 +71,8 @@ culture = culture_gilnean_worgen
 religion = religion_shadow }
 
 
-631.1.1 = { owner = xxx
-controller = xxx
+631.1.1 = { owner = XXX
+controller = XXX
 remove_core = A13 }
 
 

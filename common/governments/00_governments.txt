@@ -291,10 +291,6 @@ merchant_republic = {
 	boost_income = yes
 	can_use_trade_post = yes
 	
-	faction = mr_aristocrats
-	faction = mr_traders
-	faction = mr_guilds		
-
 	ai_will_do = {
 		factor = 0	
 	}
@@ -636,6 +632,7 @@ theocratic_government = {
 
 monastic_order_government = {
 	religion = yes	
+	monastic = yes
 	
 	valid_for_new_country = no
 	valid_for_nation_designer = yes
@@ -700,9 +697,7 @@ steppe_horde = {
 	allow_convert = no
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0	
-	nation_designer_trigger = {
-		technology_group = nomad_group
-	}
+
 	ai_will_do = {
 		factor = 0
 	}
@@ -868,22 +863,7 @@ native_council = {
 	royal_marriage = no
 	
 	valid_for_nation_designer = yes
-	nation_designer_cost = 0
-	nation_designer_trigger = {
-		technology_group = north_american
-		capital_scope = { 
-			OR = {
-				region = northern_america
-				region = northeastern_america
-				region = eastern_america
-				region = western_america
-				region = northwestern_america
-				region = the_mississippi_region
-				region = great_plains
-				region = the_thirteen_colonies
-			}
-		}
-	}		
+	nation_designer_cost = 0	
 	
 	ai_will_do = {
 		factor = 0
@@ -1034,7 +1014,7 @@ ambrosian_republic = {
 	
 	valid_for_new_country = no
 	allow_convert = yes
-	duration = 3
+	duration = 4
 	
 	republican_name = yes
 	royal_marriage = no
@@ -1082,17 +1062,17 @@ dutch_republic = {
 	rank = {
 		1 = {
 			heavy_ship_power = 0.10
-			global_trade_income_modifier = 0.10
+			trade_efficiency = 0.10
 			global_autonomy = -0.05
 		}
 		2 = {
 			heavy_ship_power = 0.10
-			global_trade_income_modifier = 0.10
+			trade_efficiency = 0.10
 			global_autonomy = -0.10	
 		}
 		3 = {	
 			heavy_ship_power = 0.10
-			global_trade_income_modifier = 0.10
+			trade_efficiency = 0.10
 			global_autonomy = -0.15	
 		}
 	}
@@ -1104,11 +1084,6 @@ celestial_empire = {
 	
 	valid_for_new_country = no
 	allow_convert = no
-	nation_designer_trigger = {
-		culture_group = east_asian
-		technology_group = chinese
-		capital_scope = { region = chinese_region }
-	}	
 	
 	faction = temples
 	faction = enuchs
@@ -1133,9 +1108,6 @@ iqta = {
 	allow_convert = no
 	valid_for_nation_designer = yes
 	nation_designer_cost = 10
-	nation_designer_trigger = {
-		religion_group = muslim
-	}	
 	
 	rank = {
 		1 = {
@@ -1164,11 +1136,6 @@ daimyo = {
 	
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
-	nation_designer_trigger = {
-		culture_group = japanese_g
-		technology_group = chinese
-		capital_scope = { region = japanese_region }
-	}	
 	
 	rank = {
 		1 = {
@@ -1190,12 +1157,7 @@ shogunate = {
 	allow_vassal_alliance = yes
 	
 	valid_for_nation_designer = yes
-	nation_designer_cost = 50
-	nation_designer_trigger = {
-		culture_group = japanese_g
-		technology_group = chinese
-		capital_scope = { region = japanese_region }
-	}		
+	nation_designer_cost = 50	
 	
 	rank = {
 		2 = {

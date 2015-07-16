@@ -1,20 +1,20 @@
 # First War Horde
 
-federation = {
+alliance = {
 	first = A41
 	second = A40
 	start_date = 592.1.1
 	end_date = 600.1.1
 }
 
-federation = {
+alliance = {
 	first = A41
 	second = A43
 	start_date = 592.1.1
 	end_date = 600.1.1
 }
 
-federation = {
+alliance = {
 	first = A41
 	second = B88
 	start_date = 592.1.1

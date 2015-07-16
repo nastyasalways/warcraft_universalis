@@ -411,24 +411,20 @@ E89 = "countries/Ruqin.txt"
 E90 = "countries/Yongqi.txt"
 
 # Trogg
-
 E54 = "countries/Stonesplinter.txt"
 E57 = "countries/Stonevault.txt"
 
 # Hozen
-
 E68 = "countries/Grookin.txt"
 E69 = "countries/Oona.txt"
 E94 = "countries/Ookin.txt"
 
 # Jinyu
-
 E70 = "countries/Pearlfin.txt"
 E82 = "countries/Fallsong.txt"
 E95 = "countries/Inkgill.txt"
 
 # Saurok
-
 E71 = "countries/Slitherscale.txt"
 E76 = "countries/Glintrok.txt"
 E80 = "countries/Darkhatched.txt"
@@ -438,28 +434,22 @@ E86 = "countries/Mistblade.txt"
 F03 = "countries/Skumblade.txt"
 
 # Taunka
-
 E73 = "countries/Icemist.txt"
 
 # Virmen
-
 E75 = "countries/Twitcheel.txt"
 
 # Dyrad
-
 E77 = "countries/The Unbound.txt"
 E79 = "countries/Sisterhood of Winter.txt"
 
 # Giant
-
 E78 = "countries/Crystalvice.txt"
 
 # Sprite
-
 E87 = "countries/Rikkitun.txt"
 
 # Grummle
-
 E93 = "countries/Grummle.txt"
 
 

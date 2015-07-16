@@ -4,7 +4,7 @@ mercantilism 		= 0.1
 technology_group 	= tech_darnassian
 religion			= religion_arcane
 primary_culture 	= culture_crystal_nymph
-accepted_culture        = culture_crystal_satyr
+add_accepted_culture        = culture_crystal_satyr
 capital 			= 1
 
 546.1.1 = { 

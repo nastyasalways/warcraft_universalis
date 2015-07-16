@@ -56,20 +56,26 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-597.1.1 = { owner = A01
-controller = A01
-core = A01
-culture = culture_azerothian }
+597.1.1 = { 
+	owner = A01
+	controller = A01
+	add_core = A01
+	culture = culture_azerothian 
+}
 
-600.1.1 = { owner = A11
-controller = A11
-remove_core = A01
-culture = culture_lordaeron }
+600.1.1 = { 
+	owner = A11
+	controller = A11
+	remove_core = A01
+	culture = culture_lordaeron 
+}
 
-631.1.1 = { owner = E14
-controller = E14
-add_core = E14
-base_tax = 2
-base_manpower = 2
-base_production = 2
-capital = "Ruins of Southshore" }
+631.1.1 = {
+	owner = E14
+	controller = E14
+	add_core = E14
+	base_tax = 2
+	base_manpower = 2
+	base_production = 2
+	capital = "Ruins of Southshore" 
+}

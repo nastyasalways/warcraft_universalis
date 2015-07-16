@@ -53,7 +53,9 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-631.1.1 = {owner = a60 
-controller = A60 
-add_core = A60 
-culture = culture_vilebranch}
+631.1.1 = {
+	owner = A60
+	controller = A60 
+	add_core = A60 
+	culture = culture_vilebranch
+}

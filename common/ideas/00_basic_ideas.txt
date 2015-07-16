@@ -20,8 +20,6 @@ aristocracy_ideas = {
 			government = noble_republic
 			government = theocracy
 		}
-		
-		
 	}
 	
 	noble_knights = {
@@ -351,7 +349,7 @@ trade_ideas = {
 	}	
 	
 	shrewd_commerce_practise = {
- 		global_trade_power = 0.1
+ 		global_trade_power = 0.2
   	}
   	free_trade = {
   		merchants = 1
@@ -367,10 +365,9 @@ trade_ideas = {
 	}
 	trade_manipulation = {
 		trade_steering = 0.25
-		caravan_power = 0.20
 	}
 	fast_negotiations = {
-		global_trade_income_modifier = 0.1
+		caravan_power = 0.25
 	}
 	
 	ai_will_do = {
@@ -401,7 +398,7 @@ economic_ideas = {
 		global_tax_modifier = 0.10
 	}
 	organised_construction = {
-		build_cost = -0.20
+		build_cost = -0.1
 	}
 	national_bank = {
 		inflation_reduction = 0.1
@@ -469,30 +466,7 @@ exploration_ideas = {
 	
 	ai_will_do = {
 		factor = 1
-		modifier = {
-			factor = 0
-			NOT = { num_of_ports = 1 }
-			NOT = { is_colonial_nation = yes }
-		}		
-		modifier = {
-			factor = 0.1
-			NOT = { num_of_ports = 3 }
-		}				
-		modifier = {
-			factor = 0.1
-			NOT = { technology_group = western }
-		}			
-		modifier = {
-			factor = 0.1
-			capital_scope = {
-				NOT = {
-					region = french_region
-					region = iberian_peninsula
-					region = british_isles
-					region = the_low_countries
-				}
-			}
-		}
+	
 		modifier = {
 			factor = 2.0
 			num_of_ports = 5	
@@ -666,15 +640,7 @@ expansion_ideas = {
 			factor = 0
 			NOT = { has_idea_group = exploration_ideas }
 			NOT = { is_colonial_nation = yes }
-		}	
-		modifier = {
-			factor = 0.1
-			NOT = { 
-				technology_group = western
-				technology_group = eastern
-				technology_group = muslim
-			}
-		}				
+		}					
 	}
 }
 
@@ -782,7 +748,7 @@ influence_ideas = {
 		diplomatic_upkeep = 1
 	}
 	marcher_lords = {
-		vassal_forcelimit_bonus = 0.5
+		vassal_forcelimit_bonus = 1
 	}	
 	
 	ai_will_do = {

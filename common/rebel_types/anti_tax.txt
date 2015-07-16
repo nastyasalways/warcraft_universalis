@@ -69,10 +69,6 @@ anti_tax_rebels = {
 			controlled_by = REB
 		}
 		modifier = {
-			factor = 2.0
-			has_building = constable
-		}
-		modifier = {
 			factor = 1.5
 			unrest = 2
 		}
