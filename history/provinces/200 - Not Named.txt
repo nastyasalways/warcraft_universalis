@@ -1,20 +1,5 @@
 # 200
-is_city = yes
-add_core = A02
-controller = A02
-owner = A02
-
-base_tax = 1
-base_manpower = 1
-base_production = 1
-
-
-culture = noculture
-religion = noreligion
-
-hre = no
-trade_goods = grain
-
+	
 discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian
