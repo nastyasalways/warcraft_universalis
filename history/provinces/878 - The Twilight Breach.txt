@@ -61,4 +61,4 @@ religion = religion_fel }
 controller = xxx
 remove_core = A45
 religion = old_gods
-culture = n_zoth }
+culture = culture_n_zoth }

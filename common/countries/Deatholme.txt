@@ -1,8 +1,8 @@
-# Crushridge
+# Deatholme aka Scourge of Quel'thalas
 
 graphical_culture = westerngfx
 
-color = { 78 80 27 }
+color = { 229 253 102 }
 
 monarch_names = {
 

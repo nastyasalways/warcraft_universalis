@@ -54,3 +54,21 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+618.1.1 = {
+owner = xxx
+controller = xxx
+culture = culture_ghost
+remove_core = A90
+}
+
+625.11.11 = {
+owner = xxx
+controller = xxx
+}
+
+626.1.1 = { 
+owner = B94
+controller = B94
+add_core = B94
+culture = culture_ghost
+}

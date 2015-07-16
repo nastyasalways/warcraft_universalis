@@ -770,6 +770,12 @@
  F19_ADJ: "Argent"
  F20: "Quel'Lithian"
  F20_ADJ: "Quel'Lithian"
+ F21: "Deatholme"
+ F21_ADJ: "Deatholme"
+ F22: "Greengill"
+ F22_ADJ: "Greengill"
+ F23: "Darkspine"
+ F23_ADJ: "Darkspine"
 
 
  # Governments
@@ -934,7 +940,7 @@
  religion_geomancy: "Geomancy"
  religion_tech: "Technicism"
  religion_voodoo: "Voodoo"
- religion_light_of_the_sunwell: "Light of the Sunwell"
+ religion_sunwell: "Light of the Sunwell"
  
  # Factions
  faction_lower_spire: "The Lower Spire"

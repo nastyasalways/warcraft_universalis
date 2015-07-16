@@ -1,8 +1,8 @@
-# Crushridge
+# Darkspine Naga
 
 graphical_culture = westerngfx
 
-color = { 78 80 27 }
+color = { 181 224 2 }
 
 monarch_names = {
 

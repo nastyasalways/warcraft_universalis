@@ -55,3 +55,28 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
+
+618.1.1 = {
+owner = xxx
+controller = xxx
+culture = culture_ghost
+remove_core = A90
+}
+
+625.11.11 = {
+owner = xxx
+controller = xxx
+}
+
+626.1.1 = { 
+owner = A91
+controller = A91
+add_core = A91
+culture = culture_blood_elf
+}
+
+627.1.1 = { 
+religion = religion_sunwell
+}
+
+

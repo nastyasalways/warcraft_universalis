@@ -15,6 +15,7 @@ monarch = {
 		adm = 4
 		dip = 3
 		mil = 5
+                female = yes
 
      birth_date = 599.12.11
  	} 

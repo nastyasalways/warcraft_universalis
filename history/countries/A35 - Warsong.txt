@@ -1,7 +1,51 @@
 # Warsong
-government 		= despotic_monarchy
-mercantilism 		= 0.1
+government 		= warband
+mercantilism 		= 0.1 
 technology_group 	= tech_orc
-religion			= noreligion
-primary_culture 	= noculture
+religion		= religion_ancestral
+primary_culture 	= culture_warsong
 capital 			= 1
+
+
+592.1.1 = { 
+	monarch = { 
+		name = "Grom" 
+		dynasty = "Hellscream" 
+		adm = 2
+		dip = 2
+		mil = 5
+	} 
+	heir = { 
+		name = "Garrosh" 
+		dynasty = "Hellscream" 
+		adm = 3
+		dip = 3
+		mil = 4
+	} 
+religion = religion_fel
+
+} 
+
+617.1.1 = { 
+religion = religion_ancestral
+}
+
+627.1.1 = {
+	monarch = { 
+		name = "Garrosh" 
+		dynasty = "Hellscream" 
+		adm = 4
+		dip = 3
+		mil = 4
+	} 
+
+633.1.1 = {
+	monarch = { 
+		name = "Warsong Council"  
+		adm = 4
+		dip = 3
+		mil = 4
+                regent = yes
+	} 
+
+

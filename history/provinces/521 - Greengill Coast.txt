@@ -53,3 +53,19 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
+
+618.1.1 = {
+owner = F22
+controller = F22
+culture = culture_nerglish
+religion = religion_old_gods
+remove_core = A90
+add_core = F22
+}
+
+626.1.1 = { 
+owner = F23
+controller = F23
+add_core = F23
+culture = culture_vashjari
+}

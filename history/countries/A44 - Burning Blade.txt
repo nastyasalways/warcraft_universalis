@@ -2,10 +2,13 @@
 government 		= warband
 mercantilism 		= 0.1
 technology_group 	= tech_orc
-religion			= religion_fel
+religion			= religion_ancestral
 primary_culture 	= culture_horde
 capital 			= 1
 
+592.1.1 = { 
+religion = religion_fel
+}
 
 597.1.1 = { 
 	monarch = { 

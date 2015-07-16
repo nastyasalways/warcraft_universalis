@@ -2,7 +2,7 @@
 government 		= warband
 mercantilism 		= 0.1
 technology_group 	= tech_orc
-religion			= religion_fel
+religion			= religion_ancestral
 primary_culture 	= culture_bleeding_hollow
 capital 			= 1
 
@@ -16,4 +16,5 @@ capital 			= 1
 		mil = 5
                 
 	} 
+religion = religion_fel
 }
