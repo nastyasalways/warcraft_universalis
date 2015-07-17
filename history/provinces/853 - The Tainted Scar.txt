@@ -60,5 +60,5 @@ culture = culture_bleeding_hollow
 religion = religion_fel
 trade_goods = fel }
 
-600.1.1 = { owner = xxx
-controller = xxx }
+600.1.1 = { owner = XXX
+controller = XXX }

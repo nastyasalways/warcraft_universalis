@@ -68,15 +68,15 @@ add_core = A48
 }
 
 617.1.1 = { 
-owner = xxx
-controller = xxx
+owner = XXX
+controller = XXX
 remove_core = A48
 religion = religion_ancestral 
 }
 
 621.11.11 = {
- owner = xxx
-controller = xxx
+ owner = XXX
+controller = XXX
 remove_core = A48 
 }
 

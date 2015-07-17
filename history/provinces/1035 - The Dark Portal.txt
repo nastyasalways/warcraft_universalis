@@ -74,5 +74,5 @@ remove_core = A42
 culture = culture_dalaran
 religion = religion_arcane }
 
-617.1.1 = { owner = xxx
-controller = xxx }
+617.1.1 = { owner = XXX
+controller = XXX }

@@ -57,5 +57,5 @@ add_core = A45
 culture = culture_dragonmaw
 religion = religion_fel }
 
-600.1.1 = { owner = xxx
-controller = xxx }
+600.1.1 = { owner = XXX
+controller = XXX }

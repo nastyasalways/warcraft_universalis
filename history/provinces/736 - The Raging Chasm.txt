@@ -63,8 +63,8 @@ religion = religion_fel
 }
 
 600.1.1 = {
-owner = xxx
-controller = xxx
+owner = XXX
+controller = XXX
 remove_core = A43
 culture = culture_nerglish
 religion = religion_old_gods

@@ -64,8 +64,8 @@ religion = religion_ancestral
 }
 
 618.1.1 = { 
-owner = xxx
-controller = xxx
+owner = XXX
+controller = XXX
 remove_core = A35
 culture = culture_arathi
 religion = religion_church_of_the_light 

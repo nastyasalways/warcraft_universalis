@@ -63,14 +63,14 @@ religion = religion_geomancy
 }
 
 597.1.1 = { 
-owner = xxx
-controller = xxx
+owner = XXX
+controller = XXX
 remove_core = F07 
 }
 
 616.11.11 = { 
-owner = xxx
-controller = xxx 
+owner = XXX
+controller = XXX 
 }
 
 617.1.1 = { 

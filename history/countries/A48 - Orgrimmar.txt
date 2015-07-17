@@ -1,5 +1,5 @@
 # Orgrimmar
-government 		= horde
+government 			= warcraft_horde
 mercantilism 		= 0.1
 technology_group 	= tech_orc
 religion			= religion_ancestral
@@ -13,8 +13,7 @@ capital 			= 1
 		dynasty = "Durotan" 
 		adm = 4
 		dip = 5
-		mil = 3
-                
+		mil = 3         
 	} 
 }
 
@@ -25,7 +24,8 @@ capital 			= 1
 		adm = 4
 		dip = 3
 		mil = 4
-	} 
+	}
+}
 
 633.1.1 = {
 	monarch = { 
@@ -34,4 +34,5 @@ capital 			= 1
 		adm = 4
 		dip = 4
 		mil = 4
-	} 
+	}
+}

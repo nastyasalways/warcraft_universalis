@@ -75,8 +75,8 @@ capital = "Stormpike Camp"
 }
 
 632.1.1 = { 
-owner = xxx 
-controller = xxx
+owner = XXX 
+controller = XXX
 capital = "Sofera's Naze" 
 }
 
