@@ -946,7 +946,7 @@
  religion_geomancy: "Geomancy"
  religion_tech: "Technicism"
  religion_voodoo: "Voodoo"
- religion_sunwell: "Light of the Sunwell"
+ religion_light_of_the_sunwell: "Light of the Sunwell"
  
  # Factions
  faction_lower_spire: "The Lower Spire"

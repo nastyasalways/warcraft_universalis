@@ -71,6 +71,4 @@ owner = A43
 controller = A43
 add_core = A43
 remove_core = E27
-religion = religion_n_zoth
-culture = culture_twilight
 }

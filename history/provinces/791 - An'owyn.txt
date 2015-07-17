@@ -83,5 +83,5 @@ controller = A91
 add_core = A91
 remove_core = A94
 culture = culture_blood_elf
-religion = religion_sunwell
+religion = religion_light_of_the_sunwell
 }
