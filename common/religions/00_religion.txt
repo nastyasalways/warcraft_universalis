@@ -6,7 +6,7 @@ warcraft_religions = {
 	
 	religion_titan = {
 		color = { 253 204 09 }
-		icon = 1
+		icon = 9
 		
 		country = {
 			
@@ -30,7 +30,7 @@ warcraft_religions = {
 	
 	religion_sect_of_dragons = {
 		color = { 213 114 96 }
-		icon = 1
+		icon = 10
 		
 		country = {
 			
@@ -54,7 +54,7 @@ warcraft_religions = {
 	
 	religion_druidic = {
 		color = { 0.1 0.4 0.1 }
-		icon = 1
+		icon = 11
 		
 		country = {
 			
@@ -78,7 +78,7 @@ warcraft_religions = {
 	
 	religion_divine = {
 		color = { 0.1 0.4 0.1 }
-		icon = 1
+		icon = 12
 		
 		country = {
 			
@@ -102,7 +102,7 @@ warcraft_religions = {
 	
 	religion_arcane = {
 		color = { 102 146 227 }
-		icon = 1
+		icon = 13
 		
 		country = {
 			
@@ -126,7 +126,7 @@ warcraft_religions = {
 	
 	religion_scarlet_light = {
 		color = { 0.1 0.4 0.1 }
-		icon = 1
+		icon = 2
 		
 		country = {
 			
@@ -150,7 +150,7 @@ warcraft_religions = {
 	
 	religion_old_gods = {
 		color = { 106 54 112 }
-		icon = 1
+		icon = 15
 		
 		country = {
 			
@@ -174,7 +174,7 @@ warcraft_religions = {
 	
 	religion_shadow = {
 		color = { 0 0 64 }
-		icon = 1
+		icon = 8
 		
 		country = {
 			
@@ -222,7 +222,7 @@ warcraft_religions = {
 	
 	religion_argent_light = {
 		color = { 0.1 0.4 0.1 }
-		icon = 1
+		icon = 31
 		
 		country = {
 			
@@ -246,7 +246,7 @@ warcraft_religions = {
 	
 	religion_light_of_the_naaru = {
 		color = { 0.1 0.4 0.1 }
-		icon = 1
+		icon = 3
 		
 		country = {
 			
@@ -268,9 +268,9 @@ warcraft_religions = {
 		heretic = { }
 	}
 
-	religion_sunwell = {
+	religion_light_of_the_sunwell = {
 		color = { 0.1 0.4 0.1 }
-		icon = 1
+		icon = 32
 		
 		country = {
 			
@@ -280,7 +280,7 @@ warcraft_religions = {
 		}
 		
 		on_convert = {
-			change_religion = religion_sunwell
+			change_religion = religion_light_of_the_sunwell
 			add_prestige = -100
 
 			add_country_modifier = {
@@ -294,7 +294,7 @@ warcraft_religions = {
 	
 	religion_elune = {
 		color = { 0.1 0.4 0.1 }
-		icon = 1
+		icon = 4
 		
 		country = {
 			
@@ -318,7 +318,7 @@ warcraft_religions = {
 	
 	religion_hakkari = {
 		color = { 255 0 0 }
-		icon = 1
+		icon = 5
 		
 		country = {
 			
@@ -344,7 +344,7 @@ warcraft_religions = {
 	
 	religion_forgotten_shadow = {
 		color = { 15 96 113 }
-		icon = 1
+		icon = 7
 		
 		country = {
 			
@@ -370,7 +370,7 @@ warcraft_religions = {
 	
 	religion_fel = {
 		color = { 181 230 29 }
-		icon = 1
+		icon = 16
 		
 		country = {
 			
@@ -394,7 +394,7 @@ warcraft_religions = {
 	
 	religion_the_damned = {
 		color = { 128 128 0.1 }
-		icon = 1
+		icon = 17
 		
 		country = {
 			
@@ -418,7 +418,7 @@ warcraft_religions = {
 	
 	religion_terokk = {
 		color = { 0.1 0.4 0.1 }
-		icon = 1
+		icon = 19
 		
 		country = {
 			
@@ -442,7 +442,7 @@ warcraft_religions = {
 	
 	religion_ancestral = {
 		color = { 150 74 41 }
-		icon = 1
+		icon = 20
 		
 		country = {
 			
@@ -466,7 +466,7 @@ warcraft_religions = {
 	
 	religion_loa = {
 		color = { 102 5 146 }
-		icon = 1
+		icon = 21
 		
 		country = {
 			
@@ -490,7 +490,7 @@ warcraft_religions = {
 	
 	religion_celestial = {
 		color = { 255 210 255 }
-		icon = 1
+		icon = 24
 		
 		country = {
 			
@@ -514,7 +514,7 @@ warcraft_religions = {
 	
 	religion_arkkorok = {
 		color = { 0.1 0.4 0.1 }
-		icon = 1
+		icon = 18
 		
 		country = {
 			
@@ -538,7 +538,7 @@ warcraft_religions = {
 	
 	religion_void = {
 		color = { 0.1 0.4 0.1 }
-		icon = 1
+		icon = 22
 		
 		country = {
 			
@@ -562,7 +562,7 @@ warcraft_religions = {
 	
 	religion_mystery_of_the_makers = {
 		color = { 0.33 0.33 0.33 }
-		icon = 1
+		icon = 23
 		
 		country = {
 			
@@ -586,7 +586,7 @@ warcraft_religions = {
 	
 	religion_ragnaros = {
 		color = { 241 124 42 }
-		icon = 1
+		icon = 25
 		
 		country = {
 			
@@ -610,7 +610,7 @@ warcraft_religions = {
 	
 	religion_therazane = {
 		color = { 47 27 76 }
-		icon = 1
+		icon = 26
 		
 		country = {
 			
@@ -634,7 +634,7 @@ warcraft_religions = {
 
 	religion_al_akir = {
 		color = { 5 181 190 }
-		icon = 1
+		icon = 27
 		
 		country = {
 			
@@ -658,7 +658,7 @@ warcraft_religions = {
 
 	religion_neptulon = {
 		color = { 59 172 229 }
-		icon = 1
+		icon = 28
 		
 		country = {
 			
@@ -682,7 +682,7 @@ warcraft_religions = {
 	
 religion_geomancy = {
 		color = { 77 27 76 }
-		icon = 1
+		icon = 29
 		
 		country = {
 			
@@ -706,7 +706,7 @@ religion_geomancy = {
 
 religion_tech = {
 		color = { 0.45 0.45 0.45 }
-		icon = 1
+		icon = 30
 		
 		country = {
 			
@@ -730,7 +730,7 @@ religion_tech = {
 
 religion_voodoo = {
 		color = { 0.25 0.15 0.25 }
-		icon = 1
+		icon = 6
 		
 		country = {
 			
