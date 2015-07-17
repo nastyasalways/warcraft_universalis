@@ -54,3 +54,17 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+622.1.1 = {
+owner = A33
+controller = A33
+add_core = A33
+add_core = F24
+culture = culture_leper_gnome
+}
+
+631.1.1 = {
+owner = A32
+controller = A32
+culture = culture_gnome
+}
+

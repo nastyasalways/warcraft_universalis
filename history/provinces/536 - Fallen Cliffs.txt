@@ -67,6 +67,11 @@ remove_core = A40
 culture = culture_ironforge 
 religion = religion_church_of_the_light}
 
-631.1.1 = { owner = xxx
-controller = xxx
-remove_core = A40 }
+631.1.1 = { 
+add_core = B13
+controller = B13
+owner = B13
+remove_core = A29
+culture = culture_mosshide
+religion = religion_ancestral 
+}

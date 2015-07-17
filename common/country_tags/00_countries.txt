@@ -71,6 +71,7 @@ A29 = "countries/Ironforge.txt"
 A30 = "countries/Dark Iron.txt"
 A31 = "countries/Frostborn.txt"
 E56 = "countries/Thorium Brotherhood.txt"
+F25 = "countries/Iron Summit.txt"
 
 # Gnomish
 A32 = "countries/Gnomeregan.txt"
@@ -94,6 +95,7 @@ A47 = "countries/MokNathal.txt"
 A48 = "countries/Orgrimmar.txt"
 E98 = "countries/Black Tooth Grin.txt"
 F13 = "countries/Shadowsworn.txt"
+F26 = "countries/Ironmarch.txt"
 
 # Ogre
 A49 = "countries/Bladespire.txt"
@@ -416,6 +418,7 @@ E90 = "countries/Yongqi.txt"
 # Trogg
 E54 = "countries/Stonesplinter.txt"
 E57 = "countries/Stonevault.txt"
+F24 = "countries/Rockjaw.txt"
 
 # Hozen
 E68 = "countries/Grookin.txt"

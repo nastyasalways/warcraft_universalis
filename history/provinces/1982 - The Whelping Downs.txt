@@ -62,3 +62,11 @@ controller = A99
 add_core = A99
 culture = culture_black
 religion = religion_old_gods }
+
+632.1.1 = { owner = A41
+controller = A41
+add_core = B06
+culture = culture_twilight_dragon
+religion = religion_fel }
+
+

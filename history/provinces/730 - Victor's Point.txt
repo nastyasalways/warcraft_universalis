@@ -61,3 +61,11 @@ controller = xxx }
 
 630.11.11 = { owner = xxx
 controller = xxx }
+
+631.1.1 = { 
+owner = A01
+controller = A01
+add_core = A01
+religion = religion_church_of_the_light
+culture = culture_azerothian
+}

@@ -54,3 +54,19 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
+
+631.1.1 = { 
+owner = A99
+controller = A99
+add_core = A99
+remove_core = B03
+religion = religion_old_gods
+culture = culture_black
+}
+
+632.1.1 = { 
+owner = A43
+controller = A43
+add_core = A43
+culture = culture_earth
+}

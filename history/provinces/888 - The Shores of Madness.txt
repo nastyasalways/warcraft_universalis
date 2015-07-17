@@ -60,3 +60,17 @@ religion = religion_old_gods
 owner = xxx
 controller = xxx 
 }
+
+630.11.11 = {
+owner = xxx
+controller = xxx
+}
+
+631.1.1 = { 
+owner = A43
+controller = A43
+add_core = A43
+remove_core = E27
+religion = religion_n_zoth
+culture = culture_twilight
+}

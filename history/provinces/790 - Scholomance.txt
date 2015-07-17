@@ -60,5 +60,6 @@ controller = E12
 owner = E12
 religion = religion_the_damned }
 
-622.1.1 = { remove_core = A09 }
+622.1.1 = { remove_core = A09 
+culture = culture_cultist}
 

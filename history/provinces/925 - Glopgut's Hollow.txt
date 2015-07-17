@@ -63,4 +63,9 @@ religion = religion_geomancy }
 controller = F08
 remove_core = A45 }
 
-631.1.1 = { religion = old_gods }
+631.1.1 = { 
+owner = A43
+controller = A43
+add_core = A43
+religion = religion_old_gods
+}
