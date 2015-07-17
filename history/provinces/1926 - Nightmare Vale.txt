@@ -57,5 +57,5 @@ discovered_by = tech_gnome
 controller = F16
 owner = F16 }
 
-622.1.1 = { controller = xxx
-owner = xxx }
+622.1.1 = { controller = XXX
+owner = XXX }

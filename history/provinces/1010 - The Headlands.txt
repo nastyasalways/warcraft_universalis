@@ -71,15 +71,15 @@ capital = "Blackrock Slave Camp"
 }
 
 618.1.1 = { 
-owner = xxx 
-controller = xxx
+owner = XXX 
+controller = XXX
 religion = religion_church_of_the_light
 culture = culture_lordaeron 
 }
 
 621.11.11 = { 
-owner = xxx 
-controller = xxx 
+owner = XXX 
+controller = XXX 
 }
 
 622.1.1 = { 
@@ -101,7 +101,7 @@ capital = "Stormpike Overlook"
 }
 
 632.1.1 = { 
-owner = xxx 
-controller = xxx
+owner = XXX 
+controller = XXX
 capital = "Gavin's Naze" 
 }

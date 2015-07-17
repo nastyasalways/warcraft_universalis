@@ -58,5 +58,5 @@ add_core = A40
 culture = culture_bleeding_hollow 
 religion = religion_fel }
 
-600.1.1 = { owner = xxx
-controller = xxx }
+600.1.1 = { owner = XXX
+controller = XXX }

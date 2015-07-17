@@ -55,16 +55,16 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 617.1.1 = { 
-owner = xxx
-controller = xxx
+owner = XXX
+controller = XXX
 culture = culture_azerothian
 religion = religion_church_of_the_light
 remove_core = B18 
 }
 
 617.11.11 = { 
-owner = xxx
-controller = xxx 
+owner = XXX
+controller = XXX 
 }
 
 618.1.1 = { 

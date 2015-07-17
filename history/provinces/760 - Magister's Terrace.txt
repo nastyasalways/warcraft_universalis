@@ -55,30 +55,30 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 618.1.1 = {
-owner = xxx
-controller = xxx
-culture = culture_ghost
-remove_core = A90
+	owner = XXX
+	controller = XXX
+	culture = culture_ghost
+	remove_core = A90
 }
 
 625.11.11 = {
-owner = xxx
-controller = xxx
+	owner = XXX
+	controller = XXX
 }
 
 626.1.1 = { 
-owner = A93
-controller = A93
-add_core = A93
-add_core = A91
-culture = culture_felsworn
-religion = religion_fel
+	owner = A93
+	controller = A93
+	add_core = A93
+	add_core = A91
+	culture = culture_felsworn
+	religion = religion_fel
 }
 
 627.1.1 = { 
-owner = A91
-controller = A91
-remove_core = A93
-culture = culture_blood_elf
-religion = religion_sunwell
+	owner = A91
+	controller = A91
+	remove_core = A93
+	culture = culture_blood_elf
+	#religion = religion_sunwell
 }

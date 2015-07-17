@@ -81,7 +81,7 @@ culture = culture_azerothian
 religion = religion_church_of_the_light }
 
 632.1.1 = { remove_core = A02
-controller = xxx
-owner = xxx
+controller = XXX
+owner = XXX
 religion = religion_forgotten_shadow 
 culture = culture_forsaken}
