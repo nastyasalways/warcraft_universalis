@@ -1,5 +1,5 @@
 # Silver Hand
-government 		= argent_crusade
+government 		= monastic_order_government
 government_rank = 1
 mercantilism 		= 0.1
 technology_group 	= tech_human

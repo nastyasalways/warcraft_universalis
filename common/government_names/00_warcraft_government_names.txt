@@ -1,5 +1,64 @@
 # For specific government types
 # Will pick the first valid one it finds in list
+gov_criminal = {
+	rank = {
+		1 = CRIMINAL_ORGANIZATION
+	}
+	
+	ruler_male = {
+		1 = KINGPIN
+	}
+	
+	ruler_female = {
+		1 = KINGPIN
+	}
+	
+	trigger = {
+		government = criminal_organization
+	}
+}
+
+scarlet = {
+	rank = {
+		1 = RELIGIOUS_ORDER
+		2 = RELIGIOUS_ORDER
+	}
+	
+	ruler_male = {
+		1 = HIGH_INQUISITOR
+		2 = GRAND_CRUSADER
+	}
+	
+	ruler_female = {
+		1 = HIGH_INQUISITOR
+		2 = GRAND_CRUSADER
+	}
+	
+	trigger = {
+		government = scarlet_crusade
+	}
+}
+
+argent = {
+	rank = {
+		1 = RELIGIOUS_ORDER
+		2 = RELIGIOUS_ORDER
+	}
+	
+	ruler_male = {
+		1 = LORD
+		2 = HIGHLORD
+	}
+	
+	ruler_female = {
+		1 = LADY
+		2 = HIGHLADY
+	}
+	
+	trigger = {
+		government = argent_crusade
+	}
+}
 
 orc_ogre_clan = {
 	rank = {
@@ -122,6 +181,33 @@ default_tribal = {
 	}
 }
 
+
+military_dictat_garithos = {
+	rank = {
+		1 = MILITARY_DICTAT
+		2 = MILITARY_DICTAT
+		3 = EMPIRE
+	}	
+	
+	ruler_male = {
+		1 = MARSHAL
+		2 = GRAND_MARSHAL
+		3 = EMPEROR
+	}
+	
+	ruler_female = {
+		1 = MARSHAL
+		2 = GRAND_MARSHAL	
+		3 = EMPRESS
+	}
+	
+	trigger = {
+		government = military_dictat
+		tag = A25
+	}
+}
+
+
 military_dictat = {
 	rank = {
 		1 = MILITARY_DICTAT
@@ -204,13 +290,13 @@ pirate_clan = {
 	ruler_male = {
 		1 = CAPTAIN
 		2 = BARON
-		3 = EMPEROR
+		3 = PIRATE_KING
 	}
 	
 	ruler_female = {
 		1 = CAPTAIN_fem
 		2 = BARONESS	
-		3 = EMPRESS
+		3 = PIRATE_QUEEN
 	}
 	
 	trigger = {
@@ -384,8 +470,8 @@ light_theocracy = {
 	}
 	
 	trigger = {
-		religion = religion_church_of_the_light		
-		government = theocracy     
+		religion = religion_church_of_the_light	
+		government = theocratic_government     
 	}
 }
 
@@ -409,7 +495,7 @@ warcraft_theocracy = {
 	}
 	
 	trigger = {
-		government = theocracy
+		government = theocratic_government
 	}
 }
 

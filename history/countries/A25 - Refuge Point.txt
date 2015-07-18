@@ -8,7 +8,7 @@ primary_culture = culture_lordaeron
 capital = 1
 
 618.1.1 = { 
-
+government_rank = 2
 monarch = { 
      name = "Othmar" 
      dynasty = "Garithos" 
@@ -19,7 +19,7 @@ monarch = {
  } 
 
 620.1.1 = { 
-
+government_rank = 1
 monarch = { 
      name = "Refugee Council"  
 		adm = 3

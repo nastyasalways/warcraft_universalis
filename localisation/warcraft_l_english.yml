@@ -880,7 +880,7 @@
  argent_crusade_ruler: "Highlord"
  argent_crusade_ruler_female: "Highlord"
  
- military_dictat: "Military Dictat"
+ military_dictat: "Military Dictatiorship"
  military_dictat_desc: ""
  military_dictat_ruler: "Lord"
  military_dictat_ruler_female: "Lady"
@@ -914,6 +914,11 @@
  minor_tribe_desc: ""
  minor_tribe_ruler: "Chief"
  minor_tribe_ruler_female: "Cheiftess"
+ 
+ criminal_organization: "Criminal Organization"
+ criminal_organization_desc: ""
+ criminal_organization_ruler: "Kingpin"
+ criminal_organization_ruler_female: "Kingpin"
  
  # Religions
  religion_titan: "Titanic"
@@ -1059,7 +1064,7 @@
  argent_crusade_weakness: "Argent Crusade Weakness"
  desc_argent_crusade_weakness: "The citizens of our realm are far and few between. We will struggle to fill our manpower pool and will most likely have to resort to mercenaries."
  
- military_dictat_weakness: "Military Dictat Weakness"
+ military_dictat_weakness: "Military Dictatiorship Weakness"
  desc_military_dictat_weakness: "The citizens of our realm are far and few between. We will struggle to fill our manpower pool and will most likely have to resort to mercenaries."
  
  scarlet_crusade_weakness: "Scarlet Crusade Weakness"

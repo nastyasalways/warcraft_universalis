@@ -4,7 +4,7 @@ mercantilism 		= 0.1
 technology_group 	= tech_titan
 religion			= religion_titan
 primary_culture 	= culture_earthen
-capital 			= 1
+capital 			= 1968
 
 546.1.1 = { 
 	monarch = { 

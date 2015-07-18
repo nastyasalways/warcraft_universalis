@@ -30,11 +30,10 @@ monarch = {
 
 622.1.1 = { 
 monarch = { 
-     name = "Jaina
+     name = "Tandred"
      dynasty = "Proudmoore" 
 		adm = 4
 		dip = 4
 		mil = 4
-		female = yes
  	} 
  } 

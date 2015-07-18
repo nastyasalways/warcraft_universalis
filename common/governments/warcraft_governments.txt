@@ -36,6 +36,7 @@
 #	old_god_lair
 #	thunderbluff_tribe
 #	minor_tribe
+#	criminal_organization
 
 magocracy_republic = {
 	republic = yes
@@ -575,28 +576,31 @@ seventh_legion = {
 }
 
 argent_crusade = {
-	monarchy = yes
+	religion = yes	
+	monastic = yes
 	
 	valid_for_new_country = no
 	valid_for_nation_designer = yes
-	nation_designer_cost = 0
-
+	nation_designer_cost = 10
+	
+	royal_marriage = no
+	
 	ai_will_do = {
 		factor = 0
 	}
-
+	
+	has_devotion = yes
+	
 	rank = {
 		1 = {
-			discipline = 0.1
-			tolerance_own = 3
+			tolerance_own = 1
+			fort_maintenance_modifier = -0.2
+			global_autonomy = -0.05	
 		}
 		2 = {
-			discipline = 0.1
-			tolerance_own = 3
-		}
-		3 = {
-			discipline = 0.1
-			tolerance_own = 3
+			tolerance_own = 1
+			fort_maintenance_modifier = -0.2
+			global_autonomy = -0.05	
 		}
 	}
 }
@@ -633,26 +637,29 @@ military_dictat = {
 }
 
 scarlet_crusade = {
-	monarchy = yes
+	religion = yes	
+	monastic = yes
 	
 	valid_for_new_country = no
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
 
+	royal_marriage = no
+	
 	ai_will_do = {
 		factor = 0
 	}
 	
+	has_devotion = yes
+	
 	rank = {
 		1 = {
+			fort_maintenance_modifier = -0.2
 			discipline = 0.1
 			tolerance_own = 3
 		}
 		2 = {
-			discipline = 0.1
-			tolerance_own = 3
-		}
-		3 = {
+			fort_maintenance_modifier = -0.2
 			discipline = 0.1
 			tolerance_own = 3
 		}
@@ -800,4 +807,27 @@ minor_tribe = {
 			stability_cost_modifier = -0.1
 		}
 	}
+}
+
+criminal_organization = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	allow_convert = no
+	
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+	
+	ai_will_do = {
+		factor = 1
+	}
+	ai_importance = 1
+	
+	rank = {
+		1 = {
+			ae_impact = -0.25
+			caravan_power = 0.1
+		}
+	}
+	fixed_rank = 1
 }
