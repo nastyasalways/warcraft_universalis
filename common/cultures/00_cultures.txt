@@ -1936,7 +1936,7 @@ culture_group_dragonkin = {
 		}
 	}
 	
-	culture_twilight = {
+	culture_twilight_dragon = {
 		male_names = {
 			
 		}

@@ -61,4 +61,8 @@ controller = F20
 add_core = F20 }
 
 631.1.1 = { culture = culture_wretched
-religion = religion_arcane }
+religion = religion_arcane
+owner = B94
+controller = B94
+add_core = B94
+remove_core = F20 }

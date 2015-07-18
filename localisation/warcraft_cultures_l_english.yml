@@ -153,12 +153,12 @@ l_english:
  culture_yogg_saron: "Yogg'Saron"
  culture_c_thun: "C'Thun"
  culture_n_zoth: "N'Zoth"
- culture_twilight: "Twilight"
+ culture_twilight: "Twilight Cultist"
  
  culture_group_scourge: "Scourge"
  culture_scourge: "Scourge"
  culture_death_knight: "Death Knight"
- culture_cultist: "Cultist"
+ culture_cultist: "Scourge Cultist"
  
  culture_group_dragonkin: "Dragonkin"
  culture_black: "Black"
@@ -166,14 +166,14 @@ l_english:
  culture_bronze: "Bronze"
  culture_green: "Green"
  culture_red: "Red"
- culture_twilight: "Twilight"
+ culture_twilight_dragon: "Twilight"
  culture_netherwing: "Netherwing"
  
  culture_group_undead: "Undead"
- culture_forsaken: "Forsaken"
+ culture_forsaken: "Undead"
  culture_undead_troll: "Undead Troll"
  culture_revenant: "Revenant"
- culture_ghost: "Ghosts"
+ culture_ghost: "Ghost"
  
  culture_group_gnoll: "Gnoll"
  culture_blackpaw: "Blackpaw"

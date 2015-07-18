@@ -57,8 +57,8 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 618.1.1 = {
-owner = XXX
-controller = XXX
+owner = xxx
+controller = xxx
 remove_core = A90
 culture = culture_revenant
 }

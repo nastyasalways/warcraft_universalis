@@ -15,3 +15,7 @@ monarch = {
 		mil = 4
  	} 
  } 
+
+631.1.1 = { 
+religion = religion_arcane
+}

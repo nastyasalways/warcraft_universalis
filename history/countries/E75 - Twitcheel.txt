@@ -2,7 +2,7 @@
 government 		= minor_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_primitive
-religion			= religion_ancestral
+religion			= religion_geomancy
 primary_culture 	= culture_twitcheel
 capital 			= 1
 

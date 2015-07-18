@@ -54,3 +54,13 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+631.1.1 = { 
+owner = A43
+controller = A43
+add_core = A43
+remove_core = E27
+religion = religion_old_gods
+culture = culture_twilight
+}
+}
+

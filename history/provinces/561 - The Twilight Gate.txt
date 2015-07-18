@@ -59,3 +59,10 @@ add_core = F08
 remove_core = F09
 culture = culture_bloodeye
 religion = religion_geomancy }
+
+631.1.1 = { 
+owner = A43
+controller = A43
+add_core = A43
+religion = religion_old_gods
+}

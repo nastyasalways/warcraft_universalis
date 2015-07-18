@@ -8,7 +8,7 @@ capital 			= 1
 
 546.1.1 = { 
 	monarch = { 
-		name = "Agalon" 
+		name = "Archaedas" 
 		dynasty = "the Watcher" 
 		adm = 3
 		dip = 3

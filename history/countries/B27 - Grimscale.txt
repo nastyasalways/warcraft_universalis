@@ -1,7 +1,17 @@
 # Grimscale
-government 		= despotic_monarchy
-mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+government 		= minor_tribe
+mercantilism 		= 0.1 
+technology_group 	= tech_depths
+religion			= religion_old_gods
+primary_culture 	= culture_nerglish
 capital 			= 1
+
+618.1.1 = { 
+	monarch = { 
+		name = "Groggle" 
+		dynasty = "Grimscale" 
+		adm = 2
+		dip = 2
+		mil = 2
+	} 
+} 

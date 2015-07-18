@@ -17,3 +17,21 @@ capital 			= 1
                 
 	} 
 }
+
+617.1.1 = { 
+culture = culture_twilight
+religion = religion_old_gods
+government = twilight_cabal
+technology_group 	= tech_old_god
+}
+
+632.1.1 = { 
+	monarch = { 
+		name = "Twilight Council" 
+		adm = 4
+		dip = 4
+		mil = 4
+                regent = yes
+                
+	} 
+}

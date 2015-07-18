@@ -56,8 +56,16 @@ discovered_by = tech_gnome
 
 600.1.1 = { culture = culture_bloodeye
 religion = religion_geomancy 
-owner = XXX
-controller = XXX }
+owner = xxx
+controller = xxx }
 
-630.11.11 = { owner = XXX
-controller = XXX }
+630.11.11 = { owner = xxx
+controller = xxx }
+
+631.1.1 = { 
+owner = A01
+controller = A01
+add_core = A01
+religion = religion_church_of_the_light
+culture = culture_azerothian
+}

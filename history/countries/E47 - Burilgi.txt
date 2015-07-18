@@ -2,7 +2,7 @@
 # Palewind
 government 		= warband
 mercantilism 		= 0.1
-technology_group 	= tech_tauren
+technology_group 	= tech_yaungol
 religion			= religion_ragnaros
 primary_culture 	= culture_burilgi
 capital 			= 1

@@ -19,3 +19,7 @@ capital = 962
 	}  
 } 
 
+627.1.1 = {
+technology_group = tech_undead
+primary_culture = culture_forsaken
+}
