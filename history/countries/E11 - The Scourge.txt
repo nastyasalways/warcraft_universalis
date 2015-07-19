@@ -1,7 +1,31 @@
 # The Scourge
-government 		= despotic_monarchy
-mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+government = scourge_horde
+government_rank = 3
+mercantilism = 0.1 
+technology_group = tech_scourge
+religion= religion_the_damned
+
+primary_culture = culture_scourge
+capital = 1268
+
+610.1.1 = { 
+	monarch =
+	{ 
+		name = "Ner'zhul"
+		dynasty = "Shadowmoon" 	
+		adm = 4
+		dip = 5	
+		mil = 4	
+	}  
+} 
+
+622.1.1 = { 
+	monarch =
+	{ 
+		name = "Arthas" 
+		dynasty = "Menethil" 	
+		adm = 4
+		dip = 4	
+		mil = 5
+	}  
+} 

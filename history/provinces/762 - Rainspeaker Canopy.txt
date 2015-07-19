@@ -1,13 +1,17 @@
 # 762
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = B53
+controller = B53
+add_core = B53
+
+base_tax = 5
+base_manpower = 5
+base_production = 5
 
 
-culture = noculture
-religion = noreligion
+culture = culture_rainspeaker
+religion = religion_titan
 
 hre = no
 trade_goods = grain

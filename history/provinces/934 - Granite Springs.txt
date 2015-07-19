@@ -1,17 +1,20 @@
 # 934
 is_city = yes
 
-owner = E30
-controller = E30
-add_core = E30
+owner = B45
+controller = B45
+add_core = B45
+
+
+culture = culture_frostpaw
+religion = religion_old_gods
 
 base_tax = 2
 base_manpower = 2
 base_production = 2
 
 
-culture = culture_lordaeron
-religion = religion_church_of_the_light
+
 
 hre = no
 trade_goods = fur
@@ -55,3 +58,9 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+617.1.1 = { 
+owner = E30
+controller = E30
+add_core = E30
+culture = culture_lordaeron
+religion = religion_church_of_the_light }

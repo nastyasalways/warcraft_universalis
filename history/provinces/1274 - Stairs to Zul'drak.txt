@@ -1,13 +1,17 @@
 # 1274
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = A74
+controller = A74
+add_core = A74
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
+culture = culture_drakkari
+religion = religion_loa
 
 hre = no
 trade_goods = grain
@@ -51,3 +55,9 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+626.1.1 = { 
+add_core = E11
+controller = E11
+owner = E11
+culture = culture_undead_troll
+religion = religion_the_damned }

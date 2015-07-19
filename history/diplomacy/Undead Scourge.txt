@@ -1,0 +1,21 @@
+#The Scourge
+vassal = {
+	first = E11
+	second = E12
+	start_date = 610.1.1
+	end_date = 631.1.1
+}
+
+vassal = {
+	first = E11
+	second = E52
+	start_date = 610.1.1
+	end_date = 631.1.1
+}
+
+vassal = {
+	first = E11
+	second = E21
+	start_date = 610.1.1
+	end_date = 631.1.1
+}

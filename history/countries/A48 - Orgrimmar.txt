@@ -26,7 +26,7 @@ capital 			= 1
 		dip = 3
 		mil = 4
 	} 
-
+}
 633.1.1 = {
 	monarch = { 
 		name = "Vol'jin" 
@@ -35,3 +35,4 @@ capital 			= 1
 		dip = 4
 		mil = 4
 	} 
+}

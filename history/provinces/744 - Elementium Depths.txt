@@ -62,5 +62,4 @@ remove_core = E27
 religion = religion_old_gods
 culture = culture_twilight
 }
-}
 

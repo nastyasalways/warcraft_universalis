@@ -8,6 +8,7 @@ add_accepted_culture        = culture_scourge
 capital 			= 1
 
 617.1.1 = { 
+	government_rank	= 2
 	monarch =
 	{ 
 		name = "Kel'Thuzad" 	 
@@ -18,7 +19,12 @@ capital 			= 1
 	} 
 }
 
+618.1.1 = { 
+	government_rank	= 3
+}
+
 631.1.1 = {
+	government_rank	= 2
 	monarch = {
 		name = ""
 		dynasty = "Gandling"

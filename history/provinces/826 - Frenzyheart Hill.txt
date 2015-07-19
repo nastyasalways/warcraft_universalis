@@ -1,13 +1,17 @@
 # 826
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = B48
+controller = B48
+add_core = B48
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
 
 
-culture = noculture
-religion = noreligion
+culture = culture_frenzyheart
+religion = religion_ancestral
 
 hre = no
 trade_goods = grain
