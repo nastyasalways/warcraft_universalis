@@ -68,3 +68,9 @@ religion = religion_arcane }
 617.1.1 = { owner = A18
 controller = A18
 remove_core = F14 }
+
+633.1.1 = { owner = F26
+controller = F26
+add_core = F26
+culture = culture_horde
+religion = religion_ancestral }

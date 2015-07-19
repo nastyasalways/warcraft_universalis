@@ -63,8 +63,20 @@ religion = religion_fel
 }
 
 600.1.1 = {
-owner = XXX
-controller = XXX
+owner = xxx
+controller = xxx
 culture = culture_azerothian
 religion = religion_church_of_the_light 
+}
+
+621.11.11 = { 
+owner = xxx
+controller = xxx 
+}
+
+622.1.1 = { 
+owner = F12
+controller = F12
+add_core = F12
+remove_core = A43
 }

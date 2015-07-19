@@ -51,3 +51,11 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+631.1.1 = { 
+owner = A82
+controller = A82
+add_core = A82
+culture = culture_gilblin
+religion = religion_divine
+}
+

@@ -5,7 +5,7 @@ technology_group = tech_worgen
 religion= religion_shadow
 primary_culture = culture_gilnean_worgen
 
-622.1.1 = { 
+618.1.1 = { 
 
 	monarch =
 	{ 

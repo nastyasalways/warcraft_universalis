@@ -55,8 +55,12 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-617.1.1 = { owner = E58
-controller = E58
-add_core = E58
-remove_core = A68 
-culture = culture_gurubashi}
+618.1.1 = { 
+owner = F32
+controller = F32
+add_core = F32
+remove_core = F32
+culture = culture_nazja
+religion = religion_old_gods
+}
+

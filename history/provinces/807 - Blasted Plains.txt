@@ -66,5 +66,14 @@ remove_core = A43
 culture = culture_dalaran
 religion = religion_arcane }
 
-600.1.1 = { owner = XXX
-controller = XXX }
+617.1.1 = { owner = xxx
+controller = xxx }
+
+632.11.11 = { owner = xxx
+controller = xxx }
+
+633.1.1 = { owner = F26
+controller = F26
+add_core = F26
+culture = culture_horde
+religion = religion_ancestral }

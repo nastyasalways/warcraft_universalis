@@ -59,5 +59,26 @@ add_core = A40
 culture = culture_bleeding_hollow 
 religion = religion_fel }
 
-600.1.1 = { owner = XXX
-controller = XXX }
+600.1.1 = { owner = xxx
+controller = xxx }
+
+621.11.11 = { 
+owner = xxx
+controller = xxx 
+}
+
+622.1.1 = { 
+owner = B95
+controller = B95
+add_core = B95
+culture = culture_moarg
+religion = religion_fel
+}
+
+631.1.1 = { 
+owner = A91
+controller = A91
+add_core = A91
+culture = culture_blood_elf
+religion = religion_light_of_the_sunwell
+}

@@ -1,8 +1,8 @@
-# Copperpinch
+# Sea Giants
 
 graphical_culture = westerngfx
 
-color = { 80 186 215 }
+color = { 166 108 224 }
 
 monarch_names = {
 

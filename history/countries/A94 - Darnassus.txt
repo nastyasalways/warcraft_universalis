@@ -5,3 +5,17 @@ technology_group 	= western
 religion			= religion_elune
 primary_culture 	= culture_night_elf
 capital 			= 1
+
+622.1.1 = { 
+
+	monarch =
+	{ 
+		name = "Tyrande" 
+			 
+		dynasty = "Whisperwind" 
+				
+		adm = 4		
+		dip = 2
+		mil = 4	
+	} 
+} 

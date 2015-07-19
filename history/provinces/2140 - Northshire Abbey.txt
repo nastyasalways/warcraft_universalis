@@ -69,3 +69,27 @@ remove_core = A44
 culture = culture_azerothian
 religion = religion_church_of_the_light 
 }
+
+622.1.1 = { 
+owner = A07
+controller = A07 
+add_core = A07 
+}
+
+631.1.1 = { 
+owner = A41
+controller = A41
+add_core = A41
+remove_core = A07
+religion = religion_fel
+culture = culture_blackrock
+}
+
+632.1.1 = {
+owner = A05
+controller = A05
+remove_core = A41
+culture = culture_azerothian
+religion = religion_church_of_the_light 
+}
+

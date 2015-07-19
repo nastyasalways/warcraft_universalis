@@ -1,4 +1,4 @@
-# 994
+# 994 The Harborage
 is_city = yes
 
 base_tax = 2
@@ -56,5 +56,11 @@ add_core = A41
 culture = culture_blackrock
 religion = religion_fel }
 
-600.1.1 = { owner = XXX
-controller = XXX }
+600.1.1 = { 
+owner = F34
+controller = F34
+add_core = F34
+culture = culture_broken
+religion = religion_light_of_the_naaru
+remove_core = A41
+}

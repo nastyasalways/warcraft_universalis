@@ -72,3 +72,15 @@ controller = A01
 remove_core = B15
 culture = culture_azerothian
 religion = religion_church_of_the_light }
+
+622.1.1 = { 
+owner = A07
+controller = A07 
+add_core = A07 
+}
+
+626.1.1 = { 
+owner = A01
+controller = A01
+remove_core = A07 
+}

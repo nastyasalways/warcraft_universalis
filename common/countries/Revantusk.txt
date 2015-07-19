@@ -4,7 +4,8 @@ graphical_culture = westerngfx
 
 color = { 243 72 77 }
 
-monarch_names = { "Daakara" = 10
+monarch_names = { 
+                "Daakara" = 10
 		"Shadrak" = 10
 		"Jin'zakk" = 10
 		"Kazra'jin" = 10
@@ -48,19 +49,17 @@ monarch_names = { "Daakara" = 10
 		"Zalas" = 10
 		"Witherheart" = 10
 		"Qeeju" = 10
-
                 "Hexx" = -10
                 "Torntusk" = -30
                 "Vosh'gajin" = -10
                 "Guthma" = -30
                 "Yayo'jin" = -30
                 "Qiaga" = 10               
-                "Morta'gya" = 10
-
+                "Morta'gya" = -10
 }
 
-leader_names = { ""
-
+leader_names = { 
+""
 }
 
 ship_names = { Revantusk Zul'jin Torntusk Amani Zul Nalorakk Warbear Elfbane Waverider Lynx Dragonhawk Hexcannon }

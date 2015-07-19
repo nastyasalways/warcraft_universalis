@@ -60,5 +60,18 @@ add_core = E98
 culture = culture_blackrock
 religion = religion_fel }
 
-600.1.1 = { owner = XXX
-controller = XXX }
+600.1.1 = { owner = xxx
+controller = xxx }
+
+617.11.11 - {
+owner = xxx
+controller = xxx
+}
+
+618.1.1 = { 
+owner = A41
+controller = A41
+add_core = A41
+culture = culture_blackrock
+religion = religion_fel 
+}

@@ -1,8 +1,8 @@
-# Solstice
+# Galak
 
 graphical_culture = westerngfx
 
-color = { 6 162 201 }
+color = { 133 185 70 }
 
 monarch_names = {
 

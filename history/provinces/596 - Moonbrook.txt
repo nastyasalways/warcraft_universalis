@@ -54,19 +54,30 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-597.1.1 = { owner = A43
+597.1.1 = { 
+owner = A43
 controller = A43
 add_core = A43
 culture = culture_twilights_hammer
-religion = religion_fel }
+religion = religion_fel 
+}
 
-600.1.1 = { owner = A02
+600.1.1 = { 
+owner = A02
 controller = A02
 remove_core = A43 
 culture = culture_azerothian
-religion = religion_church_of_the_light }
+religion = religion_church_of_the_light 
+}
 
-618.1.1 = { owner = A07
+618.1.1 = { 
+owner = A07
 controller = A07 
-add_core = A07 }
+add_core = A07 
+}
+
+626.1.1 = { 
+owner = A02
+controller = A02  
+}
 

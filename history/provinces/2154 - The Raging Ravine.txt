@@ -13,7 +13,7 @@ culture = culture_azerothian
 religion = religion_church_of_the_light
 
 hre = no
-trade_goods = fish
+trade_goods = gold
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -69,4 +69,25 @@ add_core = F11
 remove_core = A43
 culture = culture_nerglish
 religion = religion_old_gods
+}
+
+617.1.1 = { owner = A02
+controller = A02
+remove_core = F11
+culture = culture_azerothian
+religion = religion_church_of_the_light
+}
+
+618.1.1 = { 
+owner = A07
+controller = A07 
+add_core = A07 }
+
+626.1.1 = { 
+owner = B58
+controller = B58 
+add_core = B58
+remove_core = A07
+culture = culture_goldtooth
+religion = religion_geomancy
 }
