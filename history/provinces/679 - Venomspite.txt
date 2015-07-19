@@ -5,9 +5,8 @@ base_tax = 4
 base_manpower = 4
 base_production = 4
 
-
-culture = culture_lordaeron
-religion = religion_church_of_the_light
+culture = culture_moa_ki
+religion = religion_ancestral
 
 hre = no
 trade_goods = grain

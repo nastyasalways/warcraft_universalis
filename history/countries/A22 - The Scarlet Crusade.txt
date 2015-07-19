@@ -1,11 +1,11 @@
 # The Scarlet Crusade
 government 	        = scarlet_crusade
-government_rank = 1
+government_rank 	= 2
 mercantilism 		= 0.1
 technology_group 	= tech_human
 religion			= religion_scarlet_light
 primary_culture 	= culture_lordaeron
-capital 			= 1
+capital 			= 539
 
 622.1.1 = { 
 
@@ -28,7 +28,7 @@ heir = {
  	} 
 } 
 
-626.1.1 = {
+625.1.1 = {
 
 monarch = { 
      name = "Brigitte" 
@@ -51,8 +51,8 @@ heir = {
        }
 }
 
-627.1.1 = {
-
+626.1.1 = {
+government_rank = 1
 monarch = { 
      name = "Sally" 
      dynasty = "Whitemane" 

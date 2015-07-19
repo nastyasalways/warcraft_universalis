@@ -52,7 +52,7 @@ l_english:
  HIGH_PRIESTESS: "High Priestess"
  CLAN: "Clan"
  IMPERATOR: "Imperator"
- MILITARY_DICTAT: "Military Dictat"
+ MILITARY_DICTAT: "Military Dictatorship"
  COMMANDER: "Commander"
  LORD: "Lord"
  COMMANDER_fem: "Commander"
@@ -96,6 +96,17 @@ l_english:
  GRAND_ADMIRAL: "Grand Admiral"
  LADY_ADMIRAL: "Lady Admiral"
  GRAND_ADMIRAL_fem: "Grand Admiral"
+ RELIGIOUS_ORDER: "Religious Order"
+ GRAND_CRUSADER: "Grand Crusader"
+ HIGHLORD: "Highlord"
+ HIGHLADY: "Highlady"
+ HIGH_INQUISITOR: "High Inquisitor"
+ MARSHAL: "Marshal"
+ GRAND_MARSHAL: "Grand Marshal"
+ CRIMINAL_ORGANIZATION: "Criminal Organization"
+ KINGPIN: "Kingpin"
+ PIRATE_KING: "Pirate King"
+ PIRATE_QUEEN: "Pirate Queen"
  
  
  
