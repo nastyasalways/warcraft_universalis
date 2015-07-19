@@ -1,0 +1,24 @@
+# Naga Explorers
+government = noble_republic
+mercantilism = 0.1 
+technology_group = tech_naga
+religion= religion_old_gods
+
+primary_culture = culture_nazja
+
+
+
+
+631.1.1 = { 
+
+monarch =
+{ 
+name = "" 
+     
+dynasty = "Bloodwash" 
+		
+adm = 3		
+dip = 2	
+mil = 3
+ 	} 
+} 

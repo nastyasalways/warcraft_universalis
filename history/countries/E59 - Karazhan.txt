@@ -16,4 +16,19 @@ capital 			= 953
 	} 
 } 
 
-592.1.1 = { religion = religion_fel }
+592.1.1 = { 
+religion = religion_fel 
+}
+
+626.1.1 = { 
+	monarch = { 
+		name = "Malchezaar" 
+		dynasty = "of Karazhan" 
+		adm = 4
+		dip = 4
+		mil = 4
+	} 
+primary_culture = culture_legion_cultist
+add_accepted_culture = culture_forsaken
+technology_group = tech_demonic
+} 

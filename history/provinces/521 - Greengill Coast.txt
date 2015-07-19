@@ -63,7 +63,7 @@ remove_core = A90
 add_core = F22
 }
 
-626.1.1 = { 
+625.1.1 = { 
 owner = F23
 controller = F23
 add_core = F23

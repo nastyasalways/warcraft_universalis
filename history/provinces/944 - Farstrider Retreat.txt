@@ -74,7 +74,7 @@ culture = culture_blood_elf
 religion = religion_arcane
 }
 
-627.1.1 = { 
+626.1.1 = { 
 religion = religion_light_of_the_sunwell
 }
 

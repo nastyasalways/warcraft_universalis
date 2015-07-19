@@ -64,6 +64,8 @@ F16 = "countries/Blackthorn.txt"
 F17 = "countries/Silver Hand.txt"
 F18 = "countries/Scarlet Onslaught.txt"
 F19 = "countries/Argent Crusade.txt"
+F27 = "countries/Elwynn Bandits.txt"
+F28 = "countries/Kurzen.txt"
 
 # Dwarven
 A28 = "countries/Wildhammer.txt"
@@ -72,6 +74,7 @@ A30 = "countries/Dark Iron.txt"
 A31 = "countries/Frostborn.txt"
 E56 = "countries/Thorium Brotherhood.txt"
 F25 = "countries/Iron Summit.txt"
+F29 = "countries/Nesingwary.txt"
 
 # Gnomish
 A32 = "countries/Gnomeregan.txt"
@@ -94,7 +97,6 @@ A46 = "countries/Frostwolf.txt"
 A47 = "countries/MokNathal.txt"
 A48 = "countries/Orgrimmar.txt"
 E98 = "countries/Black Tooth Grin.txt"
-F13 = "countries/Shadowsworn.txt"
 F26 = "countries/Ironmarch.txt"
 
 # Ogre
@@ -112,12 +114,15 @@ F05 = "countries/Mo'grosh.txt"
 F06 = "countries/Dustbelcher.txt"
 F07 = "countries/Deadwind.txt"
 F08 = "countries/Bloodeye.txt"
+F31 = "countries/Mosh'Ogg.txt"
 
 # Draenei
 A54 = "countries/Shattrath.txt"
 A55 = "countries/Karabor.txt"
 A56 = "countries/Exodar.txt"
 A57 = "countries/Ashtoungue Deathsworn.txt"
+F34 = "countries/Harborage.txt"
+F35 = "countries/Fallow Sanctuary.txt"
 
 # Forest Troll
 A58 = "countries/Amani.txt"
@@ -157,7 +162,7 @@ A78 = "countries/Zandalar.txt"
 A79 = "countries/Bilgewater.txt"
 A80 = "countries/Steamwheedle.txt"
 A81 = "countries/Venture Company.txt"
-A82 = "countries/Copperpinch.txt"
+A82 = "countries/Gilblin.txt"
 A83 = "countries/Blackwater.txt"
 
 # Tauren
@@ -244,6 +249,7 @@ E51 = "countries/Torn Fin.txt"
 E60 = "Countries/Rockpool.txt"
 F11 = "Countries/Redgill.txt"
 F22 = "countries/Greengill.txt"
+F30 = "countries/Murkgill.txt"
 
 # Furbolg
 B39 = "countries/Gnarlpine.txt"
@@ -325,6 +331,7 @@ B93 = "countries/Cult of the Dark Strand.txt"
 B94 = "countries/Wretched.txt"
 B95 = "countries/Felsworn.txt"
 F15 = "countries/Dreadlord.txt"
+F13 = "countries/Shadowsworn.txt"
 
 # Satyr
 B96 = "countries/Jadefire.txt"
@@ -344,6 +351,8 @@ E08 = "countries/Riplash.txt"
 E09 = "countries/Daggerspine.txt"
 E10 = "countries/Blackfathom.txt"
 F23 = "countries/Darkspine.txt"
+F32 = "countries/Naga Explorers.txt"
+F36 = "countries/Bloodwash.txt"
 
 # Scourge
 E11 = "countries/The Scourge.txt"
@@ -374,7 +383,7 @@ E28 = "countries/Skywall.txt"
 # Worgen
 E29 = "countries/Wolfcult.txt"
 E30 = "countries/Silverbrook.txt"
-E31 = "countries/Solstice.txt"
+E31 = "countries/Nightbane.txt"
 E32 = "countries/White Pine.txt"
 
 # Mantid
@@ -451,6 +460,7 @@ E79 = "countries/Sisterhood of Winter.txt"
 
 # Giant
 E78 = "countries/Crystalvice.txt"
+F33 = "countries/Coaststrider.txt"
 
 # Sprite
 E87 = "countries/Rikkitun.txt"

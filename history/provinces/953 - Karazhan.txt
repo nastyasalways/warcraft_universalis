@@ -54,7 +54,23 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-592.1.1 = { religion = religion_fel}
+592.1.1 = { 
+religion = religion_fel
+}
 
-597.1.1 = { owner = XXX
-controller = XXX }
+597.1.1 = { 
+owner = xxx
+controller = xxx 
+}
+
+625.11.11 = { 
+owner = xxx
+controller = xxx 
+}
+
+626.1.1 = { 
+owner = E59
+controller = E59
+add_core = E59
+culture = culture_forsaken
+}

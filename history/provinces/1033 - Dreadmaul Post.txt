@@ -63,3 +63,7 @@ religion = religion_geomancy }
 600.1.1 = { owner = E96
 controller = E96
 remove_core = A43 }
+
+622.1.1 = {
+religion = religion_fel
+}

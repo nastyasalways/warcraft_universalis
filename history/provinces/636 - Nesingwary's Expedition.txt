@@ -56,3 +56,12 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+622.1.1 = {
+owner = F29
+controller = F29
+add_core = F29
+religion = religion_church_of_the_light
+culture = culture_ironforge
+}
+
+

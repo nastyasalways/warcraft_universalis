@@ -64,11 +64,13 @@ l_english:
  culture_dustbelcher: "Dustbelcher"
  culture_bloodeye: "Bloodeye"
  culture_deadwind: "Deadwind"
+ culture_moshogg: "Mosh'Ogg"
  
  culture_group_draenei: "Draenei"
  culture_shattrathi: "Shattrathi"
  culture_karaborian: "Karaborian"
  culture_broken: "Broken"
+ culture_lost_one: "Lost One"
  
  culture_group_forest_troll: "Forest Troll"
  culture_amani: "Amani"
@@ -107,7 +109,7 @@ l_english:
  culture_venture: "Venture"
  culture_copperpinch: "Copperpinch"
  culture_blackwater: "Blackwater"
- culture_giblin: "Giblin"
+ culture_gilblin: "Gilblin"
  
  culture_group_tauren: "Tauren"
  culture_bloodhoof: "Bloodhoof"
@@ -124,11 +126,16 @@ l_english:
  culture_mantid: "Mantid"
  
  culture_group_demonic: "Demonic"
- culture_man_ari: "Man'ari"
+ culture_eredar: "Man'ari"
+ culture_dreadlord: "Nathrezim"
+ culture_doomguard: "Ered'ruin"
+ culture_moarg: "Mo'arg"
+ culture_shivarra: "Shivarra"
  culture_illidari: "Illidari"
  culture_felsworn: "Felsworn"
  culture_legion_cultist: "Legion Cultist"
  culture_fel_orc: "Fel Orc"
+ culture_felblood_elf: "Felblood Elf"
  
  culture_group_satyr: "Satyr"
  culture_jadefire: "Jadefire"
@@ -335,6 +342,7 @@ l_english:
  culture_group_giant: "Giant"
  culture_frost_giant: "Frost Giant"
  culture_ice_giant: "Ice Giant"
+ culture_sea_giant: "Sea Giant"
 
  culture_group_dryad: "Dyrad"
  culture_forest_nymph: "Forest Nypmh"

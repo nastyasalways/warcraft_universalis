@@ -60,6 +60,6 @@ controller = A24
 owner = A24
 religion = religion_argent_light }
 
-627.1.1 = { owner = F19
+626.1.1 = { owner = F19
 controller = F19
 add_core = F19 }

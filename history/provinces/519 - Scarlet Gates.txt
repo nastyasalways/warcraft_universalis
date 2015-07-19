@@ -65,8 +65,8 @@ owner = A22
 religion = religion_scarlet_light 
 }
 
-627.1.1 = { 
-owner = XXX
-controller = XXX
+626.1.1 = { 
+owner = xxx
+controller = xxx
 add_core = F18 
 }

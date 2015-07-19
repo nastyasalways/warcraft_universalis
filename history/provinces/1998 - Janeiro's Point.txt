@@ -1,17 +1,17 @@
 # 1998
 is_city = yes
 
-owner = B28
-controller= B28
-add_core = B28
+owner = F33
+controller= F33
+add_core = F33
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
 
-culture = culture_nerglish
-religion = religion_old_gods
+culture = culture_sea_giant
+religion = religion_titan
 
 hre = no
 trade_goods = fish

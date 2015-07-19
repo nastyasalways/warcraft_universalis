@@ -687,6 +687,18 @@ culture_group_ogre = {
 			
 		}
 	}
+
+	culture_moshogg = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
 }
 
 culture_group_draenei = {
@@ -727,6 +739,17 @@ culture_group_draenei = {
 	}
 	
 	culture_broken = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	culture_lost_one = {
 		male_names = {
 			
 		}
@@ -792,7 +815,13 @@ culture_group_forest_troll = {
 	}
 	
 	female_names = {
-		"Hexx" "Torntusk" "Vosh'gajin" "Guthma" "Yayo'jin" "Qiaga" "Morta'gya"
+		"Hexx" 
+                "Torntusk" 
+                "Vosh'gajin" 
+                "Guthma" 
+                "Yayo'jin" 
+                 "Qiaga" 
+                 "Morta'gya"
 	}
 	
 	dynasty_names = {
@@ -811,8 +840,7 @@ culture_group_forest_troll = {
 			"Ter'lji"
 			"Zul'jin"
 		}
-		female_names = {
-		
+		female_names = {	
 		}
 		dynasty_names = {
 			"Amani"
@@ -828,7 +856,6 @@ culture_group_forest_troll = {
 			"Rin'ji"
 		}
 		female_names = {
-		
 		}
 		dynasty_names = {
 			"Shadowpine"
@@ -936,7 +963,6 @@ culture_group_forest_troll = {
 			"Qeeju"
 		}
 		female_names = {
-		
 		}
 		dynasty_names = {
 			"Witherbark"
@@ -952,7 +978,6 @@ culture_group_forest_troll = {
 			"Qeeju"
 		}
 		female_names = {
-		
 		}
 		dynasty_names = {
 			"Shadowglen"
@@ -1480,7 +1505,7 @@ culture_group_demonic = {
 		
 	}
 		
-	culture_man_ari = {
+	culture_eredar = {
 		male_names = {
 			
 		}
@@ -1491,7 +1516,55 @@ culture_group_demonic = {
 			
 		}
 	}
-	
+
+	culture_dreadlord = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_moarg = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_doomguard = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_shivarra = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
 	culture_illidari = {
 		male_names = {
 			
@@ -1529,6 +1602,18 @@ culture_group_demonic = {
 	}
 	
 	culture_fel_orc = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_felblood_elf = {
 		male_names = {
 			
 		}
@@ -1726,7 +1811,7 @@ culture_group_depths = {
 		}
 	}
 	
-	culture_giblin = {
+	culture_gilblin = {
 		male_names = {
 			
 		}
@@ -3713,6 +3798,18 @@ culture_group_giant = {
 	}
 	
 	culture_ice_giant = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_sea_giant = {
 		male_names = {
 			
 		}

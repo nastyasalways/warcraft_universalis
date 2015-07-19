@@ -1,0 +1,21 @@
+# Nightbane Worgen
+government = warband
+mercantilism = 0.1 
+technology_group = tech_worgen
+religion = religion_shadow
+primary_culture = culture_wolfcult
+
+622.1.1 = { 
+
+	monarch =
+	{ 
+		name = "Gutspill" 
+			 
+		dynasty = "Nightbane" 
+				
+		adm = 3		
+		dip = 2
+		mil = 4	
+	} 
+
+} 
