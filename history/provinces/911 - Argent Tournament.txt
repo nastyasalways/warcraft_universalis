@@ -1,13 +1,13 @@
 # 911
-is_city = no
+is_city = yes
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
 
-culture = noculture
-religion = noreligion
+culture = culture_nerubian
+religion = religion_old_gods
 
 hre = no
 trade_goods = grain
@@ -51,3 +51,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+626.1.1 = { add_core = F19
+owner = F19
+culture = culture_lordaeron
+religion = religion_argent_light }

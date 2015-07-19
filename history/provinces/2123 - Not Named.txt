@@ -1,13 +1,17 @@
 # 2123
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = E08
+controller = E08
+add_core = E08
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
+culture = culture_nazja
+religion = religion_old_gods
 
 hre = no
 trade_goods = grain
@@ -51,3 +55,9 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+626.1.1 = { 
+owner = B10
+controller = B10
+add_core = B10
+culture = culture_kvaldir
+religion = religion_ancestral }

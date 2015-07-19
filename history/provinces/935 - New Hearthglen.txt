@@ -51,9 +51,23 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+617.1.1 = { 
+owner = E72
+controller = E72
+add_core = E72
+culture = culture_lordaeron
+religion = religion_church_of_the_light }
+
+
+618.1.1 = { 
+owner = XXX
+controller = XXX
+remove_core = E72
+culture = culture_lordaeron
+religion = religion_church_of_the_light }
+
 626.1.1 = { 
 add_core = F18
 controller = F18
 owner = F18
-culture = culture_lordaeron
 religion = religion_scarlet_light }

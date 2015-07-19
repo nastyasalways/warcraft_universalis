@@ -1,13 +1,21 @@
 # 544
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = B50
+controller = B50
+add_core = B50
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
 
 
-culture = noculture
-religion = noreligion
+culture = culture_rageclaw
+religion = religion_ancestral
+
+
+culture = culture_drakkari
+religion = religion_loa
 
 hre = no
 trade_goods = grain
@@ -51,3 +59,9 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+626.1.1 = { 
+add_core = E11
+controller = E11
+owner = E11
+culture = culture_scourge
+religion = religion_the_damned }

@@ -66,9 +66,9 @@ remove_core = F17
 remove_core = A09
 religion = religion_argent_light }
 
-626.1.1 = { add_core = F19
+626.1.1 = { owner = F19
 controller = F19
-owner = F19 }
+add_core = F19 }
 
 631.1.1 = { owner = A01
 controller = A01

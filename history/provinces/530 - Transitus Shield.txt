@@ -1,14 +1,16 @@
 # 530
 is_city = no
+owner = B01
+controller = B01
+add_core = B01
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 4
+base_manpower = 4
+base_production = 4
 
 
-culture = noculture
-religion = noreligion
-
+culture = culture_blue
+religion = religion_sect_of_dragons
 hre = no
 trade_goods = grain
 
@@ -51,3 +53,11 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+626.1.1 = {
+	owner = A18
+	controller = A18
+	add_core = A18
+	culture = culture_dalaran
+	religion = religion_arcane
+
+}

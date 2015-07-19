@@ -38,7 +38,7 @@ monarch = {
  	capital = 991
  } 
  
- 617.1.1 { capital = 1 }
+ 617.1.1 = { capital = 1 }
  
  622.1.1 = { 
 monarch = { 

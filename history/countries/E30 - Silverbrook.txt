@@ -6,7 +6,7 @@ religion			= religion_church_of_the_light
 primary_culture 	= culture_lordaeron
 capital 			= 967
 
-546.1.1 = { 
+617.1.1 = { 
 monarch = { 
      name = "Jonathan" 
      dynasty = "Silverbrook" 
@@ -15,13 +15,3 @@ monarch = {
 		mil = 3
  	} 
  }
-
-592.1.1 = { 
-monarch = { 
-     name = "Robert" 
-     dynasty = "Silverbrook" 
-		adm = 3
-		dip = 4
-		mil = 3
- 	} 
- }  

@@ -1,17 +1,13 @@
 # 563
 is_city = yes
 
-owner = E72
-controller = E72
-add_core = E72
-
 base_tax = 3
 base_manpower = 3
 base_production = 3
 
 
-culture = culture_lordaeron
-religion = religion_church_of_the_light
+culture = culture_bloodpaw
+religion = religion_ancestral
 
 hre = no
 trade_goods = army_supplies
@@ -55,3 +51,8 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+626.1.1 = { 
+owner = E72
+add_core = E72
+culture = culture_lordaeron
+religion = religion_church_of_the_light }

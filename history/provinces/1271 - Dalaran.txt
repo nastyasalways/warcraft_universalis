@@ -5,9 +5,9 @@ owner = E77
 controller = E77
 add_core = E77
 
-base_tax = 4
-base_manpower = 4
-base_production = 4
+base_tax = 2
+base_manpower = 2
+base_production = 2
 capital = "Shandaral Ruins" 
 
 
@@ -56,3 +56,16 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+626.1.1 = {
+	base_tax = 4
+	base_manpower = 4
+	base_production = 4
+	capital = "Dalaran" 
+	owner = A18
+	controller = A18
+	add_core = A18
+	remove_core = E77
+	culture = culture_dalaran
+	religion = religion_arcane
+
+}

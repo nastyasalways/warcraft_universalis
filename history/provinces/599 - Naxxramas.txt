@@ -1,18 +1,15 @@
 # 599
 is_city = yes
 
-owner = E72
-controller = E72
-add_core = E72
 capital = "Wintergarde Village"
 
-base_tax = 4
-base_manpower = 4
-base_production = 4
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
 
-culture = culture_lordaeron
-religion = religion_church_of_the_light
+culture = culture_bloodpaw
+religion = religion_ancestral
 
 hre = no
 trade_goods = fish
@@ -56,3 +53,12 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+626.1.1 = { 
+base_tax = 5
+base_manpower = 5
+base_production = 5
+capital = "Naxxramas"
+add_core = E11
+owner = E11
+culture = culture_scourge
+religion = religion_the_damned }

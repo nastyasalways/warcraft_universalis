@@ -1,7 +1,27 @@
 # Sparktouched
-government 		= despotic_monarchy
+government 		= minor_tribe
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_gorloc
+religion			= religion_titan
+primary_culture 	= culture_sparktouched
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Soo-raa" 
+     dynasty = "Sparktouched"
+		adm = 1
+		dip = 3
+		mil = 1
+ 	} 
+ } 
+
+592.1.1 = { 
+monarch = { 
+     name = "Soo-ree"
+     dynasty = "Sparktouched" 
+		adm = 2
+		dip = 4
+		mil = 2 
+ 	} 
+ } 

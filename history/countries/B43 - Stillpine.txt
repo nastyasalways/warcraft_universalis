@@ -1,7 +1,36 @@
 # Stillpine
-government 		= despotic_monarchy
+government 		= minor_tribe
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_furbolg
+religion			= religion_ancestral
+primary_culture 	= culture_stillpine
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Stillpine" 
+     dynasty = "Stillpine" 
+		adm = 3
+		dip = 3
+		mil = 2
+ 	} 
+ } 
+
+592.1.1 = { 
+monarch = { 
+     name = "Stillpine" 
+      dynasty = "Stillpine" 
+		adm = 3
+		dip = 3
+		mil = 2 
+ 	} 
+
+heir = { 
+     name = "Stillpine" 
+      dynasty = "Stillpine" 
+	female = yes
+		adm = 3
+		dip = 3
+		mil = 2 
+ 	} 
+ } 

@@ -1,7 +1,27 @@
 # Frenzyheart
-government 		= despotic_monarchy
+government 		= minor_tribe
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+technology_group 	= tech_wolvar
+religion		= religion_ancestral
+primary_culture 	= culture_frenzyheart
+capital 		= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Jakrak" 
+     dynasty = "Frenzyheart"
+		adm = 1
+		dip = 3
+		mil = 1
+ 	} 
+ } 
+
+592.1.1 = { 
+monarch = { 
+     name = "Rakjak"
+     dynasty = "Frenzyheart" 
+		adm = 2
+		dip = 4
+		mil = 2 
+ 	} 
+ } 
