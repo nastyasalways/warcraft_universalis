@@ -1,5 +1,78 @@
 # For specific government types
 # Will pick the first valid one it finds in list
+gov_scourge = {
+	rank = {
+		1 = UNDEAD_SCOURGE
+		2 = UNDEAD_SCOURGE
+		3 = UNDEAD_SCOURGE
+	}
+	
+	ruler_male = {
+		1 = LICH_KING
+		2 = LICH_KING
+		3 = LICH_KING
+	}
+	
+	ruler_female = {
+		1 = LICH_QUEEN
+		2 = LICH_QUEEN
+		3 = LICH_QUEEN
+	}
+	
+	trigger = {
+		government = scourge_horde
+		tag = E11
+	}
+}
+gov_nathrezim = {
+	rank = {
+		1 = LEGION
+		2 = LEGION
+		3 = LEGION
+	}
+	
+	ruler_male = {
+		1 = DREADLORD
+		2 = DREADLORD
+		3 = DREADLORD
+	}
+	
+	ruler_female = {
+		1 = DREADLADY
+		2 = DREADLADY
+		3 = DREADLADY
+	}
+	
+	trigger = {
+		government = scourge_horde
+		tag = F15
+	}
+}
+gov_cult_damned = {
+	rank = {
+		1 = CULT
+		2 = CULT
+		3 = CULT
+	}
+	
+	ruler_male = {
+		1 = CULTIST
+		2 = HEADMASTER
+		3 = ARCHLICH
+	}
+	
+	ruler_female = {
+		1 = CULTIST
+		2 = HEADMISTRESS
+		3 = ARCHLICH
+	}
+	
+	trigger = {
+		government = scourge_horde
+		primary_culture = culture_cultist
+	}
+}
+
 gov_criminal = {
 	rank = {
 		1 = CRIMINAL_ORGANIZATION

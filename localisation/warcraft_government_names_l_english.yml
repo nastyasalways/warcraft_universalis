@@ -107,12 +107,17 @@ l_english:
  KINGPIN: "Kingpin"
  PIRATE_KING: "Pirate King"
  PIRATE_QUEEN: "Pirate Queen"
- 
- 
- 
- 
- 
-
+ UNDEAD_SCOURGE: "Undead Scourge"
+ LICH_KING: "Lich King" 
+ LICH_QUEEN: "Lich Queen" 
+ LEGION: "Legion" 
+ DREADLORD: "Dreadlord" 
+ DREADLADY: "Dreadlady"
+ CULT: "Cult" 
+ CULTIST: "Cultist"  
+ HEADMASTER: "Headmaster" 
+ HEADMISTRESS: "Headmistress"  
+ ARCHLICH: "Archlich"  
  
  
  
