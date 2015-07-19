@@ -65,12 +65,12 @@ controller = xxx
 culture = culture_azerothian
 religion = religion_church_of_the_light }
 
-626.11.11 = {
+625.11.11 = {
 owner = xxx
 controller = xxx
 }
 
-627.1.1 = {
+626.1.1 = {
 owner = A01
 controller = A01
 add_core = A01

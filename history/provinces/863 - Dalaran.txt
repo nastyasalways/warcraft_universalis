@@ -12,7 +12,8 @@ culture = culture_dalaran
 religion = religion_arcane
  
 hre = no 
-trade_goods =  artifacts
+trade_goods =  arcane
+
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -54,30 +55,22 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 
-618.1.1 = { 
-	base_tax = 4
-	base_manpower = 4
-	base_production = 4 
-	capital = "Dalaran Ruins"
-	owner = A25
-	controller = A25
-	add_core = A25
-	culture = culture_lordaeron
-	religion = religion_church_of_the_light 
-}
+618.1.1 = { base_tax = 4
+base_manpower = 4
+base_production = 4 
+capital = "Dalaran Ruins"
+owner = A25
+controller = A25
+add_core = A25
+culture = culture_lordaeron
+religion = religion_church_of_the_light }
 
-622.1.1 = { 
-	owner = A18
-	controller = A18
-	add_core = A18
-	remove_core = A25
-	culture = culture_dalaran
-	religion = religion_arcane
-}
+622.1.1 = { owner = A18
+controller = A18
+add_core = A18
+remove_core = A25
+culture = culture_dalaran
+religion = religion_arcane
 
-627.1.1 = {
-	base_tax = 1
-	base_manpower = 1
-	base_production = 1
-	capital = "Dalaran Crater" 
-}
+
+626.1.1 = { capital = "Dalaran Crater" }
