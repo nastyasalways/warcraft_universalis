@@ -1,8 +1,8 @@
-# Woodpaw Gnolls
+# Tol Barad Shivarra
 
 graphical_culture = westerngfx
 
-color = { 232 209 135 }
+color = { 126 131 171 }
 
 monarch_names = {
 

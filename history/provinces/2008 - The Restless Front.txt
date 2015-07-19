@@ -68,3 +68,10 @@ remove_core = A41
 remove_core = A16
 culture = culture_arathi
 religion = religion_church_of_the_light }
+
+631.1.1 = { remove_core = A14
+owner = xxx
+controller = xxx
+culture = culture_ghost
+religion = religion_shadow
+}

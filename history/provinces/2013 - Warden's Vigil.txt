@@ -68,4 +68,10 @@ remove_core = A16
 culture = culture_kul_tiran
 religion = religion_arcane }
 
+631.1.1 = { remove_core = A14
+owner = F04
+controller = F04
+add_core = F04
+}
+
 

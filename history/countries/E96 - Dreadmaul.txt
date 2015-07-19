@@ -16,7 +16,11 @@ capital 			= 1
 	} 
 } 
 
-533.1.1 = { 
+622.1.1 = { 
+religion = religion_fel 
+}
+
+633.1.1 = { 
 	monarch = { 
 		name = "Toothsmash" 
 		dynasty = "the Annihilator" 

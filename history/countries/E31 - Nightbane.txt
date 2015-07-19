@@ -1,8 +1,8 @@
-# Nightbane Worgen
+# Wolfcult
 government = warband
 mercantilism = 0.1 
 technology_group = tech_worgen
-religion = religion_shadow
+religion= religion_shadow
 primary_culture = culture_wolfcult
 
 622.1.1 = { 
@@ -14,7 +14,7 @@ primary_culture = culture_wolfcult
 		dynasty = "Nightbane" 
 				
 		adm = 3		
-		dip = 2
+		dip = 3
 		mil = 4	
 	} 
 

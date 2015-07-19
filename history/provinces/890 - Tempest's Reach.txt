@@ -6,6 +6,7 @@ owner = A12
 
 base_tax = 4
 manpower = 4
+base_manpower = 4
  
 culture = culture_gilnean
 religion = religion_church_of_the_light

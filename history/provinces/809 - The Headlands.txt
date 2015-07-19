@@ -4,14 +4,15 @@ add_core = A12
 controller = A12
 owner = A12
 
-base_tax = 2
-manpower = 2
+base_tax = 3
+base_manpower = 2
+base_production = 3
  
 culture = culture_gilnean
 religion = religion_church_of_the_light
  
 hre = no 
-trade_goods = grain
+trade_goods = fur
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -52,3 +53,6 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+631.1.1 = { 
+culture = culture_gilnean_worgen
+}
