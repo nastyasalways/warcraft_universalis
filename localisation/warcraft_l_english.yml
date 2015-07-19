@@ -298,8 +298,8 @@
  A80_ADJ: "Steamwheedle"
  A81: "Venture Company"
  A81_ADJ: "Venture Company"
- A82: "Copperpinch"
- A82_ADJ: "Copperpinch"
+ A82: "Gilblin"
+ A82_ADJ: "Gilblin"
  A83: "Blackwater"
  A83_ADJ: "Blackwater"
  A84: "Bloodhoof"
@@ -802,6 +802,8 @@
  F35_ADJ: "Fallow"
  F36: "Bloodwash"
  F36_ADJ: "Bloodwash"
+ F37: "Disciples of Hate"
+ F37_ADJ: "Disciples of Hate"
 
 
  # Governments

@@ -4,14 +4,15 @@ add_core = A12
 controller = A12
 owner = A12
 
-base_tax = 5
-manpower = 5
+base_tax = 4
+base_manpower = 4
+bas_production = 4
  
 culture = culture_gilnean
 religion = religion_church_of_the_light
  
 hre = no 
-trade_goods = grain
+trade_goods = naval_supplies
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

@@ -1,5 +1,5 @@
 # Bandits
-government 		= warband
+government 		= criminal_organization
 government_rank = 1
 mercantilism 		= 0.1
 technology_group 	= tech_human

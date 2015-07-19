@@ -332,6 +332,7 @@ B94 = "countries/Wretched.txt"
 B95 = "countries/Felsworn.txt"
 F15 = "countries/Dreadlord.txt"
 F13 = "countries/Shadowsworn.txt"
+F37 = "countries/Disciples of Hate.txt"
 
 # Satyr
 B96 = "countries/Jadefire.txt"
