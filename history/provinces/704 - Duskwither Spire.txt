@@ -60,12 +60,12 @@ culture = culture_ghost
 remove_core = A90
 }
 
-625.11.11 = {
+624.11.11 = {
 owner = xxx
 controller = xxx
 }
 
-626.1.1 = { 
+625.1.1 = { 
 owner = B94
 controller = B94
 add_core = B94

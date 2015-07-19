@@ -81,7 +81,7 @@ culture = culture_azerothian
 religion = religion_church_of_the_light 
 }
 
-626.1.1 = { 
+625.1.1 = { 
 owner = xxx
 controller = xxx 
 }

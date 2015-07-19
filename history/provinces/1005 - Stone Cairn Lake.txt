@@ -74,7 +74,7 @@ religion = religion_arcane
 culture = culture_azerothian 
 }
 
-626.1.1 = { 
+625.1.1 = { 
 owner = F27
 controller = F27
 add_core = F27
