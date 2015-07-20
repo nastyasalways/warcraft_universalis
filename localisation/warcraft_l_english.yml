@@ -810,7 +810,11 @@
  F39_ADJ: "Nedreck's"
  F40: "Bloodhill Bandits"
  F40_ADJ: "Bandit"
-
+ F41: "Savage Hill"
+ F41_ADJ: "Savage Hill"
+ F42: "Sons of Hodir"
+ F42_ADJ: "Sons of Hodir"
+ 
  # Governments
  magocracy_republic: "Magocracy Republic"
  magocracy_republic_desc: ""

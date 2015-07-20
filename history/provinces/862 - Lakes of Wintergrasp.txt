@@ -5,9 +5,8 @@ base_tax = 1
 base_manpower = 1
 base_production = 1
 
-
-culture = noculture
-religion = noreligion
+culture = culture_water
+religion = religion_neptulon
 
 hre = no
 trade_goods = grain

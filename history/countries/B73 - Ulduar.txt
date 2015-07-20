@@ -1,7 +1,18 @@
 # Ulduar
-government 		= despotic_monarchy
+government 		= military_dictat
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+technology_group 	= tech_titan
+religion		= religion_old_gods
+primary_culture 	= culture_iron
+capital 		= 782
+
+546.1.1 = { 
+	monarch = { 
+		name = "Loken" 
+		dynasty = "the Watcher" 
+		adm = 3
+		dip = 5
+		mil = 2
+                
+	} 
+}

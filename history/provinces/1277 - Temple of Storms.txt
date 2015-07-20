@@ -1,13 +1,16 @@
 # 1277
-is_city = no
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
+owner = E16
+controller = E16
+add_core = E16
 
-culture = noculture
-religion = noreligion
+culture = culture_brunnhilde
+religion = religion_titan
 
 hre = no
 trade_goods = grain
