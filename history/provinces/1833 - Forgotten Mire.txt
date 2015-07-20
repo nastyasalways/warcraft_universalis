@@ -7,7 +7,7 @@ base_manpower = 2
 base_production = 2
 
 
-culture = culture_mistwalker
+culture = culture_bog_beast
 religion = religion_shadow
 
 hre = no

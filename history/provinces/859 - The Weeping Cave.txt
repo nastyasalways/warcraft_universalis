@@ -58,7 +58,7 @@ discovered_by = tech_gnome
 
 
 618.1.1 = { remove_core = E55
-controller = XXX
-owner = XXX
-religion = religion_the_damned
-culture = culture_scourge}
+controller = xxx
+owner = xxx
+religion = religion_druidic
+culture = culture_bog_beast}

@@ -67,6 +67,6 @@ remove_core = E98
 culture = culture_dark_iron
 religion = religion_ragnaros }
 
-600.1.1 = { 
+631.1.1 = { 
 religion = religion_arcane 
 }

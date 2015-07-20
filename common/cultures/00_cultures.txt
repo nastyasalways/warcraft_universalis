@@ -1392,18 +1392,6 @@ culture_group_thalassian = {
 			
 		}
 	}
-
-	culture_sunfury = {
-		male_names = {
-			
-		}
-		female_names = {
-		
-		}
-		dynasty_names = {
-			
-		}
-	}
 	
 	culture_wretched = {
 		male_names = {
@@ -3003,7 +2991,7 @@ culture_group_elemental = {
 		}
 	}
 
-	culture_mistwalker = {
+	culture_bog_beast = {
 		male_names = {
 			
 		}

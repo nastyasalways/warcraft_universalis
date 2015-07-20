@@ -16,8 +16,6 @@ l_english:
  culture_highbourne: "Highbourne"
  
  culture_group_thalassian: "Thalassian"
- culture_sin_dorei: "Sin'dorei"
- culture_sunfury: "Sunfury"
  culture_high_elf: "High Elf"
  culture_blood_elf: "Blood Elf"
  culture_wretched: "Wretched"
@@ -264,7 +262,7 @@ l_english:
  culture_water: "Water"
  culture_air: "Air"
  culture_sprite: "Sprite"
- culture_mistwalker: "Mistwalker"
+ culture_bog_beast: "Bog Beast"
  culture_ooze: "Ooze"
  culture_treant: "Treant"
  
