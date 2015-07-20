@@ -59,4 +59,5 @@ add_core = F18
 controller = F18
 owner = F18
 remove_core = A77
-religion = religion_scarlet_light }
+religion = religion_scarlet_light
+culture = culture_lordaeron }

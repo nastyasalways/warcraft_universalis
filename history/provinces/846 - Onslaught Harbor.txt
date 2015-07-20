@@ -54,5 +54,5 @@ discovered_by = tech_gnome
 626.1.1 = { 
 add_core = F18
 owner = F18
-culture = lordaeron
-religion = religion_scarlet_light }
+culture = culture_lordaeron
+religion = religion_shadow }
