@@ -6,8 +6,8 @@ base_manpower = 1
 base_production = 1
 
 
-culture = noculture
-religion = noreligion
+culture = culture_night_elf
+religion = religion_elune
 
 hre = no
 trade_goods = grain

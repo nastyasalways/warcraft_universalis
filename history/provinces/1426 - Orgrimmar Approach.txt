@@ -1,13 +1,17 @@
 # 1426
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = B66
+controller = B66
+add_core = B66
+capital = "Dustwind Caves"
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
 
-culture = noculture
-religion = noreligion
+culture = culture_dustwind
+religion = religion_al_akir
 
 hre = no
 trade_goods = grain
@@ -51,3 +55,11 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+618.1.1 = { 
+	owner = A48
+	controller = A48
+	add_core = A48 
+	capital = "Orgrimmar Approach"
+	culture = culture_horde
+	religion = religion_ancestral
+}

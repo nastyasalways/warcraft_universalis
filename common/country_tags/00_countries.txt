@@ -344,6 +344,7 @@ B97 = "countries/Axxarian.txt"
 B98 = "countries/Blackheart.txt"
 B99 = "countries/Hatefury.txt"
 E01 = "countries/Legashi.txt"
+F43 = "countries/Nazzivus.txt"
 
 # Naga
 E02 = "countries/Coilskar.txt"

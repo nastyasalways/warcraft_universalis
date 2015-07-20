@@ -1,7 +1,29 @@
 # Dustwind
 government 		= despotic_monarchy
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_harpy
+religion			= religion_al_akir
+primary_culture 	= culture_dustwind
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Rockwing" 
+     dynasty = "Dustwind" 
+		adm = 3
+		dip = 3
+		mil = 3
+ 	        female = yes
+          }       
+ } 
+
+592.1.1 = { 
+monarch = { 
+     name = "Arana" 
+     dynasty = "Dustwind" 
+		adm = 3
+		dip = 3
+		mil = 3
+                female = yes
+ 	} 
+ } 

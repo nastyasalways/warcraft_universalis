@@ -1,13 +1,18 @@
 # 1384
-is_city = no
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = B24
+controller = B24
+add_core = B24
 
 
-culture = noculture
-religion = noreligion
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+
+culture = culture_kolkar
+religion = religion_ancestral
 
 hre = no
 trade_goods = grain
@@ -51,3 +56,11 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+618.1.1 = { 
+owner = A70
+controller = A70
+add_core = A70
+remove_core = B24
+culture = culture_darkspear
+religion = religion_loa 
+}

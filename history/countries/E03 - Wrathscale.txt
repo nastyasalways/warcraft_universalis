@@ -1,7 +1,24 @@
 # Wrathscale
-government 		= despotic_monarchy
-mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+government = noble_republic
+mercantilism = 0.1 
+technology_group = tech_naga
+religion= religion_old_gods
+
+primary_culture = culture_wrathscale
+
+
+
+
+546.1.1 = { 
+government_rank = 1
+monarch =
+{ 
+name = "Xiz" 
+     
+dynasty = "Wrathscale" 
+		
+adm = 3		
+dip = 2	
+mil = 3
+ 	} 
+} 
