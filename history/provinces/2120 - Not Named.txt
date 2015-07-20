@@ -51,3 +51,8 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+626.1.1 = { 
+add_core = E11
+owner = E11
+culture = culture_scourge
+religion = religion_the_damned }

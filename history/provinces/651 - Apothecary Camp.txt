@@ -1,9 +1,13 @@
 # 651
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = B34
+controller = B34
+add_core = B34
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
 culture = culture_nerglish
@@ -51,3 +55,10 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+626.1.1 = { 
+add_core = E14
+controller = E14
+owner = E14
+culture = culture_forsaken
+religion = religion_forgotten_shadow 
+}

@@ -5,6 +5,9 @@ base_tax = 2
 base_manpower = 2
 base_production = 2
 
+owner = B34
+controller = B34
+add_core = B34
 
 culture = culture_nerglish
 religion = religion_old_gods

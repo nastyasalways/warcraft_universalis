@@ -2228,6 +2228,18 @@ culture_group_gnoll = {
 			
 		}
 	}
+	
+	culture_savage_hill = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
 }
 
 culture_group_centaur = {
@@ -3598,6 +3610,28 @@ culture_group_gnomish = {
 	}
 		
 	culture_gnome = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	culture_leper_gnome = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	culture_mecha_gnome = {
 		male_names = {
 			
 		}

@@ -1,7 +1,29 @@
 # Frostfeather
 government 		= despotic_monarchy
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+technology_group 	= tech_harpy
+religion		= religion_al_akir
+primary_culture 	= culture_frostfeather
+capital 		= 896
+
+546.1.1 = { 
+monarch = { 
+     name = "Coldwind" 
+     dynasty = "Iceshriek" 
+		adm = 3
+		dip = 3
+		mil = 3
+ 	        female = yes
+          }       
+ } 
+
+592.1.1 = { 
+monarch = { 
+     name = "Sirana" 
+     dynasty = "Iceshriek" 
+		adm = 3
+		dip = 3
+		mil = 3
+                female = yes
+ 	} 
+ } 

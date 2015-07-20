@@ -118,6 +118,10 @@ l_english:
  HEADMASTER: "Headmaster" 
  HEADMISTRESS: "Headmistress"  
  ARCHLICH: "Archlich"  
- 
- 
- 
+ WARBAND: "Warband" 
+ HORDE: "Horde" 
+ WARCHIEF: "Warchief" 
+ WARCHIEF_F: "Warchieftess" 
+ TWILIGHT_CABAL: "Cabal" 
+ HIGH_COUNCILLOR: "High Councillor" 
+ LEGION_COMMANDER: "Legion Commander" 

@@ -1,7 +1,7 @@
 # Darnassus
 government 		= theocratic_government
 mercantilism 		= 0.1
-technology_group 	= western
+technology_group 	= tech_darnassian
 religion			= religion_elune
 primary_culture 	= culture_night_elf
 capital 			= 1

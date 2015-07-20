@@ -5,9 +5,12 @@ base_tax = 1
 base_manpower = 1
 base_production = 1
 
+owner = E16
+controller = E16
+add_core = E16
 
-culture = noculture
-religion = noreligion
+culture = culture_brunnhilde
+religion = religion_titan
 
 hre = no
 trade_goods = grain
@@ -51,3 +54,8 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+626.1.1 = { 
+add_core = E11
+controller = E11
+owner = E11
+religion = religion_the_damned }

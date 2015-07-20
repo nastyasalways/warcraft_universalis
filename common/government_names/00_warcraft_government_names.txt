@@ -1,5 +1,80 @@
 # For specific government types
 # Will pick the first valid one it finds in list
+gov_legion = {
+	rank = {
+		1 = LEGION
+		2 = LEGION
+		3 = LEGION
+	}
+	
+	ruler_male = {
+		1 = LEGION_COMMANDER
+		2 = LEGION_COMMANDER
+		3 = LEGION_COMMANDER
+	}
+	
+	ruler_female = {
+		1 = LEGION_COMMANDER
+		2 = LEGION_COMMANDER
+		3 = LEGION_COMMANDER
+	}
+	
+	trigger = {
+		government = legion
+	}
+}
+
+gov_twilight_cabal = {
+	rank = {
+		1 = TWILIGHT_CABAL
+		2 = TWILIGHT_CABAL
+		3 = TWILIGHT_CABAL
+	}
+	
+	ruler_male = {
+		1 = HIGH_COUNCILLOR
+		2 = HIGH_COUNCILLOR
+		3 = HIGH_COUNCILLOR
+	}
+	
+	ruler_female = {
+		1 = HIGH_COUNCILLOR
+		2 = HIGH_COUNCILLOR
+		3 = HIGH_COUNCILLOR
+	}
+	
+	trigger = {
+		government = twilight_cabal
+	}
+}
+
+gov_horde = {
+	rank = {
+		1 = HORDE
+		2 = HORDE
+		3 = HORDE
+	}
+	
+	ruler_male = {
+		1 = WARCHIEF
+		2 = WARCHIEF
+		3 = WARCHIEF
+	}
+	
+	ruler_female = {
+		1 = WARCHIEF_F
+		2 = WARCHIEF_F
+		3 = WARCHIEF_F
+	}
+	
+	trigger = {
+		OR = {
+			government = orcish_horde
+			government = warcraft_horde
+		}
+	}
+}
+
 gov_scourge = {
 	rank = {
 		1 = UNDEAD_SCOURGE
@@ -197,6 +272,29 @@ troll_tribe = {
 			}     
 			technology_group = tech_troll
 		}
+	}
+}
+
+gov_warband = {
+	rank = {
+		1 = WARBAND
+		2 = WARBAND
+		3 = EMPIRE
+	}	
+	
+	ruler_male = {
+		1 = CHIEF
+		2 = WARLORD
+		3 = IMPERATOR
+	}
+	
+	ruler_female = {
+		1 = CHIEFTESS
+		2 = WARLORD_fem	
+		3 = EMPRESS
+	}
+	trigger = {
+		government = warband
 	}
 }
 

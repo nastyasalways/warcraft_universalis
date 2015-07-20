@@ -192,7 +192,8 @@ l_english:
  culture_palemane: "Palemane"
  culture_rothide: "Rothide"
  culture_woodpaw: "Woodpaw"
- 
+ culture_savage_hill: "Savage Hill"
+  
  culture_group_centaur: "Centaur"
  culture_galak: "Galak"
  culture_gelkis: "Gelkis"
@@ -322,7 +323,9 @@ l_english:
  
  culture_group_gnomish: "Gnomish"
  culture_gnome: "Gnome"
-
+ culture_leper_gnome: "Leper Gnome"
+ culture_mecha_gnome: "Mechagnome"
+ 
  culture_group_hozen: "Hozen"
  culture_forest_hozen: "Forest Hozen"
  culture_mountain_hozen: "Mountain Hozen"

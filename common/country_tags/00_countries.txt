@@ -68,6 +68,7 @@ F27 = "countries/Elwynn Bandits.txt"
 F28 = "countries/Kurzen.txt"
 F38 = "countries/Valgarde.txt"
 F39 = "countries/Nedreck.txt"
+F40 = "countries/Bloodhill Bandits.txt"
 
 # Dwarven
 A28 = "countries/Wildhammer.txt"
@@ -224,6 +225,7 @@ B17 = "countries/Redridge Gnolls.txt"
 B18 = "countries/Palemane.txt"
 B19 = "countries/Rothide.txt"
 F10 = "countries/Woodpaw.txt"
+F41 = "countries/Savage Hill.txt"
 
 # Centaur
 B20 = "countries/Galak.txt"
@@ -464,6 +466,7 @@ E79 = "countries/Sisterhood of Winter.txt"
 # Giant
 E78 = "countries/Crystalvice.txt"
 F33 = "countries/Coaststrider.txt"
+F42 = "countries/Sons of Hodir.txt"
 
 # Sprite
 E87 = "countries/Rikkitun.txt"

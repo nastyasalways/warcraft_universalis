@@ -1,15 +1,15 @@
-# Riverpaw
-government 		= minor_tribe
+# Savage Hill
+government 			= minor_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_gnoll
 religion			= religion_ancestral
-primary_culture 	= culture_riverpaw
+primary_culture 	= culture_savage_hill
 capital 			= 1
 
 546.1.1 = { 
 	monarch = { 
-		name = "Brashclaw" 
-		dynasty = "Riverpaw" 
+		name = "Coldfang" 
+		dynasty = "Savage Hill" 
 		adm = 3
 		dip = 3
 		mil = 3
@@ -17,10 +17,10 @@ capital 			= 1
 	} 
 }
 
-622.1.1 = { 
+626.1.1 = { 
 	monarch = { 
-		name = "Hogger" 
-		dynasty = "Riverpaw" 
+		name = "Gnarlhide" 
+		dynasty = "Savage Hill" 
 		adm = 2
 		dip = 2
 		mil = 4

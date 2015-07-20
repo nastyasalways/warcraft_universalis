@@ -29,5 +29,13 @@ monarch = {
 government = military_dictat
  } 
 
-
+626.1.1 = { 
+monarch = { 
+     name = "Andrew" 
+     dynasty = "Keller" 
+		adm = 2
+		dip = 1
+		mil = 3
+ 	} 
+ } 
  

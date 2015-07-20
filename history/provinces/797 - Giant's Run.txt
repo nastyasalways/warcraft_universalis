@@ -6,8 +6,8 @@ base_manpower = 1
 base_production = 1
 
 
-culture = noculture
-religion = noreligion
+culture = culture_frost_nymph
+religion = religion_druidic
 
 hre = no
 trade_goods = grain
