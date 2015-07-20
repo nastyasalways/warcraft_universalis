@@ -72,7 +72,7 @@ remove_core = E98
 culture = culture_azerothian
 religion = religion_church_of_the_light }
 
-621.11.11 - {
+621.11.11 = {
 owner = xxx
 controller = xxx
 }

@@ -1651,6 +1651,18 @@ culture_group_satyr = {
 		}
 	}
 	
+	culture_nazzivian = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
 	culture_blackheart = {
 		male_names = {
 			
@@ -3932,6 +3944,58 @@ culture_group_virmen = {
 	}
         
 	culture_snagtooth = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+}
+
+culture_group_wildkin = {
+	graphical_culture = westerngfx
+
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+		
+	}
+		
+	culture_owlkin = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+}
+
+culture_group_void = {
+	graphical_culture = westerngfx
+
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+		
+	}
+		
+	culture_voidwalker = {
 		male_names = {
 			
 		}

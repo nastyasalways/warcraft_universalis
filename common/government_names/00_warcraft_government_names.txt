@@ -1,5 +1,23 @@
 # For specific government types
 # Will pick the first valid one it finds in list
+gov_exodar = {
+	rank = {
+		1 = EXODAR
+	}
+	
+	ruler_male = {
+		1 = PROPHET
+	}
+	
+	ruler_female = {
+		1 = PROPHETESS
+	}
+	
+	trigger = {
+		government = exodar_city
+	}
+}
+
 gov_legion = {
 	rank = {
 		1 = LEGION

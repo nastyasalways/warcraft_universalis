@@ -344,6 +344,7 @@ B97 = "countries/Axxarian.txt"
 B98 = "countries/Blackheart.txt"
 B99 = "countries/Hatefury.txt"
 E01 = "countries/Legashi.txt"
+F43 = "countries/Nazzivus.txt"
 
 # Naga
 E02 = "countries/Coilskar.txt"
@@ -467,6 +468,7 @@ E79 = "countries/Sisterhood of Winter.txt"
 E78 = "countries/Crystalvice.txt"
 F33 = "countries/Coaststrider.txt"
 F42 = "countries/Sons of Hodir.txt"
+F44 = "countries/Arkkoroc.txt"
 
 # Sprite
 E87 = "countries/Rikkitun.txt"

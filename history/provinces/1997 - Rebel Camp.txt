@@ -63,7 +63,7 @@ culture = culture_azerothian
 religion = religion_church_of_the_light 
 }
 
-622.1.1 {
+622.1.1 = {
 add_core = F28
 }
 

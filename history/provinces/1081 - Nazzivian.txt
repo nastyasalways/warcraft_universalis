@@ -1,13 +1,17 @@
 # 1081
-is_city = no
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = F43
+controller = F43
+add_core = F43
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
+culture = culture_nazzivian
+religion = religion_fel
 
 hre = no
 trade_goods = grain

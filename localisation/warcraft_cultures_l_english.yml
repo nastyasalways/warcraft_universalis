@@ -355,5 +355,8 @@ l_english:
  culture_springtail: "Springtail"
  culture_snagtooth: "Snagtooth"
  
+ culture_group_wildkin: "Wildkin"
+ culture_owlkin: "Owlkin"
  
-
+ culture_group_void: "Void"
+ culture_voidwalker: "Voidwalker"

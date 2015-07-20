@@ -1,7 +1,17 @@
 # Exodar
-government 		= despotic_monarchy
+government 		= exodar_city
 mercantilism 		= 0.1
 technology_group 	= tech_draenei
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+religion		= religion_light_of_the_naaru
+primary_culture 	= culture_karaborian
+capital 		= 1087
+
+546.1.1 = { 
+monarch = { 
+     name = "Velen" 
+     dynasty = "of Argus" 
+		adm = 3
+		dip = 5
+		mil = 2
+ 	} 
+ } 
