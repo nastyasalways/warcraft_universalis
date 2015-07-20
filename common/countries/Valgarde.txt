@@ -1,8 +1,8 @@
-# Lordaeron Remnants
+# Valgarde/Arthas's Northrend Expedition
 
 graphical_culture = westerngfx
 
-color = { 153 204 255 }
+color = { 153 194 255 }
 
 monarch_names = {
 

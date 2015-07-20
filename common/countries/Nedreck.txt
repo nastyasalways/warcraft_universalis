@@ -1,8 +1,8 @@
-# Lordaeron Remnants
+# Nedreck's Expedition
 
 graphical_culture = westerngfx
 
-color = { 153 204 255 }
+color = { 122 78 41 }
 
 monarch_names = {
 

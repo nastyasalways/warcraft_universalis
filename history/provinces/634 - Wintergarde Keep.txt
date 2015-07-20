@@ -1,13 +1,17 @@
 # 634
 is_city = yes
 
+owner = E72
+controller = E72
+add_core = E72
+
 base_tax = 4
 base_manpower = 4
 base_production = 4
 
 
-culture = culture_bloodpaw
-religion = religion_ancestral
+culture = culture_lordaeron
+religion = religion_church_of_the_light
 
 hre = no
 trade_goods = crypts
@@ -51,9 +55,19 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+610.1.1 = { 
+owner = E11
+controller = E11
+add_core = E11
+remove_core = E72
+culture = culture_scourge
+religion = religion_the_damned
+}
+
 626.1.1 = { 
-owner = E72
-controller = E72
-add_core = E72
-culture = culture_lordaeron
-religion = religion_church_of_the_light }
+owner = A01
+controller = A01
+add_core = A01
+culture = culture_azerothian
+religion = religion_church_of_the_light 
+}

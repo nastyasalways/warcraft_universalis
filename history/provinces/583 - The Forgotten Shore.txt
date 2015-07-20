@@ -1,17 +1,18 @@
 # 583
 is_city = yes
 
-owner = B47
-controller = B47
-add_core = B47
+owner = E72
+controller = E72
+add_core = E72
+capital = "Wintergarde Village"
 
-base_tax = 3
-base_manpower = 3
-base_production = 3
+base_tax = 4
+base_manpower = 4
+base_production = 4
 
 
-culture = culture_bloodpaw
-religion = religion_ancestral
+culture = culture_lordaeron
+religion = religion_church_of_the_light
 
 hre = no
 trade_goods = naval_supplies
@@ -56,9 +57,10 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 617.1.1 = { 
-owner = E72
-controller = E72
-add_core = E72
+owner = F38
+controller = F38
+add_core = F38
+remove_core = E72
 culture = culture_lordaeron
 religion = religion_church_of_the_light }
 
@@ -67,6 +69,6 @@ religion = religion_church_of_the_light }
 owner = B47
 controller = B47
 add_core = B47
-remove_core = E72
+remove_core = F38
 culture = culture_bloodpaw
 religion = religion_ancestral }

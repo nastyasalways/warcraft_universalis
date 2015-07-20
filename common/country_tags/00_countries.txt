@@ -66,6 +66,8 @@ F18 = "countries/Scarlet Onslaught.txt"
 F19 = "countries/Argent Crusade.txt"
 F27 = "countries/Elwynn Bandits.txt"
 F28 = "countries/Kurzen.txt"
+F38 = "countries/Valgarde.txt"
+F39 = "countries/Nedreck.txt"
 
 # Dwarven
 A28 = "countries/Wildhammer.txt"

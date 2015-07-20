@@ -1,0 +1,33 @@
+# Lordaeron
+government 		= feudal_monarchy
+government_rank = 2
+mercantilism 		= 0.1
+technology_group 	= tech_human
+religion			= religion_church_of_the_light
+primary_culture 	= culture_lordaeron
+capital 			= 1
+
+617.1.1 = { 
+	monarch =
+	{ 
+		name = "Arthas" 
+		dynasty = "Menethil" 	
+		adm = 4
+		dip = 4	
+		mil = 5
+	}  
+} 
+
+618.1.1 = { 
+monarch = { 
+     name = "Luc" 
+     dynasty = "Valonforth" 
+		adm = 3
+		dip = 4
+		mil = 4
+ 	} 
+government = military_dictat
+ } 
+
+
+ 
