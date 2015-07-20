@@ -6,10 +6,10 @@ religion			= religion_church_of_the_light
 primary_culture 	= culture_lordaeron
 capital 			= 1
 
-617.1.1 = { 
+546.1.1 = { 
 monarch = { 
-     name = "Luc" 
-     dynasty = "Valonforth" 
+     name = "Ulbrec" 
+     dynasty = "Wyrmbane" 
 		adm = 3
 		dip = 4
 		mil = 4
@@ -17,9 +17,9 @@ monarch = {
  } 
 
 
-626.1.1 = { 
+592.1.1 = { 
 monarch = { 
-     name = "Halford" 
+     name = "Hrothgar" 
      dynasty = "Wyrmbane" 
 		adm = 3
 		dip = 4
