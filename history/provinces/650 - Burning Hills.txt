@@ -67,7 +67,7 @@ owner = xxx
 controller = xxx 
 }
 
-617.11.11 - {
+617.11.11 = {
 owner = xxx
 controller = xxx
 }

@@ -1,13 +1,18 @@
 # 1430
-is_city = no
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = E01
+controller = E01
+add_core = E01
 
 
-culture = noculture
-religion = noreligion
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_legashi
+religion = religion_fel
 
 hre = no
 trade_goods = grain
@@ -51,3 +56,19 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+625.1.1 = { 
+owner = A91
+controller = A91
+add_core = A91
+culture = culture_blood_elf
+religion = arcane
+}
+
+631.1.1 = { 
+owner = A94
+controller = A94
+add_core = A94
+remove_core = A91
+culture = culture_sentinel
+religion = religion_elune 
+}

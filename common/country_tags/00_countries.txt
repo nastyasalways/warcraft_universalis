@@ -468,6 +468,7 @@ E79 = "countries/Sisterhood of Winter.txt"
 E78 = "countries/Crystalvice.txt"
 F33 = "countries/Coaststrider.txt"
 F42 = "countries/Sons of Hodir.txt"
+F44 = "countries/Arkkoroc.txt"
 
 # Sprite
 E87 = "countries/Rikkitun.txt"

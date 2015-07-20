@@ -1,13 +1,12 @@
 # 1433
-is_city = no
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
-
-culture = noculture
-religion = noreligion
+culture = culture_ghost
+religion = religion_old_gods
 
 hre = no
 trade_goods = grain
@@ -51,3 +50,9 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+631.1.1 = { 
+owner = A79
+add_core = A79
+religion = religion_tech
+culture = culture_bilgewater
+}

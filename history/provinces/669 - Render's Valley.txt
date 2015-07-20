@@ -63,7 +63,7 @@ religion = religion_fel }
 600.1.1 = { owner = xxx
 controller = xxx }
 
-616.11.11 - {
+616.11.11 = {
 owner = xxx
 controller = xxx
 }
