@@ -588,8 +588,8 @@
  E27_ADJ: "Deepholm"
  E28: "Skywall"
  E28_ADJ: "Skywall"
- E29: "Wolfcult"
- E29_ADJ: "Wolfcult"
+ E29: "Wolf Cult"
+ E29_ADJ: "Wolf Cult"
  E30: "Silverbrook"
  E30_ADJ: "Silverbrook"
  E31: "Nightbane"
@@ -782,7 +782,7 @@
  F25_ADJ: "Iron Summit"
  F26: "Ironmarch"
  F26_ADJ: "Ironmarch"
- F27: "Elynn Bandits"
+ F27: "Elwynn Bandits"
  F27_ADJ: "Bandit"
  F28: "Kurzen"
  F28_ADJ: "Kurzen"
@@ -808,7 +808,8 @@
  F38_ADJ: "Valgarde"
  F39: "Nedreck's Expedition"
  F39_ADJ: "Nedreck's"
-
+ F40: "Bloodhill Bandits"
+ F40_ADJ: "Bandit"
 
  # Governments
  magocracy_republic: "Magocracy Republic"

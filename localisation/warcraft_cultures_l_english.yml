@@ -322,7 +322,9 @@ l_english:
  
  culture_group_gnomish: "Gnomish"
  culture_gnome: "Gnome"
-
+ culture_leper_gnome: "Leper Gnome"
+ culture_mecha_gnome: "Mechagnome"
+ 
  culture_group_hozen: "Hozen"
  culture_forest_hozen: "Forest Hozen"
  culture_mountain_hozen: "Mountain Hozen"
