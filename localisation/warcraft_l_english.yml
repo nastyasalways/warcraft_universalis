@@ -787,7 +787,7 @@
  F28: "Kurzen"
  F28_ADJ: "Kurzen"
  F29: "Nesignwary's Expedition"
- F29_ADJ: "Nesignwary"
+ F29_ADJ: "Nesignwary's"
  F30: "Murkgill"
  F30_ADJ: "Murkgill"
  F31: "Mosh'Ogg"
@@ -804,6 +804,10 @@
  F36_ADJ: "Bloodwash"
  F37: "Disciples of Hate"
  F37_ADJ: "Disciples of Hate"
+ F38: "Valgarde"
+ F38_ADJ: "Valgarde"
+ F39: "Nedreck's Expedition"
+ F39_ADJ: "Nedreck's"
 
 
  # Governments

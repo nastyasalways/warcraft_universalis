@@ -1,0 +1,23 @@
+# Nedreck's Expedition
+government 		= criminal_organization
+government_rank = 2
+mercantilism 		= 0.1
+technology_group 	= tech_human
+religion			= religion_church_of_the_light
+primary_culture 	= culture_azerothian
+capital 			= 1
+
+625.1.1 = { 
+	monarch =
+	{ 
+		name = "Budd" 
+		dynasty = "Nedreck" 	
+		adm = 2
+		dip = 3	
+		mil = 2
+	}  
+} 
+
+
+
+ 
