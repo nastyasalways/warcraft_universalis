@@ -15,13 +15,13 @@ monarch = {
 		mil = 4
  	} 
  } 
- 
- 631.1.1 = { 
+
+631.1.1 = { 
 monarch = { 
-     name = "Dagran" 
-     dynasty = "Thaurissan" 
-		adm = 2
-		dip = 2
-		mil = 2
+     name = "Council of Three Hammers"  
+		adm = 3
+		dip = 3
+		mil = 4 
+           regent = yes
  	} 
  } 

@@ -3608,6 +3608,28 @@ culture_group_gnomish = {
 			
 		}
 	}
+	culture_leper_gnome = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	culture_mecha_gnome = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
 }
 
 culture_group_hozen = {

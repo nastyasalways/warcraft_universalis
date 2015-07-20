@@ -1,7 +1,18 @@
 # Chillmere
-government 		= despotic_monarchy
-mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+government 		= minor_tribe
+mercantilism 		= 0.1 
+technology_group 	= tech_depths
+religion		= religion_old_gods
+primary_culture 	= culture_nerglish
+capital 			= 651
+
+546.1.1 = { 
+	monarch = { 
+		name = "Old Icefin" 
+		dynasty = "Chillmere" 
+		adm = 1
+		dip = 3
+		mil = 1
+	} 
+} 
+

@@ -51,3 +51,12 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+626.1.1 = {
+base_tax = 2
+base_manpower = 2
+base_production = 2
+owner = A32
+controller = A32
+culture = culture_gnome
+religion = religion_tech
+}

@@ -16,3 +16,14 @@ capital 			= 1
                 
 	} 
 }
+
+622.1.1 = { 
+	monarch = { 
+		name = "Hogger" 
+		dynasty = "Riverpaw" 
+		adm = 2
+		dip = 2
+		mil = 4
+                
+	} 
+}
