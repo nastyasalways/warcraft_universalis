@@ -26,4 +26,5 @@ monarch = {
  	} 
 primary_culture = culture_lordaeron_worgen
 religion = religion_shadow
+technology_group 	= tech_worgen
  }
