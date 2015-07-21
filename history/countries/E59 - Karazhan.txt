@@ -20,7 +20,7 @@ capital 			= 953
 religion = religion_fel 
 }
 
-626.1.1 = { 
+625.1.1 = { 
 	monarch = { 
 		name = "Malchezaar" 
 		dynasty = "of Karazhan" 

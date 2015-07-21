@@ -19,7 +19,7 @@ add_accepted_culture = culture_moarg
 	}  
 } 
 
-626.1.1 = { 
+625.1.1 = { 
 	monarch =
 	{ 
 		name = "Razelikh" 

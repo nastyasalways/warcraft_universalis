@@ -61,16 +61,16 @@ owner = E50
 culture = culture_crushridge
 religion = religion_geomancy}
 
-622.1.1 = { owner = XXX
-controller = XXX }
+622.1.1 = { owner = xxx
+controller = xxx
+culture = culture_forsaken
+religion = religion_forgotten_shadow }
 
-630.11.11 = { owner = XXX
-controller = XXX }
+630.11.11 = { owner = xxx
+controller = xxx }
 
 631.1.1 = { add_core = E14
 controller = E14
 owner = E14
 remove_core = E50
-remove_core = A08
-culture = culture_forsaken
-religion = religion_forgotten_shadow }
+remove_core = A08 }
