@@ -5,8 +5,8 @@ base_tax = 1
 base_manpower = 1
 base_production = 1
 
-culture = culture_wildhammer
-religion = religion_ancestral
+culture = culture_lordaeron
+religion = religion_church_of_the_light
  
 hre = no 
 trade_goods = smugglers
@@ -49,3 +49,8 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
+
+618.1.1 = {
+culture = culture_wildhammer
+religion = religion_ancestral
+]
