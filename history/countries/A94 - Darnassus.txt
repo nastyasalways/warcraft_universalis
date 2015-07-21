@@ -3,7 +3,8 @@ government 		= theocratic_government
 mercantilism 		= 0.1
 technology_group 	= tech_darnassian
 religion			= religion_elune
-primary_culture 	= culture_night_elf
+primary_culture 	= culture_sentinal
+add_acccepted_culture = culture_cenarion
 capital 			= 1
 
 622.1.1 = { 
@@ -17,5 +18,7 @@ capital 			= 1
 		adm = 4		
 		dip = 2
 		mil = 4	
+           female = yes
 	} 
+add_acccepted_culture = culture_highbourne
 } 
