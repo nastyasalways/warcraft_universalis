@@ -24,6 +24,7 @@ monarch = {
 		dip = 3
 		mil = 3
  	} 
+government 	= despotic_magocracy
 primary_culture = culture_lordaeron_worgen
 religion = religion_shadow
 technology_group 	= tech_worgen
