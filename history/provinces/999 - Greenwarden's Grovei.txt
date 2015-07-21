@@ -6,8 +6,8 @@ base_manpower = 3
 base_production = 3
 
 
-culture = culture_mosshide
-religion = religion_ancestral
+culture = culture_bog_beast
+religion = religion_druidic
 
 hre = no
 trade_goods = lumber
@@ -63,7 +63,7 @@ religion = religion_fel
 owner = xxx
 controller = xxx
 remove_core = A43
-culture = culture_mosshide 
+culture = culture_bog_beast 
 religion = religion_druidic
 }
 

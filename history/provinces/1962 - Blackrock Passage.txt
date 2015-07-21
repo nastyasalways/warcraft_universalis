@@ -72,7 +72,7 @@ culture = culture_dark_iron
 religion = religion_ragnaros 
 }
 
-600.1.1 = { 
+631.1.1 = { 
 add_core = A43
 religion = religion_arcane 
 }
