@@ -2,7 +2,7 @@
 is_city = yes
 
 owner = E70
-controller = E70
+controler = E70
 add_core = E70
 
 base_tax = 3
@@ -56,3 +56,16 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 discovered_by = tech_primitive
 
+632.1.1 = {
+owner = E68
+controler = E68
+add_core = E68
+culture = culture_forest_hozen
+}
+
+633.1.1 = { 
+owner = E70
+controller = E70
+remove_core = E68
+culture = culture_jinyu
+}

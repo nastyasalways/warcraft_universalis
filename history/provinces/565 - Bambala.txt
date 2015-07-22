@@ -55,6 +55,10 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+622.1.1 = {
+religion = religion_hakkari
+}
+
 631.1.1 = { 
 owner = A70
 controller = A70

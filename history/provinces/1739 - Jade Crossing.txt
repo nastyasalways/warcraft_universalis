@@ -52,3 +52,24 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 discovered_by = tech_primitive
 
+632.1.1 = {
+owner = B84
+controler = B84
+add_core = B84
+culture = culture_sha
+religion = religion_old_gods
+}
+
+632.1.1 = {
+owner = B84
+controler = B84
+add_core = B84
+religion = religion_old_gods
+}
+
+633.1.1 = { 
+owner = xxx
+controller = xxx
+remove_core = B84
+}
+

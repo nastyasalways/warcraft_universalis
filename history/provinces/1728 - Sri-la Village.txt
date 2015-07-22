@@ -1,9 +1,9 @@
 # 1728
 is_city = yes
 
-owner = E63
-controller = E63
-add_core = E63
+owner = E91
+controller = E91
+add_core = E91
 
 base_tax = 3
 base_manpower = 3

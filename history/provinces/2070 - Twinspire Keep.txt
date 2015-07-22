@@ -2,7 +2,7 @@
 is_city = yes
 
 owner = E67
-controller = E67
+controler = E67
 add_core = E67
 
 base_tax = 4
@@ -55,4 +55,20 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 discovered_by = tech_primitive
+
+632.1.1 = { 
+owner = A48
+controller = A48
+add_core = A48
+add_core = E14
+culture = culture_horde
+religion = religion_ancestral
+}
+
+633.1.1 = { 
+owner = xxx
+controller = xxx
+remove_core = A48
+remove_core = E14
+}
 

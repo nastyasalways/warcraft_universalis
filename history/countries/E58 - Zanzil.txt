@@ -2,11 +2,11 @@
 government 		= theocratic_government
 mercantilism 		= 0.1 
 technology_group 	= tech_troll
-religion			= religion_loa
+religion			= religion_voodoo
 primary_culture 	= culture_gurubashi
 capital 			= 920
 
-546.1.1 = { 
+617.1.1 = { 
 	monarch = { 
 		name = "Zanzil" 
 		dynasty = "Gurubashi" 

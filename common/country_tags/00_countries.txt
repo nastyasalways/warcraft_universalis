@@ -188,7 +188,7 @@ A93 = "countries/Sunfury.txt"
 
 # Night Elf
 A94 = "countries/Darnassus.txt"
-A95 = "countries/Nighthaven.txt"
+A95 = "countries/Cenarion Circle.txt"
 
 # Aqir
 A96 = "countries/AhnKahet.txt"
@@ -320,7 +320,7 @@ B82 = "countries/Moaki.txt"
 
 # Old God
 B83 = "countries/Faceless.txt"
-B84 = "countries/The Twilights Hammer.txt"
+B84 = "countries/The Sha.txt"
 B85 = "countries/The Dark Below.txt"
 B86 = "countries/Kingdom of a Thousand Maws.txt"
 
@@ -407,6 +407,8 @@ E66 = "countries/White Tiger.txt"
 E84 = "countries/Tillers.txt"
 E91 = "countries/Anglers.txt"
 F02 = "countries/Golden Lotus.txt"
+F45 = "countries/Forest Heart.txt"
+F46 = "countries/Cloud Serpent.txt"
 
 
 # Mogu

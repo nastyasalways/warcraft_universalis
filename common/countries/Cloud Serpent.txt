@@ -1,8 +1,8 @@
-# Nighthaven
+# Order of the Cloud Serpent
 
 graphical_culture = westerngfx
 
-color = { 128 191 145 }
+color = { 79 172 229 }
 
 monarch_names = {
 
