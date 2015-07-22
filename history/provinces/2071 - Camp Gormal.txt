@@ -2,7 +2,7 @@
 is_city = yes
 
 owner = E67
-controller = E67
+controler = E67
 add_core = E67
 
 base_tax = 3

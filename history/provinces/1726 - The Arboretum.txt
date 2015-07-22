@@ -1,10 +1,9 @@
 # 1726
 is_city = yes
 
-owner = E63
-controller = E63
-add_core = E63
-
+owner = F46
+controler = F46
+add_core = F46
 base_tax = 3
 base_manpower = 3
 base_production = 3

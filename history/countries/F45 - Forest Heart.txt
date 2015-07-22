@@ -1,0 +1,32 @@
+# Forest Heart
+government 		= despotic_magocracy
+mercantilism 		= 0.1
+technology_group 	= tech_pandaren
+religion		= religion_arcane
+primary_culture 	= culture_jade_serpent
+add_accepted_culture = culture_construct
+capital 		= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "" 
+     dynasty = "Jade Witch" 
+		adm = 4
+		dip = 3
+		mil = 3
+female = yes
+ 	} 
+ } 
+
+592.1.1 = { 
+monarch = { 
+     name = "" 
+     dynasty = "Jade Witch" 
+		adm = 4
+		dip = 3
+		mil = 3
+female = yes
+ 	} 
+ } 
+
+ 

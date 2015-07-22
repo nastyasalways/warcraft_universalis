@@ -1,9 +1,9 @@
 # 1727
 is_city = yes
 
-owner = E63
-controller = E63
-add_core = E63
+owner = F46
+controler = F46
+add_core = F46
 
 base_tax = 3
 base_manpower = 3
@@ -56,4 +56,12 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 discovered_by = tech_primitive
+
+632.1.1 = {
+owner = E71
+controler = E71
+add_core = E71
+culture = culture_slitherscale
+religion = religion_voodoo
+}
 

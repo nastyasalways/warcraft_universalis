@@ -2,7 +2,7 @@
 is_city = yes
 
 owner = E71
-controller = E71
+controler = E71
 add_core = E71
 
 

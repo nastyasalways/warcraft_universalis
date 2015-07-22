@@ -1,5 +1,5 @@
 # Dreadmaul
-government 		= shado_pan
+government 		= monastic_order_government
 mercantilism 		= 0.1 
 technology_group 	= tech_pandaren
 religion		= religion_celestial

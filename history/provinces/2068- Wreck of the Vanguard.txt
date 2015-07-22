@@ -53,3 +53,11 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 discovered_by = tech_primitive
 
+632.1.1 = { 
+owner = A01
+controller = A01
+add_core = A01
+culture = culture_azerothian
+religion = religion_church_of_the_light
+}
+

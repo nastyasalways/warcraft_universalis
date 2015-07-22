@@ -60,5 +60,5 @@ owner = A93
 controller = A93
 add_core = A93
 culture = culture_blood_elf
-religion = arcane
+religion = religion_arcane
 }

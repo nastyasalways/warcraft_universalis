@@ -57,4 +57,5 @@ discovered_by = tech_gnome
 owner = E58
 controller = E58
 add_core = E58 
+religion = religion_voodoo
 }

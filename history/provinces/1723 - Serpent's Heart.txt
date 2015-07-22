@@ -2,7 +2,7 @@
 is_city = yes
 
 owner = E63
-controller = E63
+controler = E63
 add_core = E63
 
 base_tax = 2
@@ -55,4 +55,22 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 discovered_by = tech_primitive
+
+632.1.1 = {
+owner = B84
+controler = B84
+add_core = B84
+culture = culture_sha
+religion = religion_old_gods
+}
+
+633.1.1 = { 
+owner = E63
+controller = E63
+add_core = E63
+remove_core = B84
+culture = culture_jade_serpent
+religion = religion_celestial
+}
+
 

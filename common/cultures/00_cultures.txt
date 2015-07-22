@@ -153,18 +153,6 @@ culture_group_darnassian = {
 	dynasty_names = {
 		
 	}
-		
-	culture_night_elf = {
-		male_names = {
-		
-		}
-		female_names = {
-	
-		}
-		dynasty_names = {
-		
-		}
-	}
 	
 	culture_sentinel = {
 		male_names = {
@@ -3028,6 +3016,30 @@ culture_group_elemental = {
 	}
 
 	culture_treant = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_sha = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_construct = {
 		male_names = {
 			
 		}

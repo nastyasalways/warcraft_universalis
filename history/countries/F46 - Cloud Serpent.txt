@@ -1,20 +1,21 @@
-# Tushui
+# Forest Heart
 government 		= monastic_order_government
 government_rank = 1
 mercantilism 		= 0.1
 technology_group 	= tech_pandaren
 religion			= religion_celestial
-primary_culture 	= culture_tuskui
+primary_culture 	= culture_jade_serpent
 capital 			= 1
 
-632.1.1 = { 
+546.1.1 = { 
 
 monarch = { 
-     name = "Aysa" 
-     dynasty = "Cloudsinger" 
+     name = "" 
+     dynasty = "Anli" 
 		adm = 3
 		dip = 4
 		mil = 3
                 female = yes
  	} 
  } 
+ 
