@@ -12,7 +12,7 @@ culture = culture_skumblade
 religion = religion_voodoo
 
 hre = no
-trade_goods = fish
+trade_goods = fossils
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -53,3 +53,10 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+632.1.1 = {
+owner = E92
+controler = E92
+add_core = E92
+religion = religion_titan
+culture = culture_shan_ze
+}

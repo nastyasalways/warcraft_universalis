@@ -61,3 +61,12 @@ add_core = A43
 religion = religion_old_gods
 culture = culture_twilight
 }
+
+632.1.1 = { 
+owner = E27
+controller = E27
+add_core = E27
+remove_core = A43
+culture = culture_earth
+religion = religion_therazane
+}

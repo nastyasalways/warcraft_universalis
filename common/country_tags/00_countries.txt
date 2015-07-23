@@ -161,6 +161,9 @@ A77 = "countries/Winterfang.txt"
 # Zandalari Troll
 A78 = "countries/Zandalar.txt"
 
+# Dark Troll
+F47 = "countries/Shadowtooth.txt"
+
 # Goblin
 A79 = "countries/Bilgewater.txt"
 A80 = "countries/Steamwheedle.txt"

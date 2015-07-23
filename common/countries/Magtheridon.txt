@@ -1,4 +1,4 @@
-# Argus Wake
+# Magtheridon's Forces
 
 graphical_culture = westerngfx
 

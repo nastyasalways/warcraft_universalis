@@ -1,7 +1,22 @@
 # Zandalar
-government 		= despotic_monarchy
+government 		= absolute_monarchy
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_troll
+religion			= religion_loa
+primary_culture 	= culture_zandalari
 capital 			= 1
+
+546.1.1 = { 
+
+	monarch =
+	{ 
+		name = "Rastakhan" 
+			 
+		dynasty = "Zandalar" 
+				
+		adm = 3	
+		dip = 5	
+		mil = 3	
+	} 
+
+} 

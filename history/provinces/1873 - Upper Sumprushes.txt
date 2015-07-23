@@ -56,3 +56,12 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+632.1.1 = {
+owner = E45
+controler = E45
+add_core = E45
+remove_core = E47
+culture = culture_osul
+}
+
+

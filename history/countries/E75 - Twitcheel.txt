@@ -1,5 +1,5 @@
 # Twitcheel Virmen
-government 		= minor_tribe
+government 		= tribal_federation
 mercantilism 		= 0.1
 technology_group 	= tech_primitive
 religion			= religion_geomancy

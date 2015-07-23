@@ -55,3 +55,11 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+632.1.1 = {
+owner = E75
+controller = E75
+add_core = E75
+culture = culture_springtail
+religion = religion_geomancy
+}
+

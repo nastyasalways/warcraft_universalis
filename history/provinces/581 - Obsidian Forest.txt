@@ -65,8 +65,10 @@ culture = culture_black
 }
 
 632.1.1 = { 
-owner = A43
-controller = A43
-add_core = A43
+owner = E27
+controller = E27
+add_core = E27
+remove_core = A99
 culture = culture_earth
+religion = religion_therazane
 }

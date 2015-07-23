@@ -56,3 +56,13 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+632.1.1 = {
+owner = E34
+controler = E34
+add_core = E34
+remove_core = E90
+culture = culture_mantid
+religion = religon_old_gods
+}
+
+

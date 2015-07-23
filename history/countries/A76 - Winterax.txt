@@ -15,3 +15,13 @@ monarch = {
 		mil = 3
  	} 
  } 
+
+592.1.1 = { 
+monarch = { 
+     name = "Korrak" 
+     dynasty = "the Bloodrager" 
+		adm = 3
+		dip = 2
+		mil = 4
+ 	} 
+ } 

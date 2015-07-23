@@ -92,13 +92,19 @@ l_english:
  culture_jellyneck: "Jellyneck"
  
  culture_group_sand_troll: "Sand Troll"
- culture_sand_fury: "Sand Fury"
+ culture_sandfury: "Sandfury"
  
  culture_group_ice_troll: "Ice Troll"
  culture_frostmane: "Frostmane"
  culture_winterax: "Winterax"
  culture_winterfang: "Winterfang"
  culture_drakkari: "Drakkari"
+
+ culture_group_dark_troll: "Dark Troll"
+ culture_shadowtooth: "Shadowtooth"
+
+ culture_group_zandalar_troll: "Zandalar Troll"
+ culture_zandalari: "Zandalari"
  
  culture_group_goblin: "Goblin"
  culture_kezani: "Kezani"
@@ -114,7 +120,7 @@ l_english:
  culture_grimtotem: "Grimtotem"
  culture_runetotem: "Runetotem"
  culture_mistrunner: "Mistrunner"
- culture_dawnstrider: "Dawnstrider"
+ culture_dawnchaser: "Dawnchaser"
  culture_winterhoof: "Winterhoof"
  
  culture_group_aqir: "Aqir"
@@ -129,6 +135,7 @@ l_english:
  culture_doomguard: "Ered'ruin"
  culture_moarg: "Mo'arg"
  culture_shivarra: "Shivarra"
+ culture_pit_lord: "Annihilan"
  culture_illidari: "Illidari"
  culture_felsworn: "Felsworn"
  culture_legion_cultist: "Legion Cultist"

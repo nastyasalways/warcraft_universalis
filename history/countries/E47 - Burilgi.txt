@@ -1,5 +1,4 @@
 # Burilgi
-# Palewind
 government 		= warband
 mercantilism 		= 0.1
 technology_group 	= tech_yaungol

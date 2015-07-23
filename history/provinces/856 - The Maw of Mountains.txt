@@ -67,9 +67,8 @@ controller = xxx
 }
 
 631.1.1 = { 
-owner = A43
-controller = A43
-add_core = A43
-religion = religion_old_gods
-culture = culture_n_zoth
+owner = B83
+controller = B83
+add_core = B83
+remove_core = F10
 }
