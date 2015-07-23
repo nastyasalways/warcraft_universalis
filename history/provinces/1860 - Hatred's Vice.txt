@@ -57,3 +57,19 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+632.1.1 = {
+owner = B84
+controler = B84
+add_core = B84
+remove_core = E48
+religion = religion_old_gods
+culture = culture_sha
+}
+
+633.1.1 = { 
+owner = xxx
+controller = xxx
+remove_core = B84
+culture = culture_mantid
+}
+

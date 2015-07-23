@@ -54,3 +54,18 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+632.1.1 = { 
+owner = E42
+controller = E42
+add_core = E42
+culture = culture_shao_tien
+religion = religion_titan
+}
+
+633.1.1 = { 
+owner = xxx
+controller = xxx
+religion = religion_old_gods
+}
+
+

@@ -1,16 +1,13 @@
 # 744
 is_city = yes
-owner = E27
-controller = E27
-add_core = E27
 
 base_tax = 4
-base_manpower = 4
+base_manpower = 3
 base_production = 4
 
 
-culture = culture_earth
-religion = religion_therazane
+culture = culture_n_zoth
+religion = religion_old_gods
 
 hre = no
 trade_goods = elementium
@@ -59,7 +56,12 @@ owner = A43
 controller = A43
 add_core = A43
 remove_core = E27
-religion = religion_old_gods
-culture = culture_twilight
+culture = culture_dark_iron
+}
+
+632.1.1 = { 
+owner = xxx
+controller = xxx
+culture = culture_n_zoth
 }
 

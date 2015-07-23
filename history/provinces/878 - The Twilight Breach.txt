@@ -79,3 +79,9 @@ add_core = A43
 religion = religion_old_gods
 culture = culture_twilight
 }
+
+632.1.1 = { 
+owner = xxx
+controller = xxx
+remove_core = A43
+}

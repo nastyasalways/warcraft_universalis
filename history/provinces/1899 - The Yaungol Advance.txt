@@ -51,3 +51,14 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+632.1.1 = {
+owner = E43
+controler = E43
+add_core = E43
+base_manpower = 3
+culture = culture_bataari
+religion = religion_ragnaros
+trade_goods = oil
+capital = "Fire Camp Bataar"
+}
+

@@ -1096,7 +1096,7 @@ culture_group_sand_troll = {
 			
 	}
 		
-	culture_sand_fury = {
+	culture_sandfury = {
 		male_names = {
 			
 		}
@@ -1159,6 +1159,58 @@ culture_group_ice_troll = {
 	}
 	
 	culture_drakkari = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+}
+
+culture_group_zandalar_troll = {
+	graphical_culture = westerngfx
+
+	male_names = {
+			
+	}
+	female_names = {
+	
+	}
+	dynasty_names = {
+		
+	}
+		
+	culture_zandalari = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+}
+
+culture_group_dark_troll = {
+	graphical_culture = westerngfx
+
+	male_names = {
+			
+	}
+	female_names = {
+	
+	}
+	dynasty_names = {
+		
+	}
+		
+	culture_shadowtooth = {
 		male_names = {
 			
 		}
@@ -1318,7 +1370,7 @@ culture_group_tauren = {
 		}
 	}
 	
-	culture_dawnstrider = {
+	culture_dawnchaser = {
 		male_names = {
 			
 		}
@@ -1530,6 +1582,18 @@ culture_group_demonic = {
 	}
 
 	culture_shivarra = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+
+	culture_pit_lord = {
 		male_names = {
 			
 		}

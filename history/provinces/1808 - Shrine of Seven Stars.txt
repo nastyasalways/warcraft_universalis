@@ -54,3 +54,11 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+632.1.1 = { 
+owner = E36
+controller = E36
+add_core = E36
+remove_core = F02
+culture = culture_tuskui 
+}
+
