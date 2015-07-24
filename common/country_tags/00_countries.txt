@@ -330,7 +330,7 @@ B86 = "countries/Kingdom of a Thousand Maws.txt"
 # Demonic
 B87 = "countries/Illidari.txt"
 B88 = "countries/Shadow Council.txt"
-B89 = "countries/Argus Wake.txt"
+B89 = "countries/Magtheridon.txt"
 B90 = "countries/Burning Blade.txt"
 B91 = "countries/Searing Blade.txt"
 B92 = "countries/The Burning Legion.txt"
