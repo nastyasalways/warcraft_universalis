@@ -1,13 +1,13 @@
 #629 Windrunner Spire
 
+is_city = yes 
+add_core = A90
+owner = A90
+controller = A90
+
 base_tax = 3
 base_manpower = 2
 base_production = 3
-is_city = yes 
-
-add_core = A90
-controller = A90
-owner = A90
 
 culture = culture_high_elf
 religion = religion_arcane

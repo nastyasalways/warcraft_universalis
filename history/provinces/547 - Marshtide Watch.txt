@@ -59,8 +59,8 @@ discovered_by = tech_gnome
 owner = A01
 controller = A01
 add_core = A01
+remove_core = B04
 culture = culture_azerothian
 religion = religion_church_of_the_light
-remove_core = B04
 }
 

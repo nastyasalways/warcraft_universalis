@@ -53,7 +53,7 @@ discovered_by = tech_gnome
 
 632.1.1 = {
 owner = E89
-controler = E89
+controller = E89
 add_core = E89
 culture = culture_ruqin
 religion = religion_ragnaros

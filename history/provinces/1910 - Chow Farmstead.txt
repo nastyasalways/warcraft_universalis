@@ -57,7 +57,7 @@ discovered_by = tech_gnome
 
 632.1.1 = {
 owner = E44
-controler = E44
+controller = E44
 add_core = E44
 remove_core = E66
 trade_goods = slaves

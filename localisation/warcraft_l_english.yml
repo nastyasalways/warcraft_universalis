@@ -320,8 +320,8 @@
  A91_ADJ: "Silvermoon"
  A92: "Sunreaver"
  A92_ADJ: "Sunreaver"
- A93: "Kael'thas' Forces"
- A93_ADJ: "Blood Elf"
+ A93: "Sunfury"
+ A93_ADJ: "Sunfury"
  A94: "Darnassus"
  A94_ADJ: "Darnassus"
  A95: "Nighthaven"
@@ -510,8 +510,8 @@
  B87_ADJ: "Illidari"
  B88: "Shadow Council"
  B88_ADJ: "Shadow Council"
- B89: "Magtheridon's Legion"
- B89_ADJ: "Legion"
+ B89: "Fel Horde"
+ B89_ADJ: "Fel Horde"
  B90: "Burning Blade"
  B90_ADJ: "Burning Blade"
  B91: "Searing Blade"
@@ -822,6 +822,8 @@
  F45_ADJ: "Forest Heart"
  F46: "Cloud Serpent"
  F46_ADJ: "Cloud Serpent"
+ F47: "Shadowtooth"
+ F47_ADJ: "Dark Troll"
  
  # Governments
  magocracy_republic: "Magocracy Republic"
@@ -958,6 +960,11 @@
  criminal_organization_desc: ""
  criminal_organization_ruler: "Kingpin"
  criminal_organization_ruler_female: "Kingpin"
+
+ horde_kingdom: "Horde Kingdom"
+ horde_kingdom_desc: ""
+ horde_kingdom_ruler: "King"
+ horde_kingdom_ruler_female: "Queen"
  
  # Religions
  religion_titan: "Titanic"
@@ -1052,8 +1059,8 @@
  tech_centaur_desc: "With the Centaur technology group, technology levels are standard cost (100%)."
  tech_furbolg: "Furbolg"
  tech_furbolg_desc: "With the Furbolg technology group, technology levels are standard cost (100%)."
- tech_wolvar: "Wolvar"
- tech_wolvar_desc: "With the Wolvar technology group, technology levels are standard cost (100%)."
+ tech_wolfvar: "Wolvar"
+ tech_wolfvar_desc: "With the Wolvar technology group, technology levels are standard cost (100%)."
  tech_gorloc: "Gorloc"
  tech_gorloc_desc: "With the Gorloc technology group, technology levels are standard cost (100%)."
  tech_kobold: "Kobold"

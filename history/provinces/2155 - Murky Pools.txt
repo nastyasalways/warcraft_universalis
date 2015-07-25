@@ -58,13 +58,14 @@ culture = culture_blackrock
 religion = religion_fel }
 
 600.1.1 = { 
-owner = xxx
-controller = xxx 
+owner = XXX
+controller = XXX
 remove_core = A41
 }
 
 622.1.1 = {
 religion = religion_ancestral
+culture = culture_lost_one
 }
 
 

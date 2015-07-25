@@ -1,8 +1,8 @@
 # 653 The Misty Bank
 is_city = yes
 add_core = A03
-controller = A03
 owner = A03
+controller = A03
 
 base_tax = 2
 base_manpower = 2
@@ -63,20 +63,20 @@ religion = religion_fel
 }
 
 600.1.1 = {
-owner = xxx
-controller = xxx
+owner = XXX
+controller = XXX
 culture = culture_azerothian
-religion = religion_church_of_the_light 
+religion = religion_church_of_the_light
+remove_core = A44  
 }
 
 616.11.11 = {
-owner = xxx
-controller = xxx 
+owner = XXX
+controller = XXX
 }
 
 617.1.1 = { 
 owner = F12
 controller = F12
 add_core = F12
-remove_core = A44 
 }

@@ -2,7 +2,7 @@
 is_city = yes
 
 owner = E63
-controler = E63
+controller = E63
 add_core = E63
 
 base_tax = 2
@@ -58,7 +58,7 @@ discovered_by = tech_primitive
 
 632.1.1 = {
 owner = E35
-controler = E35
+controller = E35
 add_core = E35
 remove_core = E63
 }

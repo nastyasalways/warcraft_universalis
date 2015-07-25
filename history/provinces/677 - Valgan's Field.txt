@@ -1,8 +1,8 @@
 # 677
 is_city = yes
 add_core = A08
-controller = A08
 owner = A08
+controller = A08
 capital = "Valgan's Farmstead"
 
 base_tax = 3
@@ -58,22 +58,26 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 618.1.1 = { 
-	owner = A25
-	controller = A25
-	add_core = A25
+owner = A25
+controller = A25
+add_core = A25
 }
 
-622.1.1 = { owner = A13
+622.1.1 = { 
+owner = A13
 controller = A13
 add_core = A13
 remove_core = A08
 remove_core = A25
 culture = culture_gilnean_worgen
-religion = religion_shadow }
+religion = religion_shadow 
+}
 
 
-631.1.1 = { owner = XXX
+631.1.1 = { 
+owner = XXX
 controller = XXX
-remove_core = A13 }
+remove_core = A13 
+}
 
 

@@ -64,8 +64,8 @@ religion = religion_titan
 }
 
 633.1.1 = { 
-owner = xxx
-controller = xxx
+owner = XXX
+controller = XXX
 religion = religion_old_gods
 }
 

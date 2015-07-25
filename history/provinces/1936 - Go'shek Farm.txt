@@ -1,8 +1,8 @@
 # 1936 Tazz'watha
 is_city = yes
 add_core = A65
-controller = A65
 owner = A65
+controller = A65
 
 base_tax = 3
 base_manpower = 2

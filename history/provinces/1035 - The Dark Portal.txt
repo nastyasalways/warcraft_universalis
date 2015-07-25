@@ -81,13 +81,13 @@ religion = religion_arcane
 }
 
 617.1.1 = { 
-owner = xxx
-controller = xxx 
+owner = XXX
+controller = XXX 
 }
 
 632.11.11 = { 
-owner = xxx
-controller = xxx 
+owner = XXX
+controller = XXX 
 }
 
 633.1.1 = { 

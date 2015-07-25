@@ -57,7 +57,7 @@ discovered_by = tech_gnome
 
 632.1.1 = {
 owner = E47
-controler = E47
+controller = E47
 add_core = E47
 culture = culture_burilgi
 religion = religion_ragnaros

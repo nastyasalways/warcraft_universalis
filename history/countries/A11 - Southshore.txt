@@ -64,6 +64,8 @@ monarch = {
  	capital = 991
  } 
 
-631.1.1 = { primary_culture = culture_lordaeron_worgen
+631.1.1 = { 
+primary_culture = culture_lordaeron_worgen
 technology_group = tech_worgen 
-capital = 731}
+capital = 731
+}

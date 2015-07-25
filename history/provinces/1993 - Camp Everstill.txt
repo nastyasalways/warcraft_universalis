@@ -1,8 +1,9 @@
 # 1993
 is_city = yes
 add_core = A04
-controller = A04
 owner = A04
+controller = A04
+
 
 base_tax = 2
 base_manpower = 2
@@ -63,14 +64,14 @@ religion = religion_fel
 }
 
 600.1.1 = { 
-owner = xxx
-controller = xxx 
+owner = XXX
+controller = XXX
 }
 
 
 616.11.11 = {
-owner = xxx
-controller = xxx 
+owner = XXX
+controller = XXX
 }
 
 617.1.1 = {

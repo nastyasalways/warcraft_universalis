@@ -2,8 +2,8 @@
 is_city = yes 
 
 add_core = E27
-controller = E27
 owner = E27
+controller = E27
 
 base_tax = 1
 base_manpower = 1

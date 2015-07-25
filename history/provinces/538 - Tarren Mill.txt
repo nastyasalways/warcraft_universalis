@@ -1,8 +1,8 @@
 # 538
 is_city = yes
 add_core = A11
-controller = A11
 owner = A11
+controller = A11
 
 base_tax = 4
 base_manpower = 4

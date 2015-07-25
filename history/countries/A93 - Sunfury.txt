@@ -20,4 +20,6 @@ capital 			= 1
 religion = religion_fel
 }
 
-625.1.1 = { add_accepted_culture = felblood_elf }
+625.1.1 = { 
+add_accepted_culture = culture_felblood_elf 
+}

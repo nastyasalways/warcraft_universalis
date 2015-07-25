@@ -1,8 +1,8 @@
 #1011 Scarlet Farmlands/Havenshire
 is_city = yes 
 add_core = E62
-controller = E62
 owner = E62
+controller = E62
 capital = "Havenshire"
 
 base_tax = 3
@@ -54,13 +54,17 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-622.1.1 = { add_core = A22
+622.1.1 = { 
+add_core = A22
 add_core = F18
-remove_core = A10
-controller = A22
+remove_core = E62
 owner = A22
-religion = religion_scarlet_light }
+controller = A22
+religion = religion_scarlet_light 
+}
 
-626.1.1 = { owner = xxx
-controller = xxx
-add_core = F18 }
+626.1.1 = { 
+owner = XXX
+controller = XXX
+add_core = F18 
+}

@@ -1,8 +1,8 @@
 # 1015
 is_city = yes
 add_core = A08
-controller = A08
 owner = A08
+controller = A08
 
 base_tax = 2
 base_manpower = 2
@@ -54,8 +54,8 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 618.1.1 = { add_core = B19
-controller = B19
 owner = B19
+controller = B19
 culture = culture_rothide
 religion = religion_ancestral}
 

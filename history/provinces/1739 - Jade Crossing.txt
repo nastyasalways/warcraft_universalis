@@ -54,22 +54,16 @@ discovered_by = tech_primitive
 
 632.1.1 = {
 owner = B84
-controler = B84
+controller = B84
 add_core = B84
 culture = culture_sha
 religion = religion_old_gods
 }
 
-632.1.1 = {
-owner = B84
-controler = B84
-add_core = B84
-religion = religion_old_gods
-}
-
 633.1.1 = { 
-owner = xxx
-controller = xxx
+owner = XXX
+controller = XXX
+culture = culture_jade_serpent
 remove_core = B84
 }
 

@@ -57,5 +57,6 @@ controller = A80
 add_core = A80
 culture = culture_steamwheedle
 religion = religion_tech
+trade_goods = workshops
 }
 

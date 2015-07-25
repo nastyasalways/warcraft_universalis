@@ -1,8 +1,8 @@
 # 740
 is_city = yes
 add_core = A08
-controller = A08
 owner = A08
+controller = A08
 
 base_tax = 3
 base_manpower = 2
@@ -55,26 +55,34 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-617.1.1 = { add_core = E52
-controller = E52
+617.1.1 = { 
+add_core = E52
 owner = E52
+controller = E52
 culture = culture_scourge
-religion = religion_the_damned }
+religion = religion_the_damned 
+}
 
-618.1.1 = { add_core = F15
+618.1.1 = { 
+add_core = F15
 remove_core = E52
-controller = F15
 owner = F15
-religion = religion_fel}
+controller = F15
+religion = religion_fel
+}
 
-622.1.1 = { add_core = E52
+622.1.1 = { 
+add_core = E52
 remove_core = F15
 remove_core = A08
-controller = E52
 owner = E52
-religion = religion_the_damned}
+controller = E52
+religion = religion_the_damned
+}
 
-631.1.1 = { add_core = E12
+631.1.1 = { 
+add_core = E12
 remove_core = E52
+owner = E12 
 controller = E12
-owner = E12 }
+}

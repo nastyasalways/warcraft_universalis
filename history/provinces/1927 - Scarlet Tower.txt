@@ -3,8 +3,8 @@
 is_city = yes 
 
 add_core = A08
-controller = A08
 owner = A08
+controller = A08
 
 base_tax = 1 
 manpower = 1
@@ -59,8 +59,8 @@ discovered_by = tech_gnome
 
 618.1.1 = { 
 add_core = F16
-controller = F16
 owner = F16 
+controller = F16
 }
 
 622.1.1 = { 

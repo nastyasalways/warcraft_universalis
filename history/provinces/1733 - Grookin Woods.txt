@@ -2,7 +2,7 @@
 is_city = yes
 
 owner = E63
-controler = E63
+controller = E63
 add_core = E63
 capital = "Thunderpaw Refuge"
 
@@ -59,7 +59,7 @@ discovered_by = tech_primitive
 
 632.1.1 = {
 owner = F45
-controler = F45
+controller = F45
 add_core = F45
 culture = culture_construct
 religion = religion_arcane

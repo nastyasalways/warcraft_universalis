@@ -2,8 +2,8 @@
 
 is_city = yes
 add_core = A11
-controller = A11
 owner = A11
+controller = A11
 capital = "Azurelode Mine"
 
 base_tax = 3
@@ -58,10 +58,12 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome 
 
-631.1.1 = { owner = E14
+631.1.1 = { 
+owner = E14
 controller = E14
 add_core = E14
 culture = culture_forsaken
 religion = religion_forgotten_shadow
 trade_goods = warbeasts
-capital = "Azurelode Spider Farm" }
+capital = "Azurelode Spider Farm" 
+}

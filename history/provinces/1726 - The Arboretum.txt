@@ -2,7 +2,7 @@
 is_city = yes
 
 owner = F46
-controler = F46
+controller = F46
 add_core = F46
 base_tax = 3
 base_manpower = 3

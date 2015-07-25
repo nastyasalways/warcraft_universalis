@@ -1,8 +1,8 @@
 # 1923
 is_city = yes
 add_core = A09
-controller = A09
 owner = A09
+controller = A09
 
 base_tax = 2
 base_manpower = 2
@@ -55,26 +55,26 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
  
 617.1.1 = { add_core = E52
-controller = E52
 owner = E52
+controller = E52
 culture = culture_scourge
 religion = religion_the_damned }
 
 618.1.1 = { add_core = F15
 remove_core = E52
-controller = F15
 owner = F15
+controller = F15
 religion = religion_fel}
 
 622.1.1 = { add_core = A24
 remove_core = F15
 remove_core = A09
-controller = A24
 owner = A24
+controller = A24
 add_core = E14
 religion = religion_argent_light
 culture = culture_lordaeron }
 
 626.1.1 = { add_core = F19
-controller = F19
-owner = F19 }
+owner = F19
+controller = F19 }

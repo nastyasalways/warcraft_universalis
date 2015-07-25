@@ -2,8 +2,8 @@
 is_city = yes
 
 owner = E72
-controller = E72
 add_core = E72
+controller = E72
 
 base_tax = 4
 base_manpower = 4

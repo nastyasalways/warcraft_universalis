@@ -65,9 +65,10 @@ religion = religion_geomancy
  }
 
 600.1.1 = { 
-owner = xxx
-controller = xxx
+owner = XXX
+controller = XXx
 remove_core = E98
+remove_core = F06
 culture = culture_dark_iron
 religion = religion_ragnaros 
 }

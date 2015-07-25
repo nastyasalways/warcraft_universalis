@@ -1,8 +1,9 @@
 # 669
 is_city = yes
 add_core = B16
-controller = B16
 owner = B16
+controller = B16
+
 
 base_tax = 2
 base_manpower = 3
@@ -60,20 +61,22 @@ add_core = E98
 culture = culture_blackrock
 religion = religion_fel }
 
-600.1.1 = { owner = xxx
-controller = xxx }
+600.1.1 = { owner = XXX
+controller = XXX }
 
 616.11.11 = {
-owner = xxx
-controller = xxx
+owner = XXX
+controller = XXX
 }
 
-617.1.1 = {owner = F11
+617.1.1 = {
+owner = F11
 controller = F11
 add_core = F11
 remove_core = E98
 culture = culture_nerglish
-religion = religion_old_gods}
+religion = religion_old_gods
+}
 
 622.1.1 = { 
 owner = A41
