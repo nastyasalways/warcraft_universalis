@@ -61,13 +61,14 @@ religion = religion_fel
 }
 
 600.1.1 = { 
-owner = xxx
-controller = xxx 
+owner = XXX
+controller = XXX
+remove_core = A40
 }
 
 621.11.11 = { 
-owner = xxx
-controller = xxx 
+owner = XXX
+controller = XXX
 }
 
 622.1.1 = { 

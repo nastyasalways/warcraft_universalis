@@ -226,7 +226,6 @@ warband = {
 
 roaming_trade_company = {
 	republic = yes
-	
 	duration = 4
 	
 	valid_for_new_country = no
@@ -690,7 +689,7 @@ exodar_city = {
 }
 
 twilight_cabal = {
-	monarchy = yes
+	religion = yes
 	
 	valid_for_new_country = no
 	valid_for_nation_designer = yes
@@ -823,4 +822,35 @@ criminal_organization = {
 		}
 	}
 	fixed_rank = 1
+}
+
+horde_kingdom = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+	
+	ai_will_do = {
+		factor = 0
+	}
+	ai_importance = 1
+	
+	rank = {
+		1 = {
+			technology_cost = -0.1
+			idea_cost = -0.05
+			advisor_cost = -0.25
+		}
+		2 = {
+			technology_cost = -0.1
+			idea_cost = -0.05
+			advisor_cost = -0.25
+		}
+		3 = {
+			technology_cost = -0.1
+			idea_cost = -0.05
+			advisor_cost = -0.25
+		}
+	}
 }

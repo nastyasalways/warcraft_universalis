@@ -59,7 +59,7 @@ discovered_by = tech_gnome
 owner = A80
 controller = A80
 add_core = A80
+remove_core = B29
 culture = culture_steamwheedle
 religion = religion_tech
-remove_core = B29
 }

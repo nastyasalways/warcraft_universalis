@@ -15,7 +15,7 @@ culture = culture_legashi
 religion = religion_fel
 
 hre = no
-trade_goods = grain
+trade_goods = army_supplies
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -68,7 +68,7 @@ religion = religion_fel
 owner = A94
 controller = A94
 add_core = A94
-remove_core = A91
+remove_core = A93
 culture = culture_sentinel
 religion = religion_elune 
 }

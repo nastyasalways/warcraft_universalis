@@ -33,7 +33,7 @@ culture_group_human = {
 		"Daniels" "Dobbins" "Hann" "Kelly" "Townsley" "Alexston" "Tidewater" "Wental" "Bartleby" "Ginsetti" "Behsten" 
 		"Mora" "Trias" "Carevin" "Elgueta" "Foxworthy" "Stonehammer" "Gump" "Brubaker" "Heisten" "Quin" "Featherwhistle" 
 		"Maclure" "DeLavey" "Farthing" "Grey" "Gray" "Hammerbeak" "Hennigan" "Cloudwing" "Terrel" "Hamfist" "Stonebraid" 
-		"Crowley" "Grassman" "Thomas" "Jongleur" "Alpert" "Danuvin" "Darill" "Hanes" "Dirgehammer" "Stoutmantle" "Holley" 
+		"Crowley" "Grassman" "Thomas" "Jongleur" "Alpert" "Danuvin" "Darill" "Hanes" "Dirgehammer" "Holley" 
 		"Revshon" "Nials"
 	}
 
@@ -1484,18 +1484,6 @@ culture_group_aqir = {
 	}
 	
 	culture_silithid = {
-		male_names = {
-			
-		}
-		female_names = {
-		
-		}
-		dynasty_names = {
-			
-		}
-	}
-	
-	culture_nerubian = {
 		male_names = {
 			
 		}

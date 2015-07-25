@@ -4,7 +4,7 @@ mercantilism 		= 0.1
 technology_group 	= tech_darnassian
 religion			= religion_elune
 primary_culture 	= culture_sentinel
-add_acccepted_culture = culture_cenarion
+add_accepted_culture = culture_cenarion
 capital 			= 1
 
 622.1.1 = { 
@@ -20,5 +20,5 @@ capital 			= 1
 		mil = 4	
            female = yes
 	} 
-add_acccepted_culture = culture_highbourne
+add_accepted_culture = culture_highbourne
 } 

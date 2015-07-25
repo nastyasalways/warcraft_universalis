@@ -57,8 +57,6 @@ discovered_by = tech_gnome
 	owner = A18
 	controller = A18
 	add_core = A18
-	remove_core = E77
 	culture = culture_dalaran
 	religion = religion_arcane
-
 }

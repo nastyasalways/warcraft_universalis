@@ -57,7 +57,7 @@ discovered_by = tech_gnome
 
 632.1.1 = {
 owner = A99
-controler = A99
+controller = A99
 add_core = A99
 remove_core = E37
 religion = religion_sect_of_dragons

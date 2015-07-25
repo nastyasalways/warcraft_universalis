@@ -2,8 +2,8 @@
 
 is_city = yes
 add_core = A11
-controller = A11
 owner = A11
+controller = A11
 
 base_tax = 1
 base_manpower = 1
@@ -64,7 +64,6 @@ owner = A41
 controller = A41
 add_core = A41
 add_core = A26
-remove_core = A17
 culture = culture_blackrock
 religion = religion_fel
 capital = "Blackrock Slave Camp" 
@@ -75,6 +74,7 @@ owner = XXX
 controller = XXX
 religion = religion_church_of_the_light
 culture = culture_lordaeron 
+remove_core = A41
 }
 
 621.11.11 = { 
@@ -86,7 +86,6 @@ controller = XXX
 owner = A26
 controller = A26
 add_core = A26
-remove_core = A41
 culture = culture_alterac
 capital = "Syndicate Overlook" 
 }

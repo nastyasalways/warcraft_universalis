@@ -2,8 +2,8 @@
 
 is_city = yes
 add_core = A11
-controller = A11
 owner = A11
+controller = A11
 
 base_tax = 2
 base_manpower = 2
@@ -58,30 +58,35 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 597.1.1 = { 
-	owner = A01
-	controller = A01
-	add_core = A01
-	culture = culture_azerothian 
+owner = A01
+controller = A01
+add_core = A01
+culture = culture_azerothian 
 }
 
 600.1.1 = { 
-	owner = A11
-	controller = A11
-	remove_core = A01
-	culture = culture_lordaeron 
+owner = A11
+controller = A11
+remove_core = A01
+culture = culture_lordaeron 
 }
 
 618.1.1 = { 
-	owner = XXX 
-	controller = XXX 
+owner = XXX 
+controller = XXX 
+}
+
+630.11.11 = { 
+owner = XXX 
+controller = XXX 
 }
 
 631.1.1 = { 
-	owner = E14
-	controller = E14
-	add_core = E14
-	culture = culture_forsaken
-	religion = religion_forgotten_shadow 
+owner = E14
+controller = E14
+add_core = E14
+culture = culture_forsaken
+religion = religion_forgotten_shadow 
 }
 
 

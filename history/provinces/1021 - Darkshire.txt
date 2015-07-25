@@ -1,8 +1,8 @@
 # 1021
 is_city = yes
 add_core = A03
-controller = A03
 owner = A03
+controller = A03
 
 base_tax = 4
 base_manpower = 4
@@ -62,6 +62,6 @@ religion = religion_fel }
 
 600.1.1 = {owner = A03
 controller = A03
-remove_core = A43
+remove_core = A40
 culture = culture_azerothian
 religion = religion_church_of_the_light }

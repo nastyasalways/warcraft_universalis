@@ -2,7 +2,7 @@
 is_city = yes
 
 owner = E63
-controler = E63
+controller = E63
 add_core = E63
 
 base_tax = 2
@@ -58,7 +58,7 @@ discovered_by = tech_primitive
 
 632.1.1 = {
 owner = B84
-controler = B84
+controller = B84
 add_core = B84
 culture = culture_sha
 religion = religion_old_gods

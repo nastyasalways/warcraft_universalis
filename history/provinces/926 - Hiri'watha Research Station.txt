@@ -3,8 +3,8 @@ is_city = yes
 
 
 add_core = A64
-controller = A64
 owner = A64
+controller = A64
 
 base_tax = 3
 base_manpower = 3
@@ -55,7 +55,10 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-631.1.1 = {owner = E14 
+631.1.1 = {
+owner = E14 
 controller = E14 
+add_core = E14
 culture = culture_forsaken 
-religion = religion_forgotten_shadow}
+religion = religion_forgotten_shadow
+}

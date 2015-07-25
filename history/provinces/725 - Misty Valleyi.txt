@@ -59,10 +59,11 @@ culture = culture_bleeding_hollow
 religion = religion_fel 
 }
 
-617.1.1 = { 
-owner = xxx
-controller = xxx 
-culture = culture_treant
+600.1.1 = { 
+owner = XXX
+controller = XXX
+remove_core = A40
+culture = culture_bog_beast
 religion = religion_druidic
 }
 

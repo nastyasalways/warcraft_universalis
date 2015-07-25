@@ -56,18 +56,20 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-622.1.1
+622.1.1 = { 
+religion = religion_hakkari 
+}
 
+631.1.1 = { 
+add_core = A61 
+}
 
- = { religion = religion_hakkari }
-
-631.1.1 = { add_core = A61 }
-
-632.1.1
- = { owner = A61
+632.1.1 = { 
+owner = A61
 controller = A61
 culture = culture_revantusk
-religion = religion_loa }
+religion = religion_loa 
+}
 
 
 

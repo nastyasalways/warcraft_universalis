@@ -57,16 +57,16 @@ discovered_by = tech_gnome
 
 632.1.1 = {
 owner = B84
-controler = B84
+controller = B84
 add_core = B84
 religion = religion_old_gods
 culture = culture_sha
 }
 
 633.1.1 = { 
-owner = xxx
-controller = xxx
+owner = XXX
+controller = XXX
 remove_core = B84
-culture = culture_shadow_pan
+culture = culture_shado_pan
 }
 

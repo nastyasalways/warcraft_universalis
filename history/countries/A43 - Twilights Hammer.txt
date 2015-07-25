@@ -10,7 +10,7 @@ capital 			= 1
 592.1.1 = { 
 	monarch = { 
 		name = "Cho'gall" 
-		dynasty = "Twilight's Hammer" 
+		dynasty = " of Highmaul" 
 		adm = 4
 		dip = 4
 		mil = 4
@@ -22,7 +22,7 @@ capital 			= 1
 primary_culture = culture_twilight
 religion = religion_old_gods
 government = twilight_cabal
-technology_group 	= tech_old_god
+technology_group = tech_old_god
 }
 
 632.1.1 = { 

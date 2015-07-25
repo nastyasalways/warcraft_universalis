@@ -56,8 +56,8 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 632.1.1 = {
-owner = xxx
-controller = xxx
+owner = XXX
+controller = XXX
 culture = culture_trogg
 religion = religion_geomancy
 }

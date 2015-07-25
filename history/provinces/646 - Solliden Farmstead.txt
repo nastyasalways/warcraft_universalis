@@ -1,8 +1,8 @@
 # 646
 is_city = yes
 add_core = A08
-controller = A08
 owner = A08
+controller = A08
 
 base_tax = 3
 base_manpower = 3
@@ -55,8 +55,8 @@ discovered_by = tech_gnome
 
 618.1.1 = { 
 add_core = F17
-controller = F17
-owner = F17 
+owner = F17
+controller = F17 
 }
 
 622.1.1 = { 
@@ -64,6 +64,6 @@ add_core = A22
 remove_core = F17
 remove_core = A08
 religion = religion_scarlet_light
-controller = A22
 owner = A22 
+controller = A22
 }

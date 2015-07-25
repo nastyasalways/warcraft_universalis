@@ -1,8 +1,8 @@
-# 824
+# 824 Boralus
 is_city = yes
 add_core = A14
-controller = A14
 owner = A14
+controller = A14
 
 base_tax = 8
 base_manpower = 8

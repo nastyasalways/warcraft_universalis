@@ -1,8 +1,8 @@
 # 727 
 is_city = yes
 add_core = A08
-controller = A08
 owner = A08
+controller = A08
 capital = "Vandermar Village"
 
 base_tax = 3
@@ -56,13 +56,17 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-617.1.1 = { religion = religion_the_damned }
+617.1.1 = { 
+religion = religion_the_damned 
+}
 
-618.1.1 = { remove_core = A08
+618.1.1 = {
 add_core = E14
-controller = E14
 owner = E14
+controller = E14
 culture = culture_forsaken
 religion = religion_forgotten_shadow }
 
-622.1.1 = { remove_core = A08 }
+622.1.1 = { 
+remove_core = A08 
+}

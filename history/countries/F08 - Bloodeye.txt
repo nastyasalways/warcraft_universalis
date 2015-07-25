@@ -16,4 +16,6 @@ capital 			= 1
 	} 
 } 
 
-631.1.1 = { religion = religion_old_gods } 
+631.1.1 = {
+religion = religion_old_gods 
+} 

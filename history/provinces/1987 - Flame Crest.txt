@@ -5,7 +5,7 @@ base_tax = 1
 base_manpower = 1
 base_production = 1
 
-culture = fire
+culture = culture_fire
 religion = religion_ragnaros
 
 hre = no
@@ -59,13 +59,13 @@ religion = religion_fel
 }
 
 600.1.1 = { 
-owner = xxx
-controller = xxx 
+owner = XXX
+controller = XXX
 }
 
 621.11.11 = { 
-owner = xxx
-controller = xxx 
+owner = XXX
+controller = XXX
 }
 
 622.1.1 = { 

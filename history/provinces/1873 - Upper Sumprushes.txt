@@ -58,9 +58,9 @@ discovered_by = tech_gnome
 
 632.1.1 = {
 owner = E45
-controler = E45
+controller = E45
 add_core = E45
-remove_core = E47
+remove_core = E44
 culture = culture_osul
 }
 

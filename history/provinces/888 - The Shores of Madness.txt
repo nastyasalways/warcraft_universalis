@@ -1,8 +1,8 @@
 # 888
 is_city = yes
 add_core = F10
-controller = F10
 owner = F10
+controller = F10
 
 base_tax = 3
 base_manpower = 3
@@ -57,18 +57,18 @@ discovered_by = tech_gnome
 617.1.1 = { 
 culture = culture_n_zoth
 religion = religion_old_gods
-owner = xxx
-controller = xxx 
+owner = XXX
+controller = XXX
+remove_core = F10 
 }
 
 630.11.11 = {
-owner = xxx
-controller = xxx
+owner = XXX
+controller = XXX
 }
 
 631.1.1 = { 
 owner = B83
 controller = B83
 add_core = B83
-remove_core = F10
 }

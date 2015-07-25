@@ -1,8 +1,8 @@
 #1044
 is_city = yes
 add_core = A08
-controller = A08
 owner = A08
+controller = A08
 
 base_tax = 2
 base_manpower = 2
@@ -58,8 +58,8 @@ discovered_by = tech_gnome
 
 618.1.1 = { 
 add_core = B25
-controller = B25
 owner = B25
+controller = B25
 culture = culture_nerglish
 religion = religion_old_gods
 }
@@ -69,7 +69,7 @@ religion = religion_scarlet_light
 culture = culture_lordaeron
 remove_core = A08 
 remove_core = B25
-controller = A22
 owner = A22
+controller = A22
 add_core = A22 
 }

@@ -1,7 +1,7 @@
 # Rageclaw
 government 		= minor_tribe
 mercantilism 		= 0.1
-technology_group 	= tech_wolvar
+technology_group 	= tech_wolfvar
 religion		= religion_ancestral
 primary_culture 	= culture_rageclaw
 capital 		= 1

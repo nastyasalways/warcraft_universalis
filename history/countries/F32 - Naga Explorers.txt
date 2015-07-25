@@ -3,6 +3,7 @@ government = noble_republic
 mercantilism = 0.1 
 technology_group = tech_naga
 religion= religion_old_gods
+capital 			= 1
 
 primary_culture = culture_nazja
 

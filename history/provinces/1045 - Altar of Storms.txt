@@ -65,11 +65,11 @@ add_core = A42
 remove_core = B88
 culture = culture_stormreaver}
 
-600.1.1 = { owner = xxx
-controller = xxx }
+600.1.1 = { owner = XXX
+controller = XXX }
 
-616.11.11 = { owner = xxx
-controller = xxx }
+616.11.11 = { owner = XXX
+controller = XXX }
 
 617.1.1 = { 
 owner = F13

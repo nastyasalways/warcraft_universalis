@@ -1,6 +1,6 @@
 # Revantusk
 government 		= warband
-government_rank = 1
+government_rank = 2
 mercantilism 		= 0.1
 technology_group 	= tech_troll
 religion			= religion_loa
@@ -49,4 +49,6 @@ monarch = {
   	}  
   }  
 
-633.1.1 = { capital = 537 }
+633.1.1 = { 
+capital = 537 
+}

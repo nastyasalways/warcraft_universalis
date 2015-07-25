@@ -2,8 +2,8 @@
 is_city = yes
 add_core = A32
 add_core = A75
-controller = A32
 owner = A32
+controller = A32
 
 base_tax = 3
 base_manpower = 3

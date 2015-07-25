@@ -3,8 +3,8 @@ is_city = yes
 
 
 add_core = A60
+owner = A60 
 controller = A60
-owner = A60
 
 base_tax = 2
 base_manpower = 2

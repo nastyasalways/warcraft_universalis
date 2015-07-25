@@ -1,8 +1,8 @@
 # 587
 is_city = yes
 add_core = A01
-controller = A01
 owner = A01
+controller = A01
 
 base_tax = 2
 base_manpower = 2
@@ -63,21 +63,21 @@ religion = religion_fel
 }
 
 600.1.1 = {
-owner = xxx
-controller = xxx
+owner = XXX
+controller = XXX
 culture = culture_azerothian
 religion = religion_church_of_the_light 
 }
 
 616.11.11 = {
-owner = xxx
-controller = xxx 
+owner = XXX
+controller = XXX
 }
 
 617.1.1 = {owner = F11
 controller = F11
 add_core = F11
 remove_core = A44
-reomve_core = A01
+remove_core = A01
 culture = culture_nerglish
 religion = religion_old_gods}

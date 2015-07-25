@@ -2,8 +2,8 @@
 is_city = yes
 
 add_core = A32
-controller = A32
 owner = A32
+controller = A32
 
 base_tax = 2
 base_manpower = 2
@@ -56,14 +56,14 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 622.1.1 = {
-owner = xxx
-controller = xxx
+owner = XXX
+controller = XXX
 culture = culture_leper_gnome
 }
 
 630.11.11 = {
-owner = xxx
-controller = xxx
+owner = XXX
+controller = XXX
 }
 
 

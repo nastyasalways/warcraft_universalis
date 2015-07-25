@@ -55,17 +55,21 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-598.1.1 = { owner = E98
+598.1.1 = { 
+owner = E98
 controller = E98
 add_core = E98
 culture = culture_blackrock
-religion = religion_fel }
+religion = religion_fel 
+}
 
-600.1.1 = { owner = A30
+600.1.1 = { 
+owner = A30
 controller = A30
 remove_core = E98
 culture = culture_dark_iron
-religion = religion_ragnaros }
+religion = religion_ragnaros 
+}
 
 631.1.1 = { 
 religion = religion_arcane 

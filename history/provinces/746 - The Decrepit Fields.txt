@@ -1,8 +1,8 @@
 # 746
 is_city = yes 
 add_core = A08
-controller = A08
 owner = A08
+controller = A08
 capital = "Fenris Landing"
 
 

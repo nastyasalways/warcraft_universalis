@@ -2,7 +2,7 @@
 is_city = yes
 
 owner = F46
-controler = F46
+controller = F46
 add_core = F46
 
 base_tax = 3
@@ -59,7 +59,7 @@ discovered_by = tech_primitive
 
 632.1.1 = {
 owner = E71
-controler = E71
+controller = E71
 add_core = E71
 culture = culture_slitherscale
 religion = religion_voodoo

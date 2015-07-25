@@ -56,6 +56,7 @@ discovered_by = tech_gnome
 
 
 631.1.1 = {
-	controller = XXX
-	owner = XXX
+controller = XXX
+owner = XXX
+remove_core = B04
 }

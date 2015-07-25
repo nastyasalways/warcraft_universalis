@@ -1,8 +1,8 @@
 # 1949
 is_city = yes
 add_core = A29
-controller = A29
 owner = A29
+controller = A29
 
 base_tax = 3
 base_manpower = 3

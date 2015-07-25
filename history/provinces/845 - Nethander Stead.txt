@@ -1,8 +1,8 @@
 # 845 Eastern Strand
 is_city = yes
 add_core = A11
-controller = A11
 owner = A11
+controller = A11
 
 base_tax = 3
 base_manpower = 2
@@ -57,11 +57,13 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 
-622.1.1 = { owner = B14
+622.1.1 = { 
+owner = B14
 controller = B14
 add_core = B14
 add_core = E09 
 culture = culture_mudsnout
-religion = religion_ancestral}
+religion = religion_ancestral
+}
 
 

@@ -1,8 +1,9 @@
 # 1926
 is_city = yes
 add_core = A08
-controller = A08
 owner = A08
+controller = A08
+
 
 base_tax = 2
 base_manpower = 2
@@ -57,8 +58,8 @@ discovered_by = tech_gnome
 controller = F16
 owner = F16 }
 
-622.1.1 = { controller = xxx
-owner = xxx
+622.1.1 = { controller = XXX
+owner = XXX
 culture = culture_scourge
 religion = religion_shadow
 }

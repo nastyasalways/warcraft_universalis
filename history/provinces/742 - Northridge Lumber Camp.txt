@@ -1,8 +1,8 @@
 # 742
 is_city = yes
 add_core = A09
-controller = A09
 owner = A09
+controller = A09
 
 base_tax = 3
 base_manpower = 2

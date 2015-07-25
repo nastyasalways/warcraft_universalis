@@ -3,8 +3,8 @@
 is_city = yes
 
 add_core = E62
-controller = E62
 owner = E62
+controller = E62
 capital = "Tyr's Hand"
 
 base_tax = 6
@@ -58,9 +58,9 @@ discovered_by = tech_gnome
 
 622.1.1 = { 
 add_core = A22
-remove_core = A10
-controller = A22
+remove_core = E62
 owner = A22
+controller = A22
 religion = religion_scarlet_light 
 }
 

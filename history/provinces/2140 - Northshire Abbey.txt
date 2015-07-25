@@ -1,8 +1,8 @@
-# 2140
+# 2140 Northshire Vinyards
 is_city = yes
 add_core = A05
-controller = A05
 owner = A05
+controller = A05
 
 base_tax = 3
 base_manpower = 3
@@ -76,11 +76,16 @@ controller = A07
 add_core = A07 
 }
 
+625.1.1 = { 
+owner = A05
+controller = A05 
+remove_core = A07 
+}
+
 631.1.1 = { 
 owner = A41
 controller = A41
 add_core = A41
-remove_core = A07
 religion = religion_fel
 culture = culture_blackrock
 }

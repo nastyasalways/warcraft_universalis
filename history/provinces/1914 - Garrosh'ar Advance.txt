@@ -53,14 +53,14 @@ discovered_by = tech_gnome
 
 632.1.1 = {
 owner = A48
-controler = A48
+controller = A48
 add_core = A48
 religion = religion_ancestral
 culture = culture_horde
 }
 
 633.1.1 = {
-owner = xxx
-controler = xxx
+owner = XXX
+controller = XXX
 remove_core = A48
 }

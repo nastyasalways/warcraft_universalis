@@ -72,7 +72,8 @@ religion = religion_ragnaros
  }
 
 631.1.1 = { 
-owner = xxx
-controller = xxx
+owner = XXX
+controller = XXX
+remove_core = A30
 }
 

@@ -1,8 +1,8 @@
 # 606
 is_city = yes
 add_core = A16
-controller = A16
 owner = A16
+controller = A16
 
 base_tax = 3
 base_manpower = 3
@@ -75,9 +75,8 @@ religion = religion_ancestral
 }
 
 621.11.11 = {
- owner = XXX
+owner = XXX
 controller = XXX
-remove_core = A48 
 }
 
 622.1.1 = { 

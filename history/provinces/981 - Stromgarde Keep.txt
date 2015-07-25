@@ -1,8 +1,8 @@
 # 981
 is_city = yes
 add_core = A16
-controller = A16
 owner = A16
+controller = A16
 
 base_tax = 6
 base_manpower = 6
@@ -57,11 +57,15 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome 
 
-622.1.1 = { add_core = A26
+622.1.1 = { 
+add_core = A26
 add_core = A64
-add_core = A51 }
+add_core = A51 
+}
 
-631.1.1 = {owner = A51
+631.1.1 = {
+owner = A51
 controller = A51
 culture = culture_boulderfist
-religion = religion_geomancy }
+religion = religion_geomancy 
+}

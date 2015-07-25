@@ -2,8 +2,8 @@
 is_city = yes
 add_core = A16
 add_core = F04
-controller = A16
 owner = A16
+controller = A16
 
 base_tax = 3
 base_manpower = 2
@@ -73,8 +73,9 @@ culture = culture_kul_tiran
 religion = religion_church_of_the_light 
 }
 
-631.1.1 = { remove_core = A14
-owner = xxx
-controller = xxx
+631.1.1 = { 
+remove_core = A14
+owner = XXX
+controller = XXX
 }
 

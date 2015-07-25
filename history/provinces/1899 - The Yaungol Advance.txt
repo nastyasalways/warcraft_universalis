@@ -53,7 +53,7 @@ discovered_by = tech_gnome
 
 632.1.1 = {
 owner = E43
-controler = E43
+controller = E43
 add_core = E43
 base_manpower = 3
 culture = culture_bataari

@@ -1,8 +1,8 @@
 # 1938 
 is_city = yes 
 add_core = A61
-controller = A61
 owner = A61
+controller = A61
 
 
 base_tax = 3
@@ -54,15 +54,18 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-
-617.1.1 = { add_core = A60 
-controller = A60 
+617.1.1 = { 
+add_core = A60 
 owner = A60 
-culture = culture_vilebranch } 
+controller = A60 
+culture = culture_vilebranch
+ } 
 
 
-631.1.1 = {controller = A61 
+631.1.1 = {
 owner = A61 
-culture = culture_revantusk }
+controller = A61 
+culture = culture_revantusk 
+}
 
 

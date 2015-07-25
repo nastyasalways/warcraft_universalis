@@ -57,7 +57,7 @@ discovered_by = tech_gnome
 
 632.1.1 = {
 owner = B84
-controler = B84
+controller = B84
 add_core = B84
 religion = religion_old_gods
 culture = culture_sha

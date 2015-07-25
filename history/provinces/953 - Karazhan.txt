@@ -59,13 +59,13 @@ religion = religion_fel
 }
 
 597.1.1 = { 
-owner = xxx
-controller = xxx 
+owner = XXX
+controller = XXX 
 }
 
 625.11.11 = { 
-owner = xxx
-controller = xxx 
+owner = XXX
+controller = XXX 
 }
 
 626.1.1 = { 
