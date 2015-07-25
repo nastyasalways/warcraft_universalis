@@ -1,7 +1,41 @@
 # Shattrath
-government 		= despotic_monarchy
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+government 		= exodar_city
+technology_group 	= tech_draenei
+religion			= religion_light_of_the_naaru
+primary_culture 	= culture_shattrathi
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Velen" 
+     dynasty = "of Argus" 
+		adm = 3
+		dip = 5
+		mil = 2
+ 	} 
+ } 
+
+592.1.1 = {
+	monarch =
+	{ 
+		name = "Ishanah"
+		dynasty = "the Aldor" 	
+		adm = 3
+		dip = 3	
+		mil = 4
+	}  
+government = theocratic_government
+} 
+
+625.1.1 = {
+	monarch =
+	{ 
+		name = "A'dal"
+		dynasty = "Sha'tar" 	
+		adm = 4
+		dip = 5	
+		mil = 3
+	}  
+add_accepted_culture = culture_blood_elf
+} 

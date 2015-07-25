@@ -1,7 +1,18 @@
 # Netherwing Dragonflight
-government 		= despotic_monarchy
+government 		= draconic_kingdom
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_dragonkin
+religion			= religion_arcane
+primary_culture 	= culture_netherwing
 capital 			= 1
+
+617.1.1 = { 
+	monarch = { 
+		name = "Neltharaku" 
+		dynasty = "the Netherwing" 
+		adm = 3
+		dip = 4
+		mil = 3
+                
+	} 
+}

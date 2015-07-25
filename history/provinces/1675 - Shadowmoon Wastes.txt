@@ -1,16 +1,16 @@
-# 1675
-is_city = no
+# 1675 Sketh'lon Wreckage
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
+culture = culture_ghost
+religion = religion_old_gods
 
 hre = no
-trade_goods = grain
+trade_goods = artifacts
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -51,3 +51,8 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+617.1.1 = {
+add_core = B85
+owner = B85
+controllerr = B85
+}

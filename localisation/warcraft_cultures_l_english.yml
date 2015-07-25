@@ -260,7 +260,7 @@ l_english:
  culture_wildhammer: "Wildhammer"
  culture_dark_iron: "Dark Iron"
  culture_frostborn: "Frostborn"
- culture_iron: "Iron Dwarf"
+ culture_iron: "Iron Army"
  culture_trogg: "Trogg"
  culture_grummle: "Grummle"
  
@@ -282,9 +282,7 @@ l_english:
  
  culture_group_arrakoa: "Arrakoa"
  culture_sethekk: "Sethekk"
- culture_skettis: "Skettis"
  culture_apexis: "Apexis"
- culture_exiles: "Exiles"
  
  culture_group_tuskarr: "Tuskarr"
  culture_kalu_ak: "Kalu'ak"

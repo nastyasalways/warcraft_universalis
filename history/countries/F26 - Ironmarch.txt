@@ -1,4 +1,4 @@
-# Iron Summit
+# Ironmarch
 
 government 		= warband
 mercantilism 		= 0.1
@@ -14,5 +14,6 @@ monarch = {
  		adm = 3 
 		dip = 4
 		mil = 4 
+                female = yes
   	}  
   }  

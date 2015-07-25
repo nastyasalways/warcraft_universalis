@@ -502,8 +502,8 @@
  B83_ADJ: "Faceless"
  B84: "The Sha"
  B84_ADJ: "The Sha"
- B85: "The Dark Below"
- B85_ADJ: "The Dark Below"
+ B85: "The Dark Conclave"
+ B85_ADJ: "Dark Conclave"
  B86: "Kingdom of a Thousand Maws"
  B86_ADJ: "Kingdom of a Thousand Maws"
  B87: "Illidari"
@@ -824,6 +824,8 @@
  F46_ADJ: "Cloud Serpent"
  F47: "Shadowtooth"
  F47_ADJ: "Dark Troll"
+ F48: "Dragonmaw"
+ F48_ADJ: "Dragonmaw"
  
  # Governments
  magocracy_republic: "Magocracy Republic"

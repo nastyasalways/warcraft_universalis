@@ -17,3 +17,48 @@ capital 			= 1
                 
 	} 
 }
+
+600.1.1 = { 
+	monarch = { 
+		name = "Nek'Rosh" 
+		dynasty = "Skullcrusher" 
+		adm = 3
+		dip = 4
+		mil = 3
+                
+	} 
+}
+
+626.1.1 = { 
+	monarch = { 
+		name = "Mor'ghor" 
+		dynasty = "the Fel" 
+		adm = 3
+		dip = 3
+		mil = 4
+                
+	} 
+}
+
+631.1.1 = {  
+monarch = {  
+      name = "Zaela"  
+     dynasty = "Dragonmaw"  
+ 		adm = 3 
+		dip = 4
+		mil = 4 
+                female = yes
+  	}  
+  }  
+
+633.1.1 = { 
+	monarch = { 
+		name = "Gorfax" 
+		dynasty = "Angerfang" 
+		adm = 3
+		dip = 3
+		mil = 4
+                
+	} 
+}
+

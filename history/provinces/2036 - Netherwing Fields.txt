@@ -1,13 +1,13 @@
-# 1672
+# 2036
 is_city = yes
 
-base_tax = 4
-base_manpower = 4
-base_production = 4
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
-culture = culture_fel_orc
-religion = religion_fel
+culture = culture_netherwing
+religion = religion_arcane
 
 hre = no
 trade_goods = flying_mounts
@@ -52,8 +52,8 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 617.1.1 = {
-owner = F48
-controller = F48
-add_core =  F48
+owner = B05
+controller = B05
+add_core = B05
 }
 
