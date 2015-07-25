@@ -1,16 +1,16 @@
 # 1663
-is_city = no
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
+culture = culture_sayaad
+religion = religion_fel
 
 hre = no
-trade_goods = grain
+trade_goods = artifacts
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -50,4 +50,18 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
+
+617.1.1 = {
+owner = B89
+controller = B89
+add_core =  B89
+}
+
+622.1.1 = {
+owner = B87
+controller = B87
+add_core =  B87
+culture = culture_illidari
+remove_core = B89
+}
 

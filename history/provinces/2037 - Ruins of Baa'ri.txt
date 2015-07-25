@@ -1,16 +1,16 @@
-# 1672
+# 2037
 is_city = yes
 
-base_tax = 4
-base_manpower = 4
-base_production = 4
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
 culture = culture_fel_orc
 religion = religion_fel
 
 hre = no
-trade_goods = flying_mounts
+trade_goods = artifacts
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -52,8 +52,17 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 617.1.1 = {
-owner = F48
-controller = F48
-add_core =  F48
+owner = B89
+controller = B89
+add_core =  B89
+}
+
+618.1.1 = {
+owner = A57
+controller = A57
+add_core =  A57
+remove_core = B89
+culture = culture_broken
+religion = religion_ancestral
 }
 

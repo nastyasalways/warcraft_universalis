@@ -101,6 +101,7 @@ A47 = "countries/MokNathal.txt"
 A48 = "countries/Orgrimmar.txt"
 E98 = "countries/Black Tooth Grin.txt"
 F26 = "countries/Ironmarch.txt"
+F48 = "countries/Fel Dragonmaw.txt"
 
 # Ogre
 A49 = "countries/Bladespire.txt"
@@ -324,7 +325,7 @@ B82 = "countries/Moaki.txt"
 # Old God
 B83 = "countries/Faceless.txt"
 B84 = "countries/The Sha.txt"
-B85 = "countries/The Dark Below.txt"
+B85 = "countries/Dark Conclave.txt"
 B86 = "countries/Kingdom of a Thousand Maws.txt"
 
 # Demonic

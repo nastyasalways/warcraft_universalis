@@ -17,3 +17,14 @@ capital 			= 1
                 
 	} 
 }
+
+597.1.1 = { 
+	monarch = { 
+		name = "Vorpil" 
+		dynasty = "Thunderlord" 
+		adm = 3
+		dip = 3
+		mil = 3
+                
+	} 
+}

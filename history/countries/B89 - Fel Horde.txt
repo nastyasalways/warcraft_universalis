@@ -6,4 +6,30 @@ religion			= religion_fel
 primary_culture 	= culture_pit_lord
 add_accepted_culture = culture_fel_orc
 add_accepted_culture = culture_moarg
+add_accepted_culture = culture_saayad
 capital 			= 1
+
+617.1.1 = { 
+	monarch = { 
+		name = "" 
+		dynasty = "Magtheridon" 
+		adm = 3
+		dip = 3
+		mil = 5
+	} 
+}
+
+622.1.1 = { 
+	monarch = { 
+		name = "Kargath" 
+		dynasty = "Bladefist" 
+		adm = 3
+		dip = 3
+		mil = 4
+	} 
+technology_group = tech_orc
+primary_culture = culture_fel_orc
+government = orcish_horde
+remove_accepted_culture = culture_moarg
+remove_accepted_culture = culture_saayad
+}
