@@ -1,7 +1,7 @@
 # Siltfin
 government 		= despotic_monarchy
 mercantilism 		= 0.1
-technology_group 	= western
+technology_group 	= tech_depths
 religion			= noreligion
 primary_culture 	= noculture
 capital 			= 1

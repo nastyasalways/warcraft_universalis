@@ -52,8 +52,8 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 617.1.1 = {
-add_core = B85
-owner = B85
-controllerr = B85
+	add_core = B85
+	owner = B85
+	controller = B85
 }
 

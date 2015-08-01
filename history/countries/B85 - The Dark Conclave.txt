@@ -3,8 +3,8 @@ government 		= theocratic_government
 mercantilism 		= 0.1
 technology_group 	= tech_arrakoa
 religion			= religion_old_gods
-primary_culture 	= culture_ghosts
-add_accpeted_culture = culture_sethekk
+primary_culture 	= culture_ghost
+add_accepted_culture = culture_sethekk
 capital 			= 1676
 
 617.1.1 = { 

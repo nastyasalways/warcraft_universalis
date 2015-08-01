@@ -8,7 +8,6 @@ add_accepted_culture = culture_pit_lord
 add_accepted_culture = culture_dreadlord
 add_accepted_culture = culture_doomguard
 add_accepted_culture = culture_moarg
-add_accepted_culture = culture_saayad
 add_accepted_culture = culture_shivarra
 add_accepted_culture = culture_construct
 capital 			= 1

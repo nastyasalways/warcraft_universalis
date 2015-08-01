@@ -20,7 +20,6 @@
 # Warlords of Draenor
 #	633 KC
 
-
 # Special countries..
 REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"
@@ -151,7 +150,7 @@ E58 = "countries/Zanzil.txt"
 F09 = "countries/Jellyneck.txt"
 
 # Sand Troll
-A73 = "countries/Sandfury.txt"
+A73 = "countries/Sandfury.txt"	# tech_troll
 
 # Frost Troll
 A74 = "countries/Drakkari.txt"
@@ -173,12 +172,12 @@ A82 = "countries/Gilblin.txt"
 A83 = "countries/Blackwater.txt"
 
 # Tauren
-A84 = "countries/Bloodhoof.txt"
-A85 = "countries/Grimtotem.txt"
-A86 = "countries/Runetotem.txt"
-A87 = "countries/Mistrunner.txt"
-A88 = "countries/Dawnstrider.txt"
-A89 = "countries/Winterhoof.txt"
+A84 = "countries/Bloodhoof.txt" # tech_tauren
+A85 = "countries/Grimtotem.txt" # tech_tauren
+A86 = "countries/Runetotem.txt" # tech_tauren
+A87 = "countries/Mistrunner.txt" # tech_tauren
+A88 = "countries/Dawnstrider.txt" 
+A89 = "countries/Winterhoof.txt" # tech_tauren
 
 # High Elf
 A90 = "countries/QuelThalas.txt"
@@ -187,17 +186,17 @@ F20 = "countries/Quellithian.txt"
 
 # Blood Elf
 A91 = "countries/Silvermoon.txt"
-A92 = "countries/Sunreaver.txt"
+A92 = "countries/Sunreaver.txt" # tech_thalassian
 A93 = "countries/Sunfury.txt"
 
 # Night Elf
 A94 = "countries/Darnassus.txt"
-A95 = "countries/Cenarion Circle.txt"
+A95 = "countries/Cenarion Circle.txt" # tech_darnassian
 
 # Aqir
-A96 = "countries/AhnKahet.txt"
-A97 = "countries/AhnQiraj.txt"
-A98 = "countries/Silithid.txt"
+A96 = "countries/AhnKahet.txt" # tech_aqir
+A97 = "countries/AhnQiraj.txt" # tech_aqir
+A98 = "countries/Silithid.txt" # tech_aqir
 E74 = "countries/AzjolNerub.txt"
 
 # Dragonkin
@@ -208,7 +207,7 @@ B03 = "countries/Red Dragonflight.txt"
 B04 = "countries/Green Dragonflight.txt"
 B05 = "countries/Netherwing Dragonflight.txt"
 B06 = "countries/Twilight Dragonflight.txt"
-B07 = "countries/Infinite Dragonflight.txt"
+B07 = "countries/Infinite Dragonflight.txt" # tech_dragonkin
 
 # Vrykul
 B08 = "countries/Dragonflayer.txt"
@@ -232,11 +231,11 @@ F10 = "countries/Woodpaw.txt"
 F41 = "countries/Savage Hill.txt"
 
 # Centaur
-B20 = "countries/Galak.txt"
-B21 = "countries/Gelkis.txt"
-B22 = "countries/Magram.txt"
-B23 = "countries/Mauraudine.txt"
-B24 = "countries/Kolkar.txt"
+B20 = "countries/Galak.txt" # tech_centaur
+B21 = "countries/Gelkis.txt" # tech_centaur
+B22 = "countries/Magram.txt" # tech_centaur 
+B23 = "countries/Mauraudine.txt" # tech_centaur
+B24 = "countries/Kolkar.txt" # tech_centaur
 
 # Depths
 B25 = "countries/Vile Fin.txt"
@@ -244,15 +243,15 @@ B26 = "countries/Blue Gill.txt"
 B27 = "countries/Grimscale.txt"
 B28 = "countries/Saltscale.txt"
 B29 = "countries/Marshfin.txt"
-B30 = "countries/Greymist.txt"
-B31 = "countries/Siltfin.txt"
-B32 = "countries/Mirefin.txt"
-B33 = "countries/Winterfin.txt"
+B30 = "countries/Greymist.txt" # tech_depths
+B31 = "countries/Siltfin.txt" # tech_depths
+B32 = "countries/Mirefin.txt" # tech_depths
+B33 = "countries/Winterfin.txt" # tech_depths
 B34 = "countries/Chillmere.txt"
 B35 = "countries/White Shark.txt"
-B36 = "countries/Tidewalker.txt"
-B37 = "countries/Makaru.txt"
-B38 = "countries/Bogstrok.txt"
+B36 = "countries/Tidewalker.txt" # tech_depths
+B37 = "countries/Makaru.txt" # tech_depths
+B38 = "countries/Bogstrok.txt" # tech_depths
 E51 = "countries/Torn Fin.txt"
 E60 = "Countries/Rockpool.txt"
 F11 = "Countries/Redgill.txt"
@@ -260,12 +259,12 @@ F22 = "countries/Greengill.txt"
 F30 = "countries/Murkgill.txt"
 
 # Furbolg
-B39 = "countries/Gnarlpine.txt"
-B40 = "countries/Deadwood.txt"
-B41 = "countries/Blackwood.txt"
-B42 = "countries/Timbermaw.txt"
+B39 = "countries/Gnarlpine.txt" # tech_furbolg
+B40 = "countries/Deadwood.txt" # tech_furbolg
+B41 = "countries/Blackwood.txt" # tech_furbolg
+B42 = "countries/Timbermaw.txt" 
 B43 = "countries/Stillpine.txt"
-B44 = "countries/Winterfall.txt"
+B44 = "countries/Winterfall.txt" # tech_furbolg
 B45 = "countries/Frostpaw.txt"
 B46 = "countries/Redfang.txt"
 
@@ -274,7 +273,7 @@ B47 = "countries/Bloodpaw.txt"
 B48 = "countries/Frenzyheart.txt"
 B49 = "countries/Howling.txt"
 B50 = "countries/Rageclaw.txt"
-B51 = "countries/Snowfall.txt"
+B51 = "countries/Snowfall.txt" # tech_wolfvar
 
 # Gorloc
 B52 = "countries/Mistwhisper.txt"
@@ -283,40 +282,40 @@ B54 = "countries/Mosswalker.txt"
 B55 = "countries/Sparktouched.txt"
 
 # Kobold
-B56 = "countries/Drywhisker.txt"
-B57 = "countries/Gravelsnout.txt"
+B56 = "countries/Drywhisker.txt" # tech_kobold
+B57 = "countries/Gravelsnout.txt" # tech_kobold
 B58 = "countries/Goldtooth.txt"
-B59 = "countries/Whitewhisker.txt"
+B59 = "countries/Whitewhisker.txt" # tech_kobold
 B60 = "countries/Bloodspore.txt"
-B61 = "countries/Magmoth.txt"
-B62 = "countries/Shalerhorn.txt"
-E53 = "countries/Tunnel Rat.txt"
+B61 = "countries/Magmoth.txt" # tech_kobold
+B62 = "countries/Shalerhorn.txt" # tech_kobold
+E53 = "countries/Tunnel Rat.txt" # tech_kobold
 
 # Harpy
-B63 = "countries/Bloodfury.txt"
+B63 = "countries/Bloodfury.txt" # tech_harpy
 B64 = "countries/Coldwind.txt"
 B65 = "countries/Frostfeather.txt"
 B66 = "countries/Dustwind.txt"
-B67 = "countries/Screeching.txt"
+B67 = "countries/Screeching.txt" # tech_harpy
 
 # Quillboar
-B68 = "countries/Bristleback.txt"
-B69 = "countries/Razormane.txt"
-B70 = "countries/Razorfen.txt"
-B71 = "countries/Swinegart.txt"
+B68 = "countries/Bristleback.txt" # tech_quillboar
+B69 = "countries/Razormane.txt" 
+B70 = "countries/Razorfen.txt" # tech_quillboar
+B71 = "countries/Swinegart.txt" # tech_quillboar
 
 # Titan
-B72 = "countries/Tolvir.txt"
-B73 = "countries/Ulduar.txt"
+B72 = "countries/Tolvir.txt" # tech_titan
+B73 = "countries/Ulduar.txt" 
 B74 = "countries/Uldaman.txt"
-B75 = "countries/Maraudon.txt"
+B75 = "countries/Maraudon.txt" # tech_titan
 B76 = "countries/ThorModan.txt"
 
 # Arrakoa
-B77 = "countries/Skettis.txt"
-B78 = "countries/Sethikk.txt"
-B79 = "countries/Exiles.txt"
-B80 = "countries/Apexis.txt"
+B77 = "countries/Skettis.txt" # tech_arrakoa
+B78 = "countries/Sethikk.txt" # tech_arrakoa
+B79 = "countries/Exiles.txt" # tech_arrakoa
+B80 = "countries/Apexis.txt" # tech_arrakoa
 
 # Tuskarr
 B81 = "countries/Kaluak.txt"
@@ -326,7 +325,7 @@ B82 = "countries/Moaki.txt"
 B83 = "countries/Faceless.txt"
 B84 = "countries/The Sha.txt"
 B85 = "countries/Dark Conclave.txt"
-B86 = "countries/Kingdom of a Thousand Maws.txt"
+B86 = "countries/Kingdom of a Thousand Maws.txt" # tech_old_god
 
 # Demonic
 B87 = "countries/Illidari.txt"
