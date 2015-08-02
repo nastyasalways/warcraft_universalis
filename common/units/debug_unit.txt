@@ -1,5 +1,5 @@
 
-unit_type = tech_human
+unit_type = tech_tech_human # Regular
 type = infantry
 
 maneuver = 1
