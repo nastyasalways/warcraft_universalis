@@ -1,18 +1,19 @@
-# 969
+# 533
 is_city = yes
-owner = B28
-controller= B28
-add_core = B28
+add_core = B15
+owner = B15
+controller = B15
 
 base_tax = 3
 base_manpower = 3
 base_production = 3
 
-culture = culture_nerglish
-religion = religion_old_gods
+
+culture = culture_riverpaw
+religion = religion_ancestral
 
 hre = no
-trade_goods = artifacts
+trade_goods = army_supplies
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -53,11 +54,14 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-618.1.1 = { 
-owner = A15
-controller = A15
-add_core = A15
-culture = culture_kul_tiran
-religion = religion_church_of_the_light 
-}
+597.1.1 = { owner = A41
+controller = A41
+add_core = A41
+culture = culture_blackrock
+religion = religion_fel }
 
+600.1.1 = { owner = B15
+controller = B15
+remove_core = A41
+religion = religion_ancestral
+culture = culture_riverpaw }

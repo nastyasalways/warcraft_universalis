@@ -1,18 +1,19 @@
-# 969
+# 554 Mosshide Camp
 is_city = yes
-owner = B28
-controller= B28
-add_core = B28
+add_core = B13
+owner = B13
+controller = B13
 
-base_tax = 3
-base_manpower = 3
-base_production = 3
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
-culture = culture_nerglish
-religion = religion_old_gods
+
+culture = culture_mosshide
+religion = religion_ancestral
 
 hre = no
-trade_goods = artifacts
+trade_goods = fossils
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -53,11 +54,26 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-618.1.1 = { 
-owner = A15
-controller = A15
-add_core = A15
-culture = culture_kul_tiran
-religion = religion_church_of_the_light 
+598.1.1 = { 
+owner = A40
+controller = A40
+add_core = A40
+culture = culture_bleeding_hollow 
+religion = religion_fel 
 }
 
+600.1.1 = { 
+owner = B13
+controller = B13
+remove_core = A40
+culture = culture_mosshide
+religion = religion_ancestral
+}
+
+631.1.1 = { 
+owner = A29
+controller = A29
+add_core = A29
+culture = culture_ironforge
+religion = religion_mystery_of_the_makers 
+}
