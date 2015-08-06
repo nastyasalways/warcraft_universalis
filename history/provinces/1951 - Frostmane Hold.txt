@@ -1,16 +1,16 @@
 # 1951
 is_city = yes
-add_core = A75
-owner = A75
-controller = A75
+add_core = A32
+owner = A32
+controller = A32
 
 base_tax = 4
 base_manpower = 4
 base_production = 4
 
 
-culture = culture_frostmane
-religion = religion_loa
+culture = culture_gnome
+religion = religion_tech
 
 hre = no
 trade_goods = army_supplies
