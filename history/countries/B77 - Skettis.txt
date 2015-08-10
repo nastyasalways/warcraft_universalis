@@ -1,7 +1,18 @@
 # Skettis
-government 		= despotic_monarchy
+government 		= theocratic_government
 mercantilism 		= 0.1
 technology_group 	= tech_arrakoa
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+religion			= religion_terokk
+primary_culture 	= culture_sethekk
+capital 			= 1651
+
+617.1.1 = { 
+	monarch = { 
+		name = "" 
+		dynasty = "Terokk" 
+		adm = 4
+		dip = 5
+		mil = 4
+                
+	} 
+}

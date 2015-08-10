@@ -6,7 +6,7 @@ base_manpower = 4
 base_production = 4
 
 
-culture = culture_culture_shadowmoon
+culture = culture_shadowmoon
 religion = religion_ancestral
 
 hre = no

@@ -324,7 +324,7 @@ l_english:
  culture_yongqi: "Yongqi"
  
  culture_group_ethereal: "Ethereal"
- culture_k_areshi: "K'areshi"
+ culture_kareshi: "K'areshi"
  
  culture_group_gnomish: "Gnomish"
  culture_gnome: "Gnome"
@@ -367,3 +367,6 @@ l_english:
  
  culture_group_void: "Void"
  culture_voidwalker: "Voidwalker"
+
+ culture_group_flayer: "Flayer"
+ culture_rockflayer: "Rockflayer"
