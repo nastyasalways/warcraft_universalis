@@ -855,8 +855,7 @@ culture_group_forest_troll = {
 			"Umboda"
 			"Mith'rethis"
 			"Tregla"
-			"Retherokk"
-			
+			"Retherokk"	
 		}
 		female_names = {
 			"Hexx"
@@ -3624,7 +3623,7 @@ culture_group_ethereal = {
 			
 	}
 		
-	culture_k_areshi = {
+	culture_kareshi = {
 		male_names = {
 			
 		}
@@ -4037,6 +4036,32 @@ culture_group_void = {
 	}
 		
 	culture_voidwalker = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+}
+
+culture_group_flayer = {
+	graphical_culture = westerngfx
+
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+		
+	}
+		
+	culture_rockflayer = {
 		male_names = {
 			
 		}

@@ -54,7 +54,7 @@ monarch_names = {
                 "Vosh'gajin" = -10
                 "Guthma" = -30
                 "Yayo'jin" = -30
-                "Qiaga" = 10               
+                "Qiaga" = -10               
                 "Morta'gya" = -10
 }
 
@@ -66,7 +66,7 @@ ship_names = { Revantusk Zul'jin Torntusk Amani Zul Nalorakk Warbear Elfbane Wav
 
 
 army_names = {
-	"Warband of $PROVINCE$" "Reventusk Warband" "Revantusk Stalkers" "Revantusk Beserkers"
+	"Reventusk Warband" "Revantusk Stalkers" "Revantusk Beserkers" "Warband of $PROVINCE$" 
 }
 
 fleet_names = {

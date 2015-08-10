@@ -118,6 +118,7 @@ F06 = "countries/Dustbelcher.txt"
 F07 = "countries/Deadwind.txt"
 F08 = "countries/Bloodeye.txt"
 F31 = "countries/Mosh'Ogg.txt"
+F50 = "countries/Outland Boulderfist.txt"
 
 # Draenei
 A54 = "countries/Shattrath.txt"
@@ -126,6 +127,7 @@ A56 = "countries/Exodar.txt"
 A57 = "countries/Ashtoungue Deathsworn.txt"
 F34 = "countries/Harborage.txt"
 F35 = "countries/Fallow Sanctuary.txt"
+F49 = "countries/Auchenai.txt"
 
 # Forest Troll
 A58 = "countries/Amani.txt"
@@ -480,6 +482,9 @@ E87 = "countries/Rikkitun.txt"
 
 # Grummle
 E93 = "countries/Grummle.txt"
+
+# Rockflayer
+F51 = "countries/Razorthorn.txt"
 
 
 # Formables

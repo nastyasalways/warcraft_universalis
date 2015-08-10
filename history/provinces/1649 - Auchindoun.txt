@@ -1,16 +1,16 @@
 # 1649
-is_city = no
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 5
+base_manpower = 5
+base_production = 5
 
 
-culture = noculture
-religion = noreligion
+culture = culture_horde
+religion = religion_fel
 
 hre = no
-trade_goods = grain
+trade_goods = crypts
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -50,4 +50,13 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
+
+617.1.1 = {
+owner = B88
+controller = B88
+add_core =  B88
+add_core = F49
+add_core =  E21
+}
+
 

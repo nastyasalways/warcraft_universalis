@@ -4,11 +4,11 @@ graphical_culture = westerngfx
 
 color = { 48 80 27 }
 
-monarch_names = { ""
+monarch_names = {
 
 }
 
-leader_names = { ""
+leader_names = {
 
 }
 

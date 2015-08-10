@@ -1,0 +1,24 @@
+# Razorthorn Rockflayers
+government = minor_tribe
+mercantilism = 0.1 
+technology_group = tech_primitive
+religion= religion_geomancy
+primary_culture = culture_rockflayer
+capital = 1
+
+
+
+617.1.1 = { 
+monarch =
+{ 
+name = "" 
+     
+dynasty = "Razorthorn" 
+		
+adm = 2		
+dip = 2	
+mil = 4 
+female = yes} 
+ 
+} 
+

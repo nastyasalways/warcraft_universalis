@@ -1,14 +1,14 @@
-# Boulderfist
+# Azjol-Nerub
 
 graphical_culture = westerngfx
 
-color = { 48 80 27 }
+color = { 141 165 199 }
 
-monarch_names = { ""
+monarch_names = {
 
 }
 
-leader_names = { ""
+leader_names = {
 
 }
 

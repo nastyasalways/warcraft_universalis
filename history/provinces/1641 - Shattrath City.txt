@@ -1,16 +1,16 @@
 # 1641
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 8
+base_manpower = 8
+base_production = 8
 
 
-culture = noculture
-religion = noreligion
+culture = culture_shattrathi
+religion = religion_light_of_the_naaru
 
 hre = no
-trade_goods = grain
+trade_goods = artifacts
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -50,4 +50,10 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
+
+622.1.1 = {
+owner = A54
+controller = A54
+add_core =  A54
+}
 
