@@ -53,6 +53,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# Beyond the Dark Portal
 600.1.1 = { 
 owner = F08
 controller = F08
@@ -62,6 +63,7 @@ culture = culture_bloodeye
 religion = religion_geomancy 
 }
 
+# Cataclysm
 631.1.1 = { 
 owner = A43
 controller = A43

@@ -55,6 +55,7 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 
+# Rise of the Qiraji
 622.1.1 = { 
 owner = A26
 controller = A26
@@ -65,6 +66,7 @@ religion = religion_church_of_the_light
 capital = "Syndicate Camp"
 }
 
+# Cataclysm
 631.1.1 = { 
 owner = A29
 controller = A29

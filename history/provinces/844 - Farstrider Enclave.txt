@@ -54,6 +54,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome 
 
+# The Frozen Throne
 618.1.1 = {
 owner = XXX
 controller = XXX
@@ -66,6 +67,7 @@ owner = XXX
 controller = XXX
 }
 
+# The Burning Crusade
 625.1.1 = { 
 owner = A91
 controller = A91

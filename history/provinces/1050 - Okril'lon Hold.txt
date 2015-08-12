@@ -52,6 +52,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# First War
 592.1.1 = { 
 owner = A41
 controller = A41
@@ -60,6 +61,7 @@ culture = culture_blackrock
 religion = religion_fel 
 }
 
+# Beyond the Dark Portal
 600.1.1 = { 
 owner = XXX
 controller = XXX 
@@ -70,6 +72,7 @@ owner = XXX
 controller = XXX 
 }
 
+# The Third War
 617.1.1 = { 
 owner = E96
 controller = E96
@@ -79,16 +82,19 @@ culture = culture_dreadmaul
 religion = religion_geomancy 
 }
 
+# Rise of the Qiraji
 622.1.1 = {
 religion = religion_fel
 }
 
+# Cataclysm
 631.1.1 = { 
 owner = A48
 controller = A48
 add_core = A48
 }
 
+# Warlords of Draenor
 633.1.1 = { 
 owner = F26
 controller = F26

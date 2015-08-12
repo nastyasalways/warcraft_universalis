@@ -62,6 +62,7 @@ religion = religion_loa
 culture = culture_zandalari
 }
 
+# Warlords of Draenor
 633.1.1 = {
 add_core = A18
 controller = A18

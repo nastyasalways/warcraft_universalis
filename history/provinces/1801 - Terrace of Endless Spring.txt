@@ -62,6 +62,7 @@ add_core = B84
 religion = religion_old_gods
 }
 
+# Warlords of Draenor
 633.1.1 = { 
 owner = XXX
 controller = XXX

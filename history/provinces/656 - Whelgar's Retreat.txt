@@ -60,12 +60,14 @@ add_core = A80
 culture = culture_steamwheedle
 religion = religion_tech }
 
+# Beyond the Dark Portal
 600.1.1 = { owner = A29
 controller = A29
 remove_core = A80
 culture = culture_ironforge 
 religion = religion_church_of_the_light}
 
+# Rise of the Qiraji
 622.1.1 = { owner = A06
 controller = A06
 remove_core = A29 }

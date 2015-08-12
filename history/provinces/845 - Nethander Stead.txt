@@ -57,6 +57,7 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 
+# Rise of the Qiraji
 622.1.1 = { 
 owner = B14
 controller = B14

@@ -51,6 +51,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Frozen Throne
 618.1.1 = { 
 owner = A15
 controller = A15

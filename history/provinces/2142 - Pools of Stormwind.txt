@@ -54,6 +54,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# Fall of Stormwind
 597.1.1 = { 
 owner = A41
 controller = A41
@@ -62,6 +63,7 @@ culture = culture_blackrock
 religion = religion_fel 
 }
 
+# Beyond the Dark Portal
 600.1.1 = {
 owner = A01
 controller = A01
@@ -70,6 +72,7 @@ culture = culture_azerothian
 religion = religion_church_of_the_light 
 }
 
+# Cataclysm
 631.1.1 = {
 owner = XXX
 controller = XXX

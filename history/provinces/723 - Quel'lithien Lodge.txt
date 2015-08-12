@@ -56,12 +56,14 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Frozen Throne
 618.1.1 = { 
 owner = F20
 controller = F20
 add_core = F20 
 }
 
+# Cataclysm
 631.1.1 = { 
 owner = B94
 controller = B94

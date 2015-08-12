@@ -54,6 +54,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Frozen Throne
 618.1.1 = { 
 add_core = F15
 owner = F15
@@ -62,6 +63,7 @@ culture = culture_scourge
 religion = religion_fel
 }
 
+# Rise of the Qiraji
 622.1.1 = { 
 add_core = E14
 owner = E14

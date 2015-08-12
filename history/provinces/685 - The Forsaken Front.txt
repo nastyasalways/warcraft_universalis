@@ -54,6 +54,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Third War
 617.1.1 = { 
 owner = A08
 controller = A08
@@ -62,6 +63,7 @@ remove_core = A12
 culture = culture_lordaeron 
 }
 
+# The Frozen Throne
 618.1.1 = { 
 owner = F17
 controller = F17
@@ -69,6 +71,7 @@ add_core = F17
 }
 
 
+# Rise of the Qiraji
 622.1.1 = { 
 owner = A25
 controller = A25
@@ -78,6 +81,7 @@ remove_core = F17
 capital = "Northwall Refugee Camp" 
 }
 
+# Cataclysm
 631.1.1 = { 
 owner = E14
 controller = E14

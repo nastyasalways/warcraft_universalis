@@ -59,6 +59,7 @@ add_core = A41
 culture = culture_blackrock
 religion = religion_fel }
 
+# Beyond the Dark Portal
 600.1.1 = { owner = A14
 controller = A14
 remove_core = A41

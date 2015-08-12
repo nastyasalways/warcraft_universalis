@@ -63,6 +63,7 @@ culture = culture_bleeding_hollow
 religion = religion_fel 
 }
 
+# Beyond the Dark Portal
 600.1.1 = { owner = A29
 controller = A29
 remove_core = A40
@@ -70,6 +71,7 @@ culture = culture_ironforge
 religion = religion_church_of_the_light
 }
 
+# Cataclysm
 631.1.1 = { 
 owner = A43
 controller = A43

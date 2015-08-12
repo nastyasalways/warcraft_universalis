@@ -59,6 +59,7 @@ religion = religion_ancestral
 culture = culture_horde
 }
 
+# Warlords of Draenor
 633.1.1 = {
 owner = XXX
 controller = XXX

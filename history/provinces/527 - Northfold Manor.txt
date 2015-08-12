@@ -59,6 +59,7 @@ discovered_by = tech_gnome
 
 
 
+# Rise of the Qiraji
 622.1.1 = { owner = A26
 controller = A26
 add_core = A26

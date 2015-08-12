@@ -57,6 +57,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Burning Crusade
 625.1.1 = { 
 	owner = A56
 	controller = A56

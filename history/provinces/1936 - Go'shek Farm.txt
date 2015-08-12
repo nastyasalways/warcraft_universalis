@@ -57,6 +57,7 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 
+# Beyond the Dark Portal
 600.1.1 = { owner = A16
 controller = A16
 remove_core = A65
@@ -64,6 +65,7 @@ culture = culture_arathi
 religion = religion_church_of_the_light
 capital = "Trollbane Hobby Farm" }
 
+# Rise of the Qiraji
 622.1.1 = { owner = A48
 controller = A48
 add_core = A48

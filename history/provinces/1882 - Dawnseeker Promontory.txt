@@ -63,6 +63,7 @@ religion = religion_loa
 culture = culture_zandalari
 }
 
+# Warlords of Draenor
 633.1.1 = {
 owner = A91
 controller = A91

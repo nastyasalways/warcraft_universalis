@@ -59,6 +59,7 @@ culture = culture_dragonmaw
 religion = religion_fel 
 }
 
+# Beyond the Dark Portal
 600.1.1 = { 
 owner = XXX
 controller = XXX
@@ -72,6 +73,7 @@ owner = XXX
 controller = XXX
 }
 
+# Cataclysm
 631.1.1 = { 
 owner = A43
 controller = A43

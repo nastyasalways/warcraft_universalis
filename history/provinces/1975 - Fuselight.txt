@@ -51,6 +51,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# Beyond the Dark Portal
 600.1.1 = { 
 owner = F06
 controller = F06
@@ -58,6 +59,7 @@ add_core = F06
 culture = culture_dustbelcher 
 }
 
+# Cataclysm
 631.1.1 = {
 owner = A80
 controller = A80

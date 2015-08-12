@@ -58,6 +58,7 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome 
 
 
+# Rise of the Qiraji
 622.1.1 = { 
 owner = A30 
 controller = A30
@@ -66,6 +67,7 @@ culture = culture_dark_iron
 religion = religion_ragnaros 
 }
 
+# Cataclysm
 631.1.1 = { 
 owner = A43
 controller = A43

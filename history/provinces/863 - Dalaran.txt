@@ -55,6 +55,7 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 
+# The Frozen Throne
 618.1.1 = { 
 base_tax = 4
 base_manpower = 4
@@ -67,6 +68,7 @@ culture = culture_lordaeron
 religion = religion_church_of_the_light 
 }
 
+# Rise of the Qiraji
 622.1.1 = { 
 owner = A18
 controller = A18

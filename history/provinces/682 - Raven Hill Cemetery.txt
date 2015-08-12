@@ -54,6 +54,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# Fall of Stormwind
 597.1.1 = { 
 owner = A44
 controller = A44
@@ -61,6 +62,7 @@ add_core = A44
 culture = culture_burning_blade
 religion = religion_fel }
 
+# Beyond the Dark Portal
 600.1.1 = {
 owner = XXX
 controller = XXX
@@ -74,6 +76,7 @@ owner = XXX
 controller = XXX 
 }
 
+# The Third War
 617.1.1 = { 
 owner = F12
 controller = F12

@@ -51,29 +51,27 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# First War
 592.1.1 = { 
-owner = A41
-controller = A41
-add_core = A41
-culture = culture_blackrock
-religion = religion_fel 
+	owner = A41
+	controller = A41
+	add_core = A41
+	culture = culture_blackrock
+	religion = religion_fel 
 }
 
+# Beyond the Dark Portal
 600.1.1 = { 
-owner = XXX
-controller = XXX 
+	owner = XXX
+	controller = XXX 
 }
 
-621.11.11 = { 
-owner = XXX
-controller = XXX 
-}
-
+# Rise of the Qiraji
 622.1.1 = { 
-owner = A48
-controller = A48
-add_core = A48
-culture = culture_horde
-religion = religion_ancestral
-remove_core = A41
+	owner = A48
+	controller = A48
+	add_core = A48
+	culture = culture_horde
+	religion = religion_ancestral
+	remove_core = A41
 }

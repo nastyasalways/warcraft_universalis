@@ -64,6 +64,7 @@ culture = culture_blackrock
 religion = religion_fel 
 }
 
+# Beyond the Dark Portal
 600.1.1 = { 
 owner = A30
 controller = A30
@@ -72,6 +73,7 @@ culture = culture_dark_iron
 religion = religion_ragnaros 
 }
 
+# Cataclysm
 631.1.1 = { 
 add_core = A43
 religion = religion_arcane 

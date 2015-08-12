@@ -64,6 +64,7 @@ culture = culture_dustbelcher
 religion = religion_geomancy
  }
 
+# Beyond the Dark Portal
 600.1.1 = { 
 owner = XXX
 controller = XXx
@@ -73,6 +74,7 @@ culture = culture_dark_iron
 religion = religion_ragnaros 
 }
 
+# Cataclysm
 631.1.1 = { 
 owner = E56
 controller = E56

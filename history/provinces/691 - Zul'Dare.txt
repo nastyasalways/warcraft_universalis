@@ -59,6 +59,7 @@ controller = A41
 add_core = A41 
 }
 
+# Beyond the Dark Portal
 600.1.1 = { 
 owner = A12
 controller = A12
@@ -69,6 +70,7 @@ remove_core = A63
 remove_core = A41
 }
 
+# The Frozen Throne
 618.1.1 = { 
 owner = E09
 controller = E09

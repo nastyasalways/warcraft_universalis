@@ -2188,24 +2188,24 @@ province;red;green;blue;type;name
 2187;26;174;117;x;Hills of the Quagmire
 2188;245;160;29;x;Murky Banks
 2189;103;158;64;x;Murky Islands
-2190;65;59;23;x;x
-2191;97;254;102;x;x
-2192;164;23;237;x;x
-2193;252;253;192;x;x
-2194;223;207;253;x;x
-2195;66;226;91;x;x
-2196;242;230;251;x;x
-2197;204;252;4;x;x
-2198;69;50;90;x;x
-2199;86;202;121;x;x
-2200;136;92;48;x;x
-2201;60;149;170;x;x
-2202;85;71;236;x;x
-2203;58;3;88;x;x
-2204;62;130;19;x;x
-2205;88;213;39;x;x
-2206;251;250;44;x;x
-2207;134;212;176;x;x
+2190;65;59;23;x;Misty Passage X
+2191;97;254;102;x;Swampy Passage
+2192;164;23;237;x;Southern Redridge Trail
+2193;252;253;192;x;Central Redridge Trail
+2194;223;207;253;x;Banks of Everstill
+2195;66;226;91;x;Burning Approach
+2196;242;230;251;x;Stonewatch Fields
+2197;204;252;4;x;Shalewind Ruins
+2198;69;50;90;x;Ilgalar Fields
+2199;86;202;121;x;Shalewind Approach
+2200;136;92;48;x;Northshire Hills
+2201;60;149;170;x;Stormwind Hills
+2202;85;71;236;x;Trade District
+2203;58;3;88;x;Dwarven District
+2204;62;130;19;x;Cathedral Square
+2205;88;213;39;x;The Mage Quarter
+2206;251;250;44;x;Old Town
+2207;134;212;176;x;Park District
 2208;29;162;81;x;x
 2209;238;205;125;x;x
 2210;3;18;0;x;x

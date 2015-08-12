@@ -55,6 +55,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# Rise of the Qiraji
 622.1.1 = { 
 owner = A22
 controller = A22
@@ -63,6 +64,7 @@ remove_core = A09
 religion = religion_scarlet_light 
 }
 
+# Cataclysm
 631.1.1 = { 
 owner = F19
 controller = F19

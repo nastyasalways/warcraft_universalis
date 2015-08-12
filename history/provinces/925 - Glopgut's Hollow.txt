@@ -59,10 +59,12 @@ add_core = F08
 culture = culture_bloodeye
 religion = religion_geomancy }
 
+# Beyond the Dark Portal
 600.1.1 = { owner = F08
 controller = F08
 remove_core = A45 }
 
+# Cataclysm
 631.1.1 = { 
 owner = A43
 controller = A43

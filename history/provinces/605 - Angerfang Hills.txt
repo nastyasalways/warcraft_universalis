@@ -63,6 +63,7 @@ culture = culture_twilights_hammer
 religion = religion_fel 
 }
 
+# Beyond the Dark Portal
 600.1.1 = { 
 owner = A29
 controller = A29
@@ -71,6 +72,7 @@ culture = culture_ironforge
 religion = religion_church_of_the_light
 }
 
+# Rise of the Qiraji
 622.1.1 = { 
 owner = A45
 controller = A45

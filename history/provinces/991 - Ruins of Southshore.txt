@@ -56,6 +56,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# Fall of Stormwind
 597.1.1 = { 
 owner = A01
 controller = A01
@@ -63,6 +64,7 @@ add_core = A01
 culture = culture_azerothian 
 }
 
+# Beyond the Dark Portal
 600.1.1 = { 
 owner = A11
 controller = A11
@@ -70,6 +72,7 @@ remove_core = A01
 culture = culture_lordaeron 
 }
 
+# Cataclysm
 631.1.1 = { 
 owner = E14
 controller = E14

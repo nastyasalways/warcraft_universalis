@@ -64,6 +64,7 @@ culture = culture_sha
 religion = religion_old_gods
 }
 
+# Warlords of Draenor
 633.1.1 = { 
 owner = E63
 controller = E63

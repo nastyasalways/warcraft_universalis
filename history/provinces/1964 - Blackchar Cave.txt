@@ -57,6 +57,7 @@ add_core = E98
 culture = culture_blackrock
 religion = religion_fel }
 
+# Beyond the Dark Portal
 600.1.1 = { owner = XXX
 controller = XXX
 remove_core = E98

@@ -62,6 +62,7 @@ culture = culture_bleeding_hollow
 religion = religion_fel 
 }
 
+# Beyond the Dark Portal
 600.1.1 = { 
 owner = B13
 controller = B13
@@ -70,6 +71,7 @@ culture = culture_mosshide
 religion = religion_ancestral
 }
 
+# Cataclysm
 631.1.1 = { 
 owner = A29
 controller = A29

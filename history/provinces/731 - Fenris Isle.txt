@@ -54,12 +54,14 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Frozen Throne
 618.1.1 = { 
 owner = A25
 controller = A25
 add_core = A25
 }
 
+# Rise of the Qiraji
 622.1.1 = { 
 owner = B19
 controller = B19
@@ -70,6 +72,7 @@ culture = culture_rothide
 religion = religion_the_damned 
 }
 
+# Cataclysm
 631.1.1 = { 
 owner = A11
 controller = A11

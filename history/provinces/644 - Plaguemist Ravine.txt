@@ -50,6 +50,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Frozen Throne
 618.1.1 = {
 culture = culture_wildhammer
 religion = religion_ancestral

@@ -53,6 +53,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# Fall of Stormwind
 597.1.1 = { 
 owner = A43
 controller = A43
@@ -61,6 +62,7 @@ culture = culture_twilights_hammer
 religion = religion_fel 
 }
 
+# Beyond the Dark Portal
 600.1.1 = {
 owner = XXX
 controller = XXX
@@ -74,18 +76,21 @@ owner = XXX
 controller = XXX 
 }
 
+# The Third War
 617.1.1 = { 
 owner = A03
 controller = A03
  
 }
 
+# Rise of the Qiraji
 622.1.1 = { 
 owner = A07
 controller = A07
 add_core = A07 
 }
 
+# Cataclysm
 631.1.1 = { 
 owner = F12
 controller = F12

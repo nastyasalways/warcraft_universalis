@@ -56,6 +56,7 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
  
+# Beyond the Dark Portal
 600.1.1 = { 
 remove_core = A60 
 owner = XXX 

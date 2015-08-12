@@ -53,6 +53,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# First War
 592.1.1 = { 
 owner = B88
 controller = B88
@@ -62,6 +63,7 @@ religion = religion_fel
 trade_goods = fel 
 }
 
+# Fall of Stormwind
 597.1.1 = {
  owner = A42
 controller = A42
@@ -70,6 +72,7 @@ remove_core = B88
 culture = culture_stormreaver
 }
 
+# Beyond the Dark Portal
 600.1.1 = { 
 owner = F14
 controller = F14
@@ -80,6 +83,7 @@ culture = culture_dalaran
 religion = religion_arcane 
 }
 
+# The Third War
 617.1.1 = { 
 owner = XXX
 controller = XXX 
@@ -90,6 +94,7 @@ owner = XXX
 controller = XXX 
 }
 
+# Warlords of Draenor
 633.1.1 = { 
 owner = F26
 controller = F26

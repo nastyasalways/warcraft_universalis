@@ -58,6 +58,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome 
 
+# The Third War
 617.1.1 = { 
 	owner = A48
 	controller = A48
@@ -66,6 +67,7 @@ discovered_by = tech_gnome
 	religion = religion_ancestral
 }
 
+# The Frozen Throne
 618.1.1 = { 
 	owner = E09
 	controller = E09
@@ -75,6 +77,7 @@ discovered_by = tech_gnome
 	religion = religion_old_gods
 }
 
+# Rise of the Qiraji
 622.1.1 = { 
 	owner = A83
 	controller = A83

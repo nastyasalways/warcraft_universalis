@@ -63,6 +63,7 @@ culture = culture_shao_tien
 religion = religion_titan
 }
 
+# Warlords of Draenor
 633.1.1 = { 
 owner = XXX
 controller = XXX

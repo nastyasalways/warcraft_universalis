@@ -1,0 +1,12 @@
+######################################################
+# Documentation
+# ----------------------------------------------------
+# All dates are in the King's Calender format
+######################################################
+
+bookmark =
+{
+	name = "FALL_OF_STORMWIND_NAME"
+	desc = "FALL_OF_STORMWIND_DESC"
+	date = 597.1.1
+}

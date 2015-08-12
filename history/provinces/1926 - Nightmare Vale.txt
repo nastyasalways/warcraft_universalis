@@ -54,10 +54,12 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Frozen Throne
 618.1.1 = { add_core = F16
 controller = F16
 owner = F16 }
 
+# Rise of the Qiraji
 622.1.1 = { controller = XXX
 owner = XXX
 culture = culture_scourge

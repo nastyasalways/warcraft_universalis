@@ -63,6 +63,7 @@ religion = religion_old_gods
 culture = culture_sha
 }
 
+# Warlords of Draenor
 633.1.1 = { 
 owner = XXX
 controller = XXX

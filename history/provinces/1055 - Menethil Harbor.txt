@@ -61,6 +61,7 @@ remove_core = B26
 culture = culture_steamwheedle
 religion = religion_tech }
 
+# Beyond the Dark Portal
 600.1.1 = { owner = A08
 controller = A08
 add_core = A08
@@ -69,6 +70,7 @@ remove_core = A80
 culture = culture_lordaeron 
 religion = religion_church_of_the_light}
 
+# The Frozen Throne
 618.1.1 = { owner = A06
 controller = A06
 remove_core = A08 }

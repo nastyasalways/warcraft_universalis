@@ -54,6 +54,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Third War
 617.1.1 = { 
 add_core = A60 
 owner = A60 
@@ -62,6 +63,7 @@ culture = culture_vilebranch
  } 
 
 
+# Cataclysm
 631.1.1 = {
 owner = A61 
 controller = A61 

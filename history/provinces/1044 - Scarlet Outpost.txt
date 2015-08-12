@@ -56,6 +56,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Frozen Throne
 618.1.1 = { 
 add_core = B25
 owner = B25
@@ -64,6 +65,7 @@ culture = culture_nerglish
 religion = religion_old_gods
 }
 
+# Rise of the Qiraji
 622.1.1 = { 
 religion = religion_scarlet_light
 culture = culture_lordaeron

@@ -62,6 +62,7 @@ culture = culture_blackrock
 religion = religion_fel 
 }
 
+# Beyond the Dark Portal
 600.1.1 = { 
 owner = A14
 controller = A14
@@ -72,6 +73,7 @@ culture = culture_arathi
 religion = religion_church_of_the_light
  }
 
+# Cataclysm
 631.1.1 = { 
 owner = A15
 controller = A15

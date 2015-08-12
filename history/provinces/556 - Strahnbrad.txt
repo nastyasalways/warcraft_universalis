@@ -55,11 +55,13 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Third War
 617.1.1 = { owner = F40
 controller = F40
 add_core = F40
 remove_core = A11}
 
+# Rise of the Qiraji
 622.1.1 = { owner = A26
 controller = A26
 add_core = A26

@@ -55,6 +55,7 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome 
 
 
+# The Third War
 617.1.1 = { 
 owner = A35
 controller = A35
@@ -63,6 +64,7 @@ culture = culture_warsong
 religion = religion_ancestral 
 }
 
+# The Frozen Throne
 618.1.1 = { 
 owner = XXX
 controller = XXX
