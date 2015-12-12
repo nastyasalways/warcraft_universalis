@@ -1,4 +1,9 @@
 From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
+874;1933;sea;265;-1;-1;-1;-1;Thandol Span do Dun Mord
+927;525;sea;246;-1;-1;-1;-1;Gilneas do Northgate Woods
+927;774;sea;246;-1;-1;-1;-1;Gilneas do Keel Harbour
+927;820;sea;246;-1;-1;-1;-1;Gilneas do Blackwald
+1586;1035;sea;300;-1;-1;-1;-1;Draenor do Azeroth (dark portal)
 1699;1704;;;;;;;Path to Netherstorm to Ruins of Enkatt
 1704;1705;;;;;;;Ruins of Enkatt to Manaforge
 1704;1710;;;;;;;Ruins of Enkatt to Eco-Dome Midrealm
@@ -17,4 +22,4 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 1705;1711;;;;;;;Manafroge Ara to Stormspire
 1666;1673;;;;;;;Sanctum of the Stars to Netherwing Ledge
 1672;1673;;;;;;;Dragonmaw Fortress to Netherwing Ledge
--1;-1;;-1;-1;-1;-1;-1;-1;
+-1;-1;;-1;-1;-1;-1;-1;-1
