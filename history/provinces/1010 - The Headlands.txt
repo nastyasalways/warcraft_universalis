@@ -1,23 +1,22 @@
-# 1010
+# 1010 The Headlands
 
 is_city = yes
-add_core = A11
-owner = A11
-controller = A11
+add_core = A17
+owner = A17
+controller = A17
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 2
+base_manpower = 2
+base_production = 3
 
 capital = "Gavin's Naze"
 
 
-culture = culture_lordaeron
+culture = culture_alterac
 religion = religion_church_of_the_light
  
 hre = no 
 trade_goods = fur
-
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -64,7 +63,6 @@ discovered_by = tech_gnome
 owner = A41
 controller = A41
 add_core = A41
-add_core = A26
 culture = culture_blackrock
 religion = religion_fel
 capital = "Blackrock Slave Camp" 
@@ -98,7 +96,6 @@ capital = "Syndicate Overlook"
 owner = A29
 controller = A29
 add_core = A29
-remove_core = A26
 culture = culture_ironforge
 capital = "Stormpike Overlook" 
 }

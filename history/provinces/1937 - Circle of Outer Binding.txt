@@ -1,17 +1,17 @@
-# 1937
+# 1937 Circle of Outer Binding
 
 is_city = yes
-add_core = E28
-controller = E28
-owner = E28
+add_core = A16
+controller = A16
+owner = A16
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
  
-culture = culture_air
-religion = religion_al_akir
+culture = culture_arathi
+religion = religion_church_of_the_light 
  
 hre = no 
 trade_goods = artifacts
@@ -54,3 +54,13 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome 
+
+# The Frozen Throne
+618.1.1 = { 
+add_core = E28
+controller = E28
+owner = E28
+culture = culture_air
+religion = religion_al_akir
+}
+
