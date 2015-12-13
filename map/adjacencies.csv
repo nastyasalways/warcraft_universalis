@@ -11,6 +11,9 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 717;2178;sea;287;-1;-1;-1;-1;Three Corners do Darkened Retreat (Elwynn – Duskwood)
 800;669;sea;1220;-1;-1;-1;-1;Stonewatch do Renders Valley (Redridge)
 784;618;sea;281;-1;-1;-1;-1;Mortwake Tower do Addle Stead (Westfall – Duskwood)
+614;597;sea;310;-1;-1;-1;-1;Twilight Shore do Highbank (Twilight Highlands)
+878;613;sea;1205;-1;-1;-1;-1;Twilight Breach do Crucible of Carnage (Twilight Highlands)
+755;701;sea;1202;-1;-1;-1;-1;Dragonmaw Port do Gorshak War Camp (Twilight Highlands)
 1699;1704;;;;;;;Path to Netherstorm to Ruins of Enkatt
 1704;1705;;;;;;;Ruins of Enkatt to Manaforge
 1704;1710;;;;;;;Ruins of Enkatt to Eco-Dome Midrealm

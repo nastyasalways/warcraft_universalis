@@ -1,5 +1,9 @@
-# 701
+# 701 Gorshak War Camp
 is_city = yes
+
+owner = A28
+controller = A28
+add_core = A28
 
 base_tax = 2
 base_manpower = 2
