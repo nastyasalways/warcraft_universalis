@@ -1,23 +1,19 @@
-# 962
-
+# 962 Purgation Isle
 is_city = yes
 
-add_core = E51
-owner = E51
-controller = E51
-capital = "Torn Fin Wreck"
+add_core = A14
+owner = A14
+controller = A14
 
 base_tax = 2
-base_manpower = 2
-base_production = 2
+base_manpower = 3
+base_production = 3
 
-culture = culture_nerglish
-religion = religion_old_gods
-
+culture = culture_kul_tiran
+religion = religion_church_of_the_light
 
 hre = no 
 trade_goods = naval_supplies
-
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -58,6 +54,18 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# Rise of the Qiraj
+622.1.1 = { 
+owner = E51
+controller = E51
+add_core = E51
+capital = "Torn Fin Wreck"
+culture = culture_nerglish
+religion = religion_old_gods
+base_tax = 1
+base_manpower = 2
+base_production = 1
+}
 
 # Cataclysm
 631.1.1 = { 
@@ -66,9 +74,10 @@ controller = A12
 add_core = A12
 add_core = A29
 remove_core = E51
+remove_core = A14
 culture = culture_gilnean_worgen
 religion = religion_druidic
 capital = "Bloodfang Camp" 
+base_tax = 2
+base_production = 2
 }
-
-
