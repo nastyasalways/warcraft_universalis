@@ -1,10 +1,13 @@
-# 1991
+# 1991 Blackrock Valley
 is_city = no
 
 base_tax = 3
 base_manpower = 3
 base_production = 3
 
+owner = A30
+controller = A30
+add_core = A30
 
 culture = culture_dark_iron
 religion = religion_ragnaros
@@ -52,14 +55,19 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 # Fall of Stormwind
-597.1.1 = { owner = A41
+597.1.1 = {
+owner = A41
 controller = A41
 add_core = A41
 add_core = F01
 culture = culture_stonespire
-religion = religion_geomancy }
+religion = religion_geomancy
+}
 
 # Beyond the Dark Portal
-600.1.1 = { add_core = A65
+600.1.1 = {
+add_core = A65
 owner = F01
-controller = F01 }
+controller = F01
+}
+

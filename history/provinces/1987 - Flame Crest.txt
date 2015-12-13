@@ -1,9 +1,14 @@
-# 1987
+# 1987 Flame Crest
 is_city = yes
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
+
+owner = E26
+controller = E26
+add_core = E26
+add_core = A30
 
 culture = culture_fire
 religion = religion_ragnaros
@@ -61,11 +66,6 @@ religion = religion_fel
 
 # Beyond the Dark Portal
 600.1.1 = { 
-owner = XXX
-controller = XXX
-}
-
-621.11.11 = { 
 owner = XXX
 controller = XXX
 }
