@@ -5,11 +5,6 @@ The aim of this mod is to recreate the lore from Blizzard Entertainment's Warcra
 
 Allowing for a unique EU4 experience where the player does not simply play at altering the course of history but is in fact steeped in a whole other fictional universe filled with magic, demons, dragons and fantasy whilst retaining a very Europa Universalis feel. 
 
-Visit the Paradoxplaza forums for [discussion](https://forum.paradoxplaza.com/forum/index.php?threads/mod-warcraft-universalis-offical-thread.747368/) (requires you to own a copy of Europa Universalis 4 before you can view the thread).
-
-## Documentation
-If you want to learn about the contents of Warcraft Universalis, look at our [wiki](https://github.com/vawser/warcraft_universalis/wiki).
-
 ### Installing 
 1. Download the latest release.
 2. Go to **\Documents\Paradox Interactive\Europa Universalis IV\mod\**

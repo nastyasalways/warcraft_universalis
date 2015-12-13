@@ -1,0 +1,23 @@
+Capital_City = {
+	location=543
+	members = {
+		543 648 528 1928 931 931 1927 1926 1925 560 646 727 662
+	}
+	end=yes
+}
+
+Sepulcher = {
+	location=671
+	outgoing = {
+		name="Capital_City"
+		path = {
+			543
+		}
+		control = {
+			3867.000000 1251.000000
+		}
+	}
+	members = {
+		671 746 663 677 711 731
+	}
+}
