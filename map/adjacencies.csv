@@ -1,9 +1,9 @@
 From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
-874;1933;sea;265;-1;-1;-1;-1;Thandol Span do Dun Mord
-927;525;sea;246;-1;-1;-1;-1;Gilneas do Northgate Woods
-927;774;sea;246;-1;-1;-1;-1;Gilneas do Keel Harbour
-927;820;sea;246;-1;-1;-1;-1;Gilneas do Blackwald
-1586;1035;sea;300;-1;-1;-1;-1;Draenor do Azeroth (dark portal)
+874;1933;sea;265;-1;-1;-1;-1;Thandol Span do Dun Mord (Arathi Highlands-Wetlands)
+927;525;sea;246;-1;-1;-1;-1;Gilneas do Northgate Woods (Gilneas)
+927;774;sea;246;-1;-1;-1;-1;Gilneas do Keel Harbour (Gilneas)
+927;820;sea;246;-1;-1;-1;-1;Gilneas do Blackwald (Gilneas)
+1586;1035;sea;300;-1;-1;-1;-1;Draenor do Azeroth (Dark Portal)
 603;1058;sea;1215;-1;-1;-1;-1;Westbrook do Goldshire  (Elwynn)
 1058;922;sea;284;-1;-1;-1;-1;Westbrook do Jansen Stead  (Elwynn – Westfall)
 2200;619;sea;1214;-1;-1;-1;-1;Northshire Abbey do Northshire Hills  (Elwynn)
@@ -14,6 +14,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 614;597;sea;310;-1;-1;-1;-1;Twilight Shore do Highbank (Twilight Highlands)
 878;613;sea;1205;-1;-1;-1;-1;Twilight Breach do Crucible of Carnage (Twilight Highlands)
 755;701;sea;1202;-1;-1;-1;-1;Dragonmaw Port do Gorshak War Camp (Twilight Highlands)
+1125;1026;sea;1183;-1;-1;-1;-1;Stormfeather do Seradane (Hinterlands)
 1699;1704;;;;;;;Path to Netherstorm to Ruins of Enkatt
 1704;1705;;;;;;;Ruins of Enkatt to Manaforge
 1704;1710;;;;;;;Ruins of Enkatt to Eco-Dome Midrealm
