@@ -4,6 +4,13 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 927;774;sea;246;-1;-1;-1;-1;Gilneas do Keel Harbour
 927;820;sea;246;-1;-1;-1;-1;Gilneas do Blackwald
 1586;1035;sea;300;-1;-1;-1;-1;Draenor do Azeroth (dark portal)
+603;1058;sea;1215;-1;-1;-1;-1;Westbrook do Goldshire  (Elwynn)
+1058;922;sea;284;-1;-1;-1;-1;Westbrook do Jansen Stead  (Elwynn – Westfall)
+2200;619;sea;1214;-1;-1;-1;-1;Northshire Abbey do Northshire Hills  (Elwynn)
+2147;2148;sea;1217;-1;-1;-1;-1;Westvale do Eastvale Path (Elwynn)
+717;2178;sea;287;-1;-1;-1;-1;Three Corners do Darkened Retreat (Elwynn – Duskwood)
+800;669;sea;1220;-1;-1;-1;-1;Stonewatch do Renders Valley (Redridge)
+784;618;sea;281;-1;-1;-1;-1;Mortwake Tower do Addle Stead (Westfall – Duskwood)
 1699;1704;;;;;;;Path to Netherstorm to Ruins of Enkatt
 1704;1705;;;;;;;Ruins of Enkatt to Manaforge
 1704;1710;;;;;;;Ruins of Enkatt to Eco-Dome Midrealm
