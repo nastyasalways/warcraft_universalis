@@ -1,17 +1,19 @@
 Capital_City = {
 	location=543
+	inland=yes
+	end=yes
 	members = {
 		543 648 528 1928 931 931 1927 1926 1925 560 646 727 662
 	}
-	end=yes
 }
 
 Sepulcher = {
 	location=671
+	inland=yes
 	outgoing = {
 		name="Capital_City"
 		path = {
-			543
+			746 677 648 543
 		}
 		control = {
 			3867.000000 1251.000000
@@ -19,5 +21,22 @@ Sepulcher = {
 	}
 	members = {
 		671 746 663 677 711 731
+	}
+}
+
+Scarlet_Monastery = {
+	location=979
+	inland=yes
+	outgoing = {
+		name="Capital_City"
+		path = {
+			1044 740 1928 543
+		}
+		control = {
+			3983.000000 1374.000000 3984.000000 1329.000000 3954.000000 1309.000000
+		}
+	}
+	members = {
+		979 1044 1015 964 740 1923
 	}
 }
