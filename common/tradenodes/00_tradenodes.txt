@@ -40,3 +40,63 @@ Scarlet_Monastery = {
 		979 1044 1015 964 740 1923
 	}
 }
+
+Dalaran = {
+	location=863
+	inland=yes
+	outgoing = {
+		name="Sepulcher"
+		path = {
+			746 671
+		}
+		control = {
+			3881.000000 1222.000000
+		}
+	}
+	members = {
+		863 672 686 702 720 685 1924
+	}
+}
+
+Alterac = {
+	location=773
+	inland=yes
+	outgoing = {
+		name="Dalaran"
+		path = {
+			1010 863
+		}
+		control = {
+			3976.000000 1162.000000
+		}
+	}
+	members = {
+		773 756 943 556 1010 518 538 591 607
+	}
+}
+
+Southshore = {
+	location=991
+	inland=yes
+	outgoing = {
+		name="Dalaran"
+		path = {
+			959 863
+		}
+		control = {
+			3958.000000 1140.000000
+		}
+	}
+	outgoing = {
+		name="Alterac"
+		path = {
+			1027 518 773
+		}
+		control = {
+			4024.000000 1132.000000 4000.000000 1171.000000
+		}
+	}
+	members = {
+		991 976 959 1027 741 721 845 1931
+	}
+}

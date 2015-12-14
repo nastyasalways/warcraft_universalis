@@ -2,7 +2,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 874;1933;sea;265;-1;-1;-1;-1;Thandol Span do Dun Mord (Arathi Highlands-Wetlands)
 927;525;sea;246;-1;-1;-1;-1;Gilneas do Northgate Woods (Gilneas)
 927;774;sea;246;-1;-1;-1;-1;Gilneas do Keel Harbour (Gilneas)
-927;820;sea;246;-1;-1;-1;-1;Gilneas do Blackwald (Gilneas)
+927;908;sea;246;-1;-1;-1;-1;Gilneas do Gilnean Fields (Gilneas)
 1586;1035;sea;300;-1;-1;-1;-1;Draenor do Azeroth (Dark Portal)
 603;1058;sea;1215;-1;-1;-1;-1;Westbrook do Goldshire  (Elwynn)
 1058;922;sea;284;-1;-1;-1;-1;Westbrook do Jansen Stead  (Elwynn – Westfall)
@@ -15,22 +15,26 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 878;613;sea;1205;-1;-1;-1;-1;Twilight Breach do Crucible of Carnage (Twilight Highlands)
 755;701;sea;1202;-1;-1;-1;-1;Dragonmaw Port do Gorshak War Camp (Twilight Highlands)
 1125;1026;sea;1183;-1;-1;-1;-1;Stormfeather do Seradane (Hinterlands)
-1699;1704;;;;;;;Path to Netherstorm to Ruins of Enkatt
-1704;1705;;;;;;;Ruins of Enkatt to Manaforge
-1704;1710;;;;;;;Ruins of Enkatt to Eco-Dome Midrealm
-1704;1711;;;;;;;Ruins of Enkatt to Stormspire
-1702;1710;;;;;;;Area 52 to Eco-Dome Midrealm
-1703;1710;;;;;;;Arklon Ruins to Eco-Dome Midrealm
-1703;1706;;;;;;;Arklon Ruins to Manaforge Coruu
-1707;1709;;;;;;;Sunfury Hold to Manaforge Duro
-1709;1717;;;;;;;Manaforge Duro to Tempest Keep
-1709;1716;;;;;;;Manaforge Duro to Celestial Ridge
-1709;1715;;;;;;;Manaforge Duro to Manaforge Ultris
-1710;1715;;;;;;;Eco-Dome Midrealm to Manaforge Ultris
-1710;1711;;;;;;;Eco-Dome Midrealm to Stormspire
-1715;1714;;;;;;;Manaforge Ultris to Ruins of Farahlon
-1715;1711;;;;;;;Manaforge Ultris to Stormspire
-1705;1711;;;;;;;Manafroge Ara to Stormspire
-1666;1673;;;;;;;Sanctum of the Stars to Netherwing Ledge
-1672;1673;;;;;;;Dragonmaw Fortress to Netherwing Ledge
+721;1027;sea;257;-1;-1;-1;-1;Eastpoint Tower do Southshore Crossing (Hillsbrad)
+688;591;sea;261;-1;-1;-1;-1;Andorhal do Chillwind Camp (W. Plaguelands)
+688;607;sea;261;-1;-1;-1;-1;Andorhal do Uthers Tomb (W. Plaguelands)
+843;875;sea;264;-1;-1;-1;-1;Gahrrons Withering do Marris Stead (W. Plaguelands – E. Plaguelands)
+1699;1704;;;-1;-1;-1;-1;Path to Netherstorm to Ruins of Enkatt
+1704;1705;;;-1;-1;-1;-1;Ruins of Enkatt to Manaforge
+1704;1710;;;-1;-1;-1;-1;Ruins of Enkatt to Eco-Dome Midrealm
+1704;1711;;;-1;-1;-1;-1;Ruins of Enkatt to Stormspire
+1702;1710;;;-1;-1;-1;-1;Area 52 to Eco-Dome Midrealm
+1703;1710;;;-1;-1;-1;-1;Arklon Ruins to Eco-Dome Midrealm
+1703;1706;;;-1;-1;-1;-1;Arklon Ruins to Manaforge Coruu
+1707;1709;;;-1;-1;-1;-1;Sunfury Hold to Manaforge Duro
+1709;1717;;;-1;-1;-1;-1;Manaforge Duro to Tempest Keep
+1709;1716;;;-1;-1;-1;-1;Manaforge Duro to Celestial Ridge
+1709;1715;;;-1;-1;-1;-1;Manaforge Duro to Manaforge Ultris
+1710;1715;;;-1;-1;-1;-1;Eco-Dome Midrealm to Manaforge Ultris
+1710;1711;;;-1;-1;-1;-1;Eco-Dome Midrealm to Stormspire
+1715;1714;;;-1;-1;-1;-1;Manaforge Ultris to Ruins of Farahlon
+1715;1711;;;-1;-1;-1;-1;Manaforge Ultris to Stormspire
+1705;1711;;;-1;-1;-1;-1;Manafroge Ara to Stormspire
+1666;1673;;;-1;-1;-1;-1;Sanctum of the Stars to Netherwing Ledge
+1672;1673;;;-1;-1;-1;-1;Dragonmaw Fortress to Netherwing Ledge
 -1;-1;;-1;-1;-1;-1;-1;-1
