@@ -1,4 +1,4 @@
-# The Scourge
+# The Scourge (Northrend)
 government = scourge_horde
 government_rank = 3
 mercantilism = 0.1 
@@ -13,19 +13,30 @@ capital = 1268
 	{ 
 		name = "Ner'zhul"
 		dynasty = "Shadowmoon" 	
-		adm = 4
+		adm = 6
 		dip = 5	
-		mil = 4	
+		mil = 1	
 	}  
-} 
+}
 
 622.1.1 = { 
 	monarch =
 	{ 
 		name = "Arthas" 
 		dynasty = "Menethil" 	
-		adm = 4
-		dip = 4	
-		mil = 5
+		adm = 5
+		dip = 3
+		mil = 6
 	}  
-} 
+}
+
+631.1.1 = { 
+	monarch =
+	{ 
+		name = "Bolvar" 
+		dynasty = "Fordragon" 	
+		adm = 5
+		dip = 3	
+		mil = 4
+	}  
+}
