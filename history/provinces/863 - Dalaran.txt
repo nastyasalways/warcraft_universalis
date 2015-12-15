@@ -1,4 +1,4 @@
-# 863
+# 863 Dalaran
 is_city = yes
 controller = A18
 owner = A18
@@ -62,7 +62,6 @@ capital = "Dalaran Ruins"
 owner = A25
 controller = A25
 add_core = A25
-culture = culture_lordaeron
 religion = religion_church_of_the_light 
 }
 
@@ -70,9 +69,6 @@ religion = religion_church_of_the_light
 622.1.1 = { 
 owner = A18
 controller = A18
-add_core = A18
-remove_core = A25
-culture = culture_dalaran
 religion = religion_arcane
 }
 

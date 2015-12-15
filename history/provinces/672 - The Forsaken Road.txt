@@ -1,4 +1,4 @@
-# 672
+# 672 The Forsaken Road
 is_city = yes 
 add_core = A12
 owner = A12
@@ -58,8 +58,6 @@ discovered_by = tech_gnome
 add_core = A08
 owner = A08
 controller = A08
-remove_core = A12
-culture = culture_lordaeron
 }
 
 # The Frozen Throne
@@ -92,10 +90,4 @@ add_core = E14
 remove_core = A13 
 culture = culture_forsaken
 religion = religion_forgotten_shadow 
-}
-
-632.1.1 = {  
-owner = XXX
-controller = XXX
-remove_core = E14 
 }

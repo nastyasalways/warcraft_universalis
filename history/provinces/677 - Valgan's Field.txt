@@ -1,17 +1,13 @@
-# 677
+# 677 Valgans Field
 is_city = yes
 add_core = A08
 owner = A08
 controller = A08
-capital = "Valgan's Farmstead"
 
 base_tax = 3
 base_manpower = 2
 base_production = 3
 
-is_city = yes 
-
- 
 culture = culture_lordaeron
 religion = religion_church_of_the_light
  
@@ -69,8 +65,6 @@ add_core = A25
 owner = A13
 controller = A13
 add_core = A13
-remove_core = A08
-remove_core = A25
 culture = culture_gilnean_worgen
 religion = religion_shadow 
 }
@@ -83,4 +77,11 @@ controller = XXX
 remove_core = A13 
 }
 
-
+# Pandaria
+632.1.1 = { 
+owner = E14
+controller = E14
+add_core = E14
+culture = culture_forsaken
+religion = religion_forgotten_shadow
+}

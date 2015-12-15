@@ -27,7 +27,7 @@ region_tirisfal_glades = {
 }
 
 region_silverpine_forest = {
-	648 731 677 711 663 746 671 702 672 686 685 1924 720 
+	648 731 677 711 663 746 671 702 672 686 685 1924 720 2959 2960 2961 2962 2963
 }
 
 region_hillsbrad_foothills = {
