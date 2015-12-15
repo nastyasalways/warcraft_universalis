@@ -1,4 +1,4 @@
-# 560
+# 560 Agamand Mills
 is_city = yes
 add_core = A08
 owner = A08
@@ -7,7 +7,6 @@ controller = A08
 base_tax = 3
 base_manpower = 2
 base_production = 3
-
 
 culture = culture_lordaeron
 religion = religion_church_of_the_light
@@ -56,28 +55,14 @@ discovered_by = tech_gnome
 
 # The Frozen Throne
 618.1.1 = { 
-add_core = E14
-owner = E14
-controller = E14
-religion = religion_forgotten_shadow
-culture = culture_forsaken 
+add_core = E52
+owner = E52
+controller = E52
+culture = culture_scourge
+religion = religion_the_damned 
 } 
 
 # Rise of the Qiraji
 622.1.1 = { 
-add_core = E52
-remove_core = E14
-remove_core = A08
-owner = E52
-controller = E52
-religion = religion_the_damned
-culture = culture_scourge 
-}
-
-# Cataclysm
-631.1.1 = { 
-add_core = E12
-remove_core = E52
-owner = E12 
-controller = E12
+add_core = A22
 }

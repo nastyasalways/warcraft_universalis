@@ -1,4 +1,4 @@
-# 1925
+# 1925 Calston Estane
 is_city = yes
 add_core = A08
 owner = A08
@@ -8,14 +8,12 @@ base_tax = 2
 base_manpower = 2
 base_production = 2
 
- 
 culture = culture_lordaeron
 religion = religion_church_of_the_light
  
 hre = no 
 trade_goods = grain
 
- 
 discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian
@@ -66,22 +64,9 @@ religion = religion_geomancy
 
 # Rise of the Qiraji
 622.1.1 = { 
-owner = XXX
-controller = XXX
-culture = culture_forsaken
-religion = religion_forgotten_shadow
-remove_core = E50
-remove_core = A08  
-}
-
-630.11.11 = { 
-owner = XXX
-controller = XXX 
-}
-
-# Cataclysm
-631.1.1 = { 
 add_core = E14
 owner = E14
 controller = E14
+culture = culture_forsaken
+religion = religion_forgotten_shadow
 }

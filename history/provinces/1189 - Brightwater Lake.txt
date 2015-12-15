@@ -1,19 +1,15 @@
-# 1923
-is_city = yes
-add_core = A09
-owner = A09
-controller = A09
+# 1189 Brightwater Lake
+is_city = no
 
-base_tax = 2
-base_manpower = 2
-base_production = 2
+base_tax = 1
+base_manpower = 1
+base_production = 1
 
+culture = noculture
+religion = noreligion
 
-culture = culture_lordaeron
-religion = religion_church_of_the_light
- 
-hre = no 
-trade_goods = army_supplies
+hre = no
+trade_goods = grain
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -53,31 +49,3 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
- 
-# The Third War
-617.1.1 = { add_core = E52
-owner = E52
-controller = E52
-culture = culture_scourge
-religion = religion_the_damned }
-
-# The Frozen Throne
-618.1.1 = { add_core = F15
-remove_core = E52
-owner = F15
-controller = F15
-religion = religion_fel}
-
-# Rise of the Qiraji
-622.1.1 = { add_core = A24
-remove_core = F15
-remove_core = A09
-owner = A24
-controller = A24
-add_core = E14
-religion = religion_argent_light
-culture = culture_lordaeron }
-
-626.1.1 = { add_core = F19
-owner = F19
-controller = F19 }

@@ -1,15 +1,17 @@
-# 2958
-is_city = no
+# 4098 Agamands Crossing
+is_city = yes
+add_core = A08
+owner = A08
+controller = A08
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
-
-culture = noculture
-religion = noreligion
-
-hre = no
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
 trade_goods = grain
 
 discovered_by = tech_human
@@ -51,3 +53,29 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Frozen Throne
+618.1.1 = { 
+add_core = E14
+owner = E14
+controller = E14
+culture = culture_forsaken
+religion = religion_forgotten_shadow
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+owner = A22
+controller = A22
+add_core = A22
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+}
+
+# Cataclysm
+631.1.1 = { 
+add_core = E14
+owner = E14
+controller = E14
+culture = culture_forsaken
+religion = religion_forgotten_shadow
+}

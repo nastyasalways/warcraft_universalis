@@ -1,9 +1,8 @@
-# 1926
+# 1926 Nightmare Vale
 is_city = yes
 add_core = A08
 owner = A08
 controller = A08
-
 
 base_tax = 2
 base_manpower = 2
@@ -55,13 +54,16 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 # The Frozen Throne
-618.1.1 = { add_core = F16
+618.1.1 = {
+add_core = F16
 controller = F16
-owner = F16 }
+owner = F16
+}
 
 # Rise of the Qiraji
-622.1.1 = { controller = XXX
-owner = XXX
-culture = culture_scourge
-religion = religion_shadow
+622.1.1 = {
+controller = A22
+owner = A22
+add_core = A22
+remove_core = F16
 }

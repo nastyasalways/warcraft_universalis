@@ -1,16 +1,18 @@
-# 2956
-is_city = no
+# 2958 Argent Bulwark
+is_city = yes
+add_core = A08
+owner = A08
+controller = A08
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
-
-culture = noculture
-religion = noreligion
-
-hre = no
-trade_goods = grain
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = army_supplies
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -50,4 +52,39 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
+ 
+# The Third War
+617.1.1 = {
+add_core = E52
+owner = E52
+controller = E52
+culture = culture_scourge
+religion = religion_the_damned
+}
 
+# The Frozen Throne
+618.1.1 = {
+add_core = F15
+owner = F15
+controller = F15
+religion = religion_fel
+}
+
+# Rise of the Qiraji
+622.1.1 = {
+add_core = A24
+remove_core = F15
+owner = A24
+controller = A24
+add_core = E14
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+base_tax = 2
+base_manpower = 2
+}
+
+626.1.1 = {
+add_core = F19
+owner = F19
+controller = F19
+}
