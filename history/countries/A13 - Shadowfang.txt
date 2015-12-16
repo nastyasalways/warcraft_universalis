@@ -8,33 +8,28 @@ capital = 648
 
 618.1.1 = { 
 
-	monarch =
-	{ 
-		name = "Arugal" 
-			 
+	monarch = { 
+		name = "Arugal"  
 		dynasty = "of Dalaran" 
 				
 		adm = 3		
 		dip = 3	
 		mil = 3	
-	} 
-} 
+	}
+}
 
 
-631.1.1 = { 
-	monarch =
-	{ 
-		name = "Vincent" 
-			 
+631.1.1 = {
+	monarch = { 
+		name = "Vincent"  
 		dynasty = "Godfrey" 
 				
 		adm = 3		
 		dip = 3	
 		mil = 3	
-	} 
+	}
 
 	government = military_dictat
 	primary_culture = culture_forsaken 
 	technology_group = tech_undead
-} 
-
+}

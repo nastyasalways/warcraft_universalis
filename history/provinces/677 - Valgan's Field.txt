@@ -69,19 +69,20 @@ culture = culture_gilnean_worgen
 religion = religion_shadow 
 }
 
-
 # Cataclysm
 631.1.1 = { 
-owner = XXX
-controller = XXX
+owner = F53
+controller = F53
+add_core = F53
+add_core = E14
 remove_core = A13 
+religion = religion_church_of_the_light
 }
 
 # Pandaria
 632.1.1 = { 
 owner = E14
 controller = E14
-add_core = E14
 culture = culture_forsaken
 religion = religion_forgotten_shadow
 }

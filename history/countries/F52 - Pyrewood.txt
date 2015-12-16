@@ -1,5 +1,4 @@
 # Pyrewood
-
 government = military_dictat
 mercantilism = 0.1 
 technology_group = tech_human
@@ -18,13 +17,13 @@ monarch = {
  	} 
  } 
 
-625.1.1 = { 
+625.1.1 = {
 government_rank = 1
-monarch = { 
+monarch = {
      name = "Pyrewood Council"  
 		adm = 1
 		dip = 2
 		mil = 0
         regent = yes
- 	} 
- } 
+ 	}
+} 

@@ -397,6 +397,7 @@ E29 = "countries/Wolfcult.txt"
 E30 = "countries/Silverbrook.txt"
 E31 = "countries/Nightbane.txt"
 E32 = "countries/White Pine.txt"
+F53 = "countries/Bloodfang.txt"
 
 # Mantid
 E33 = "countries/Klaxxivess.txt"

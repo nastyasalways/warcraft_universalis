@@ -82,9 +82,9 @@ religion = religion_shadow
 
 # Cataclysm
 631.1.1 = { 
-owner = XXX
-controller = XXX
+owner = F53
+controller = F53
+add_core = F53
 remove_core = A13 
+religion = religion_church_of_the_light
 }
-
-
