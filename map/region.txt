@@ -31,7 +31,7 @@ region_silverpine_forest = {
 }
 
 region_hillsbrad_foothills = {
-	756 943 773 556 538 518 1010 959 976 991 1027 741 721 845 863
+	756 943 773 556 538 518 1010 959 976 991 1027 741 721 845 863 2964 2965 2966
 }
 
 region_gilneas = {

@@ -1,8 +1,9 @@
-# 518
+# 518 Corrahn's Dagger
 is_city = yes
 owner = B14
 controller = B14
 add_core = B14
+add_core = A17
 capital = "Mudsnout Den"
 
 base_tax = 2
@@ -54,13 +55,23 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Frozen Throne
+618.1.1 = { 
+owner = E52
+controller = E52
+add_core = E52
+religion = religion_the_damned
+culture = culture_scourge
+}
 
 # Rise of the Qiraji
 622.1.1 = { 
 owner = A26
 controller = A26
 add_core = A26
-remove_core = B14 
+add_core = E14
+remove_core = B14
+remove_core = E52
 culture = culture_alterac
 religion = religion_church_of_the_light
 capital = "Syndicate Camp"
@@ -71,15 +82,15 @@ capital = "Syndicate Camp"
 owner = A29
 controller = A29
 add_core = A29
-remove_core = A26
 culture = culture_ironforge
 capital = "Stormpike Camp" 
 }
 
+# Mists of Pandaria
 632.1.1 = { 
-owner = XXX 
-controller = XXX
+owner = E14
+controller = E14
+religion = religion_forgotten_shadow
+culture = culture_forsaken
 capital = "Sofera's Naze" 
 }
-
-

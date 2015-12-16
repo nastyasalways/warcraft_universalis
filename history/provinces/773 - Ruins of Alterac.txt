@@ -1,15 +1,14 @@
-# 773
+# 773 Alterac City
 is_city = yes
 add_core = A17
 owner = A17
 controller = A17
 
-base_tax = 6
+base_tax = 7
 base_manpower = 6
 base_production = 6
 
 capital = "Alterac City"
-
 
 culture = culture_alterac
 religion = religion_church_of_the_light
@@ -56,14 +55,12 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
  
-
 # Beyond the Dark Portal
 600.1.1 = { 
 owner = A41
 controller = A41
 add_core = A41
 add_core = A26
-remove_core = A17
 culture = culture_blackrock
 religion = religion_fel
 capital = "Alterac Ruins" 
@@ -71,17 +68,12 @@ capital = "Alterac Ruins"
 
 # The Frozen Throne
 618.1.1 = { 
-owner = E52 
-controller = E52
-add_core = E52
+owner = E12
+controller = E12
+add_core = E12
 remove_core = A41
 religion = religion_the_damned
-culture = culture_scourge 
-}
-
-621.11.11 = { 
-owner = XXX 
-controller = XXX 
+culture = culture_cultist
 }
 
 # Rise of the Qiraji
@@ -89,9 +81,7 @@ controller = XXX
 owner = E50
 controller = E50
 add_core = E50
-remove_core = E52
+remove_core = E12
 culture = culture_crushridge
 religion = religion_geomancy 
 }
-
-

@@ -53,9 +53,8 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-
-# The Third War
-617.1.1 = { 
+# Beyond the Dark Portal
+600.1.1 = { 
 owner = A08
 controller = A08
 add_core = A08
@@ -66,11 +65,11 @@ add_core = A08
 owner = F40
 controller = F40
 add_core = F40
-remove_core = A08
 }
 
 # Rise of the Qiraji
-622.1.1 = { owner = A26
+622.1.1 = {
+owner = A26
 controller = A26
 add_core = A26
 remove_core = F40

@@ -59,6 +59,7 @@ discovered_by = tech_gnome
 owner = A08
 controller = A08
 add_core = A08
+remove_core = A12
 }
 
 # The Frozen Throne

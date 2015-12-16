@@ -11,7 +11,6 @@ base_production = 3
 
 capital = "Gavin's Naze"
 
-
 culture = culture_alterac
 religion = religion_church_of_the_light
  
@@ -70,16 +69,12 @@ capital = "Blackrock Slave Camp"
 
 # The Frozen Throne
 618.1.1 = { 
-owner = XXX 
-controller = XXX
-religion = religion_church_of_the_light
-culture = culture_lordaeron 
+owner = E52
+controller = E52
+religion = religion_the_damned
+culture = culture_scourge
+add_core = E52
 remove_core = A41
-}
-
-621.11.11 = { 
-owner = XXX 
-controller = XXX 
 }
 
 # Rise of the Qiraji
@@ -87,7 +82,10 @@ controller = XXX
 owner = A26
 controller = A26
 add_core = A26
+add_core = E14
+remove_core = E52
 culture = culture_alterac
+religion = religion_church_of_the_light
 capital = "Syndicate Overlook" 
 }
 
@@ -100,8 +98,11 @@ culture = culture_ironforge
 capital = "Stormpike Overlook" 
 }
 
+# Mists of Pandaria
 632.1.1 = { 
-owner = XXX 
-controller = XXX
+owner = E14
+controller = E14
+religion = religion_forgotten_shadow
+culture = culture_forsaken
 capital = "Gavin's Naze" 
 }
