@@ -5,16 +5,18 @@ mercantilism = 0.1
 technology_group = tech_human
 religion= religion_church_of_the_light
 primary_culture = culture_lordaeron
-capital = 1
+culture = culture_dalaran
+culture = culture_gilnean
+capital = 863
 
 618.1.1 = { 
 government_rank = 2
 monarch = { 
      name = "Othmar" 
      dynasty = "Garithos" 
-		adm = 3
-		dip = 3
-		mil = 4 
+		adm = 4
+		dip = 2
+		mil = 5 
  	} 
  } 
 
@@ -24,7 +26,7 @@ monarch = {
      name = "Refugee Council"  
 		adm = 3
 		dip = 3
-		mil = 4 
-           regent = yes
+		mil = 3
+        regent = yes
  	} 
  } 

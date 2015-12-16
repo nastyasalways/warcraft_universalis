@@ -4,6 +4,7 @@ mercantilism = 0.1
 technology_group = tech_worgen
 religion= religion_shadow
 primary_culture = culture_gilnean_worgen
+capital = 648
 
 618.1.1 = { 
 
@@ -11,14 +12,12 @@ primary_culture = culture_gilnean_worgen
 	{ 
 		name = "Arugal" 
 			 
-		dynasty = "of Gilneas" 
+		dynasty = "of Dalaran" 
 				
 		adm = 3		
 		dip = 3	
 		mil = 3	
 	} 
-
-	capital = 648
 } 
 
 

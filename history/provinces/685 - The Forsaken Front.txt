@@ -1,4 +1,4 @@
-# 685 
+# 685 The Forsaken Front
 is_city = yes
 
 add_core = A12
@@ -68,15 +68,23 @@ controller = A25
 add_core = A25
 }
 
+# Rise of the Qiraji
+622.1.1 = { 
+owner = F52
+controller = F52
+add_core = F52
+add_core = E14
+}
+
 # Cataclysm
 631.1.1 = { 
 owner = E14
 controller = E14
-add_core = E14
 culture = culture_forsaken
 religion = religion_forgotten_shadow
 }
 
+# Mists of Pandaria
 632.1.1 = { 
 owner = A29
 controller = A29
