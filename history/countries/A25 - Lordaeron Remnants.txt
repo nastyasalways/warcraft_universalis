@@ -17,10 +17,32 @@ monarch = {
 		adm = 4
 		dip = 2
 		mil = 5 
- 	} 
- } 
+ 	}
+}
+
+618.5.1 = { 
+government_rank = 1
+monarch = { 
+     name = "Detheroc" 
+     dynasty = "the Nathrezim" 
+		adm = 1
+		dip = 4
+		mil = 2
+ 	}
+}
 
 620.1.1 = { 
+government_rank = 2
+monarch = { 
+     name = "Othmar" 
+     dynasty = "Garithos" 
+		adm = 4
+		dip = 2
+		mil = 5 
+ 	}
+}
+
+620.5.1 = { 
 government_rank = 1
 monarch = { 
      name = "Refugee Council"  
@@ -28,5 +50,5 @@ monarch = {
 		dip = 3
 		mil = 3
         regent = yes
- 	} 
- } 
+ 	}
+} 

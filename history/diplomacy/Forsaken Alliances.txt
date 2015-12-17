@@ -1,0 +1,16 @@
+#########################
+### The Frozen Throne ###
+#####################################################
+# Forsaken rescued Grand Marshal Garithos from		#
+# Dreadlord Insurgents and created some sort of		#
+# alliance with him to get back Lordaeron City.		#
+# After battle of Lordaeron Forsaken killed Garithos#
+# and destroyed Lordaeron Remnants					#	
+#####################################################
+# Forsaken - New Alliance
+alliance = {
+	first = E14
+	second = A25
+	start_date = 620.1.1
+	end_date = 620.5.1
+}

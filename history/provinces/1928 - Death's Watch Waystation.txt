@@ -63,8 +63,8 @@ culture = culture_scourge
 religion = religion_fel
 }
 
-# Rise of the Qiraji
-622.1.1 = { 
+# (War of Lordaeron)
+620.2.1 = { 
 add_core = E14
 owner = E14
 controller = E14
