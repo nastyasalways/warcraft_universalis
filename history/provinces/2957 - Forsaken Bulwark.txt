@@ -70,12 +70,16 @@ controller = F15
 religion = religion_fel
 }
 
-# Rise of the Qiraji
-622.1.1 = {
+# War of Lordaeron (TFT)
+620.4.1 = { 
+controller = E14
+}
+
+# War of Lordaeron (TFT)
+620.5.1 = {
 add_core = E14
 remove_core = F15
 owner = E14
-controller = E14
 culture = culture_forsaken
 religion = religion_forgotten_shadow
 base_manpower = 3

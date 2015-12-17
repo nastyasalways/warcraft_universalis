@@ -63,8 +63,13 @@ culture = culture_shadowglen
 religion = religion_loa
 }
 
-# Rise of the Qiraji
-622.1.1 = {
+# War of Lordaeron (TFT)
+619.11.1 = { 
+controller = F15
+}
+
+# War of Lordaeron (TFT)
+620.5.1 = {
 add_core = E14
 owner = E14
 controller = E14

@@ -63,8 +63,13 @@ culture = culture_scourge
 religion = religion_fel
 }
 
-# (War of Lordaeron)
-620.2.1 = { 
+# War of Lordaeron (TFT)
+620.3.1 = { 
+controller = E14
+}
+
+# War of Lordaeron (TFT)
+620.5.1 = { 
 add_core = E14
 owner = E14
 controller = E14

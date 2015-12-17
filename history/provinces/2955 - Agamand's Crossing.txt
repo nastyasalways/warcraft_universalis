@@ -62,6 +62,11 @@ culture = culture_forsaken
 religion = religion_forgotten_shadow
 }
 
+# War of Lordaeron (TFT)
+619.12.1 = {
+controller = E52
+}
+
 # Rise of the Qiraji
 622.1.1 = { 
 owner = A22

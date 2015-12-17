@@ -63,6 +63,11 @@ culture = culture_crushridge
 religion = religion_geomancy
 }
 
+# War of Lordaeron (TFT)
+620.6.1 = {
+controller = E52
+}
+
 # Rise of the Qiraji
 622.1.1 = { 
 add_core = E14

@@ -64,6 +64,16 @@ culture = culture_nerglish
 religion = religion_old_gods
 }
 
+# War of Lordaeron (TFT)
+620.1.1 = { 
+controller = F15
+}
+
+# War of Lordaeron (TFT)
+620.5.1 = {
+controller = E52
+}
+
 # Rise of the Qiraji
 622.1.1 = { 
 religion = religion_scarlet_light

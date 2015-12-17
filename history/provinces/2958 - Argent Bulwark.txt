@@ -70,6 +70,11 @@ controller = F15
 religion = religion_fel
 }
 
+# War of Lordaeron (TFT)
+620.7.1 = {
+controller = E52
+}
+
 # Rise of the Qiraji
 622.1.1 = {
 add_core = A24

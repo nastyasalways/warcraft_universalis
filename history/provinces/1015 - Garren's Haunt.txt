@@ -63,9 +63,15 @@ culture = culture_rothide
 religion = religion_ancestral
 }
 
+# War of Lordaeron (TFT)
+619.12.1 = {
+controller = E52
+}
+
 # Rise of the Qiraji
 622.1.1 = {
 religion = religion_the_damned
+controller = E14
 }
 
 # Cataclysm

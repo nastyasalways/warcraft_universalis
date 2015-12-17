@@ -20,7 +20,7 @@ vassal = {
 	first = E14
 	second = E55
 	start_date = 619.1.1
-	end_date = 622.1.1
+	end_date = 620.7.1
 }
 
 # Forsaken - Crushridge

@@ -4,7 +4,7 @@ mercantilism 		= 0.1
 technology_group 	= tech_undead
 religion			= religion_forgotten_shadow
 primary_culture 	= culture_forsaken
-capital 			= 1
+capital 			= 931
 
 
 618.1.1 = { 
@@ -14,7 +14,11 @@ capital 			= 1
 		adm = 4
 		dip = 4
 		mil = 5
-                female = yes
+        female = yes
                 
 	} 
+}
+
+620.6.1 = {
+capital = 543
 }
