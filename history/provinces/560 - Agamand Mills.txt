@@ -61,8 +61,3 @@ controller = E52
 culture = culture_scourge
 religion = religion_the_damned 
 } 
-
-# Rise of the Qiraji
-622.1.1 = { 
-add_core = A22
-}

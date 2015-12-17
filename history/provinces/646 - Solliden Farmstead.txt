@@ -1,10 +1,10 @@
-# 646
+# 646 Solliden Farmstead
 is_city = yes
 add_core = A08
 owner = A08
 controller = A08
 
-base_tax = 3
+base_tax = 2
 base_manpower = 3
 base_production = 3
 
@@ -64,7 +64,6 @@ controller = F17
 622.1.1 = { 
 add_core = A22
 remove_core = F17
-remove_core = A08
 religion = religion_scarlet_light
 owner = A22 
 controller = A22

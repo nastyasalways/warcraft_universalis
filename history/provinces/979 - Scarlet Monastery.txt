@@ -1,13 +1,12 @@
-# 979
+# 979 Scarlet Monastery
 is_city = yes
 add_core = A08
 owner = A08
 controller = A08
 
-base_tax = 4
-base_manpower = 4
-base_production = 4
-
+base_tax = 3
+base_manpower = 5
+base_production = 3
 
 culture = culture_lordaeron
 religion = religion_church_of_the_light
@@ -66,7 +65,6 @@ controller = F17
 owner = A22
 controller = A22 
 add_core = A22
-remove_core = A08
 remove_core = F17
 religion = religion_scarlet_light
 }

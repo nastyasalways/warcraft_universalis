@@ -68,7 +68,7 @@ owner = A22
 controller = A22
 add_core = A22
 culture = culture_lordaeron
-religion = religion_church_of_the_light
+religion = religion_scarlet_light
 }
 
 # Cataclysm

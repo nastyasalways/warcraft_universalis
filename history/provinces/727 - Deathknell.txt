@@ -1,4 +1,4 @@
-# 727 
+# 727 Deathkneel
 is_city = yes
 add_core = A08
 owner = A08
@@ -64,12 +64,9 @@ religion = religion_the_damned
 # The Frozen Throne
 618.1.1 = {
 add_core = E14
+add_core = E52
 owner = E14
 controller = E14
 culture = culture_forsaken
-religion = religion_forgotten_shadow }
-
-# Rise of the Qiraji
-622.1.1 = { 
-remove_core = A08 
+religion = religion_forgotten_shadow
 }

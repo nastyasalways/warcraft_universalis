@@ -1,4 +1,4 @@
-# 731
+# 731 Fenris Isle
 is_city = yes 
 add_core = A08
 owner = A08
@@ -66,8 +66,7 @@ add_core = A25
 owner = B19
 controller = B19
 add_core = B19
-remove_core = A08
-remove_core = A25
+add_core = E52
 culture = culture_rothide
 religion = religion_the_damned 
 }
@@ -81,5 +80,3 @@ remove_core = B19
 culture = culture_lordaeron_worgen
 religion = religion_church_of_the_light 
 }
-
-

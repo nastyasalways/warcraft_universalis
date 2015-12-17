@@ -75,7 +75,6 @@ culture = culture_scourge
 owner = A13
 controller = A13
 add_core = A13
-remove_core = E52
 culture = culture_gilnean_worgen
 religion = religion_shadow 
 }

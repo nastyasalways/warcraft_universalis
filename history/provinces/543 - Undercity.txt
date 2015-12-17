@@ -1,4 +1,4 @@
-# 543
+# 543 Capital City
 is_city = yes
 
 add_core = A08
@@ -6,12 +6,10 @@ owner = A08
 controller = A08
 capital ="Lordaeron City"
 
-
-base_tax = 8
+base_tax = 9
 base_manpower = 8
-base_production = 8
+base_production = 7
 
- 
 culture = culture_lordaeron
 religion = religion_church_of_the_light
  
@@ -58,17 +56,22 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 # The Frozen Throne
-618.1.1 = { add_core = F15
+618.1.1 = {
+add_core = A25
+add_core = E14
+add_core = E52
+add_core = F15
 owner = F15
 controller = F15
 culture = culture_scourge
-religion = religion_fel }
+religion = religion_fel
+}
 
 # Rise of the Qiraji
-622.1.1 = { add_core = E14
+622.1.1 = {
 owner = E14
 controller = E14
 remove_core = F15
-remove_core = A08
 culture = culture_forsaken
-religion = religion_forgotten_shadow }
+religion = religion_forgotten_shadow
+}

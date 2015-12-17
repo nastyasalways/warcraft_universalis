@@ -69,6 +69,7 @@ religion = religion_arcane
 owner = A25
 controller = A25
 add_core = A25
+add_core = E52
 religion = religion_church_of_the_light
 }
 

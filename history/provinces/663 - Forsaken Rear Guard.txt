@@ -1,4 +1,4 @@
-# 663
+# 663 Forsaken Read Guard
 is_city = yes 
 
 add_core = A08
@@ -6,10 +6,9 @@ owner = A08
 controller = A08
 capital = "Tiderun Field"
 
-base_tax = 3
+base_tax = 2
 base_manpower = 2
 base_production = 3
-
  
 culture = culture_lordaeron
 religion = religion_church_of_the_light
@@ -70,8 +69,6 @@ culture = culture_scourge
 owner = B19
 controller = B19
 add_core = B19
-remove_core = A08
-remove_core = E52
 culture = culture_rothide
 religion = religion_the_damned
 capital = "The Dead Field" 
