@@ -74,6 +74,16 @@ religion = religion_the_damned
 culture = culture_scourge 
 }
 
+# Reconquest of Lordaeron (TFT)
+618.2.1 = { 
+controller = A25
+}
+
+# War of Lordaeron (TFT)
+620.9.1 = { 
+controller = E14
+}
+
 # Rise of the Qiraji
 622.1.1 = { 
 owner = E50

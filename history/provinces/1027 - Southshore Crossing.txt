@@ -79,6 +79,11 @@ religion = religion_the_damned
 culture = culture_scourge
 }
 
+# Defence of Thoradin Wall (TFT)
+620.7.1 = { 
+controller = A11
+}
+
 # Rise of the Qiraji (Southshore vs Tarren Mill?)
 622.1.1 = { 
 owner = XXX				

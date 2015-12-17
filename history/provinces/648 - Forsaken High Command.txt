@@ -62,6 +62,11 @@ controller = A25
 add_core = A25
 }
 
+# War of Lordaeron (TFT)
+620.7.1 = { 
+controller = E14
+}
+
 # Rise of the Qiraji
 622.1.1 = { 
 owner = E52
