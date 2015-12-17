@@ -67,10 +67,14 @@ add_core = E52
 controller = E52
 }
 
+# War of Lordaeron (TFT)
+620.9.1 = {
+controller = E14
+}
+
 # Rise of the Qiraji
 622.1.1 = { 
 owner = E14
-controller = E14
 add_core = E14
 culture = culture_forsaken
 religion = religion_forgotten_shadow
