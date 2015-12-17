@@ -1,23 +1,20 @@
 # 976 Western Strand
 
 is_city = yes
-add_core = A11
-owner = A11
-controller = A11
+add_core = A08
+owner = A08
+controller = A08
 capital = "Azurelode Mine"
 
 base_tax = 3
 base_manpower = 2
 base_production = 3
 
-
- 
 culture = culture_lordaeron
 religion = religion_church_of_the_light
  
 hre = no 
 trade_goods = gold
-
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -57,6 +54,29 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome 
+
+# Fall of Stormwind
+597.1.1 = { 
+owner = A01
+controller = A01
+add_core = A01
+culture = culture_azerothian 
+}
+
+# Beyond the Dark Portal
+600.1.1 = { 
+owner = A08
+controller = A08
+remove_core = A01
+culture = culture_lordaeron 
+}
+
+# The Frozen Throne
+618.1.1 = { 
+owner = A11
+controller = A11
+add_core = A11
+}
 
 # Cataclysm
 631.1.1 = { 

@@ -1,8 +1,8 @@
 # 845 Eastern Strand
 is_city = yes
-add_core = A11
-owner = A11
-controller = A11
+add_core = A08
+owner = A08
+controller = A08
 
 base_tax = 3
 base_manpower = 2
