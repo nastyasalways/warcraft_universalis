@@ -1,13 +1,16 @@
-# 2968
-is_city = no
+# 2969 Caer Darrow Pass
+is_city = yes
 
 base_tax = 1
 base_manpower = 1
-base_production = 1
+base_production = 0
 
+owner = A08
+controller = A08
+add_core = A08
 
-culture = noculture
-religion = noreligion
+culture = culture_lordaeron
+religion = religion_church_of_the_light
 
 hre = no
 trade_goods = grain
@@ -51,3 +54,11 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# Third War
+617.1.1 = { 
+owner = E12
+controller = E12
+add_core = E12
+religion = religion_the_damned
+culture = culture_scourge
+}

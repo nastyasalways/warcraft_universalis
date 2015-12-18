@@ -16,9 +16,11 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 755;701;sea;1202;-1;-1;-1;-1;Dragonmaw Port do Gorshak War Camp (Twilight Highlands)
 1125;1026;sea;1183;-1;-1;-1;-1;Stormfeather do Seradane (Hinterlands)
 721;1027;sea;257;-1;-1;-1;-1;Eastpoint Tower do Southshore Crossing (Hillsbrad)
+538;2967;sea;259;-1;-1;-1;-1;Tarren Mill do Chillwind Point (Hillsbrad)
 688;591;sea;261;-1;-1;-1;-1;Andorhal do Chillwind Camp (W. Plaguelands)
 688;607;sea;261;-1;-1;-1;-1;Andorhal do Uthers Tomb (W. Plaguelands)
 843;875;sea;264;-1;-1;-1;-1;Gahrrons Withering do Marris Stead (W. Plaguelands – E. Plaguelands)
+790;2969;sea;263;-1;-1;-1;-1;Scholomance do Caer Darrow Pass (W. Plaguelands)
 731;746;sea;1190;-1;-1;-1;-1;Fenris Isle do Decrepit Fields (Silverpine )
 1699;1704;;;-1;-1;-1;-1;Path to Netherstorm to Ruins of Enkatt
 1704;1705;;;-1;-1;-1;-1;Ruins of Enkatt to Manaforge

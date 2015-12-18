@@ -1,13 +1,16 @@
-# 2969
-is_city = no
+# 2968 Darrowmere Hillside
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 2
+base_manpower = 3
+base_production = 2
 
+owner = B14
+controller = B14
+add_core = B14
 
-culture = noculture
-religion = noreligion
+culture = culture_mudsnout
+religion = religion_ancestral
 
 hre = no
 trade_goods = grain
@@ -51,3 +54,21 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Frozen Throne
+618.1.1 = { 
+owner = F15
+controller = F15
+add_core = F15
+remove_core = B14
+religion = religion_fel
+culture = culture_scourge
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+owner = E12
+controller = E12
+add_core = E12
+remove_core = F15
+religion = religion_the_damned
+}
