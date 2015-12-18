@@ -64,10 +64,14 @@ religion = religion_fel
 culture = culture_scourge
 }
 
+# War of Lordaeron (TFT)
+620.6.1 = { 
+controller = E12
+}
+
 # Rise of the Qiraji
 622.1.1 = { 
 owner = E12
-controller = E12
 add_core = E12
 remove_core = F15
 religion = religion_the_damned

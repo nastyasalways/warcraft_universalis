@@ -1,20 +1,18 @@
-# 688
+# 688 Andorhal
 is_city = yes
-add_core = A09
-owner = A09
-controller = A09
+add_core = A08
+owner = A08
+controller = A08
 
 base_tax = 5
 base_manpower = 5
 base_production = 5
 
- 
 culture = culture_lordaeron
 religion = religion_church_of_the_light
  
 hre = no 
 trade_goods = grain_silo
-
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -69,13 +67,16 @@ religion = religion_fel
 culture = culture_scourge 
 }
 
+# War of Lordaeron (TFT)
+620.9.1 = { 
+controller = E52
+}
+
 # Rise of the Qiraji
 622.1.1 = { 
 add_core = E52
 remove_core = F15
-remove_core = A09
 owner = E52
-controller = E52
 religion = religion_the_damned
 }
 

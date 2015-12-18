@@ -62,3 +62,13 @@ add_core = E12
 religion = religion_the_damned
 culture = culture_scourge
 }
+
+# War of Lordaeron (TFT)
+618.1.1 = { 
+controller = F15
+}
+
+# War of Lordaeron (TFT)
+620.5.1 = { 
+controller = E12
+}

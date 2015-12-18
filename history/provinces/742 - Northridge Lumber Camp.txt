@@ -1,21 +1,19 @@
-# 742
+# 742 Northridge Lumber Camp
 is_city = yes
-add_core = A09
-owner = A09
-controller = A09
+add_core = A08
+owner = A08
+controller = A08
 
 base_tax = 3
 base_manpower = 2
 base_production = 3
 
- 
 culture = culture_lordaeron
 religion = religion_church_of_the_light
  
 hre = no 
 trade_goods = lumber
 
- 
 discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian
@@ -55,12 +53,23 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Frozen Throne
+618.1.1 = { 
+add_core = A09
+owner = A09
+controller = F15
+}
+
+# War of Lordaeron (TFT)
+620.9.1 = { 
+controller = A09
+}
+
 # Rise of the Qiraji
 622.1.1 = { 
 owner = A22
 controller = A22
 add_core = A22
-remove_core = A09
 religion = religion_scarlet_light 
 }
 
@@ -69,5 +78,5 @@ religion = religion_scarlet_light
 owner = F19
 controller = F19
 add_core = F19
-religion = religion_argent_light 
+religion = religion_church_of_the_light 
 }

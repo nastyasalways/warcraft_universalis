@@ -1,8 +1,8 @@
 # 1923 Scourge Bulwark
 is_city = yes
-add_core = A09
-owner = A09
-controller = A09
+add_core = A08
+owner = A08
+controller = A08
 
 base_tax = 2
 base_manpower = 2
