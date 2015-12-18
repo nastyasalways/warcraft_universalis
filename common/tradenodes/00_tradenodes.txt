@@ -1,111 +1,171 @@
-
-Capital_City = {
-	location=543
-	inland=yes
-	end=yes
-	members = {
-		543 648 528 1928 931 931 1927 1926 1925 560 646 727 662 2954 2955
+# Eastern Kingdoms
+isle_of_quel_danas_node={
+	location=760
+	color={
+		90 156 166
+	}
+	members={
+		690 521 760 724 705 
 	}
 }
 
-Sepulcher = {
-	location=671
-	inland=yes
-	outgoing = {
-		name="Capital_City"
-		path = {
-			677 648 543
-		}
-		control = {
-			3867.000000 1251.000000
-		}
+eversong_woods_node ={
+	location=660
+	color={
+		162 166 90
 	}
-	members = {
-		671 746 663 677 711 731 2959 2963
+	members={
+		558 978 676 660 704 944 626 609 643 1064 659 960 520 575 540 593 961 892 
 	}
 }
 
-Scarlet_Monastery = {
-	location=979
-	inland=yes
-	outgoing = {
-		name="Capital_City"
-		path = {
-			1044 740 1928 543
-		}
-		control = {
-			3983.000000 1374.000000 3984.000000 1329.000000 3954.000000 1309.000000
-		}
+ghostlands_node ={
+	location=1029
+	color={
+		166 120 90
 	}
-	members = {
-		979 1044 1015 964 740 2956 2957 2958
+	members={
+		1029 1013 993 844 806 822 860 876 945 1012 1041 808 791 776 1039 1038 629
 	}
 }
 
-Dalaran = {
-	location=863
-	inland=yes
-	outgoing = {
-		name="Sepulcher"
-		path = {
-			746 2959 671
-		}
-		control = {
-			3881.000000 1222.000000
-		}
+eastern_plaguelands_node ={
+	location=507
+	color={
+		122 222 222
 	}
-	members = {
-		863 672 686 702 720 685 1924 2960 2961 2962 2964
+	members={
+		592 625 608 642 723 1921 743 729 507 932 1922 915 1011 1028 519 574 1054 928 891 778 875 539 557 992
 	}
 }
 
-Alterac = {
-	location=773
-	inland=yes
-	outgoing = {
-		name="Dalaran"
-		path = {
-			1010 863
-		}
-		control = {
-			3976.000000 1162.000000
-		}
+western_plaguelands_node ={
+	location=688
+	color={
+		187 144 212
 	}
-	members = {
-		773 756 943 556 1010 518 538 591 607 2965 2966
+	members={
+		790 607 591 1923 703 722 688 821 843 859 805 742 775 
 	}
 }
 
-Southshore = {
-	location=991
-	inland=yes
-	outgoing = {
-		name="Dalaran"
-		path = {
-			959 863
-		}
-		control = {
-			3958.000000 1140.000000
-		}
+tirisfal_glades_node ={
+	location=931
+	color={
+		107 181 71
 	}
-	outgoing = {
-		name="Alterac"
-		path = {
-			1027 518 773
-		}
-		control = {
-			4024.000000 1132.000000 4000.000000 1171.000000
-		}
-	}
-	members = {
-		991 976 959 1027 741 721 845 1931
+	members={
+		964 979 1044 1015 560 931 740 1928 543 528 1927 1925 1926 646 662 727 2954 2955 2956 2957 2958 
 	}
 }
-	
+
+silverpine_forest_node ={
+	location=720
+	color={
+		148 128 74
+	}
+	members={
+		648 731 677 711 663 746 671 702 672 686 685 1924 720 2959 2960 2961 2962 2963 
+	}
+}
+
+hillsbrad_foothills_node ={
+	location=1027
+	color={
+		161 212 91
+	}
+	members={
+		756 943 773 556 538 518 1010 959 976 991 1027 741 721 845 863 2964 2965 2966 
+	}
+}
+
+gilneas_node ={
+	location=927
+	color={
+		91 212 186
+	}
+	members={
+		914 505 525 848 757 809 789 774 962 927 908 890 820 842 858 804 
+	}
+}
+
+tol_barad_node ={
+	location=2010
+	color={
+		91 149 212
+	}
+	members={
+		2004 957 2003 2006 2005 2007 2009 2008 974 989 2011 2012 2010 2013
+	}
+}
+
+kul_tiras_node ={
+	location=824
+	color={
+		129 91 212
+	}
+	members={
+		691 570 2015 824 639 2014
+	}
+}
+
+arathi_highlands_node ={
+	location=673
+	color={
+		212 91 190
+	}
+	members={
+		1931 1000 966 1929 527 981 1934 673 1932 687 506 897 1937 1935 1936 641 623 606 1933
+	}
+}
+
+the_hinterlands_node ={
+	location=889
+	color={
+		212 91 105
+	}
+	members={
+		1930 889 644 926 763 942 975 958 990 1009 1026 1125 537 1938 517
+	}
+}
+
+the_wetlands_node ={
+	location=1055
+	color={
+		189 140 121
+	}
+	members={
+		874 788 1939 1940 999 516 536 554 571 1032 656 605 589 622 1055 580
+	}
+}
+
+twilight_highlands_node ={
+	location=787
+	color={
+		189 181 121
+	}
+	members={
+		841 803 1061 1025 878 925 787 873 856 888 802 610 1016 755 739 701 632 614 581 542 613 730 631 561 710 744 597 2164
+	}
+}
+
+loch_modan_node ={
+	location=655
+	color={
+		164 189 121
+	}
+	members={
+		1942 1941 1047 792 1046 1137 655 552 1945 1048 1944 
+	}
+}
+
+# Kalimdor
+
+# Pandaria
 jade_forest_node={
 	location=1723
 	color={
-		10 10 10
+		144 195 212
 	}
 	outgoing={
 		name="vale_of_eternal_blossoms_node"
@@ -124,7 +184,7 @@ jade_forest_node={
 valley_of_the_four_winds_node={
 	location=1796
 	color={
-		20 20 20
+		212 144 187
 	}
 	outgoing={
 		name="vale_of_eternal_blossoms_node"
@@ -143,7 +203,7 @@ valley_of_the_four_winds_node={
 krasarang_wilds_node={
 	location=1779
 	color={
-		30 30 30
+		118 120 67
 	}
 	outgoing={
 		name="valley_of_the_four_winds_node"
@@ -162,7 +222,7 @@ krasarang_wilds_node={
 dread_wastes_node={
 	location=1840
 	color={
-		40 40 40
+		100 171 77
 	}
 	outgoing={
 		name="vale_of_eternal_blossoms_node"
@@ -181,7 +241,7 @@ dread_wastes_node={
 townlong_steppes_node={
 	location=1867
 	color={
-		60 60 60
+		77 171 133
 	}
 	outgoing={
 		name="vale_of_eternal_blossoms_node"
@@ -200,7 +260,7 @@ townlong_steppes_node={
 kun_lai_summit_node={
 	location=1896
 	color={
-		70 70 70
+		77 154 171
 	}
 	outgoing={
 		name="vale_of_eternal_blossoms_node"
@@ -219,7 +279,7 @@ kun_lai_summit_node={
 vale_of_eternal_blossoms_node={
 	location=1810
 	color={
-		50 50 50
+		209 153 172
 	}
 	members={
 		1819 1823 1815 1817 1816 1814 1813 1821 1812 1824 1811 1818 1809 1810 1822 1820 1807 1808 
