@@ -4,8 +4,8 @@ add_core = A05
 owner = A05
 controller = A05
 
-base_tax = 3
-base_manpower = 3
+base_tax = 5
+base_manpower = 4
 base_production = 3
 
 

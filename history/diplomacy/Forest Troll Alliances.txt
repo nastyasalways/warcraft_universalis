@@ -1,4 +1,7 @@
-#Amani Tribe Vassals
+###########################
+### Amani Tribe Vassals ###
+###########################
+# Amani-Shadowpine
 vassal = {
 	first = A58
 	second = A59
@@ -6,6 +9,7 @@ vassal = {
 	end_date = 634.1.1
 }
 
+# Amani-Mossflayer
 vassal = {
 	first = A58
 	second = A62
@@ -13,7 +17,8 @@ vassal = {
 	end_date = 600.1.1
 }
 
-# Zul'jin's United Troll Tribes
+### Zul'jin's United Troll Tribes ###
+# Amani-Firetree
 vassal = {
 	first = A58
 	second = A63
@@ -21,6 +26,7 @@ vassal = {
 	end_date = 600.1.1
 }
 
+# Amani-Vilebranch
 vassal = {
 	first = A58
 	second = A60
@@ -28,6 +34,7 @@ vassal = {
 	end_date = 600.1.1
 }
 
+# Amani-Witherbark
 vassal = {
 	first = A58
 	second = A64
@@ -35,6 +42,7 @@ vassal = {
 	end_date = 600.1.1
 }
 
+# Amani-Raventusk
 vassal = {
 	first = A58
 	second = A61
@@ -42,6 +50,7 @@ vassal = {
 	end_date = 600.1.1
 }
 
+# Amani-Smolderthorn
 vassal = {
 	first = A58
 	second = A65
@@ -49,6 +58,7 @@ vassal = {
 	end_date = 600.1.1
 }
 
+# Amani-Shadowglen
 vassal = {
 	first = A58
 	second = E55
@@ -56,12 +66,38 @@ vassal = {
 	end_date = 600.1.1
 }
 
-#Smolderthorn - Firetree Alliance
+##########################
+### Vilebranch Vassals ###
+##########################
 
-alliance = {
-	first = A65
+# Vilebranch-Raventusk
+vassal = {
+	first = A60
+	second = A61
+	start_date = 546.1.1
+	end_date = 592.1.1
+}
+
+# Vilebranch-Firetree
+vassal = {
+	first = A60
 	second = A63
 	start_date = 546.1.1
 	end_date = 592.1.1
 }
 
+# Vilebranch-Witherbark
+vassal = {
+	first = A60
+	second = A64
+	start_date = 546.1.1
+	end_date = 592.1.1
+}
+
+# Vilebranch-Smolderthorn
+vassal = {
+	first = A60
+	second = A65
+	start_date = 546.1.1
+	end_date = 592.1.1
+}

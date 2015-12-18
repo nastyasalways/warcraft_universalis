@@ -1,0 +1,96 @@
+# 2958 Argent Bulwark
+is_city = yes
+add_core = A08
+owner = A08
+controller = A08
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = army_supplies
+
+discovered_by = tech_human
+discovered_by = tech_darnassian
+discovered_by = tech_thalassian
+discovered_by = tech_vrykul
+discovered_by = tech_orc
+discovered_by = tech_ogre
+discovered_by = tech_draenei
+discovered_by = tech_troll
+discovered_by = tech_goblin
+discovered_by = tech_tauren
+discovered_by = tech_aqir
+discovered_by = tech_demonic
+discovered_by = tech_satyr
+discovered_by = tech_naga
+discovered_by = tech_depths
+discovered_by = tech_old_god
+discovered_by = tech_scourge
+discovered_by = tech_dragonkin
+discovered_by = tech_undead
+discovered_by = tech_gnoll
+discovered_by = tech_centaur
+discovered_by = tech_furbolg
+discovered_by = tech_wolfvar
+discovered_by = tech_gorloc
+discovered_by = tech_kobold
+discovered_by = tech_harpy
+discovered_by = tech_quillboar
+discovered_by = tech_titan
+discovered_by = tech_elemental
+discovered_by = tech_worgen
+discovered_by = tech_arrakoa
+discovered_by = tech_tuskarr
+discovered_by = tech_pandaren
+discovered_by = tech_mantid
+discovered_by = tech_mogu
+discovered_by = tech_yaungol
+discovered_by = tech_ethereal
+discovered_by = tech_gnome
+ 
+# The Third War
+617.1.1 = {
+add_core = E52
+owner = E52
+controller = E52
+culture = culture_scourge
+religion = religion_the_damned
+}
+
+# The Frozen Throne
+618.1.1 = {
+add_core = F15
+owner = F15
+controller = F15
+religion = religion_fel
+}
+
+# War of Lordaeron (TFT)
+620.7.1 = {
+controller = E52
+}
+
+# Rise of the Qiraji
+622.1.1 = {
+add_core = A24
+remove_core = F15
+owner = A24
+controller = A24
+add_core = E14
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+base_tax = 2
+base_manpower = 2
+}
+
+# Wrath of the Lich King
+626.1.1 = {
+add_core = F19
+owner = F19
+controller = F19
+}

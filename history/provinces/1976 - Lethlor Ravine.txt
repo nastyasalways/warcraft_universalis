@@ -1,4 +1,4 @@
-# 1976
+# 1976 Lethlor Ravine
 is_city = yes
 
 owner = A99
@@ -8,7 +8,6 @@ add_core = A99
 base_tax = 3
 base_manpower = 3
 base_production = 3
-
 
 culture = culture_black
 religion = religion_old_gods

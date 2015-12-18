@@ -1,4 +1,4 @@
-# 672
+# 672 The Forsaken Road
 is_city = yes 
 add_core = A12
 owner = A12
@@ -56,10 +56,9 @@ discovered_by = tech_gnome
 # The Third War
 617.1.1 = {
 add_core = A08
+remove_core = A12
 owner = A08
 controller = A08
-remove_core = A12
-culture = culture_lordaeron
 }
 
 # The Frozen Throne
@@ -71,18 +70,28 @@ religion = religion_the_damned
 culture = culture_scourge 
 }
 
+# Reconquest of Lordaeron (TFT)
+618.2.1 = { 
+controller = A25
+}
+
+# Reconquest of Lordaeron (TFT)
+620.7.1 = { 
+controller = E52
+}
+
+# Reconquest of Lordaeron (TFT)
+620.8.1 = { 
+controller = A13
+}
 
 # Rise of the Qiraji
 622.1.1 = { 
 owner = A13
-controller = A13
 add_core = A13
-remove_core = A08
-remove_core = E52
 culture = culture_gilnean_worgen
 religion = religion_shadow 
 }
-
 
 # Cataclysm
 631.1.1 = {  
@@ -92,10 +101,4 @@ add_core = E14
 remove_core = A13 
 culture = culture_forsaken
 religion = religion_forgotten_shadow 
-}
-
-632.1.1 = {  
-owner = XXX
-controller = XXX
-remove_core = E14 
 }

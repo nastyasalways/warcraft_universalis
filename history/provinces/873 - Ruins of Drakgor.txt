@@ -1,10 +1,13 @@
-# 873
+# 873 Ruins of Drakgor
 is_city = yes
+
+owner = A28
+controller = A28
+add_core = A28
 
 base_tax = 3
 base_manpower = 3
 base_production = 3
-
 
 culture = culture_wildhammer
 religion = religion_ancestral

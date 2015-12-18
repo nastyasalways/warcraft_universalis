@@ -1,19 +1,18 @@
-# 863
+# 863 Dalaran
 is_city = yes
-add_core = A18
 controller = A18
 owner = A18
+add_core = A18
 
-base_tax = 9
-base_manpower = 9
-base_production = 9
+base_tax = 12
+base_manpower = 12
+base_production = 12
 
 culture = culture_dalaran
 religion = religion_arcane
  
 hre = no 
 trade_goods =  arcane
-
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -54,7 +53,6 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-
 # The Frozen Throne
 618.1.1 = { 
 base_tax = 4
@@ -64,7 +62,7 @@ capital = "Dalaran Ruins"
 owner = A25
 controller = A25
 add_core = A25
-culture = culture_lordaeron
+add_core = E52
 religion = religion_church_of_the_light 
 }
 
@@ -72,12 +70,8 @@ religion = religion_church_of_the_light
 622.1.1 = { 
 owner = A18
 controller = A18
-add_core = A18
-remove_core = A25
-culture = culture_dalaran
 religion = religion_arcane
 }
-
 
 626.1.1 = { 
 capital = "Dalaran Crater" 

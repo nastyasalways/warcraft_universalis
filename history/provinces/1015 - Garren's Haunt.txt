@@ -1,4 +1,4 @@
-# 1015
+# 1015 Garren's Haunt
 is_city = yes
 add_core = A08
 owner = A08
@@ -54,12 +54,32 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 # The Frozen Throne
-618.1.1 = { add_core = B19
+618.1.1 = {
+add_core = B19
+add_core = E52
 owner = B19
 controller = B19
 culture = culture_rothide
-religion = religion_ancestral}
+religion = religion_ancestral
+}
+
+# War of Lordaeron (TFT)
+619.12.1 = {
+controller = E52
+}
 
 # Rise of the Qiraji
-622.1.1 = { religion = religion_the_damned
-remove_core = A08 }
+622.1.1 = {
+religion = religion_the_damned
+controller = B19
+}
+
+# Cataclysm
+631.1.1 = {
+religion = religion_forgotten_shadow
+culture = culture_forsaken
+remove_core = B19
+add_core = E14
+owner = E14
+controller = E14
+}

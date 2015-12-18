@@ -1,4 +1,4 @@
-#1044
+#1044 Scarlet Outpost
 is_city = yes
 add_core = A08
 owner = A08
@@ -15,7 +15,6 @@ religion = religion_church_of_the_light
  
 hre = no 
 trade_goods = army_supplies
-
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -65,11 +64,20 @@ culture = culture_nerglish
 religion = religion_old_gods
 }
 
+# War of Lordaeron (TFT)
+620.1.1 = { 
+controller = F15
+}
+
+# War of Lordaeron (TFT)
+620.5.1 = {
+controller = E52
+}
+
 # Rise of the Qiraji
 622.1.1 = { 
 religion = religion_scarlet_light
 culture = culture_lordaeron
-remove_core = A08 
 remove_core = B25
 owner = A22
 controller = A22

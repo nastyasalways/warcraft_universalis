@@ -1,9 +1,12 @@
-# 1930
+# 1930 Durnholde Passage
 is_city = yes
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
+owner = A28
+controller = A28
+add_core = A28
 
 hre = no
 trade_goods = smugglers
@@ -11,7 +14,7 @@ trade_goods = smugglers
 culture = culture_wildhammer
 religion = religion_ancestral
  
- 
+
 discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian

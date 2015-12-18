@@ -1,0 +1,10 @@
+l_english:
+ # Names
+ EVTNAME200000: "Council of Tirisfal"
+ 
+ # Descriptions
+ EVTDESC200000: "Magna Aegwynn of the Tirisfal Council says, that She can help us prepare Our great kingdom for the coming war. Can we trust her, my king?"
+
+ # Option names
+ aegwynn_yes: "I think it is a good idea!"
+ aegwynn_no: "I don't trust mages! Let the world know that we can do it ourselves..."

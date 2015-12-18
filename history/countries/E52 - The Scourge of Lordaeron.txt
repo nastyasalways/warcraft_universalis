@@ -6,7 +6,7 @@ technology_group = tech_scourge
 religion= religion_the_damned
 
 primary_culture = culture_scourge
-capital = 962
+capital = 642
 
 617.1.1 = { 
 	monarch =
@@ -51,4 +51,4 @@ capital = 962
 		dip = 2	
 		mil = 3	
 	}
-} 
+}

@@ -1,21 +1,19 @@
-# 1931
-
+# 1931 Dun Garok
 is_city = yes
-add_core = A11
-owner = A11
-controller = A11
 
-base_tax = 3
-base_manpower = 3
-base_production = 3
+add_core = A08
+owner = A08
+controller = A08
 
+base_tax = 1
+base_manpower = 1
+base_production = 1
 
-culture = culture_ironforge
+culture = culture_lordaeron
 religion = religion_church_of_the_light
  
 hre = no 
 trade_goods = army_supplies
-
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -56,20 +54,25 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-
-# Rise of the Qiraji
-622.1.1 = { 
+# The Second War
+598.1.1 = { 
 owner = A29
 controller = A29
 add_core = A29
+culture = culture_ironforge
+base_tax = 3
+base_manpower = 3
+base_production = 3
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
 add_core = E09 
 }
 
 # Cataclysm
 631.1.1 = {
-owner = XXX
+owner = XXX			# Forsaken Assault on Dun Garok
 controller = XXX
 culture = culture_ghost
 }
-
-

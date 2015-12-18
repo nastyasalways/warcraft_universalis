@@ -1,4 +1,4 @@
-# 648 
+# 648 Forsaken High Command
 is_city = yes 
 
 add_core = A08
@@ -6,11 +6,10 @@ owner = A08
 controller = A08
 capital = "Malden's Orchard"
 
-base_tax = 3
+base_tax = 2
 base_manpower = 2
 base_production = 3
 
- 
 culture = culture_lordaeron
 religion = religion_church_of_the_light
  
@@ -63,12 +62,21 @@ controller = A25
 add_core = A25
 }
 
+# War of Lordaeron (TFT)
+620.7.1 = { 
+controller = E14
+}
+
+# War of Lordaeron (TFT)
+620.11.1 = {
+controller = E52
+}
+
 # Rise of the Qiraji
 622.1.1 = { 
 owner = E52
 controller = E52
 add_core = E52
-remove_core = A08
 culture = culture_scourge
 religion = religion_the_damned 
 }
@@ -78,7 +86,6 @@ religion = religion_the_damned
 owner = E14
 controller = E14
 add_core = E14
-remove_core = E52
 culture = culture_forsaken
 religion = religion_forgotten_shadow
 capital = "Forsaken High Command"

@@ -1,4 +1,4 @@
-# 1928
+# 1928 Death's Watch Waystation
 is_city = yes
 add_core = A08
 owner = A08
@@ -7,7 +7,6 @@ controller = A08
 base_tax = 2
 base_manpower = 2
 base_production = 2
-
 
 culture = culture_lordaeron
 religion = religion_church_of_the_light
@@ -57,19 +56,24 @@ discovered_by = tech_gnome
 # The Frozen Throne
 618.1.1 = { 
 add_core = F15
+add_core = E52
 owner = F15
 controller = F15
 culture = culture_scourge
 religion = religion_fel
 }
 
-# Rise of the Qiraji
-622.1.1 = { 
+# War of Lordaeron (TFT)
+620.3.1 = { 
+controller = E14
+}
+
+# War of Lordaeron (TFT)
+620.5.1 = { 
 add_core = E14
 owner = E14
 controller = E14
 remove_core = F15
-remove_core = A08
 culture = culture_forsaken
 religion = religion_forgotten_shadow 
 }

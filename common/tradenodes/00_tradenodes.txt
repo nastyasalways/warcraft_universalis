@@ -1,7 +1,112 @@
+
+Capital_City = {
+	location=543
+	inland=yes
+	end=yes
+	members = {
+		543 648 528 1928 931 931 1927 1926 1925 560 646 727 662 2954 2955
+	}
+}
+
+Sepulcher = {
+	location=671
+	inland=yes
+	outgoing = {
+		name="Capital_City"
+		path = {
+			677 648 543
+		}
+		control = {
+			3867.000000 1251.000000
+		}
+	}
+	members = {
+		671 746 663 677 711 731 2959 2963
+	}
+}
+
+Scarlet_Monastery = {
+	location=979
+	inland=yes
+	outgoing = {
+		name="Capital_City"
+		path = {
+			1044 740 1928 543
+		}
+		control = {
+			3983.000000 1374.000000 3984.000000 1329.000000 3954.000000 1309.000000
+		}
+	}
+	members = {
+		979 1044 1015 964 740 2956 2957 2958
+	}
+}
+
+Dalaran = {
+	location=863
+	inland=yes
+	outgoing = {
+		name="Sepulcher"
+		path = {
+			746 2959 671
+		}
+		control = {
+			3881.000000 1222.000000
+		}
+	}
+	members = {
+		863 672 686 702 720 685 1924 2960 2961 2962 2964
+	}
+}
+
+Alterac = {
+	location=773
+	inland=yes
+	outgoing = {
+		name="Dalaran"
+		path = {
+			1010 863
+		}
+		control = {
+			3976.000000 1162.000000
+		}
+	}
+	members = {
+		773 756 943 556 1010 518 538 591 607 2965 2966
+	}
+}
+
+Southshore = {
+	location=991
+	inland=yes
+	outgoing = {
+		name="Dalaran"
+		path = {
+			959 863
+		}
+		control = {
+			3958.000000 1140.000000
+		}
+	}
+	outgoing = {
+		name="Alterac"
+		path = {
+			1027 518 773
+		}
+		control = {
+			4024.000000 1132.000000 4000.000000 1171.000000
+		}
+	}
+	members = {
+		991 976 959 1027 741 721 845 1931
+	}
+}
+	
 jade_forest_node={
 	location=1723
 	color={
-10 10 10 	}
+		10 10 10
+	}
 	outgoing={
 		name="vale_of_eternal_blossoms_node"
 		path={
@@ -15,10 +120,12 @@ jade_forest_node={
 		1734 1735 1720 2068 1738 1718 2069 1739 2067 2070 2071 1721 1740 2072 1722 1723 1726 1727 1725 2076 2079 2073 1724 1733 2077 2080 2075 2074 1732 1729 1728 1730 1731 2078 1737 1719 1736 1800 1801 1802 1806 
 	}
 }
+
 valley_of_the_four_winds_node={
 	location=1796
 	color={
-20 20 20 	}
+		20 20 20
+	}
 	outgoing={
 		name="vale_of_eternal_blossoms_node"
 		path={
@@ -32,10 +139,12 @@ valley_of_the_four_winds_node={
 		1790 1786 1793 1804 1791 1792 1794 1796 1803 1795 1798 1797 1805 1799 1829 
 	}
 }
+
 krasarang_wilds_node={
 	location=1779
 	color={
-30 30 30 	}
+		30 30 30
+	}
 	outgoing={
 		name="valley_of_the_four_winds_node"
 		path={
@@ -49,10 +158,12 @@ krasarang_wilds_node={
 		1785 1773 1788 1775 1774 1776 1784 1777 1778 1779 1780 1781 1782 1787 1783 1789 
 	}
 }
+
 dread_wastes_node={
 	location=1840
 	color={
-40 40 40 	}
+		40 40 40
+	}
 	outgoing={
 		name="vale_of_eternal_blossoms_node"
 		path={
@@ -66,10 +177,12 @@ dread_wastes_node={
 		1855 1838 1837 1844 1845 1836 1846 1834 1835 1847 1853 1848 1849 1851 1850 1833 1840 1852 1839 1854 1842 1841 1856 1857 1858 1832 1843 
 	}
 }
+
 townlong_steppes_node={
 	location=1867
 	color={
-60 60 60 	}
+		60 60 60
+	}
 	outgoing={
 		name="vale_of_eternal_blossoms_node"
 		path={
@@ -83,10 +196,12 @@ townlong_steppes_node={
 		1859 1860 1874 1873 1872 1864 1875 1865 1866 1870 1876 1861 1862 1877 1863 1878 1871 1867 1880 1881 1879 1868 1869 1884 1885 1886 1887 1883 1882 1888 1891 1889 1890 
 	}
 }
+
 kun_lai_summit_node={
 	location=1896
 	color={
-70 70 70 	}
+		70 70 70
+	}
 	outgoing={
 		name="vale_of_eternal_blossoms_node"
 		path={
@@ -100,10 +215,12 @@ kun_lai_summit_node={
 		1898 1911 1912 1908 1897 1910 1896 1895 1919 1894 1909 1907 1917 1918 1899 1914 1900 1906 1828 1893 1916 1915 1901 1913 1902 1904 1903 1892 1905 1920 
 	}
 }
+
 vale_of_eternal_blossoms_node={
 	location=1810
 	color={
-50 50 50 	}
+		50 50 50
+	}
 	members={
 		1819 1823 1815 1817 1816 1814 1813 1821 1812 1824 1811 1818 1809 1810 1822 1820 1807 1808 
 	}

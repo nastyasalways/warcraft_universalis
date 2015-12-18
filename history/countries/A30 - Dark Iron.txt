@@ -1,10 +1,10 @@
 # Dark Iron
 government 		= absolute_monarchy
 mercantilism 		= 0.1
-technology_group 	= tech_titan
+technology_group 	= tech_dwarven
 religion			= religion_ragnaros
 primary_culture 	= culture_dark_iron
-capital 			= 1962
+capital 			= 1952
 
 546.1.1 = { 
 monarch = { 
@@ -16,6 +16,10 @@ monarch = {
  	} 
  } 
 
+ 597.1.1 = { 
+	capital = 1962
+ } 
+ 
 631.1.1 = { 
 religion = religion_arcane
 }

@@ -1,18 +1,17 @@
-# 1968
+# 1968 Uldaman
 is_city = yes
 
-owner = B74
-controller = B74
+owner = E57
+controller = E57
 add_core = B74
 add_core = E57
 
-base_tax = 6
-base_manpower = 6
-base_production = 6
+base_tax = 3
+base_manpower = 5
+base_production = 4
 
-
-culture = culture_earthen
-religion = religion_titan
+culture = culture_trogg
+religion = religion_geomancy
 
 hre = no
 trade_goods = artifacts
@@ -55,4 +54,3 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
-

@@ -1,18 +1,16 @@
-# 763
-
+# 763 Quel'Danil Lodge
 is_city = yes
 
-add_core = A64
-owner = A64
-controller = A64
-capital = "Zun'watha"
+add_core = A90
+owner = A90
+controller = A90
 
 base_tax = 3
 base_manpower = 3
 base_production = 3
 
-culture = culture_witherbark
-religion = religion_loa 
+culture = culture_high_elf
+religion = religion_arcane
 
 hre = no 
 trade_goods = fur
@@ -57,10 +55,12 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 # The Frozen Throne
-618.1.1 = { add_core = E49
-remove_core = A64
+618.1.1 = { 
+add_core = E49
 owner = E49  
 controller = E49 
-capital = "Quel'danil Lodge" 
-culture = culture_high_elf 
-religion = religion_church_of_the_light }
+capital = "Quel'danil Lodge"
+religion = religion_church_of_the_light
+base_tax = 5
+base_production = 4
+}

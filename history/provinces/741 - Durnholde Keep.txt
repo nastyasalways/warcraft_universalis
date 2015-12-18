@@ -1,23 +1,20 @@
-# 741
+# 741 Durnholde Keep
 is_city = yes
 
-add_core = A11
-owner = A11
-controller = A11
+add_core = A08
+owner = A08
+controller = A08
 
-base_tax = 4
+base_tax = 2
 base_manpower = 4
-base_production = 4
+base_production = 2
 
- 
 culture = culture_lordaeron
 religion = religion_church_of_the_light
  
 hre = no 
 trade_goods = gold
 
-
- 
 discovered_by = tech_human
 discovered_by = tech_darnassian
 discovered_by = tech_thalassian
@@ -65,14 +62,19 @@ religion = religion_fel
 
 # The Third War
 617.1.1 = { 
-owner = XXX
-controller = XXX
 religion = religion_ancestral 
 }
 
-621.11.11 = { 
-owner = XXX
-controller = XXX 
+# The Frozen Throne
+618.1.1 = { 
+owner = E52
+controller = E52
+add_core = E52
+culture = culture_scourge
+religion = religion_the_damned
+base_tax = 1
+base_manpower = 0
+base_production = 1
 }
 
 # Rise of the Qiraji
@@ -80,8 +82,10 @@ controller = XXX
 owner = A26
 controller = A26
 add_core = A26
+remove_core = E52
 culture = culture_alterac
-religion = religion_church_of_the_light 
+religion = religion_church_of_the_light
+base_manpower = 2
 }
 
 # Cataclysm
@@ -92,6 +96,3 @@ controller = E14
 religion = religion_forgotten_shadow
 culture = culture_forsaken 
 }
-
-
-
