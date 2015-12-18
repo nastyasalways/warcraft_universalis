@@ -9,6 +9,7 @@ particularist_rebels = {
 	defection = none				# Will not defect
 	independence = none				# Does not strive for independence
 	gfx_type = culture_province
+	will_relocate = yes	
 
 	resilient = no					# Can retreat
 	reinforcing = yes				# Can reinforce
@@ -127,7 +128,7 @@ particularist_rebels = {
 	
  	# Province Scope
  	siege_won_trigger = {
- 		always = yes
+ 		NOT = { local_autonomy = 50 }
  	}
 	siege_won_effect = {
 		add_local_autonomy = 10	
