@@ -27,17 +27,6 @@ region_western_plaguelands = {
 }
 
 region_tirisfal_glades = {
-<<<<<<< HEAD
-	964 979 1044 1015 560 931 740 1928 543 528 1927 1925 1926 646 662 727 2954 2955 2956 2957 2958
-}
-
-region_silverpine_forest = {
-	648 731 677 711 663 746 671 702 672 686 685 1924 720 2959 2960 2961 2962 2963
-}
-
-region_hillsbrad_foothills = {
-	756 943 773 556 538 518 1010 959 976 991 1027 741 721 845 863 2964 2965 2966
-=======
 	area_tirisfal_glades
 }
 
@@ -47,7 +36,6 @@ region_silverpine_forest = {
 
 region_hillsbrad_foothills = {
 	area_hillsbrad_foothills
->>>>>>> refs/remotes/vawser/master
 }
 
 region_gilneas = {

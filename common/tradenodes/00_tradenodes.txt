@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Capital_City = {
 	location=543
 	inland=yes
@@ -100,7 +100,7 @@ Southshore = {
 	members = {
 		991 976 959 1027 741 721 845 1931
 	}
-=======
+
 jade_forest_node={
 	location=1723
 	color={
@@ -211,5 +211,4 @@ vale_of_eternal_blossoms_node={
 		1819 1823 1815 1817 1816 1814 1813 1821 1812 1824 1811 1818 1809 1810 1822 1820 1807 1808 
 	}
 	end=yes
->>>>>>> refs/remotes/vawser/master
 }
