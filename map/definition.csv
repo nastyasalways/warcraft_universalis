@@ -765,7 +765,7 @@ province;red;green;blue;type;name;
 764;225;224;174;x;Terrace of the Makers;
 765;82;32;32;x;x;
 766;68;96;0;x;The Mosslight Pillar;
-767;64;32;192;x;x;
+767;64;32;192;land;Camp Oneqwah
 768;59;96;64;x;Moa'ki Harbour;
 769;54;32;255;x;Halvarde;
 770;41;96;192;x;x;
@@ -2100,7 +2100,7 @@ province;red;green;blue;type;name;
 2099;82;189;215;x;Mosslight Hills;
 2100;60;114;63;x;The Savage Remains;
 2101;174;96;117;x;Crystal Passage;
-2102;1;182;115;x;Ivald's Ruin ;
+2102;1;182;115;x;Ivald's Ruin
 2103;32;1;233;x;Baleheim;
 2104;242;202;165;x;Cauldros Isle;
 2105;102;5;146;x;Halgrind;
