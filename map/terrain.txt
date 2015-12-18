@@ -23,21 +23,25 @@ categories =  {
 		color = { 0 0 200 }
 	}	
 
-	arctic = {
-		movement_cost = 1.0
+	glacier = {
+		movement_cost = 1.25
+		defence = 1
 		supply_limit = 4
 		sound_type = desert
 		color = { 235 235 235 }
+		local_development_cost = 0.5
+		nation_designer_cost_multiplier = 0.75	
 	}
 
 	#farmlands
 	farmlands = {
 		movement_cost = 1.10
 		
+		local_development_cost = -0.05
 		supply_limit = 10
-		allowed_num_of_buildings = 2
-		nation_designer_cost_multiplier = 1.1
-		
+		allowed_num_of_buildings = 1
+		nation_designer_cost_multiplier = 1.05
+	
 		sound_type = plains
 		color = { 103 167 214  }	
 	}
@@ -59,12 +63,17 @@ categories =  {
 	hills = {
 		movement_cost = 1.40
 		defence = 1
-		
 		local_defensiveness = 0.1
 		local_development_cost = 0.25
 		combat_width = -0.25
 		nation_designer_cost_multiplier = 0.85
-		supply_limit = 2
+		supply_limit = 5
+
+		
+		color = { 113 176 151 }
+		
+		
+
 		
 		sound_type = mountain
 		color = { 109 115 141 }
@@ -482,13 +491,14 @@ categories =  {
 ### 	color 	= 	index in bitmap color table (see terrain.bmp)
 ###
 
-terrain = {
-	plains				= { type = grasslands		color = { 	0	 } }
+terrain
+{
+	grasslands			= { type = grasslands		color = { 	0	 } }
 	hills				= { type = hills			color = { 	1	 } }
 	desert_mountain		= { type = mountain			color = { 	2	 } }
 	desert				= { type = desert			color = { 	3	 } }
 
-	grasslands			= { type = grasslands		color = { 	4	 } }
+	plains				= { type = grasslands		color = { 	4	 } }
 	terrain_5			= { type = grasslands		color = { 	5	 } }
 	mountain			= { type = mountain			color = { 	6	 } }
 	desert_mountain_low	= { type = desert			color = { 	7	 } }
@@ -508,6 +518,11 @@ terrain = {
 
 	coastal_desert_18	= { type = coastal_desert	color = { 	19	 } }
 	coastline			= { type = coastline		color = { 	35	 } }
+	
+	savannah			= { type = savannah 		color = {	20	 } }
+	drylands			= { type = drylands			color = {	22	 } }
+	highlands			= { type = highlands		color = {	23	 } }
+	dry_highlands		= { type = highlands		color = {	24	 } }
 	
 	woods				= { type = woods			color = { 	255	 } }
 	jungle				= { type = jungle			color = { 	254	 } }
@@ -536,7 +551,8 @@ terrain = {
 ### 	color 	= 	index in bitmap color table (see tree.bmp)
 ###
 
-tree ={
+tree
+{
 	forest				= { terrain = forest 			color = { 	3 4 6 7 19 20	} }
 	woods				= { terrain = woods 			color = { 	2 5 8 18	} }
 	jungle				= { terrain = jungle 			color = { 	13 14 15	} }

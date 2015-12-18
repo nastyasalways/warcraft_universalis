@@ -9,6 +9,7 @@ reactionary_rebels = {
 	defection = none				# Will not defect
 	independence = none				# Does not strive for independence
 	gfx_type = culture_province
+	will_relocate = yes	
 	
 	resilient = no					# Can retreat
 	reinforcing = yes				# Can reinforce
@@ -110,6 +111,11 @@ reactionary_rebels = {
 		}
 	}
 
+	siege_won_trigger = {
+		is_core = owner
+		is_overseas = no
+	}	
+	
 	siege_won_effect = {
 		owner = { add_westernisation = -10 }
 	}

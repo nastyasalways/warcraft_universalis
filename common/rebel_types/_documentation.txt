@@ -3,7 +3,7 @@
 ######################################################################
 # Valid arguments:
 #
-# area = [nation/nation_culture/nation_religion]
+# area = [nation/nation_rebel_tag/nation_religion]
 # government = [monarchy/republic/theocracy/anti/any]
 # defection = [culture/culture_group/religion/any/none]
 # independence = [culture/culture_group/religion/any/none]

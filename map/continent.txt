@@ -33,3 +33,7 @@ continent_outland = {
 continent_maelstrom = {
 
 }
+
+# Used for RNW
+new_world = {
+}

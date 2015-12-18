@@ -5,29 +5,65 @@
 #WOOD
 ashenvale_lumber = {
 	color = { 0.96 0.93 0.58 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 lumber = {
 	color = { 0.11 0.17 0.4 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 kypari = {
 	color = { 0.96 0.93 0.58 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 # tropical_wood - already present
 
 oil = {
 	color = { 0.93 0.98 0.98 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 #MINES, METALS, & ORES
 stone = {
 	color = { 0.72 0.49 0.44 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 dark_iron = {
 	color = { 0.86 0.19 0.19 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 # gold - already present
@@ -35,46 +71,106 @@ dark_iron = {
 
 saronite = {
 	color = { 0.55 0.82 0.97 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 mithril = {
 	color = { 0.54 0.40 0.31 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 # iron - already present
 
 thorium = {
 	color = { 0.93 0.98 0.98 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 fel_iron = {
 	color = { 0.11 0.17 0.4 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 # copper - already present
 
 khorium = {
 	color = { 0.85 0.46 0.15 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 adamantite = {
 	color = { 1.0 0.84 0.19 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 titanium = {
 	color = { 0.6 0.62 0.65 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 elementium = {
 	color = { 0.0 0.0 0.0 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 ghost_iron = {
 	color = { 0.75 0.7 0.63 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 gemstones = {
 	color = { 0.07 0.33 0.09 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 
@@ -82,6 +178,12 @@ gemstones = {
 
 grain_silo = {
 	color = { 0.4 0.65 0.38 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 # grain - rename to "Farms" in localization
@@ -92,6 +194,12 @@ grain_silo = {
 
 ale  = {
 	color = { 0.75 0.7 0.63 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 #LEATHER/FURS:
@@ -106,24 +214,54 @@ ale  = {
 
 runecloth = {
 	color = { 0.18 0.57 0.8 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 netherweave = {
 	color = { 0.22 0.15 0.09 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 #ARCHAEOLOGY/DIGSITES
 
 fossils = {
 	color = { 0.52 0.68 0.6 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 artifacts = {
 	color = { 0.74 0.95 0.68 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 crypts = {
 	color = { 0.07 0.33 0.09 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 
@@ -132,24 +270,51 @@ crypts = {
 smugglers = {
 	color = { 0.33 0.56 0.38 }
 	modifier = {
-		global_spy_defence = 0.25
+		
+	}
+	chance = {
+		factor = 10
 	}
 }
 
 pirates = {
 	color = { 0.45 0.21 0.09 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 workshops = {
 	color = { 0.33 0.56 0.38 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 arcane = {
 	color = { 0.33 0.56 0.38 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 fel = {
 	color = { 0.85 0.46 0.15 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 #SUPPLIES
@@ -158,18 +323,42 @@ fel = {
 
 army_supplies = {
 	color = { 0.72 0.10 0.10 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 #MOUNTS & WARBEASTS
 
 mounts = {
 	color = { 0.63 0.17 0.50 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 flying_mounts = {
 	color = { 0.45 0.47 0.09 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }
 
 warbeasts = {
 	color = { 0.8 0.5 0.5 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
 }

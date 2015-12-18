@@ -120,5 +120,6 @@ impassable = {
 	2019 # Outland Rift
 	2124 # Mountains of Coldarra
 	2137
+	1108 # Wildlook Cliffs
 
 }
