@@ -1,27 +1,24 @@
 From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
-874;1933;sea;265;-1;-1;-1;-1;Thandol Span do Dun Mord (Arathi Highlands-Wetlands)
-927;525;sea;246;-1;-1;-1;-1;Gilneas do Northgate Woods (Gilneas)
-927;774;sea;246;-1;-1;-1;-1;Gilneas do Keel Harbour (Gilneas)
-927;908;sea;246;-1;-1;-1;-1;Gilneas do Gilnean Fields (Gilneas)
-1586;1035;sea;300;-1;-1;-1;-1;Draenor do Azeroth (Dark Portal)
-603;1058;sea;1215;-1;-1;-1;-1;Westbrook do Goldshire  (Elwynn)
-1058;922;sea;284;-1;-1;-1;-1;Westbrook do Jansen Stead  (Elwynn – Westfall)
-2200;619;sea;1214;-1;-1;-1;-1;Northshire Abbey do Northshire Hills  (Elwynn)
-2147;2148;sea;1217;-1;-1;-1;-1;Westvale do Eastvale Path (Elwynn)
-717;2178;sea;287;-1;-1;-1;-1;Three Corners do Darkened Retreat (Elwynn – Duskwood)
-800;669;sea;1220;-1;-1;-1;-1;Stonewatch do Renders Valley (Redridge)
-784;618;sea;281;-1;-1;-1;-1;Mortwake Tower do Addle Stead (Westfall – Duskwood)
-614;597;sea;310;-1;-1;-1;-1;Twilight Shore do Highbank (Twilight Highlands)
-878;613;sea;1205;-1;-1;-1;-1;Twilight Breach do Crucible of Carnage (Twilight Highlands)
-755;701;sea;1202;-1;-1;-1;-1;Dragonmaw Port do Gorshak War Camp (Twilight Highlands)
-1125;1026;sea;1183;-1;-1;-1;-1;Stormfeather do Seradane (Hinterlands)
-721;1027;sea;257;-1;-1;-1;-1;Eastpoint Tower do Southshore Crossing (Hillsbrad)
-538;2967;sea;259;-1;-1;-1;-1;Tarren Mill do Chillwind Point (Hillsbrad)
-688;591;sea;261;-1;-1;-1;-1;Andorhal do Chillwind Camp (W. Plaguelands)
-688;607;sea;261;-1;-1;-1;-1;Andorhal do Uthers Tomb (W. Plaguelands)
-843;875;sea;264;-1;-1;-1;-1;Gahrrons Withering do Marris Stead (W. Plaguelands – E. Plaguelands)
-790;2969;sea;263;-1;-1;-1;-1;Scholomance do Caer Darrow Pass (W. Plaguelands)
-731;746;sea;1190;-1;-1;-1;-1;Fenris Isle do Decrepit Fields (Silverpine )
+874;1933;;;-1;-1;-1;-1;Thandol Span to Dun Mord (Arathi Highlands-Wetlands)
+927;525;;;-1;-1;-1;-1;Gilneas to Northgate Woods (Gilneas)
+927;774;;;-1;-1;-1;-1;Gilneas to Keel Harbour (Gilneas)
+927;908;;;-1;-1;-1;-1;Gilneas to Gilnean Fields (Gilneas)
+603;1058;;;-1;-1;-1;-1;Westbrook to Goldshire  (Elwynn)
+1058;922;;;-1;-1;-1;-1;Westbrook to Jansen Stead  (Elwynn – Westfall)
+2200;619;;;-1;-1;-1;-1;Northshire Abbey to Northshire Hills  (Elwynn)
+2147;2148;;;-1;-1;-1;-1;Westvale to Eastvale Path (Elwynn)
+717;2178;;;-1;-1;-1;-1;Three Corners to Darkened Retreat (Elwynn – Duskwood)
+800;669;;;-1;-1;-1;-1;Stonewatch to Renders Valley (Redridge)
+784;618;;;-1;-1;-1;-1;Mortwake Tower to Addle Stead (Westfall – Duskwood)
+614;597;;;-1;-1;-1;-1;Twilight Shore to Highbank (Twilight Highlands)
+878;613;;;-1;-1;-1;-1;Twilight Breach to Crucible of Carnage (Twilight Highlands)
+755;701;;;-1;-1;-1;-1;Dragonmaw Port to Gorshak War Camp (Twilight Highlands)
+1125;1026;;;-1;-1;-1;-1;Stormfeather to Seradane (Hinterlands)
+721;1027;;;-1;-1;-1;-1;Eastpoint Tower to Southshore Crossing (Hillsbrad)
+688;591;;;-1;-1;-1;-1;Andorhal to Chillwind Camp (W. Plaguelands)
+688;607;;;-1;-1;-1;-1;Andorhal to Uthers Tomb (W. Plaguelands)
+843;875;;;-1;-1;-1;-1;Gahrrons Withering to Marris Stead (W. Plaguelands – E. Plaguelands)
+731;746;;;-1;-1;-1;-1;Fenris Isle to Decrepit Fields (Silverpine )
 1699;1704;;;-1;-1;-1;-1;Path to Netherstorm to Ruins of Enkatt
 1704;1705;;;-1;-1;-1;-1;Ruins of Enkatt to Manaforge
 1704;1710;;;-1;-1;-1;-1;Ruins of Enkatt to Eco-Dome Midrealm
@@ -40,4 +37,119 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 1705;1711;;;-1;-1;-1;-1;Manafroge Ara to Stormspire
 1666;1673;;;-1;-1;-1;-1;Sanctum of the Stars to Netherwing Ledge
 1672;1673;;;-1;-1;-1;-1;Dragonmaw Fortress to Netherwing Ledge
+1586;1035;;;-1;-1;-1;-1;Draenor to Azeroth (Dark Portal)
+681;1003;;;-1;-1;-1;-1;Mizjah Ruins to Jainiz Ruins
+681;548;;;-1;-1;-1;-1;Mizjah Ruins to Fort Livingston
+1998;996;sea;290;-1;-1;-1;-1;Janeiro's Point to Booty Bay
+1998;2166;sea;290;-1;-1;-1;-1;Janeiro's Point to Hills of Booty Bay
+2165;693;sea;291;-1;-1;-1;-1;Plunder Isle to Wild Shore
+997;693;sea;293;-1;-1;-1;-1;Jaguero Isle to Wild Shore
+652;548;;;-1;-1;-1;-1;Kalai Ruins to Fort Livingston
+652;585;;;-1;-1;-1;-1;Kalai Ruins to Venture Co Base Camp
+636;585;;;-1;-1;-1;-1;Nesingwary's Expedition to Venture Co Base Camp
+636;1997;;;-1;-1;-1;-1;Nesingwary's Expedition to Rebel Camp
+771;637;;;-1;-1;-1;-1;The Dead Acre to Ravenhill
+771;682;;;-1;-1;-1;-1;The Dead Acre to Ravenhill Cemetery
+751;653;;;-1;-1;-1;-1;Saldean's Farm to Misty Bank
+751;533;;;-1;-1;-1;-1;Saldean's Farm to Hogger's Camp
+653;533;;;-1;-1;-1;-1;Misty Bank to Hogger's Camp
+653;550;;;-1;-1;-1;-1;Misty Bank to Stonefield Farm
+653;567;;;-1;-1;-1;-1;Misty Bank to Maclure Vineyards
+2151;567;;;-1;-1;-1;-1;Withered Remains to Maclure Vineyards
+2151;2145;;;-1;-1;-1;-1;Withered Remains to Woods of Elwynn
+2150;2145;;;-1;-1;-1;-1;Dusky Bank to Woods of Elwynn
+2150;913;;;-1;-1;-1;-1;Dusky Bank to Brackwell Pumpkin Patch
+903;661;;;-1;-1;-1;-1;The Darkened Bank to Ridgepoint Tower
+2178;661;;;-1;-1;-1;-1;The Darkened Retreat to Ridgepoint Tower
+2160;2159;;;-1;-1;-1;-1;Jin'jii Ruins to Crackling Ruins
+2160;2183;;;-1;-1;-1;-1;Jin'jii Ruins to Jin'jii Shore
+879;2183;;;-1;-1;-1;-1;Misty Reed Post to Jin'jii Shore
+879;2184;;;-1;-1;-1;-1;Misty Reed Post to Stagalbog Island
+879;2185;sea;301;-1;-1;-1;-1;Misty Reed Post to Mistreed Island
+949;594;;;-1;-1;-1;-1;Temple of Atal'Hakkar to Stagalbog
+949;2159;;;-1;-1;-1;-1;Temple of Atal'Hakkar to Crackling Ruins
+949;2186;;;-1;-1;-1;-1;Temple of Atal'Hakkar to Crackling Banks
+949;547;;;-1;-1;-1;-1;Temple of Atal'Hakkar to Marshtide Watch
+949;2188;;;-1;-1;-1;-1;Temple of Atal'Hakkar to Murky Banks
+2155;2186;;;-1;-1;-1;-1;Murky Pools to Crackling Banks
+2155;2159;;;-1;-1;-1;-1;Murky Pools to Crackling Ruins
+2155;547;;;-1;-1;-1;-1;Murky Pools to Marshtide Watch
+2155;2156;;;-1;-1;-1;-1;Murky Pools to The Quagmire
+2155;2180;;;-1;-1;-1;-1;Murky Pools to Stonard Bog
+2155;707;;;-1;-1;-1;-1;Murky Pools to Stonard
+2156;547;;;-1;-1;-1;-1;The Quagmire to Marshtide Watch
+2156;2180;;;-1;-1;-1;-1;The Quagmire to Stonard Bog
+2156;994;;;-1;-1;-1;-1;The Quagmire to The Bloodmire
+2156;2187;;;-1;-1;-1;-1;The Quagmire to Hills of the Quagmire
+994;2179;;;-1;-1;-1;-1;The Bloodmire to Hills of the Bloodmire
+994;725;;;-1;-1;-1;-1;The Bloodmire to Misty Valley
+994;864;;;-1;-1;-1;-1;The Bloodmire to Splinterspear Junction
+994;2181;;;-1;-1;-1;-1;The Bloodmire to Splinterspear Bog
+994;707;;;-1;-1;-1;-1;The Bloodmire to Stonard
+994;2180;;;-1;-1;-1;-1;The Bloodmire to Stonard Bog
+638;547;;;-1;-1;-1;-1;Sorrowmurk to Marshtide Watch
+638;2188;;;-1;-1;-1;-1;Sorrowmurk to Murky Banks
+638;2158;;;-1;-1;-1;-1;Sorrowmurk to The Murky Shore
+638;885;;;-1;-1;-1;-1;Sorrowmurk to Bodpaddle
+2158;2189;sea;304;-1;-1;-1;-1;The Murky Shore to Murky Islands
+885;1995;sea;304;-1;-1;-1;-1;Bogpaddle to Bogpaddle Islands
+2139;587;;;-1;-1;-1;-1;Goldshire Farms to Crystal Lake
+603;587;;;-1;-1;-1;-1;Goldshire to Crystal Lake
+2200;2140;;;-1;-1;-1;-1;Northshire Hills to Northshire Vineyard
+913;661;;;-1;-1;-1;-1;Brackwell Pumpkin Patch to Ridgepoint Tower
+986;954;;;-1;-1;-1;-1;Tower of Azora to Eastevale Logging Camp
+1005;2144;;;-1;-1;-1;-1;Stone Cairn Lake to Jasperlode Mine
+1005;2143;;;-1;-1;-1;-1;Stone Cairn Lake to Stonecairn Hills
+1005;954;;;-1;-1;-1;-1;Stone Cairn Lake to Eastevale Logging Camp
+1005;986;;;-1;-1;-1;-1;Stone Cairn Lake to Tower of Azora
+571;999;;;-1;-1;-1;-1;Mosshide Fen to Greenwarden's Grove
+1032;999;;;-1;-1;-1;-1;Angerfang Encampment to Greenwarden's Grove
+1032;1939;;;-1;-1;-1;-1;Angerfang Encampment to Direforge Hill
+656;788;;;-1;-1;-1;-1;Whelgar's Retreat to Ironbeard's Tomb
+656;580;;;-1;-1;-1;-1;Whelgar's Retreat to Swiftgear Station
+1055;580;;;-1;-1;-1;-1;Menethil Harbour to Swiftgear Station
+580;788;;;-1;-1;-1;-1;Swiftgear Station to Ironbeard's Tomb
+787;610;;;-1;-1;-1;-1;Thundermar to Bloodgulch
+1016;610;;;-1;-1;-1;-1;The Black Breach to Bloodgulch
+802;739;sea;314;-1;-1;-1;-1;Kirkhaven to The Krazzworks
+2015;570;sea;253;-1;-1;-1;-1;Boralus Farmlands to Crestfall
+2015;691;sea;250;-1;-1;-1;-1;Boralus Farmlands to Zul'dare
+570;2013;sea;253;-1;-1;-1;-1;Crestfall to Warden's Vigil
+691;2013;sea;250;-1;-1;-1;-1;Zul'dare to Warden's Vigil
+989;2009;sea;251;-1;-1;-1;-1;Tol Barad to Tol Bard Approach
+2008;2006;;;-1;-1;-1;-1;The Restless Front to The Darkwood
+2009;2006;;;-1;-1;-1;-1;Tol Bard Approach to The Darkwood
+2007;2006;;;-1;-1;-1;-1;Largo's Overlook to The Darkwood
+2005;2006;;;-1;-1;-1;-1;Rustberg Village to The Darkwood
+2003;2008;;;-1;-1;-1;-1;Wellson Shipyard to The Restless Front
+2004;957;sea;251;-1;-1;-1;-1;Cape of Lost Hope to Farson Hold
+848;962;sea;249;-1;-1;-1;-1;Emberstone Mine to Purgation Isle
+976;962;sea;249;-1;-1;-1;-1;Azurelode Mine to Purgation Isle
+991;845;;;-1;-1;-1;-1;Ruins of Southshore to Nethander Stand
+538;741;;;-1;-1;-1;-1;Tarren Mill to Durnholde Keep
+731;677;;;-1;-1;-1;-1;Fenris Isle to Valgan's Field
+731;648;;;-1;-1;-1;-1;Fenris Isle to Forsaken High Command
+731;543;;;-1;-1;-1;-1;Fenris Isle to Undercity
+757;809;sea;241;-1;-1;-1;-1;Gilnean Islands to The Headlands
+757;505;sea;244;-1;-1;-1;-1;Gilnean Islands to Northern Headlands
+1029;1038;;;-1;-1;-1;-1;Goldenmist Village to Windrunner Village
+1029;945;;;-1;-1;-1;-1;Goldenmist Village to The Dead Scar
+1029;540;;;-1;-1;-1;-1;Goldenmist Village to Scorched Grove
+1029;593;;;-1;-1;-1;-1;Goldenmist Village to Sunsail Anchorage
+520;944;;;-1;-1;-1;-1;East Sanctum to Farstrider Retreat
+520;626;;;-1;-1;-1;-1;East Sanctum to The Dead Scar
+860;993;;;-1;-1;-1;-1;An'telas to Dawnstar Spire
+1013;993;;;-1;-1;-1;-1;Suncrown Village to Dawnstar Spire
+1013;520;;;-1;-1;-1;-1;Suncrown Village to East Sanctum
+945;540;;;-1;-1;-1;-1;The Dead Scar to The Scorched Grove
+1013;540;;;-1;-1;-1;-1;Suncrown Village to The Scorched Grove
+1013;659;;;-1;-1;-1;-1;Suncrown Village to Zeb'sora
+1013;960;;;-1;-1;-1;-1;Suncrown Village to Zeb'watha
+960;659;;;-1;-1;-1;-1;Zeb'watha to Zeb'sora
+575;609;;;-1;-1;-1;-1;Fairbreeze Village to North Sanctum
+575;961;;;-1;-1;-1;-1;Fairbreeze Village to West Sanctum
+593;892;;;-1;-1;-1;-1;Sunsail Anchorage to Tranquil Shore
+676;558;sea;226;-1;-1;-1;-1;Ruins of Silvermoon to Sunstrider Isle
+676;978;sea;226;-1;-1;-1;-1;Ruins of Silvermoon to Falthrien Academy
+558;978;sea;225;-1;-1;-1;-1;Sunstrider Isle to Falthrien Academy
 -1;-1;;-1;-1;-1;-1;-1;-1
