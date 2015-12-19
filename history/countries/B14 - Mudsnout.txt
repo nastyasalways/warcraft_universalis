@@ -4,7 +4,7 @@ mercantilism = 0.1
 technology_group = tech_gnoll
 religion= religion_ancestral
 primary_culture = culture_mudsnout
-capital = 558
+capital = 2968
 
 546.1.1 = { 
 monarch = { 
@@ -16,15 +16,16 @@ monarch = {
  	} 
  } 
 
+618.1.1 = { 
+	capital = 845
+}
+
 622.1.1 = { 
-monarch =
-{ 
-name = "Ro'Bark" 
-     
-dynasty = "Mudsnout" 
-		
-adm = 2		
-dip = 2	
-mil = 2 	} 
- 
+	monarch = {
+		name = "Ro'Bark" 
+		dynasty = "Mudsnout" 	
+		adm = 2		
+		dip = 2	
+		mil = 2
+	} 
 } 

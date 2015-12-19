@@ -1,8 +1,8 @@
-# 703
+# 703 Felstone Field
 is_city = yes
-add_core = A09
-owner = A09
-controller = A09
+add_core = A08
+owner = A08
+controller = A08
 
 base_tax = 3
 base_manpower = 2
@@ -13,7 +13,6 @@ religion = religion_church_of_the_light
  
 hre = no 
 trade_goods = grain
-
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -65,27 +64,27 @@ religion = religion_the_damned
 
 # The Frozen Throne
 618.1.1 = {
- add_core = F15
-remove_core = E52
+add_core = F15
 owner = F15
 controller = F15
 religion = religion_fel
 }
 
+# War of Lordaeron (TFT)
+620.9.1 = { 
+controller = E52
+}
+
 # Rise of the Qiraji
 622.1.1 = { 
-add_core = E52
 remove_core = F15
-remove_core = A09
 owner = E52
-controller = E52
 religion = religion_the_damned
 }
 
 # Cataclysm
 631.1.1 = { 
 add_core = A02
-remove_core = E52
 owner = A02
 controller = A02
 culture = culture_azerothian
@@ -94,8 +93,9 @@ religion = religion_church_of_the_light
 
 632.1.1 = { 
 remove_core = A02
-owner = XXX
-controller = XXX
+add_core = E14
+owner = E14
+controller = E14
 religion = religion_forgotten_shadow 
 culture = culture_forsaken
 }

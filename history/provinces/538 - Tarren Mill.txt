@@ -1,6 +1,6 @@
 # 538 Tarren Mill
 is_city = yes
-add_core = A11
+add_core = A08
 owner = A08
 controller = A08
 
