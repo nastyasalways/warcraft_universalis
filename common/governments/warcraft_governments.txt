@@ -554,7 +554,7 @@ high_monarchy = {
 }
 
 seventh_legion = {
-	monarchy = yes
+	dictatorship = yes
 	
 	valid_for_new_country = no
 	valid_for_nation_designer = yes
@@ -608,7 +608,7 @@ argent_crusade = {
 }
 
 military_dictat = {
-	monarchy = yes
+	dictatorship = yes
 	
 	valid_for_new_country = no
 	valid_for_nation_designer = yes
@@ -722,7 +722,7 @@ twilight_cabal = {
 }
 
 old_god_lair = {
-	monarchy = yes
+	religion = yes
 	
 	valid_for_new_country = no
 	valid_for_nation_designer = yes
@@ -805,7 +805,7 @@ minor_tribe = {
 }
 
 criminal_organization = {
-	monarchy = yes
+	dictatorship = yes
 	
 	valid_for_new_country = no
 	allow_convert = no

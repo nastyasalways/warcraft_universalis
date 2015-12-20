@@ -125,7 +125,7 @@ warcraft_religions = {
 	}
 	
 	religion_scarlet_light = {
-		color = { 0.1 0.4 0.1 }
+		color = { 127 0 0 }
 		icon = 2
 		
 		country = {
@@ -221,7 +221,7 @@ warcraft_religions = {
 	}
 	
 	religion_argent_light = {
-		color = { 0.1 0.4 0.1 }
+		color = { 181 185 188 }
 		icon = 31
 		
 		country = {
@@ -245,7 +245,7 @@ warcraft_religions = {
 	}
 	
 	religion_light_of_the_naaru = {
-		color = { 0.1 0.4 0.1 }
+		color = { 0 255 255 }
 		icon = 3
 		
 		country = {
@@ -269,7 +269,7 @@ warcraft_religions = {
 	}
 
 	religion_light_of_the_sunwell = {
-		color = { 0.1 0.4 0.1 }
+		color = { 255 255 61 }
 		icon = 32
 		
 		country = {
@@ -293,7 +293,7 @@ warcraft_religions = {
 	}
 	
 	religion_elune = {
-		color = { 0.1 0.4 0.1 }
+		color = { 178 255 255 }
 		icon = 4
 		
 		country = {
