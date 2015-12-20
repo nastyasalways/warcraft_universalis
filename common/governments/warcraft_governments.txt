@@ -272,16 +272,19 @@ pirate_clan = {
 			navy_tradition = 0.05
 			global_ship_cost = -0.25
 			naval_maintenance_modifier = -0.25
+			blockade_efficiency = 0.5
 		}
 		2 = {
 			navy_tradition = 0.05
 			global_ship_cost = -0.25
 			naval_maintenance_modifier = -0.25
+			blockade_efficiency = 0.5
 		}
 		3 = {
 			navy_tradition = 0.05
 			global_ship_cost = -0.25
 			naval_maintenance_modifier = -0.25
+			blockade_efficiency = 0.5
 		}
 	}
 }

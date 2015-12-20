@@ -4209,4 +4209,4 @@ culture_group_flayer = {
 			
 		}
 	}
-}}
+}
