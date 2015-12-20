@@ -1,13 +1,16 @@
 # 1067
-is_city = no
+owner = A94
+controller = A94
+add_core = A94
+is_city = yes
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
 
-culture = noculture
-religion = noreligion
+culture = culture_sentinel
+religion = religion_elune
 
 hre = no
 trade_goods = grain
