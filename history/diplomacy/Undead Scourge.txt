@@ -1,12 +1,13 @@
 ###################
 ### The Scourge ###
 ###################
-# Scourge - Cul of the Damned
+# End date should be 631 for all these - with Bolvar's ascension to the Frozen Throne, the Scourge no longer commands the other branches
+# Scourge - Cult of the Damned
 vassal = {
 	first = E11
 	second = E12
 	start_date = 617.1.1
-	end_date = 650.1.1
+	end_date = 631.1.1
 }
 
 # Scourge - Scourge of Lordaeron
@@ -14,7 +15,7 @@ vassal = {
 	first = E11
 	second = E52
 	start_date = 617.1.1
-	end_date = 650.1.1
+	end_date = 631.1.1
 }
 
 # Scourge - Deatholme
@@ -22,7 +23,7 @@ vassal = {
 	first = E11
 	second = F21
 	start_date = 618.1.1
-	end_date = 650.1.1
+	end_date = 631.1.1
 }
 
 # Scourge - Rothide
@@ -30,5 +31,5 @@ vassal = {
 	first = E11
 	second = B19
 	start_date = 622.1.1
-	end_date = 650.1.1
+	end_date = 631.1.1
 }

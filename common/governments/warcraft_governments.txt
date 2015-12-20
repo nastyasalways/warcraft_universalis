@@ -272,16 +272,19 @@ pirate_clan = {
 			navy_tradition = 0.05
 			global_ship_cost = -0.25
 			naval_maintenance_modifier = -0.25
+			blockade_efficiency = 0.5
 		}
 		2 = {
 			navy_tradition = 0.05
 			global_ship_cost = -0.25
 			naval_maintenance_modifier = -0.25
+			blockade_efficiency = 0.5
 		}
 		3 = {
 			navy_tradition = 0.05
 			global_ship_cost = -0.25
 			naval_maintenance_modifier = -0.25
+			blockade_efficiency = 0.5
 		}
 	}
 }
@@ -551,7 +554,7 @@ high_monarchy = {
 }
 
 seventh_legion = {
-	monarchy = yes
+	dictatorship = yes
 	
 	valid_for_new_country = no
 	valid_for_nation_designer = yes
@@ -605,7 +608,7 @@ argent_crusade = {
 }
 
 military_dictat = {
-	monarchy = yes
+	dictatorship = yes
 	
 	valid_for_new_country = no
 	valid_for_nation_designer = yes
@@ -719,7 +722,7 @@ twilight_cabal = {
 }
 
 old_god_lair = {
-	monarchy = yes
+	religion = yes
 	
 	valid_for_new_country = no
 	valid_for_nation_designer = yes
@@ -802,7 +805,7 @@ minor_tribe = {
 }
 
 criminal_organization = {
-	monarchy = yes
+	dictatorship = yes
 	
 	valid_for_new_country = no
 	allow_convert = no

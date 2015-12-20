@@ -76,4 +76,21 @@ spriteTypes = {
 		name = "GFX_combat_terrain_frozen_wastes"	
 		texturefile = "gfx//interface//combat_terrain_frozen_wastes.dds"
 	}
+	
+	#Resource icons
+	spriteType = {
+		name = "GFX_resource_icon"
+		texturefile = "gfx//interface//resources.tga"
+		noOfFrames = 57
+		loadType = "INGAME"
+		
+	}
+	spriteType = {
+		name = "GFX_resource_icon_transparent"
+		texturefile = "gfx//interface//resources.tga"
+		noOfFrames = 57
+		loadType = "INGAME"
+		
+		allwaystransparent = yes
+	}
 }
