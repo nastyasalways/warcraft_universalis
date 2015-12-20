@@ -2,7 +2,7 @@
 
 graphical_culture = westerngfx
 
-color = { 57 6 54 }
+color = { 113 164 209 }
 
 monarch_names = {
 	"Nekus" = 20
