@@ -1,8 +1,9 @@
+namespace = WARCRAFT_TIRISFAL
 
 country_event = {
-	id = 200000			# Aegwynn in Tirsafal
-	title = "EVTNAME200000"
-	desc = "EVTDESC200000"
+	id = WARCRAFT_TIRISFAL.1			# Aegwynn in Tirsafal
+	title = WARCRAFT_TIRISFAL.1.title
+	desc = WARCRAFT_TIRISFAL.1.desc
 	picture = DEBATE_REPUBLICAN_eventPicture
 	
 	fire_only_once = yes
@@ -18,7 +19,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "aegwynn_yes"	# Enter
+		name = WARCRAFT_TIRISFAL.1.option.a	# Enter
 		ai_chance = { factor = 100 }
 		add_dip_power = 50
 		964 = { # Venomweb Vale
@@ -30,7 +31,7 @@ country_event = {
 		
 	}
 	option = {
-		name = "aegwynn_no"		# Get Out
+		name = WARCRAFT_TIRISFAL.1.option.b		# Get Out
 		ai_chance = { factor = 0 }
 		add_mil_power = 50
 		add_prestige = 10
