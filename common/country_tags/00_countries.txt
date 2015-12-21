@@ -195,6 +195,10 @@ A93 = "countries/Sunfury.txt"
 # Night Elf
 A94 = "countries/Darnassus.txt"
 A95 = "countries/Cenarion Circle.txt" # tech_darnassian
+H01 = "countries/Nordrassil.txt"
+H02 = "countries/Moonglade.txt"
+H03 = "countries/Cenarion Hold.txt"
+
 
 # Aqir
 A96 = "countries/AhnKahet.txt" # tech_aqir

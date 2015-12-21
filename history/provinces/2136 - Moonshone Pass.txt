@@ -1,19 +1,17 @@
-# 839
+owner = H02
+controller = H02
+add_core = H02
 is_city = yes
-add_core = A29
-owner = A29
-controller = A29
 
-base_tax = 3
-base_manpower = 3
-base_production = 3
+base_tax = 1
+base_manpower = 1
+base_production = 1
 
-
-culture = culture_ironforge
-religion = religion_church_of_the_light
+culture = culture_sentinel
+religion = religion_elune
 
 hre = no
-trade_goods = ale
+trade_goods = grain
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

@@ -1019,6 +1019,13 @@
  F53: "Bloodfang"
  F53_ADJ: "Bloodfang"
  
+ H01: "Nordrassil"
+ H01_ADJ: "Nordrassil"
+ H02: "Moonglade"
+ H02_ADJ: "Moonglade"
+ H03: "Cenarion Hold"
+ H03_ADJ: "Cenarion Hold"
+ 
  # Governments
  magocracy_republic: "Magocracy Republic"
  magocracy_republic_desc: ""

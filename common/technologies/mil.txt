@@ -148,6 +148,18 @@ technology = {
 	enable = naga_manhunter
 	
 	# tech_ogre
+	#	Ogre Clobbers (1)
+	#		An ogre loves nothing more than to clobber. Any enemy facing an ogre on the battle must keep their wits about them, lest they be clobbered from behind!
+	#	Ogre Slasher (2)
+	#		When clobbering fails, an ogre will resort to using any bladed object as a slashing weapon. Unfortunately for the ogre's opponents, the size of said objects can often be bigger than themselves!
+	#	Ogre Magi (3)
+	#		Although rare, many ogres learn the ancient art of magic, and become ogre magi in the process. Deadly and unexpected, an ogre magi can deal massive damage on the battlefield.
+	#	Ogre Cavalry (1)
+	#		Some said it was impossible, but these ogres have managed to bred creatures capable of being ridden. Their effectiveness is yet to be realised however.
+	#	Ogre War Cavalry (2)
+	#		Bred for war, these creatures allow armed ogres to ride them without hinderance.
+	#	Ogre Magi Cavalry (3)
+	#		These arcane-capable ogres can now ride into battle ontop of there warsteeds.
 	# tech_satyr
 	# tech_depths
 	# tech_gnoll

@@ -1,19 +1,17 @@
-# 1007
+owner = H02
+controller = H02
+add_core = H02
 is_city = yes
-add_core = A29
-owner = A29
-controller = A29
 
-base_tax = 2
-base_manpower = 2
-base_production = 2
+base_tax = 1
+base_manpower = 1
+base_production = 1
 
-
-culture = culture_ironforge
-religion = religion_church_of_the_light
+culture = culture_sentinel
+religion = religion_elune
 
 hre = no
-trade_goods = stone
+trade_goods = grain
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -53,13 +51,4 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
-
-# Rise of the Qiraji
-622.1.1 = {
-owner = F24
-controller = F24
-add_core = F24
-culture = culture_trogg
-religion = religion_geomancy
-}
 

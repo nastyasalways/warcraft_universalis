@@ -1,13 +1,12 @@
 # 1071
-owner = A94
-controller = A94
-add_core = A94
-is_city = yes
+is_city = no
+native_size = 10
+native_ferocity = 10
+native_hostileness = 10
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
-
 
 culture = culture_sentinel
 religion = religion_elune
@@ -54,3 +53,10 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# After the Third War
+622.1.1 = {
+	owner = A94
+	controller = A94
+	add_core = A94
+	is_city = yes
+}
