@@ -166,6 +166,34 @@ gov_cult_damned = {
 	}
 }
 
+gov_scourge_command = {
+	rank = {
+		1 = UNDEAD_SCOURGE
+		2 = UNDEAD_SCOURGE
+		3 = UNDEAD_SCOURGE
+	}
+	
+	ruler_male = {
+		1 = SCOURGE_LIUTENANT
+		2 = SCOURGE_COMMANDER
+		3 = LICH_KING
+	}
+	
+	ruler_female = {
+		1 = SCOURGE_LIUTENANT
+		2 = SCOURGE_COMMANDER
+		3 = LICH_QUEEN
+	}
+	
+	trigger = {
+		government = scourge_horde
+		OR = {
+			tag = E52
+			tag = F21
+		}
+	}
+}
+
 gov_criminal = {
 	rank = {
 		1 = CRIMINAL_ORGANIZATION
@@ -715,3 +743,31 @@ magocracy = {
 	}
 }
 
+lordaeron_vassal = {
+	rank = {
+		1 = BARONY
+		2 = BARONY
+		3 = KINGDOM
+	}
+	
+	ruler_male = {
+		1 = BARON
+		2 = BARON
+		3 = KING
+	}
+	
+	ruler_female = {
+		1 = BARONESS
+		2 = BARONESS
+		3 = QUEEN
+	}
+	
+	trigger = {
+		government = monarchy
+		OR = {
+			tag = E62
+			tag = A10
+		}
+		is_vassal = yes
+	}
+}

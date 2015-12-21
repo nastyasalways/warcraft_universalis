@@ -35,4 +35,12 @@ monarch = {
 		dip = 0
 		regent = yes
 	}
+	heir = { 
+	name = "Aurius" 
+     dynasty = "Rivendare" 
+		birth_date = 600.1.1
+		adm = 3
+		dip = 3
+		mil = 4 
+ 	} 
 }

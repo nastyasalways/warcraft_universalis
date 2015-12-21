@@ -31,7 +31,6 @@ monarch = {
 		adm = 3
 		dip = 3
 		mil = 4 
-           regent = yes
  	} 
  }
  
