@@ -1,0 +1,19 @@
+# Warsong Offensive
+government 			= warband
+mercantilism 		= 0.1 
+technology_group 	= tech_orc
+religion			= religion_ancestral
+primary_culture 	= culture_warsong
+capital 			= 1
+
+626.1.1 = {
+	monarch = {
+		name = "Garrosh" 
+		dynasty = "Hellscream" 
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+

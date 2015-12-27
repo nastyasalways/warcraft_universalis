@@ -51,20 +51,20 @@ default_republic = {
 
 default_theocracy = {
 	rank = {
-		1 = BISHOPRIC
-		2 = ARCHBISHOPRIC
-		3 = PATRIARCHATE
+		1 = THEOCRACY
+		2 = THEOCRACY
+		3 = EMPIRE
 	}
 	
 	ruler_male = {
-		1 = BISHOP
-		2 = ARCHBISHOP
+		1 = PRIEST
+		2 = HIGH_PRIEST
 		3 = PATRIARCH
 	}
 	
 	ruler_female = {
-		1 = BISHOP_fem
-		2 = ARCHBISHOP_fem
+		1 = PRIESTESS
+		2 = HIGH_PRIESTESS
 		3 = MATRIARCH
 	}
 	

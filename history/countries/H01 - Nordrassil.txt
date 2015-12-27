@@ -1,4 +1,4 @@
-# Darnassus
+# Nordrassil
 government 				= theocratic_government
 mercantilism 			= 0.1
 technology_group 		= tech_darnassian
@@ -6,13 +6,13 @@ religion				= religion_elune
 primary_culture 		= culture_sentinel
 add_accepted_culture 	= culture_cenarion
 capital 				= 1334
-
-592.1.1 = { 
+546.1.1 = { 
 	monarch = { 
-		name = "Malfurion" 
-		dynasty = "Stormrage" 
-		adm = 6
-		dip = 6
-		mil = 6	
+		name = "Tyrande"  
+		dynasty = "Whisperwind" 	
+		adm = 4		
+		dip = 2
+		mil = 4	
+          	 female = yes
 	} 
-}
+} 

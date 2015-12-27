@@ -64,9 +64,9 @@ culture = culture_lordaeron
 religion = religion_church_of_the_light }
 
 # The Burning Crusade
-625.1.1 = { 
-owner = F38
-controller = F38
-add_core = F38
+626.1.1 = { 
+owner = H06
+controller = H06
+add_core = H06
 }
 

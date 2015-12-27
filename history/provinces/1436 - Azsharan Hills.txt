@@ -1,10 +1,6 @@
 # 1436
 is_city = yes
 
-owner = B42
-controller = B42
-add_core = B42
-
 base_tax = 2
 base_manpower = 2
 base_production = 2

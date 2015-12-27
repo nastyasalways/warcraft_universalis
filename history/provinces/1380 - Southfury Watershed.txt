@@ -1,10 +1,6 @@
 # 1380
 is_city = yes
 
-owner = B69
-controller = B69
-add_core = B69
-
 base_tax = 2
 base_manpower = 2
 base_production = 2
@@ -55,3 +51,8 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+618.1.1 = { 
+	owner = A48
+	controller = A48
+	add_core = A48 
+}

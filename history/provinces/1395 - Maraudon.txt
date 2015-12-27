@@ -6,8 +6,12 @@ base_manpower = 1
 base_production = 1
 
 
-culture = noculture
-religion = noreligion
+culture = culture_mauraudine
+religion = religion_therazane
+
+owner = B23
+controller = B23
+add_core = B23
 
 hre = no
 trade_goods = grain

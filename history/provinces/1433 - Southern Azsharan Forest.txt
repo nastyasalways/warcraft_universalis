@@ -49,7 +49,12 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
-
+# Frozen Throne
+618.1.1 = { 
+	owner = A48
+	controller = A48
+	add_core = A48 
+}
 # Cataclysm
 631.1.1 = { 
 owner = A79

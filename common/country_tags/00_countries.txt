@@ -69,6 +69,7 @@ F38 = "countries/Valgarde.txt"
 F39 = "countries/Nedreck.txt"
 F40 = "countries/Bloodhill Bandits.txt"
 F52 = "countries/Pyrewood.txt"
+H06 = "countries/Alliance Vanguard.txt" 
 
 # Dwarven
 A28 = "countries/Wildhammer.txt"
@@ -102,6 +103,7 @@ A48 = "countries/Orgrimmar.txt"
 E98 = "countries/Black Tooth Grin.txt"
 F26 = "countries/Ironmarch.txt"
 F48 = "countries/Fel Dragonmaw.txt"
+H07 = "countries/Horde Expedition.txt" 
 
 # Ogre
 A49 = "countries/Bladespire.txt"
@@ -120,6 +122,7 @@ F07 = "countries/Deadwind.txt"
 F08 = "countries/Bloodeye.txt"
 F31 = "countries/Mosh'Ogg.txt"
 F50 = "countries/Outland Boulderfist.txt"
+H05 = "countries/Dunemaul.txt" 
 
 # Draenei
 A54 = "countries/Shattrath.txt"
@@ -243,6 +246,7 @@ B21 = "countries/Gelkis.txt" # tech_centaur
 B22 = "countries/Magram.txt" # tech_centaur 
 B23 = "countries/Mauraudine.txt" # tech_centaur
 B24 = "countries/Kolkar.txt" # tech_centaur
+H04 = "countries/Western Galak.txt" # tech_centaur # AKA: Warcraft's 3 Mulgore Centaur Marauders
 
 # Depths
 B25 = "countries/Vile Fin.txt"

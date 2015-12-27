@@ -1,9 +1,6 @@
 # 1377
 is_city = no
 
-owner = B66
-controller = B66
-add_core = B66
 capital = "Dustwind Cliffs"
 base_tax = 2
 base_manpower = 2

@@ -5,9 +5,12 @@ base_tax = 1
 base_manpower = 1
 base_production = 1
 
+owner = A86
+controller = A86
+add_core = A86
 
-culture = noculture
-religion = noreligion
+culture = culture_runetotem
+religion = religion_druidic
 
 hre = no
 trade_goods = grain

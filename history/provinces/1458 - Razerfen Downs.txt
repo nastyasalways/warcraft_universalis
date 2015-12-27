@@ -6,8 +6,13 @@ base_manpower = 1
 base_production = 1
 
 
-culture = noculture
-religion = noreligion
+owner = B70
+controller = B70
+add_core = B70
+
+culture = culture_razorfen
+religion = religion_geomancy
+
 
 hre = no
 trade_goods = grain
@@ -51,3 +56,6 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+625.1.1 = {
+religion = religion_the_damned
+}

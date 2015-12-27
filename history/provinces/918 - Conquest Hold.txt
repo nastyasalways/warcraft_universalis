@@ -70,8 +70,8 @@ religion = religion_shadow
 }
 
 626.1.1 = { 
-owner = A48
-controller = A48
-add_core = A48
+owner = H07
+controller = H07
+add_core = H07
 culture = culture_horde
 religion = religion_ancestral }

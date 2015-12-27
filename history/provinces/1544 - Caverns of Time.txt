@@ -5,9 +5,12 @@ base_tax = 1
 base_manpower = 1
 base_production = 1
 
+owner = B02
+controller = B02
+add_core = B02
 
-culture = noculture
-religion = noreligion
+culture = culture_bronze
+religion = religion_sect_of_dragons
 
 hre = no
 trade_goods = grain

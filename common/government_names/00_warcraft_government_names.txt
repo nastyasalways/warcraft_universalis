@@ -692,30 +692,6 @@ light_theocracy = {
 	}
 }
 
-warcraft_theocracy = {
-	rank = {
-		1 = THEOCRACY
-		2 = THEOCRACY
-		3 = EMPIRE
-	}
-	
-	ruler_male = {
-		1 = PRIEST
-		2 = HIGH_PRIEST
-		3 = PATRIARCH
-	}
-	
-	ruler_female = {
-		1 = PRIESTESS
-		2 = HIGH_PRIESTESS
-		3 = MATRIARCH
-	}
-	
-	trigger = {
-		government = theocratic_government
-	}
-}
-
 magocracy = {
 	rank = {
 		1 = PETTY_MAGOCRACY
@@ -769,5 +745,55 @@ lordaeron_vassal = {
 			tag = A10
 		}
 		is_vassal = yes
+	}
+}
+
+tauren_tribe = {
+	rank = {
+		1 = TRIBE
+		2 = TRIBE
+		3 = FEDERATION
+	}	
+	
+	ruler_male = {
+		1 = ELDER
+		2 = CHIEFTAIN
+		3 = HIGH_CHIEFTAIN
+	}
+	
+	ruler_female = {
+		1 = ELDER
+		2 = CHIEFTESS
+		3 = HIGH_CHIEFTESS
+	}
+	
+	trigger = {
+		government = thunderbluff_tribe
+		technology_group = tech_tauren 
+	}
+}
+
+druidic_theocracy = {
+	rank = {
+		1 = CIRCLE
+		2 = CIRCLE
+		3 = CIRCLE
+	}
+	
+	ruler_male = {
+		1 = DRUID
+		2 = ARCH_DRUID
+		3 = ARCH_DRUID
+	}
+	
+	ruler_female = {
+		1 = DRUID
+		2 = ARCH_DRUID
+		3 = ARCH_DRUID
+	}
+	
+	trigger = {
+		government = theocratic_government
+		religion = religion_druidic
 	}
 }

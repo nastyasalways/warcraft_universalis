@@ -2,8 +2,17 @@
 government 				= theocratic_government
 mercantilism 			= 0.1
 technology_group 		= tech_darnassian
-religion				= religion_elune
+religion				= religion_druidic
 primary_culture 		= culture_sentinel
 add_accepted_culture 	= culture_cenarion
 capital 				= 1
 
+546.1.1 = { 
+	monarch = { 
+		name = "Malfurion" 
+		dynasty = "Stormrage" 
+		adm = 6
+		dip = 6
+		mil = 6	
+	} 
+}

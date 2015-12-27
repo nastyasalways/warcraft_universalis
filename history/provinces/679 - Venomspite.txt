@@ -56,9 +56,9 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 626.1.1 = { 
-add_core = E14
-owner = E14
-controller = E14
+add_core = H07
+owner = H07
+controller = H07
 remove_core = A77
 culture = culture_forsaken
 religion = religion_forgotten_shadow 

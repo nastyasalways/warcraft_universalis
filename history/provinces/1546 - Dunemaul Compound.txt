@@ -6,8 +6,9 @@ base_manpower = 1
 base_production = 1
 
 
-culture = noculture
-religion = noreligion
+
+culture = culture_silithid
+religion = religion_old_gods
 
 hre = no
 trade_goods = grain
@@ -51,3 +52,10 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# Beyond Dark Portal
+600.1.1 = { 
+owner = H05
+controller = H05
+add_core = H05
+religion = religion_geomancy
+culture = culture_dunemaul}

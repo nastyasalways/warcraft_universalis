@@ -5,9 +5,12 @@ base_tax = 1
 base_manpower = 1
 base_production = 1
 
+owner = B22
+controller = B22
+add_core = B22
 
-culture = noculture
-religion = noreligion
+culture = culture_magram
+religion = religion_ancestral
 
 hre = no
 trade_goods = grain
@@ -51,3 +54,10 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+631.1.1 = { 
+owner = H03
+controller = H03
+add_core = H03
+	culture = culture_cenarion
+	religion = religion_elune
+}

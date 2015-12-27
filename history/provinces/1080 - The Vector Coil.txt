@@ -1,10 +1,6 @@
 # 1080
 is_city = yes
 
-owner = F43
-controller = F43
-add_core = F43
-
 base_tax = 2
 base_manpower = 2
 base_production = 2

@@ -1025,7 +1025,14 @@
  H02_ADJ: "Moonglade"
  H03: "Cenarion Hold"
  H03_ADJ: "Cenarion Hold"
- 
+ H04: "Western Galak"
+ H04_ADJ: "Western Galak"
+ H05: "Dunemaul"
+ H05_ADJ: "Dunemaul"
+ H06: "Alliance Vanguard"
+ H06_ADJ: "Alliance Vanguard"
+ H07: "Horde Expedition"
+ H07_ADJ: "Horde Expedition"
  # Governments
  magocracy_republic: "Magocracy Republic"
  magocracy_republic_desc: ""

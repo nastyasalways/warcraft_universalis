@@ -1,7 +1,29 @@
 # Sandfury
-government 		= despotic_monarchy
+government 		= warband
+government_rank = 2
 mercantilism 		= 0.1
 technology_group 	= tech_troll
-religion			= noreligion
-primary_culture 	= noculture
+religion			= religion_loa
+primary_culture 	= culture_sandfury
 capital 			= 1
+
+546.1.1 = {  
+monarch = {  
+      name = "Theka"  
+     dynasty = "Sandscalp"  
+ 		adm = 3 
+		dip = 3 
+		mil = 4 
+  	}  
+  }  
+
+
+592.1.1 = {  
+monarch = {  
+     name = "Ukorz"  
+     dynasty = "Sandscalp"  
+ 		adm = 4 
+		dip = 5 
+		mil = 5 
+  	}  
+  }  

@@ -5,9 +5,13 @@ base_tax = 1
 base_manpower = 1
 base_production = 1
 
+owner = A84
+controller = A84
+add_core = A84
 
-culture = noculture
-religion = noreligion
+
+culture = culture_bloodhoof
+religion = religion_ancestral
 
 hre = no
 trade_goods = grain
@@ -51,3 +55,10 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+618.1.1 = { 
+	owner = A48
+	controller = A48
+	add_core = A48 
+	culture = culture_horde
+	religion = religion_ancestral
+}

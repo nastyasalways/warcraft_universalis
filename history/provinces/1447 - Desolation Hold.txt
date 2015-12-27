@@ -1,13 +1,16 @@
 # 1447
-is_city = no
+is_city = yes
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
+owner = B69
+controller = B69
+add_core = B69
 
-culture = noculture
-religion = noreligion
+culture = culture_razormane
+religion = religion_geomancy
 
 hre = no
 trade_goods = grain

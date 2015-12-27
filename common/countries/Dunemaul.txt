@@ -1,8 +1,8 @@
-# Pyrewood
+# Dunemaul Ogres
 
 graphical_culture = westerngfx
 
-color = { 243 235 7 }
+color = { 109 12 169 }
 
 monarch_names = {
 

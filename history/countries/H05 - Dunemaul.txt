@@ -1,0 +1,18 @@
+# Dunemaul
+government 		= warband
+mercantilism 		= 0.1 
+technology_group 	= tech_ogre
+religion		= religion_geomancy
+primary_culture 	= culture_dunemaul
+capital 			= 1
+
+597.1.1 = { 
+	monarch = { 
+		name = "Gor'marok" 
+		dynasty = "Dunemaul" 
+		adm = 3
+		dip = 3
+		mil = 3
+	} 
+} 
+

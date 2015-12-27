@@ -1,10 +1,6 @@
 # 1434
 is_city = yes
 
-owner = E05
-controller = E05
-add_core = E05
-
 base_tax = 2
 base_manpower = 2
 base_production = 2
@@ -54,3 +50,9 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# Cataclysm
+631.1.1 = { 
+owner = A79
+add_core = A79
+controller = A79
+}
