@@ -65,7 +65,6 @@ religion = religion_the_damned
 # The Frozen Throne
 618.1.1 = { 
 add_core = A62
-remove_core = E52
 owner = A62
 controller = A62
 religion = religion_loa
@@ -74,7 +73,6 @@ culture = culture_mossflayer
 
 # Rise of the Qiraji
 622.1.1 = { 
-add_core = E52
 remove_core = A62
 owner = E52
 controller = E52
