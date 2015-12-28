@@ -1,4 +1,4 @@
-# 859
+# 859 The Weeping Cave
 is_city = yes
 add_core = E55
 owner = E55
@@ -9,13 +9,11 @@ base_tax = 2
 base_manpower = 3
 base_production = 2
 
-
 culture = culture_shadowglen
 religion = religion_loa
  
 hre = no 
 trade_goods = fur
-
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -64,4 +62,13 @@ owner = XXX
 controller = XXX
 religion = religion_druidic
 culture = culture_bog_beast
+}
+
+# Cataclysm
+631.1.1 = { 
+add_core = E12
+owner = E12 
+controller = E12
+culture = culture_cultist
+religion = religion_the_damned 
 }

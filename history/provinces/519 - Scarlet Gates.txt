@@ -54,6 +54,18 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Third War
+618.1.1 = { 
+add_core = E52
+}
+
+# The Frozen Throne
+618.1.1 = { 
+add_core = E62
+owner = E62
+controller = E62
+}
+
 # Rise of the Qiraji
 622.1.1 = { 
 add_core = A22
@@ -62,8 +74,16 @@ controller = A22
 religion = religion_scarlet_light 
 }
 
+# Wrath of the Lich King
 626.1.1 = { 
-owner = XXX
-controller = XXX
 add_core = F18 
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = F15
+controller = F15
+add_core = F15
+religion = religion_fel
+culture = culture_forsaken
 }

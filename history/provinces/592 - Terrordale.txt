@@ -61,11 +61,3 @@ controller = E52
 culture = culture_scourge
 religion = religion_the_damned 
 }
-
-# Cataclysm
-631.1.1 = { 
-add_core = E12
-remove_core = E52
-owner = E12 
-controller = E12
-}
