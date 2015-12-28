@@ -1,14 +1,13 @@
-# 875 
+# 875 The Marris Stead
 is_city = yes
-add_core = A10
-owner = A10
-controller = A10
+add_core = A08
+owner = A08
+controller = A08
 
 base_tax = 3
 base_manpower = 2
-base_production = 3
+base_production = 1
 
- 
 culture = culture_lordaeron
 religion = religion_church_of_the_light
  

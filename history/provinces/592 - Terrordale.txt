@@ -1,8 +1,8 @@
-# 592
+# 592 Terrordale/Eastdale(Cinderholme?)
 is_city = yes
-add_core = A10
-owner = A10
-controller = A10
+add_core = A08
+owner = A08
+controller = A08
 
 base_tax = 3
 base_manpower = 3
@@ -13,7 +13,6 @@ religion = religion_church_of_the_light
  
 hre = no 
 trade_goods = grain
-
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -61,11 +60,6 @@ owner = E52
 controller = E52
 culture = culture_scourge
 religion = religion_the_damned 
-}
-
-# Rise of the Qiraji
-622.1.1 = { 
-remove_core = A10 
 }
 
 # Cataclysm

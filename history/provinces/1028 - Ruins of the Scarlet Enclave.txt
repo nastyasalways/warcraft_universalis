@@ -1,8 +1,8 @@
-# 1028
+# 1028 Ruins of the Scarlet Enclave
 is_city = yes
-add_core = E62
-owner = E62
-controller = E62
+add_core = A08
+owner = A08
+controller = A08
 capital = "New Avalon"
 
 base_tax = 4
@@ -57,7 +57,6 @@ discovered_by = tech_gnome
 # Rise of the Qiraji
 622.1.1 = { 
 add_core = A22
-remove_core = E62
 owner = A22
 controller = A22
 religion = religion_scarlet_light 
