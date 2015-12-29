@@ -69,7 +69,8 @@ F38 = "countries/Valgarde.txt"
 F39 = "countries/Nedreck.txt"
 F40 = "countries/Bloodhill Bandits.txt"
 F52 = "countries/Pyrewood.txt"
-H06 = "countries/Alliance Vanguard.txt" 
+F55 = "countries/Lordaeron Survivors.txt"
+H06 = "countries/Alliance Vanguard.txt"
 
 # Dwarven
 A28 = "countries/Wildhammer.txt"

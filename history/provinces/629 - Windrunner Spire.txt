@@ -1,5 +1,4 @@
 #629 Windrunner Spire
-
 is_city = yes 
 add_core = A90
 owner = A90
@@ -59,7 +58,6 @@ discovered_by = tech_gnome
 owner = F21
 controller = F21
 add_core = F21
-remove_core = A90
-culture = culture_scourge
+culture = culture_cultist
 religion = religion_the_damned 
 }

@@ -1,14 +1,13 @@
 #1039 Deatholme
-
 is_city = yes 
 
 add_core = A90
 owner = A90
 controller = A90
 
-base_tax = 4
-base_manpower = 4
-base_production = 4
+base_tax = 3
+base_manpower = 2
+base_production = 2
 
 culture = culture_high_elf
 religion = religion_church_of_the_light
@@ -60,11 +59,9 @@ discovered_by = tech_gnome
 owner = F21
 controller = F21
 add_core = F21
-remove_core = A90
 culture = culture_scourge
 religion = religion_the_damned
 base_tax = 6
 base_manpower = 6
 base_production = 6
 }
-

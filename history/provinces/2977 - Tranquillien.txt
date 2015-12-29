@@ -62,3 +62,12 @@ add_core = F21
 culture = culture_scourge
 religion = religion_the_damned 
 }
+
+# The Burning Crusade
+625.1.1 = { 
+owner = A91
+controller = A91
+add_core = A91
+culture = culture_blood_elf
+religion = religion_arcane
+}

@@ -13,7 +13,7 @@ culture = culture_high_elf
 religion = religion_church_of_the_light
 
 hre = no
-trade_goods = grain
+trade_goods = timber
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -59,7 +59,6 @@ discovered_by = tech_gnome
 owner = F21
 controller = F21
 add_core = F21
-remove_core = A90
 culture = culture_scourge
 religion = religion_the_damned 
 }

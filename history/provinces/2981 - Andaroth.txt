@@ -13,7 +13,7 @@ culture = culture_high_elf
 religion = religion_church_of_the_light
 
 hre = no
-trade_goods = grain
+trade_goods = arcane
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -61,4 +61,13 @@ controller = F21
 add_core = F21
 culture = culture_scourge
 religion = religion_the_damned 
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+owner = A94
+controller = A94
+add_core = A94
+culture = culture_sentinel
+religion = religion_elune 
 }
