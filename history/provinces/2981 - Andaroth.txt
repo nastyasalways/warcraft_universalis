@@ -1,13 +1,16 @@
-# 2982
-is_city = no
+# 2981 An'Daroth
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 2
+base_manpower = 3
+base_production = 2
 
+add_core = A90
+owner = A90
+controller = A90
 
-culture = noculture
-religion = noreligion
+culture = culture_high_elf
+religion = religion_church_of_the_light
 
 hre = no
 trade_goods = grain
@@ -50,4 +53,3 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
-

@@ -9,7 +9,6 @@ base_tax = 8
 base_manpower = 8
 base_production = 8
 
- 
 culture = culture_amani
 religion = religion_loa
  

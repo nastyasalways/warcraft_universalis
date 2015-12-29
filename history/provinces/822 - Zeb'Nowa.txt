@@ -1,5 +1,4 @@
 #822 Zeb'Nowa
-
 is_city = yes 
 
 add_core = A59
@@ -15,7 +14,6 @@ religion = religion_loa
  
 hre = no 
 trade_goods = fur
-
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
