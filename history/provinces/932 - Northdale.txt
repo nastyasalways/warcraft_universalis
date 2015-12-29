@@ -1,16 +1,13 @@
 #932 Northdale
+is_city = yes
 
-add_core = A10
-owner = A10
-controller = A10
-is_city = yes 
+add_core = A08
+owner = A08
+controller = A08
 
 base_tax = 3
 base_manpower = 3
 base_production = 3
-
-
-
 
 culture = culture_lordaeron
 religion = religion_church_of_the_light
@@ -69,7 +66,6 @@ religion = religion_the_damned
 # The Frozen Throne
 618.1.1 = { 
 add_core = A62
-remove_core = E52
 owner = A62
 controller = A62
 religion = religion_loa
@@ -78,20 +74,9 @@ culture = culture_mossflayer
 
 # Rise of the Qiraji
 622.1.1 = { 
-add_core = E52
-remove_core = A10
 remove_core = A62
 owner = E52
 controller = E52
 religion = religion_the_damned
 culture = culture_scourge 
 }
-
-# Cataclysm
-631.1.1 = { 
-add_core = E12
-remove_core = E52
-owner = E12 
-controller = E12
-}
-

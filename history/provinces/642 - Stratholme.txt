@@ -67,15 +67,3 @@ religion = religion_the_damned
 617.1.1 = { 
 add_core = A22
 }
-
-# Cataclysm # Need Rework
-#631.1.1 = { 
-#owner = F15 
-#controller = F15
-#add_core = E12
-#add_core = F15
-#remove_core = E52
-#religion = religion_fel
-#culture = culture_forsaken 
-#}
-

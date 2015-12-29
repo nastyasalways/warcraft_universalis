@@ -1,13 +1,16 @@
-# 2970
-is_city = no
+# 2976 Hope Point
+is_city = yes
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
+add_core = A08
+owner = A08
+controller = A08
 
-culture = noculture
-religion = noreligion
+culture = culture_lordaeron
+religion = religion_church_of_the_light
 
 hre = no
 trade_goods = grain
@@ -51,3 +54,23 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Frozen Throne
+618.1.1 = { 
+add_core = A10
+owner = A10
+controller = A10
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+add_core = A24
+owner = A24
+controller = A24
+}
+
+# Wrath of the Lich King
+626.1.1 = {
+owner = F19
+controller = F19
+add_core = F19
+}

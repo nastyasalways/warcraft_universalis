@@ -1,16 +1,19 @@
-# 2971
-is_city = no
+# 539 Tyr's Hand
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+add_core = A08
+owner = A08
+controller = A08
 
+base_tax = 5
+base_manpower = 5
+base_production = 5
 
-culture = noculture
-religion = noreligion
-
-hre = no
-trade_goods = grain
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = grain_silo
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -51,3 +54,36 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Third War
+618.1.1 = { 
+add_core = E52
+}
+
+# The Frozen Throne
+618.1.1 = { 
+add_core = E62
+owner = E62
+controller = E62
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+add_core = A22
+owner = A22
+controller = A22
+religion = religion_scarlet_light 
+}
+
+# Wrath of the Lich King
+626.1.1 = { 
+add_core = F18 
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = F15
+controller = F15
+add_core = F15
+religion = religion_fel
+culture = culture_forsaken
+}

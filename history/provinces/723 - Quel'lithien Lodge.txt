@@ -1,5 +1,4 @@
 #723 Quel'lithien Lodge
-
 is_city = yes 
 
 add_core = A90
@@ -8,11 +7,10 @@ controller = A90
 
 base_tax = 3
 base_manpower = 3
-base_production = 3
-
+base_production = 2
 
 culture = culture_high_elf
-religion = religion_church_of_the_light
+religion = religion_arcane 
  
 hre = no 
 trade_goods = fur
@@ -61,6 +59,13 @@ discovered_by = tech_gnome
 owner = F20
 controller = F20
 add_core = F20 
+religion = religion_church_of_the_light
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+base_tax = 4
+base_production = 3
 }
 
 # Cataclysm

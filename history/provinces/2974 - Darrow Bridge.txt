@@ -1,13 +1,16 @@
-# 2973
-is_city = no
+# 2974 Darrow Bridge
+is_city = yes
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
+add_core = A08
+owner = A08
+controller = A08
 
-culture = noculture
-religion = noreligion
+culture = culture_lordaeron
+religion = religion_church_of_the_light
 
 hre = no
 trade_goods = grain
@@ -51,3 +54,17 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Third War
+617.1.1 = { 
+add_core = E52
+owner = E52
+controller = E52
+culture = culture_scourge
+religion = religion_the_damned 
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = XXX
+controller = XXX
+}
