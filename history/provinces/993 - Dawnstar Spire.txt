@@ -1,21 +1,20 @@
 #993 Dawnstar Spire
 is_city = yes
 
+add_core = A59
 add_core = A90
-owner = A90
-controller = A90
+owner = A59
+controller = A59
 
 base_tax = 3
-base_manpower = 2
-base_production = 3
+base_manpower = 1
+base_production = 2
 
- 
-culture = culture_high_elf
-religion = religion_arcane
+culture = culture_shadowpine
+religion = religion_loa
  
 hre = no 
 trade_goods = arcane
-
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -56,11 +55,20 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The First War
+592.1.1 = {
+owner = A90
+controller = A90
+culture = culture_high_elf
+religion = religion_arcane 
+}
+
 # The Frozen Throne
 618.1.1 = {
 owner = XXX
 controller = XXX
-remove_core = A90
 culture = culture_construct
+native_hostileness = 8
+native_size = 2
+native_ferocity = 8
 }
-
