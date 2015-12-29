@@ -1,10 +1,10 @@
 # Silvermoon
-government 		= despotic_monarchy
+government			= despotic_monarchy
 mercantilism 		= 0.1
 technology_group 	= tech_thalassian
 religion			= religion_arcane
 primary_culture 	= culture_blood_elf
-capital 			= 1
+capital 			= 660
 
 618.1.1 = {
 	monarch = {
@@ -20,13 +20,11 @@ capital 			= 1
 	monarch = {
 		name = "Lor'themar"
 		dynasty = "Theron"
-		adm = 4
-		dip = 4
-		mil = 4
+		adm = 3
+		dip = 2
+		mil = 5
 	}
-
-government = oligarchic_republic
-
+	government = oligarchic_republic
 }
 
 626.1.1 = {

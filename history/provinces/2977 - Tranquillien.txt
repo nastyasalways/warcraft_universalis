@@ -53,3 +53,12 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
+
+# The Frozen Throne
+618.1.1 = {
+owner = F21
+controller = F21
+add_core = F21
+culture = culture_scourge
+religion = religion_the_damned 
+}

@@ -1,5 +1,4 @@
 #1013 Suncrown village
-
 is_city = yes 
 
 add_core = A90
@@ -10,13 +9,11 @@ base_tax = 3
 base_manpower = 3
 base_production = 3
 
- 
 culture = culture_high_elf
 religion = religion_church_of_the_light
  
 hre = no 
 trade_goods = grain
-
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -66,4 +63,3 @@ remove_core = A90
 culture = culture_nerubian
 religion = religion_the_damned 
 }
-

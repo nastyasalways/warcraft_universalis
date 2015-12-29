@@ -189,6 +189,7 @@ A89 = "countries/Winterhoof.txt" # tech_tauren
 A90 = "countries/QuelThalas.txt"
 E49 = "countries/Highvale.txt"
 F20 = "countries/Quellithian.txt"
+F54 = "countries/QuelThalas Remnants.txt"
 
 # Blood Elf
 A91 = "countries/Silvermoon.txt"

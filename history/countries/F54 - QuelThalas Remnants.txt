@@ -1,0 +1,17 @@
+# Quel'Thalas Remnants
+government			= despotic_monarchy
+mercantilism 		= 0.1
+technology_group 	= tech_thalassian
+religion			= religion_arcane
+primary_culture 	= culture_high_elf
+capital 			= 1 #Change me!
+
+618.1.1 = {
+	monarch = {
+		name = "Lor'Themar"
+		dynasty = "Theron"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
