@@ -1,11 +1,11 @@
 # Shadowpine
 # Amani
-government 		= warband
+government 			= warband
 mercantilism 		= 0.1
 technology_group 	= tech_troll
 religion			= religion_loa
 primary_culture 	= culture_shadowpine
-capital 			= 1
+capital 			= 822
 
 546.1.1 = {  
 monarch = {  
@@ -17,7 +17,6 @@ monarch = {
   	}  
   }  
 
-
 592.1.1 = {  
 monarch = {  
       name = "Kel'gash"  
@@ -26,4 +25,4 @@ monarch = {
 		dip = 3
 		mil = 3 
   	}  
-  }  
+  }

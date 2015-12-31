@@ -26,7 +26,3 @@ capital 			= 660
 	}
 	government = oligarchic_republic
 }
-
-626.1.1 = {
-religion = religion_light_of_the_sunwell
-}

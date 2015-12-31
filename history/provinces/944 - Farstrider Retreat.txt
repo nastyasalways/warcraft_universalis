@@ -55,25 +55,22 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 # The First War
-618.1.1 = {
+592.1.1 = {
+remove_core = A58
 owner = A90
 controller = A90
 culture = culture_high_elf
-religion = religion_church_of_the_light
+religion = religion_arcane 
 remove_core = A58
 }
 
 # The Frozen Throne
 618.1.1 = {
-owner = XXX
-controller = XXX
-culture = culture_ghost
-remove_core = A90
-}
-
-621.11.11 = {
-owner = XXX
-controller = XXX
+add_core = A58
+owner = A58
+controller = A58
+culture = culture_amani
+religion = religion_loa
 }
 
 # Rise of the Qiraji
@@ -83,8 +80,4 @@ controller = A91
 add_core = A91
 culture = culture_blood_elf
 religion = religion_arcane
-}
-
-626.1.1 = { 
-religion = religion_light_of_the_sunwell
 }
