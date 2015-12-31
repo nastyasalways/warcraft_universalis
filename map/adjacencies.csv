@@ -132,23 +132,23 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 731;543;;;-1;-1;-1;-1;Fenris Isle to Undercity
 757;809;sea;241;-1;-1;-1;-1;Gilnean Islands to The Headlands
 757;505;sea;244;-1;-1;-1;-1;Gilnean Islands to Northern Headlands
-1029;1038;;;-1;-1;-1;-1;Goldenmist Village to Windrunner Village
-1029;540;;;-1;-1;-1;-1;Goldenmist Village to Scorched Grove
-1029;593;;;-1;-1;-1;-1;Goldenmist Village to Sunsail Anchorage
-520;944;;;-1;-1;-1;-1;East Sanctum to Farstrider Retreat
-520;626;;;-1;-1;-1;-1;East Sanctum to The Dead Scar
-860;993;;;-1;-1;-1;-1;An'telas to Dawnstar Spire
-1013;993;;;-1;-1;-1;-1;Suncrown Village to Dawnstar Spire
-1013;520;;;-1;-1;-1;-1;Suncrown Village to East Sanctum
-945;540;;;-1;-1;-1;-1;The Dead Scar to The Scorched Grove
-1013;540;;;-1;-1;-1;-1;Suncrown Village to The Scorched Grove
-1013;659;;;-1;-1;-1;-1;Suncrown Village to Zeb'sora
-1013;960;;;-1;-1;-1;-1;Suncrown Village to Zeb'watha
-960;659;;;-1;-1;-1;-1;Zeb'watha to Zeb'sora
-575;609;;;-1;-1;-1;-1;Fairbreeze Village to North Sanctum
-575;961;;;-1;-1;-1;-1;Fairbreeze Village to West Sanctum
-593;892;;;-1;-1;-1;-1;Sunsail Anchorage to Tranquil Shore
-676;558;sea;226;-1;-1;-1;-1;Ruins of Silvermoon to Sunstrider Isle
-676;978;sea;226;-1;-1;-1;-1;Ruins of Silvermoon to Falthrien Academy
-558;978;sea;225;-1;-1;-1;-1;Sunstrider Isle to Falthrien Academy
+1029;1038;;;-1;-1;-1;-1;Goldenmist Village to Windrunner Village (Ghostlands)
+1029;540;;;-1;-1;-1;-1;Goldenmist Village to Scorched Grove (Ghostlands – Eversong)
+1029;2989;;;-1;-1;-1;-1;Goldenmist Village to Goldenbough Pass (Ghostlands – Eversong)
+520;944;;;-1;-1;-1;-1;East Sanctum to Farstrider Retreat (Eversong)
+945;2985;;;-1;-1;-1;-1;The Dead Scar to Dead Walk (Ghostlands – Eversong)
+876;993;;;-1;-1;-1;-1;Amani Catacombs to Dawnstar Spire (Ghostlands)
+1013;993;;;-1;-1;-1;-1;Suncrown Village to Dawnstar Spire (Ghostlands)
+2977;2986;;;-1;-1;-1;-1;Tranquillien to Shan'Dor (Ghostlands – Eversong)
+2981;540;;;-1;-1;-1;-1;An'Daroth to The Scorched Grove (Ghostlands – Eversong)
+1013;2986;;;-1;-1;-1;-1;Suncrown Village to Shan'Dor (Ghostlands – Eversong)
+1013;659;;;-1;-1;-1;-1;Suncrown Village to Zeb'sora (Ghostlands)
+1013;960;;;-1;-1;-1;-1;Suncrown Village to Zeb'watha (Ghostlands – Eversong)
+960;659;;;-1;-1;-1;-1;Zeb'watha to Zeb'sora (Eversong – Ghostlands)
+575;609;;;-1;-1;-1;-1;Fairbreeze Village to North Sanctum (Eversong)
+575;961;;;-1;-1;-1;-1;Fairbreeze Village to West Sanctum (Eversong)
+593;892;;;-1;-1;-1;-1;Sunsail Anchorage to Tranquil Shore (Eversong)
+676;558;sea;226;-1;-1;-1;-1;Ruins of Silvermoon to Sunstrider Isle (Eversong)
+2988;978;sea;226;-1;-1;-1;-1;Silver Guard to Falthrien Academy (Eversong)
+558;978;sea;225;-1;-1;-1;-1;Sunstrider Isle to Falthrien Academy (Eversong)
 -1;-1;;-1;-1;-1;-1;-1;-1
