@@ -1,5 +1,6 @@
-# 520
+# 520 East Sanctum
 is_city = yes
+
 add_core = A90
 owner = A90
 controller = A90
@@ -7,7 +8,6 @@ controller = A90
 base_tax = 3
 base_manpower = 2
 base_production = 3
-
 
 culture = culture_high_elf
 religion = religion_arcane
@@ -78,4 +78,3 @@ culture = culture_blood_elf
 626.1.1 = { 
 religion = religion_light_of_the_sunwell
 }
-
