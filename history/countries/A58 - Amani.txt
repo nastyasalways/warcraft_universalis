@@ -1,11 +1,11 @@
 # Amani
-government 		= warband
-government_rank = 2
+government 			= warband
+government_rank		= 2
 mercantilism 		= 0.1
 technology_group 	= tech_troll
 religion			= religion_loa
 primary_culture 	= culture_amani
-capital 			= 1
+capital 			= 806
 
 546.1.1 = {  
 monarch = {  
@@ -46,4 +46,4 @@ monarch = {
 		dip = 1 
 		mil = 4 
   	}  
-  }  
+  }

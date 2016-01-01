@@ -1,5 +1,6 @@
-# 660
+# 660 Silvermoon
 is_city = yes
+
 add_core = A90
 owner = A90
 controller = A90
@@ -55,15 +56,11 @@ discovered_by = tech_gnome
 
 # The Frozen Throne
 618.1.1 = {
-owner = XXX
-controller = XXX
-culture = culture_ghost
-remove_core = A90
-}
-
-621.11.11 = {
-owner = XXX
-controller = XXX
+owner = F21
+controller = F21
+add_core = F21
+culture = culture_scourge
+religion = religion_the_damned
 }
 
 # Rise of the Qiraji
@@ -72,8 +69,5 @@ owner = A91
 controller = A91
 add_core = A91
 culture = culture_blood_elf
-}
-
-626.1.1 = { 
-religion = religion_light_of_the_sunwell
+religion = religion_arcane
 }

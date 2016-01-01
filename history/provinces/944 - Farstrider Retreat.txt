@@ -1,16 +1,16 @@
-# 944
+# 944 Farstrider Retreat
 is_city = yes
-add_core = A90
-controller = A90
-owner = A90
+
+add_core = A58
+owner = A58
+controller = A58
 
 base_tax = 3
 base_manpower = 3
 base_production = 3
 
-
-culture = culture_high_elf
-religion = religion_church_of_the_light
+culture = culture_amani
+religion = religion_loa
 
 hre = no
 trade_goods = army_supplies
@@ -54,17 +54,23 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-# The Frozen Throne
-618.1.1 = {
-owner = XXX
-controller = XXX
-culture = culture_ghost
-remove_core = A90
+# The First War
+592.1.1 = {
+remove_core = A58
+owner = A90
+controller = A90
+culture = culture_high_elf
+religion = religion_arcane 
+remove_core = A58
 }
 
-621.11.11 = {
-owner = XXX
-controller = XXX
+# The Frozen Throne
+618.1.1 = {
+add_core = A58
+owner = A58
+controller = A58
+culture = culture_amani
+religion = religion_loa
 }
 
 # Rise of the Qiraji
@@ -75,8 +81,3 @@ add_core = A91
 culture = culture_blood_elf
 religion = religion_arcane
 }
-
-626.1.1 = { 
-religion = religion_light_of_the_sunwell
-}
-

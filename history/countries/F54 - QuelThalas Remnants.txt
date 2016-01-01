@@ -2,10 +2,10 @@
 government			= military_dictat
 mercantilism 		= 0.1
 technology_group 	= tech_thalassian
-religion			= religion_arcane
+religion			= religion_church_of_the_light
 primary_culture 	= culture_high_elf
 add_accepted_culture = culture_lordaeron
-capital 			= 1 #Fix me!
+capital 			= 2988
 
 618.1.1 = {
 	monarch = {

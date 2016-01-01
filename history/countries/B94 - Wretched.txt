@@ -1,17 +1,17 @@
 # Wretched
-government 		= despotic_magocracy
+government			= despotic_magocracy
 mercantilism 		= 0.1
 technology_group 	= tech_thalassian
 religion			= religion_arcane
 primary_culture 	= culture_wretched
-capital 			= 1
+capital 			= 2988
 
 618.1.1 = {
 	monarch = {
 		name = "Aldaron"
 		dynasty = "the Reckless"
-		adm = 3
-		dip = 3
-		mil = 3
+		adm = 4
+		dip = 0
+		mil = 4
 	}
 }

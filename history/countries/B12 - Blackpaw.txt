@@ -4,14 +4,14 @@ mercantilism 		= 0.1
 technology_group 	= tech_gnoll
 religion			= religion_ancestral
 primary_culture 	= culture_blackpaw
-capital 			= 1
+capital 			= 2979
 
 546.1.1 = { 
 monarch = { 
      name = "Banzai" 
      dynasty = "Blackpaw" 
-		adm = 3
-		dip = 3
+		adm = 1
+		dip = 0
 		mil = 3
  	} 
  } 
