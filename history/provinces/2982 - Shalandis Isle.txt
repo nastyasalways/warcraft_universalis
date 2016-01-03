@@ -1,9 +1,9 @@
 # 2982 Shalandis Isle
 is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
 add_core = A90
 owner = A90

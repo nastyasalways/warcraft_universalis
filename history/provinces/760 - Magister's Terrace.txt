@@ -71,12 +71,18 @@ culture = culture_blood_elf
 religion = religion_fel
 }
 
+# The Burning Crusade
+622.1.1 = { 
+culture = culture_felblood_elf
+}
+
 # Wrath of the Lich King
 626.1.1 = { 
 owner = A54
 controller = A54
 add_core = A54
 remove_core = A93
+culture = culture_blood_elf
 religion = religion_light_of_the_naaru
 }
 
