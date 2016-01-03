@@ -1,16 +1,19 @@
-# 2995
-is_city = no
+# 624 Ravenhold Manor
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 3
+base_manpower = 4
+base_production = 3
 
+add_core = A08
+owner = A08
+controller = A08
 
-culture = noculture
-religion = noreligion
+culture = culture_lordaeron
+religion = religion_church_of_the_light
 
 hre = no
-trade_goods = grain
+trade_goods = army_supplies
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -51,3 +54,10 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Frozen Throne
+618.1.1 = { 
+owner = A27
+controller = A27
+add_core = A27
+religion = religion_sect_of_dragons
+}
