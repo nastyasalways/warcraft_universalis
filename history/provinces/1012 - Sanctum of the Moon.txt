@@ -69,4 +69,5 @@ controller = XXX
 native_hostileness = 5
 native_size = 8
 native_ferocity = 5
+religion = religion_arcane
 }
