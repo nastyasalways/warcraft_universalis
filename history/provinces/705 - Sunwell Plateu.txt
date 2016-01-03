@@ -73,10 +73,11 @@ culture = culture_felblood_elf
 religion = religion_fel
 }
 
+# Wrath of the Lich King
 626.1.1 = { 
 owner = A91
 controller = A91
 remove_core = A93
 culture = culture_blood_elf
-religion = religion_light_of_the_sunwell
+religion = religion_arcane 
 }

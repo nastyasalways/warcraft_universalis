@@ -62,3 +62,31 @@ add_core = F21
 culture = culture_scourge
 religion = religion_the_damned 
 }
+
+# The Burning Crusade
+625.1.1 = {
+owner = B92
+controller = B92
+add_core = B92
+culture = culture_eredar
+religion = religion_fel
+}
+
+# Wrath of the Lich King
+626.1.1 = { 
+owner = A54
+controller = A54
+add_core = A54
+remove_core = B92
+culture = culture_blood_elf
+religion = religion_light_of_the_naaru
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = A91
+controller = A91
+add_core = A91
+remove_core = A54
+religion = religion_arcane
+}
