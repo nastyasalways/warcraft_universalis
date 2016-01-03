@@ -12,7 +12,7 @@ isle_of_quel_danas_node={
 		}
 	}
 	members={
-		690 521 760 724 705 
+		690 521 760 724 705 2990 2991 2992 2993 2994
 	}
 }
 eversong_woods_node={
