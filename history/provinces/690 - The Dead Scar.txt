@@ -1,5 +1,6 @@
-# 690 (Quel'Danis)
+# 690 The Dead Scar(Quel'Danas)
 is_city = yes
+
 add_core = A90
 owner = A90
 controller = A90
@@ -8,9 +9,8 @@ base_tax = 2
 base_manpower = 2
 base_production = 2
 
-
 culture = culture_high_elf
-religion = religion_church_of_the_light
+religion = religion_arcane
 
 hre = no
 trade_goods = fur
@@ -59,8 +59,6 @@ discovered_by = tech_gnome
 owner = F21
 controller = F21
 add_core = F21
-remove_core = A90
 culture = culture_scourge
 religion = religion_the_damned 
 }
-

@@ -1,13 +1,16 @@
-# 2993
-is_city = no
+# 2993 Dead Approach
+is_city = yes
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
+add_core = A90
+owner = A90
+controller = A90
 
-culture = noculture
-religion = noreligion
+culture = culture_high_elf
+religion = religion_arcane
 
 hre = no
 trade_goods = grain
@@ -51,3 +54,11 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Frozen Throne
+618.1.1 = {
+owner = F21
+controller = F21
+add_core = F21
+culture = culture_scourge
+religion = religion_the_damned 
+}

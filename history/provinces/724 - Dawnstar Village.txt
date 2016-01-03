@@ -1,17 +1,16 @@
-# 724
+# 724 Dawnstar Village
 is_city = yes
+
 add_core = A90
 owner = A90
 controller = A90
-
 
 base_tax = 3
 base_manpower = 3
 base_production = 3
 
-
 culture = culture_high_elf
-religion = religion_church_of_the_light
+religion = religion_arcane
 
 hre = no
 trade_goods = grain
@@ -57,15 +56,11 @@ discovered_by = tech_gnome
 
 # The Frozen Throne
 618.1.1 = {
-owner = XXX
-controller = XXX
-culture = culture_ghost
-remove_core = A90
-}
-
-621.11.11 = {
-owner = XXX
-controller = XXX
+owner = F21
+controller = F21
+add_core = F21
+culture = culture_scourge
+religion = religion_the_damned 
 }
 
 # Rise of the Qiraji
