@@ -5,9 +5,9 @@ add_core = A90
 owner = A90
 controller = A90
 
-base_tax = 2
-base_manpower = 1
-base_production = 1
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 culture = culture_high_elf
 religion = religion_arcane
@@ -69,4 +69,5 @@ controller = XXX
 native_hostileness = 5
 native_size = 8
 native_ferocity = 5
+religion = religion_arcane
 }

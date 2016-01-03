@@ -1,9 +1,9 @@
 # 2989 Goldenbough Pass
 is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
 add_core = A90
 owner = A90
@@ -13,7 +13,7 @@ culture = culture_high_elf
 religion = religion_arcane
 
 hre = no
-trade_goods = grain
+trade_goods = army_supplies
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

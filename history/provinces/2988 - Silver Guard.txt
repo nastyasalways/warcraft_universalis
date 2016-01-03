@@ -1,9 +1,9 @@
 # 2988 Silver Guard
 is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 7
+base_manpower = 7
+base_production = 7
 
 add_core = A90
 owner = A90
@@ -13,7 +13,7 @@ culture = culture_high_elf
 religion = religion_arcane
 
 hre = no
-trade_goods = grain
+trade_goods = army_supplies
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -69,4 +69,7 @@ controller = B94
 add_core = B94
 culture = culture_wretched
 religion = religion_arcane
+base_tax = 3
+base_manpower = 4
+base_production = 3
 }

@@ -1,0 +1,90 @@
+# 2990 Sun's Reach
+is_city = yes
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+add_core = A90
+owner = A90
+controller = A90
+
+culture = culture_high_elf
+religion = religion_arcane
+
+hre = no
+trade_goods = naval_supplies
+
+discovered_by = tech_human
+discovered_by = tech_darnassian
+discovered_by = tech_thalassian
+discovered_by = tech_vrykul
+discovered_by = tech_orc
+discovered_by = tech_ogre
+discovered_by = tech_draenei
+discovered_by = tech_troll
+discovered_by = tech_goblin
+discovered_by = tech_tauren
+discovered_by = tech_aqir
+discovered_by = tech_demonic
+discovered_by = tech_satyr
+discovered_by = tech_naga
+discovered_by = tech_depths
+discovered_by = tech_old_god
+discovered_by = tech_scourge
+discovered_by = tech_dragonkin
+discovered_by = tech_undead
+discovered_by = tech_gnoll
+discovered_by = tech_centaur
+discovered_by = tech_furbolg
+discovered_by = tech_wolfvar
+discovered_by = tech_gorloc
+discovered_by = tech_kobold
+discovered_by = tech_harpy
+discovered_by = tech_quillboar
+discovered_by = tech_titan
+discovered_by = tech_elemental
+discovered_by = tech_worgen
+discovered_by = tech_arrakoa
+discovered_by = tech_tuskarr
+discovered_by = tech_pandaren
+discovered_by = tech_mantid
+discovered_by = tech_mogu
+discovered_by = tech_yaungol
+discovered_by = tech_ethereal
+discovered_by = tech_gnome
+
+# The Frozen Throne
+618.1.1 = {
+owner = F54
+controller = F54
+add_core = F54
+religion = religion_church_of_the_light
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+owner = A93
+controller = A93
+add_core = A93
+culture = culture_blood_elf
+religion = religion_fel
+}
+
+# The Burning Crusade
+625.1.1 = { 
+owner = A54
+controller = A54
+add_core = A54
+remove_core = A93
+religion = religion_light_of_the_naaru
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = A91
+controller = A91
+add_core = A91
+remove_core = A54
+religion = religion_arcane
+}

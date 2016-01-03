@@ -1,0 +1,11 @@
+#############################
+### Blood Elves Alliances ###
+#############################
+### Sunfury
+# Sunfury - DarkSpine
+alliance = {
+	first = A93
+	second = F23
+	start_date = 625.1.1
+	end_date = 626.1.1
+}

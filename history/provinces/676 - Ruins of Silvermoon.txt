@@ -4,9 +4,9 @@ add_core = A90
 owner = A90
 controller = A90
 
-base_tax = 4
-base_manpower = 4
-base_production = 4
+base_tax = 7
+base_manpower = 7
+base_production = 7
 
 culture = culture_high_elf
 religion = religion_arcane
@@ -60,6 +60,9 @@ controller = F21
 add_core = F21
 culture = culture_scourge
 religion = religion_the_damned
+base_tax = 4
+base_manpower = 4
+base_production = 4
 }
 
 # Rise of the Qiraji
