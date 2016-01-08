@@ -1,6 +1,6 @@
-# 527
-
+# 527 Northfold Manor
 is_city = yes
+
 add_core = A16
 owner = A16
 controller = A16
@@ -15,8 +15,6 @@ religion = religion_church_of_the_light
  
 hre = no 
 trade_goods = grain
-
-
  
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -57,12 +55,10 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome 
 
-
-
 # Rise of the Qiraji
-622.1.1 = { owner = A26
-controller = A26
-add_core = A26
-culture = culture_alterac }
-
-
+622.1.1 = {
+	owner = A26
+	controller = A26
+	add_core = A26
+	culture = culture_alterac
+}

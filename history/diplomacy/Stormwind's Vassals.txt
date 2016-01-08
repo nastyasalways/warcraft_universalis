@@ -26,3 +26,10 @@ vassal = {
 	start_date = 546.1.1
 	end_date = 600.1.1
 }
+
+march = {
+	first = A01
+	second = A11
+	start_date = 622.1.1
+	end_date = 631.1.1
+}

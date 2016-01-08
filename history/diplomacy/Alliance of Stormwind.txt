@@ -1,0 +1,86 @@
+#############################
+### Alliance of Stormwind ###
+#############################
+### Stormwind
+# Stormwind - Stromgarde
+alliance = {
+	first = A01
+	second = A16
+	start_date = 618.1.1
+	end_date = 640.1.1
+}
+
+# Stormwind - Ironforge
+alliance = {
+	first = A01
+	second = A29
+	start_date = 618.1.1
+	end_date = 640.1.1
+}
+
+# Stormwind - Gnomeregan
+alliance = {
+	first = A01
+	second = A32
+	start_date = 618.1.1
+	end_date = 640.1.1
+}
+
+# Stormwind - Kul Tiras
+alliance = {
+	first = A01
+	second = A14
+	start_date = 622.1.1 # Becouse of Kul Tiras war with Horde
+	end_date = 640.1.1
+}
+
+### Stromgarde
+# Stromgarde - Ironforge
+alliance = {
+	first = A16
+	second = A29
+	start_date = 618.1.1
+	end_date = 640.1.1
+}
+
+# Stromgarde - Gnomeregan
+alliance = {
+	first = A16
+	second = A32
+	start_date = 618.1.1
+	end_date = 640.1.1
+}
+
+# Stromgarde - Kul Tiras
+alliance = {
+	first = A16
+	second = A14
+	start_date = 622.1.1 # Becouse of Kul Tiras war with Horde
+	end_date = 640.1.1
+}
+
+### Ironforge
+# Ironforge - Gnomeregan
+alliance = {
+	first = A29
+	second = A32
+	start_date = 618.1.1
+	end_date = 640.1.1
+}
+
+# Ironforge - Kul Tiras
+alliance = {
+	first = A29
+	second = A14
+	start_date = 622.1.1 # Becouse of Kul Tiras war with Horde
+	end_date = 640.1.1
+}
+
+### Ironforge
+# Ironforge - Kul Tiras
+alliance = {
+	first = A32
+	second = A14
+	start_date = 622.1.1 # Becouse of Kul Tiras war with Horde
+	end_date = 640.1.1
+}
