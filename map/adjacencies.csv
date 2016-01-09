@@ -112,8 +112,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 787;610;;;-1;-1;-1;-1;Thundermar to Bloodgulch
 1016;610;;;-1;-1;-1;-1;The Black Breach to Bloodgulch
 802;739;sea;314;-1;-1;-1;-1;Kirkhaven to The Krazzworks
-2015;570;sea;253;-1;-1;-1;-1;Boralus Farmlands to Crestfall
-2015;691;sea;250;-1;-1;-1;-1;Boralus Farmlands to Zul'dare
+3009;570;sea;253;-1;-1;-1;-1;Copperstock to Crestfall
+3009;691;sea;250;-1;-1;-1;-1;Copperstock to Zul'dare
 570;2013;sea;253;-1;-1;-1;-1;Crestfall to Warden's Vigil
 691;2013;sea;250;-1;-1;-1;-1;Zul'dare to Warden's Vigil
 989;2009;sea;251;-1;-1;-1;-1;Tol Barad to Tol Bard Approach
