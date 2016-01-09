@@ -443,7 +443,7 @@ alliance = {
 }
 
 ### Wildhammer
-# Gnomeregan - Kul Tiras
+# Wildhammer - Kul Tiras
 alliance = {
 	first = A28
 	second = A14

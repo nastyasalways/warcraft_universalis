@@ -1,7 +1,7 @@
 #####################
 ### The New Horde ###
 #####################
-## Orgrimmar Alliances
+### Orgrimmar Alliances
 # Orgrimmar - Forsaken
 alliance = {
 	first = A48
@@ -9,6 +9,7 @@ alliance = {
 	start_date = 622.1.1
 	end_date = 650.5.1
 }
+
 # Orgrimmar - Silvermoon
 alliance = {
 	first = A48
@@ -16,10 +17,36 @@ alliance = {
 	start_date = 625.1.1
 	end_date = 650.5.1
 }
-## Forsaken Alliances
+
+# Orgrimmar - Darkspear
+alliance = {
+	first = A48
+	second = A70
+	start_date = 618.1.1
+	end_date = 650.5.1
+}
+
+### Forsaken Alliances
 # Forsaken - Silvermoon
 alliance = {
 	first = E14
+	second = A91
+	start_date = 622.1.1
+	end_date = 650.5.1
+}
+
+# Forsaken - Darkspear
+alliance = {
+	first = E14
+	second = A70
+	start_date = 618.1.1
+	end_date = 650.5.1
+}
+
+### Darkspear Alliances
+# Darkspear - Silvermoon
+alliance = {
+	first = A70
 	second = A91
 	start_date = 622.1.1
 	end_date = 650.5.1

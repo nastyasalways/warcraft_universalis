@@ -378,7 +378,7 @@ categories =  {
 		color = { 0 0 60 }
 		
 		terrain_override = {
-			660 676
+			660 676 2988
 		}
 	}
 	
