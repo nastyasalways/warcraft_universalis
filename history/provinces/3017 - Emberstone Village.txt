@@ -1,19 +1,19 @@
-# 908 Gilnean Fields
+# 3017 Emberstone Village
 is_city = yes
+
+base_tax = 3
+base_manpower = 4
+base_production = 3
 
 add_core = A12
 owner = A12
 controller = A12
 
-base_tax = 3
-base_manpower = 2
-base_production = 3
- 
 culture = culture_gilnean
 religion = religion_church_of_the_light
- 
-hre = no 
-trade_goods = grain
+
+hre = no
+trade_goods = army_supplies
 
 discovered_by = tech_human
 discovered_by = tech_darnassian

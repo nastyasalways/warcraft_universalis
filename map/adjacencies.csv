@@ -1,7 +1,8 @@
 From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 874;1933;;;-1;-1;-1;-1;Thandol Span to Dun Mord (Arathi Highlands-Wetlands)
 927;525;;;-1;-1;-1;-1;Gilneas to Northgate Woods (Gilneas)
-927;774;;;-1;-1;-1;-1;Gilneas to Keel Harbour (Gilneas)
+505;774;;;-1;-1;-1;-1;Northern Headlands Woods to Keel Harbour (Gilneas
+927;804;;;-1;-1;-1;-1;Gilneas to Aderic's Repose (Gilneas)
 927;908;;;-1;-1;-1;-1;Gilneas to Gilnean Fields (Gilneas)
 603;1058;;;-1;-1;-1;-1;Westbrook to Goldshire  (Elwynn)
 1058;922;;;-1;-1;-1;-1;Westbrook to Jansen Stead  (Elwynn – Westfall)

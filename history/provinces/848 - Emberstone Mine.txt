@@ -1,5 +1,6 @@
-# 848
+# 848 Emberstone Mine
 is_city = yes
+
 add_core = A12
 owner = A12
 controller = A12
@@ -66,5 +67,10 @@ controller = A12
 # Cataclysm
 631.1.1 = { 
 culture = culture_gilnean_worgen
+controller = E14
 }
 
+# Mists of Pandaria
+632.1.1 = { 
+controller = A12
+}

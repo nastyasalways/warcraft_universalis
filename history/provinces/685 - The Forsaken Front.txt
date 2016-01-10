@@ -79,17 +79,13 @@ add_core = E14
 
 # Cataclysm
 631.1.1 = { 
-owner = E14
-controller = E14
-culture = culture_forsaken
-religion = religion_forgotten_shadow
-}
-
-# Mists of Pandaria
-632.1.1 = { 
 owner = A29
 controller = A29
+add_core = A29
 culture = culture_ironforge
 religion = religion_church_of_the_light
 capital = "7th Legion Base Camp" 
+base_tax = 2
+base_manpower = 3
+base_production = 2
 }

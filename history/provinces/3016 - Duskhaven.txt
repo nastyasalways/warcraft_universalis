@@ -1,18 +1,18 @@
-# 908 Gilnean Fields
+# 3016 Duskhaven
 is_city = yes
+
+base_tax = 4
+base_manpower = 4
+base_production = 5
 
 add_core = A12
 owner = A12
 controller = A12
 
-base_tax = 3
-base_manpower = 2
-base_production = 3
- 
 culture = culture_gilnean
 religion = religion_church_of_the_light
- 
-hre = no 
+
+hre = no
 trade_goods = grain
 
 discovered_by = tech_human
@@ -54,23 +54,20 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-# The Frozen Throne
-618.1.1 = {
-controller = REB 
-}
-
-# Rise of the Qiraji
-622.1.1 = {
-controller = A12
-}
-
 # Cataclysm
 631.1.1 = { 
-culture = culture_gilnean_worgen
+owner = E14
 controller = E14
+add_core = E14
+religion = religion_forgotten_shadow
+culture = culture_forsaken
 }
 
 # Mists of Pandaria
 632.1.1 = { 
-controller = A12
+owner = XXX
+controller = XXX
+remove_core = E14
+culture = culture_gilnean_worgen
+religion = religion_church_of_the_light
 }
