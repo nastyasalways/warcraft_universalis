@@ -1,19 +1,19 @@
-# 656 Whelgar's Retreat
+# 3026 Wetlands Crossing
 is_city = yes
+
+base_tax = 3
+base_manpower = 2
+base_production = 2
 
 add_core = A29
 owner = A29
 controller = A29
 
-base_tax = 2
-base_manpower = 1
-base_production = 2
-
 culture = culture_ironforge
 religion = religion_church_of_the_light
 
 hre = no
-trade_goods = artifacts
+trade_goods = lumber
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -55,19 +55,19 @@ discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
 # The Second War
-598.1.1 = {
-owner = A80
-controller = A80
-add_core = A80
-culture = culture_steamwheedle
-religion = religion_tech
+598.1.1 = { 
+owner = A43
+controller = A43
+add_core = A43
+culture = culture_twilights_hammer
+religion = religion_fel 
 }
 
 # Beyond the Dark Portal
-600.1.1 = {
+600.1.1 = { 
 owner = A29
 controller = A29
-remove_core = A80
+remove_core = A43
 culture = culture_ironforge 
 religion = religion_church_of_the_light
 }

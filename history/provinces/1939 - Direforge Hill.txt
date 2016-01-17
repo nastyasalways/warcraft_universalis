@@ -1,5 +1,6 @@
-# 1939
+# 1939 Direforge Hills
 is_city = yes
+
 add_core = A29
 owner = A29
 controller = A29
@@ -7,7 +8,6 @@ controller = A29
 base_tax = 2
 base_manpower = 2
 base_production = 2
-
 
 culture = culture_ironforge
 religion = religion_church_of_the_light
@@ -54,6 +54,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Second War
 598.1.1 = { 
 owner = A43
 controller = A43

@@ -1,5 +1,6 @@
-# 874
+# 874 Dun Modr
 is_city = yes
+
 add_core = A29
 owner = A29
 controller = A29
@@ -7,7 +8,6 @@ controller = A29
 base_tax = 4
 base_manpower = 4
 base_production = 4
-
 
 culture = culture_ironforge
 religion = religion_church_of_the_light

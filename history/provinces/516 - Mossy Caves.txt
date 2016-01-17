@@ -1,5 +1,6 @@
-# 516
+# 516 Mossy Caves
 is_city = yes
+
 add_core = B13
 owner = B13
 controller = B13
@@ -7,7 +8,6 @@ controller = B13
 base_tax = 3
 base_manpower = 3
 base_production = 3
-
 
 culture = culture_mosshide
 religion = religion_ancestral
@@ -53,4 +53,3 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
-

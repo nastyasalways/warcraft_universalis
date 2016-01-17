@@ -1,4 +1,4 @@
-# 1942
+# 1942 Loch Modan
 is_city = yes
 
 owner = A29
@@ -54,7 +54,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-
+# The Second War
 598.1.1 = { 
 owner = A40
 controller = A40
@@ -64,7 +64,8 @@ religion = religion_fel
 }
 
 # Beyond the Dark Portal
-600.1.1 = { owner = A29
+600.1.1 = {
+owner = A29
 controller = A29
 remove_core = A40
 culture = culture_ironforge 

@@ -1,16 +1,16 @@
-# 536
+# 536 Fallen Cliffs
 is_city = yes
-add_core = A29
-owner = A29
-controller = A29
 
-base_tax = 3
-base_manpower = 3
-base_production = 3
+add_core = B13
+owner = B13
+controller = B13
 
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
-culture = culture_ironforge
-religion = religion_church_of_the_light
+culture = culture_mosshide
+religion = religion_ancestral
 
 hre = no
 trade_goods = fish
@@ -54,7 +54,7 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
-
+# The Second War
 598.1.1 = { 
 owner = A40
 controller = A40
@@ -65,19 +65,18 @@ religion = religion_fel
 
 # Beyond the Dark Portal
 600.1.1 = { 
-owner = A29
-controller = A29
+owner = B13
+controller = B13
 remove_core = A40
-culture = culture_ironforge 
-religion = religion_church_of_the_light
+culture = culture_mosshide
+religion = religion_ancestral
 }
 
 # Cataclysm
 631.1.1 = { 
-add_core = B13
-owner = B13
-controller = B13
-remove_core = A29
-culture = culture_mosshide
-religion = religion_ancestral 
+owner = A30 
+controller = A30
+add_core = A30
+culture = culture_dark_iron
+religion = religion_ragnaros 
 }
