@@ -72,6 +72,15 @@ culture = culture_ironforge
 religion = religion_church_of_the_light
 }
 
+# Rise of the Qiraji
+622.1.1 = { 
+owner = E54
+controller = E54
+add_core = E54
+culture = culture_trogg 
+religion = religion_geomancy
+}
+
 # Cataclysm
 631.1.1 = { 
 owner = A43
