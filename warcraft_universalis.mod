@@ -48,4 +48,4 @@ tags=
 	"Alternative History"
 }
 picture="image.png"
-supported_version = "1.14.*"
+supported_version = "1.15.*"

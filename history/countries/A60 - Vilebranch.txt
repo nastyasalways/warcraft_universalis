@@ -1,55 +1,58 @@
 # Vilebranch
-government 		= warband
-government_rank = 2
+government 			= warband
+government_rank 	= 2
 mercantilism 		= 0.1
 technology_group 	= tech_troll
 religion			= religion_loa
 primary_culture 	= culture_vilebranch
-capital 			= 537
+capital 			= 2999
 
 546.1.1 = {  
-monarch = {  
-      name = "Ro'gash"  
-     dynasty = "Vilebranch"  
+	monarch = {
+		name = "Ro'gash"  
+		dynasty = "Vilebranch"  
  		adm = 2
-		dip = 2 
+		dip = 1 
 		mil = 3 
-  	}  
-  }  
-
+  	} 
+}
 
 592.1.1 = {  
-monarch = {  
-      name = "Kaz'jin"  
-     dynasty = "Vilebranch"  
+	monarch = {  
+		name = "Kaz'jin"  
+		dynasty = "Vilebranch"  
  		adm = 2
 		dip = 2 
 		mil = 3 
-  	}  
-  }  
+	}
+}  
 
 
 622.1.1 = { 
-monarch = { 
-     name = "Hexx" 
-     dynasty = "Vilebranch" 
+	monarch = { 
+		name = "Hexx" 
+		dynasty = "Vilebranch" 
 		adm = 4
 		dip = 2
 		mil = 3 
 		female = yes
  	} 
- 	religion		= religion_hakkari
-        government = theocratic_government
- } 
+ 	religion = religion_hakkari
+    government = theocratic_government
+} 
  
- 631.1.1 = { 
-monarch = { 
-     name = "Qiaga" 
-     dynasty = "Vilebranch" 
+631.1.1 = { 
+	monarch = { 
+		name = "Qiaga" 
+		dynasty = "Vilebranch" 
 		adm = 2
 		dip = 2
 		mil = 2 
 		female = yes
  	} 
  	capital = 942
- } 
+} 
+
+632.1.1 = {
+ 	capital = 2999
+}

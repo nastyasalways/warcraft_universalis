@@ -1,5 +1,6 @@
-# 820
+# 820 The Blackwald
 is_city = yes
+
 add_core = A12
 owner = A12
 controller = A12
@@ -9,7 +10,7 @@ base_manpower = 3
 base_production = 3
  
 culture = culture_gilnean
-religion = religion_druidic
+religion = religion_church_of_the_light
  
 hre = no 
 trade_goods = fur
@@ -60,4 +61,13 @@ controller = E29
 add_core = E29
 culture = culture_wolfcult
 religion = religion_shadow
+}
+
+# Mists of Pandaria
+632.1.1 = { 
+owner = A12
+controller = A12
+remove_core = E29
+culture = culture_gilnean_worgen
+religion = religion_church_of_the_light
 }

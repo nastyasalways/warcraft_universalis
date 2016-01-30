@@ -1,16 +1,19 @@
-# 2997
-is_city = no
+# 3021 Tal'doren
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 2
+base_manpower = 3
+base_production = 2
 
+add_core = A12
+owner = A12
+controller = A12
 
-culture = noculture
-religion = noreligion
+culture = culture_gilnean
+religion = religion_church_of_the_light
 
 hre = no
-trade_goods = grain
+trade_goods = artifacts
 
 discovered_by = tech_human
 discovered_by = tech_darnassian
@@ -51,3 +54,21 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# The Frozen Throne
+618.1.1 = { 
+owner = E29
+controller = E29
+add_core = E29
+culture = culture_wolfcult
+religion = religion_shadow
+}
+
+# Mists of Pandaria
+632.1.1 = { 
+owner = A94
+controller = A94
+remove_core = E29
+add_core = A94
+culture = culture_sentinel
+religion = religion_elune
+}

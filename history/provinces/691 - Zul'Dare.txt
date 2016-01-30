@@ -1,5 +1,6 @@
-# 691
+# 691 Zul'Dare
 is_city = yes
+
 add_core = A63
 owner = A63
 controller = A63
@@ -52,30 +53,3 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
-
-598.1.1 = { 
-owner = A41
-controller = A41
-add_core = A41 
-}
-
-# Beyond the Dark Portal
-600.1.1 = { 
-owner = A12
-controller = A12
-add_core = A12
-culture = culture_gilnean
-religion = religion_church_of_the_light 
-remove_core = A63
-remove_core = A41
-}
-
-# The Frozen Throne
-618.1.1 = { 
-owner = E09
-controller = E09
-add_core = E09
-remove_core = A12
-culture = culture_vashjari
-religion = religion_old_gods
- }

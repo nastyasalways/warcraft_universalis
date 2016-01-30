@@ -1,0 +1,6 @@
+l_french:
+ # Tirisfal
+ WARCRAFT_TIRISFAL.1.title: "Council of Tirisfal"
+ WARCRAFT_TIRISFAL.1.desc: "Magna Aegwynn of the Tirisfal Council says, that She can help us prepare Our great kingdom for the coming war. Can we trust her, my king?"
+ WARCRAFT_TIRISFAL.1.option.a: "I think it is a good idea!"
+ WARCRAFT_TIRISFAL.1.option.b: "I don't trust mages! Let the world know that we can do it ourselves..."

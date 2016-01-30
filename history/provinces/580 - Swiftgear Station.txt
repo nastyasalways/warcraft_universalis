@@ -1,4 +1,4 @@
-# 580
+# 580 Swiftgear Station
 is_city = yes
 
 add_core = A32
