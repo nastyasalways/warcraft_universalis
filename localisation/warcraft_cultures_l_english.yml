@@ -1,5 +1,8 @@
 l_english:
  # Cultures
+ culture_dark_strand: "Dark Strand"
+ culture_infinite: "Infinite Dragonflight"
+ 
  culture_group_human: "Human"
  culture_azerothian: "Azerothian"
  culture_gilnean: "Gilnean"

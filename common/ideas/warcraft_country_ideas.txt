@@ -1,3 +1,2444 @@
 # Do not change tags in here without changing every other reference to them.
 # Do not change tags in here without changing every other reference to them.
 # If adding new groups or ideas, make sure they are unique.
+
+azerothian_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		primary_culture = culture_azerothian
+	}
+	free = yes		#wibe added at load.
+	
+	azerothian_ideas_1 = {
+	
+	}
+	azerothian_ideas_2 = {
+	
+	}
+	azerothian_ideas_3 = {
+	
+	}
+	azerothian_ideas_4 = {
+	
+	}
+	azerothian_ideas_5 = {
+	
+	}
+	azerothian_ideas_6 = {
+	
+	}
+	azerothian_ideas_7 = {
+	
+	}
+}
+
+gilnean_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		primary_culture = culture_gilnean
+	}
+	free = yes		#wibe added at load.
+	
+	gilnean_ideas_1 = {
+	
+	}
+	gilnean_ideas_2 = {
+	
+	}
+	gilnean_ideas_3 = {
+	
+	}
+	gilnean_ideas_4 = {
+	
+	}
+	gilnean_ideas_5 = {
+	
+	}
+	gilnean_ideas_6 = {
+	
+	}
+	gilnean_ideas_7 = {
+	
+	}
+}
+
+arathi_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		primary_culture = culture_arathi
+	}
+	free = yes		#wibe added at load.
+	
+	arathi_ideas_1 = {
+	
+	}
+	arathi_ideas_2 = {
+	
+	}
+	arathi_ideas_3 = {
+	
+	}
+	arathi_ideas_4 = {
+	
+	}
+	arathi_ideas_5 = {
+	
+	}
+	arathi_ideas_6 = {
+	
+	}
+	arathi_ideas_7 = {
+	
+	}
+}
+
+lordaeron_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		primary_culture = culture_lordaeron
+	}
+	free = yes		#wibe added at load.
+	
+	lordaeron_ideas_1 = {
+	
+	}
+	lordaeron_ideas_2 = {
+	
+	}
+	lordaeron_ideas_3 = {
+	
+	}
+	lordaeron_ideas_4 = {
+	
+	}
+	lordaeron_ideas_5 = {
+	
+	}
+	lordaeron_ideas_6 = {
+	
+	}
+	lordaeron_ideas_7 = {
+	
+	}
+}
+
+alterac_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		primary_culture = culture_alterac
+	}
+	free = yes		#wibe added at load.
+	
+	alterac_ideas_1 = {
+	
+	}
+	alterac_ideas_2 = {
+	
+	}
+	alterac_ideas_3 = {
+	
+	}
+	alterac_ideas_4 = {
+	
+	}
+	alterac_ideas_5 = {
+	
+	}
+	alterac_ideas_6 = {
+	
+	}
+	alterac_ideas_7 = {
+	
+	}
+}
+
+dalaran_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		primary_culture = culture_dalaran
+	}
+	free = yes		#wibe added at load.
+	
+	dalaran_ideas_1 = {
+	
+	}
+	dalaran_ideas_2 = {
+	
+	}
+	dalaran_ideas_3 = {
+	
+	}
+	dalaran_ideas_4 = {
+	
+	}
+	dalaran_ideas_5 = {
+	
+	}
+	dalaran_ideas_6 = {
+	
+	}
+	dalaran_ideas_7 = {
+	
+	}
+}
+
+kul_tiran_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		primary_culture = culture_kul_tiran
+	}
+	free = yes		#wibe added at load.
+	
+	kul_tiran_ideas_1 = {
+	
+	}
+	kul_tiran_ideas_2 = {
+	
+	}
+	kul_tiran_ideas_3 = {
+	
+	}
+	kul_tiran_ideas_4 = {
+	
+	}
+	kul_tiran_ideas_5 = {
+	
+	}
+	kul_tiran_ideas_6 = {
+	
+	}
+	kul_tiran_ideas_7 = {
+	
+	}
+}
+
+dark_strand_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		primary_culture = culture_dark_strand
+	}
+	free = yes		#wibe added at load.
+	
+	dark_strand_ideas_1 = {
+	
+	}
+	dark_strand_ideas_2 = {
+	
+	}
+	dark_strand_ideas_3 = {
+	
+	}
+	dark_strand_ideas_4 = {
+	
+	}
+	dark_strand_ideas_5 = {
+	
+	}
+	dark_strand_ideas_6 = {
+	
+	}
+	dark_strand_ideas_7 = {
+	
+	}
+}
+
+darnassian_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		OR = {
+			primary_culture = culture_sentinel
+			primary_culture = culture_cenarion
+		}
+	}
+	free = yes		#wibe added at load.
+	
+	darnassian_ideas_1 = {
+	
+	}
+	darnassian_ideas_2 = {
+	
+	}
+	darnassian_ideas_3 = {
+	
+	}
+	darnassian_ideas_4 = {
+	
+	}
+	darnassian_ideas_5 = {
+	
+	}
+	darnassian_ideas_6 = {
+	
+	}
+	darnassian_ideas_7 = {
+	
+	}
+}
+
+highbourne_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		primary_culture = culture_highbourne
+	}
+	free = yes		#wibe added at load.
+	
+	highbourne_ideas_1 = {
+	
+	}
+	highbourne_ideas_2 = {
+	
+	}
+	highbourne_ideas_3 = {
+	
+	}
+	highbourne_ideas_4 = {
+	
+	}
+	highbourne_ideas_5 = {
+	
+	}
+	highbourne_ideas_6 = {
+	
+	}
+	highbourne_ideas_7 = {
+	
+	}
+}
+
+vrykul_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_vrykul
+	}
+	free = yes		#wibe added at load.
+	
+	vrykul_ideas_1 = {
+	
+	}
+	vrykul_ideas_2 = {
+	
+	}
+	vrykul_ideas_3 = {
+	
+	}
+	vrykul_ideas_4 = {
+	
+	}
+	vrykul_ideas_5 = {
+	
+	}
+	vrykul_ideas_6 = {
+	
+	}
+	vrykul_ideas_7 = {
+	
+	}
+}
+
+redeemed_orc_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		has_country_flag = free_from_legion_influence
+	}
+	free = yes		#wibe added at load.
+	
+	redeemed_orc_ideas_1 = {
+	
+	}
+	redeemed_orc_ideas_2 = {
+	
+	}
+	redeemed_orc_ideas_3 = {
+	
+	}
+	redeemed_orc_ideas_4 = {
+	
+	}
+	redeemed_orc_ideas_5 = {
+	
+	}
+	redeemed_orc_ideas_6 = {
+	
+	}
+	redeemed_orc_ideas_7 = {
+	
+	}
+}
+
+outland_orc_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		OR = {
+			primary_culture = culture_mok_nathal
+			primary_culture = culture_bleeding_hollow
+			primary_culture = culture_bonechewer
+			primary_culture = culture_laughing_skull
+			primary_culture = culture_dragonmaw
+			primary_culture = culture_shattered_hand
+			primary_culture = culture_frostwolf
+			primary_culture = culture_shadowmoon
+			primary_culture = culture_warsong
+			primary_culture = culture_stormreaver
+			primary_culture = culture_burning_blade
+			primary_culture = culture_thunderlord
+			primary_culture = culture_searing_blade
+			primary_culture = culture_blackrock
+		}
+	}
+	free = yes		#wibe added at load.
+	
+	outland_orc_ideas_1 = {
+	
+	}
+	outland_orc_ideas_2 = {
+	
+	}
+	outland_orc_ideas_3 = {
+	
+	}
+	outland_orc_ideas_4 = {
+	
+	}
+	outland_orc_ideas_5 = {
+	
+	}
+	outland_orc_ideas_6 = {
+	
+	}
+	outland_orc_ideas_7 = {
+	
+	}
+}
+
+the_horde_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		primary_culture = culture_horde
+	}
+	free = yes		#wibe added at load.
+	
+	the_horde_ideas_1 = {
+	
+	}
+	the_horde_ideas_2 = {
+	
+	}
+	the_horde_ideas_3 = {
+	
+	}
+	the_horde_ideas_4 = {
+	
+	}
+	the_horde_ideas_5 = {
+	
+	}
+	the_horde_ideas_6 = {
+	
+	}
+	the_horde_ideas_7 = {
+	
+	}
+}
+
+ogre_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_ogre
+	}
+	free = yes		#wibe added at load.
+	
+	ogre_ideas_1 = {
+	
+	}
+	ogre_ideas_2 = {
+	
+	}
+	ogre_ideas_3 = {
+	
+	}
+	ogre_ideas_4 = {
+	
+	}
+	ogre_ideas_5 = {
+	
+	}
+	ogre_ideas_6 = {
+	
+	}
+	ogre_ideas_7 = {
+	
+	}
+}
+
+draenei_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_draenei
+	}
+	free = yes		#wibe added at load.
+	
+	draenei_ideas_1 = {
+	
+	}
+	draenei_ideas_2 = {
+	
+	}
+	draenei_ideas_3 = {
+	
+	}
+	draenei_ideas_4 = {
+	
+	}
+	draenei_ideas_5 = {
+	
+	}
+	draenei_ideas_6 = {
+	
+	}
+	draenei_ideas_7 = {
+	
+	}
+}
+
+forest_troll_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_forest_troll
+	}
+	free = yes		#wibe added at load.
+	
+	forest_troll_ideas_1 = {
+	
+	}
+	forest_troll_ideas_2 = {
+	
+	}
+	forest_troll_ideas_3 = {
+	
+	}
+	forest_troll_ideas_4 = {
+	
+	}
+	forest_troll_ideas_5 = {
+	
+	}
+	forest_troll_ideas_6 = {
+	
+	}
+	forest_troll_ideas_7 = {
+	
+	}
+}
+
+jungle_troll_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_jungle_troll
+	}
+	free = yes		#wibe added at load.
+	
+	jungle_troll_ideas_1 = {
+	
+	}
+	jungle_troll_ideas_2 = {
+	
+	}
+	jungle_troll_ideas_3 = {
+	
+	}
+	jungle_troll_ideas_4 = {
+	
+	}
+	jungle_troll_ideas_5 = {
+	
+	}
+	jungle_troll_ideas_6 = {
+	
+	}
+	jungle_troll_ideas_7 = {
+	
+	}
+}
+
+sand_troll_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_sand_troll
+	}
+	free = yes		#wibe added at load.
+	
+	sand_troll_ideas_1 = {
+	
+	}
+	sand_troll_ideas_2 = {
+	
+	}
+	sand_troll_ideas_3 = {
+	
+	}
+	sand_troll_ideas_4 = {
+	
+	}
+	sand_troll_ideas_5 = {
+	
+	}
+	sand_troll_ideas_6 = {
+	
+	}
+	sand_troll_ideas_7 = {
+	
+	}
+}
+
+ice_troll_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_ice_troll
+	}
+	free = yes		#wibe added at load.
+	
+	ice_troll_ideas_1 = {
+	
+	}
+	ice_troll_ideas_2 = {
+	
+	}
+	ice_troll_ideas_3 = {
+	
+	}
+	ice_troll_ideas_4 = {
+	
+	}
+	ice_troll_ideas_5 = {
+	
+	}
+	ice_troll_ideas_6 = {
+	
+	}
+	ice_troll_ideas_7 = {
+	
+	}
+}
+
+zandalar_troll_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_zandalar_troll
+	}
+	free = yes		#wibe added at load.
+	
+	zandalar_troll_ideas_1 = {
+	
+	}
+	zandalar_troll_ideas_2 = {
+	
+	}
+	zandalar_troll_ideas_3 = {
+	
+	}
+	zandalar_troll_ideas_4 = {
+	
+	}
+	zandalar_troll_ideas_5 = {
+	
+	}
+	zandalar_troll_ideas_6 = {
+	
+	}
+	zandalar_troll_ideas_7 = {
+	
+	}
+}
+
+dark_troll_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_dark_troll
+	}
+	free = yes		#wibe added at load.
+	
+	dark_troll_ideas_1 = {
+	
+	}
+	dark_troll_ideas_2 = {
+	
+	}
+	dark_troll_ideas_3 = {
+	
+	}
+	dark_troll_ideas_4 = {
+	
+	}
+	dark_troll_ideas_5 = {
+	
+	}
+	dark_troll_ideas_6 = {
+	
+	}
+	dark_troll_ideas_7 = {
+	
+	}
+}
+
+goblin_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_goblin
+	}
+	free = yes		#wibe added at load.
+	
+	goblin_ideas_1 = {
+	
+	}
+	goblin_ideas_2 = {
+	
+	}
+	goblin_ideas_3 = {
+	
+	}
+	goblin_ideas_4 = {
+	
+	}
+	goblin_ideas_5 = {
+	
+	}
+	goblin_ideas_6 = {
+	
+	}
+	goblin_ideas_7 = {
+	
+	}
+}
+
+tauren_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_tauren
+	}
+	free = yes		#wibe added at load.
+	
+	tauren_ideas_1 = {
+	
+	}
+	tauren_ideas_2 = {
+	
+	}
+	tauren_ideas_3 = {
+	
+	}
+	tauren_ideas_4 = {
+	
+	}
+	tauren_ideas_5 = {
+	
+	}
+	tauren_ideas_6 = {
+	
+	}
+	tauren_ideas_7 = {
+	
+	}
+}
+
+thalassian_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_thalassian
+	}
+	free = yes		#wibe added at load.
+	
+	thalassian_ideas_1 = {
+	
+	}
+	thalassian_ideas_2 = {
+	
+	}
+	thalassian_ideas_3 = {
+	
+	}
+	thalassian_ideas_4 = {
+	
+	}
+	thalassian_ideas_5 = {
+	
+	}
+	thalassian_ideas_6 = {
+	
+	}
+	thalassian_ideas_7 = {
+	
+	}
+}
+
+aqir_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_aqir
+	}
+	free = yes		#wibe added at load.
+	
+	aqir_ideas_1 = {
+	
+	}
+	aqir_ideas_2 = {
+	
+	}
+	aqir_ideas_3 = {
+	
+	}
+	aqir_ideas_4 = {
+	
+	}
+	aqir_ideas_5 = {
+	
+	}
+	aqir_ideas_6 = {
+	
+	}
+	aqir_ideas_7 = {
+	
+	}
+}
+
+demonic_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_demonic
+	}
+	free = yes		#wibe added at load.
+	
+	demonic_ideas_1 = {
+	
+	}
+	demonic_ideas_2 = {
+	
+	}
+	demonic_ideas_3 = {
+	
+	}
+	demonic_ideas_4 = {
+	
+	}
+	demonic_ideas_5 = {
+	
+	}
+	demonic_ideas_6 = {
+	
+	}
+	demonic_ideas_7 = {
+	
+	}
+}
+
+satyr_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_satyr
+	}
+	free = yes		#wibe added at load.
+	
+	satyr_ideas_1 = {
+	
+	}
+	satyr_ideas_2 = {
+	
+	}
+	satyr_ideas_3 = {
+	
+	}
+	satyr_ideas_4 = {
+	
+	}
+	satyr_ideas_5 = {
+	
+	}
+	satyr_ideas_6 = {
+	
+	}
+	satyr_ideas_7 = {
+	
+	}
+}
+
+naga_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_naga
+	}
+	free = yes		#wibe added at load.
+	
+	naga_ideas_1 = {
+	
+	}
+	naga_ideas_2 = {
+	
+	}
+	naga_ideas_3 = {
+	
+	}
+	naga_ideas_4 = {
+	
+	}
+	naga_ideas_5 = {
+	
+	}
+	naga_ideas_6 = {
+	
+	}
+	naga_ideas_7 = {
+	
+	}
+}
+
+scourge_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_scourge
+	}
+	free = yes		#wibe added at load.
+	
+	scourge_ideas_1 = {
+	
+	}
+	scourge_ideas_2 = {
+	
+	}
+	scourge_ideas_3 = {
+	
+	}
+	scourge_ideas_4 = {
+	
+	}
+	scourge_ideas_5 = {
+	
+	}
+	scourge_ideas_6 = {
+	
+	}
+	scourge_ideas_7 = {
+	
+	}
+}
+
+dragonkin_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_dragonkin
+	}
+	free = yes		#wibe added at load.
+	
+	dragonkin_ideas_1 = {
+	
+	}
+	dragonkin_ideas_2 = {
+	
+	}
+	dragonkin_ideas_3 = {
+	
+	}
+	dragonkin_ideas_4 = {
+	
+	}
+	dragonkin_ideas_5 = {
+	
+	}
+	dragonkin_ideas_6 = {
+	
+	}
+	dragonkin_ideas_7 = {
+	
+	}
+}
+
+undead_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_undead
+	}
+	free = yes		#wibe added at load.
+	
+	undead_ideas_1 = {
+	
+	}
+	undead_ideas_2 = {
+	
+	}
+	undead_ideas_3 = {
+	
+	}
+	undead_ideas_4 = {
+	
+	}
+	undead_ideas_5 = {
+	
+	}
+	undead_ideas_6 = {
+	
+	}
+	undead_ideas_7 = {
+	
+	}
+}
+
+gnoll_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_gnoll
+	}
+	free = yes		#wibe added at load.
+	
+	gnoll_ideas_1 = {
+	
+	}
+	gnoll_ideas_2 = {
+	
+	}
+	gnoll_ideas_3 = {
+	
+	}
+	gnoll_ideas_4 = {
+	
+	}
+	gnoll_ideas_5 = {
+	
+	}
+	gnoll_ideas_6 = {
+	
+	}
+	gnoll_ideas_7 = {
+	
+	}
+}
+
+centaur_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_centaur
+	}
+	free = yes		#wibe added at load.
+	
+	centaur_ideas_1 = {
+	
+	}
+	centaur_ideas_2 = {
+	
+	}
+	centaur_ideas_3 = {
+	
+	}
+	centaur_ideas_4 = {
+	
+	}
+	centaur_ideas_5 = {
+	
+	}
+	centaur_ideas_6 = {
+	
+	}
+	centaur_ideas_7 = {
+	
+	}
+}
+
+furbolg_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_furbolg
+	}
+	free = yes		#wibe added at load.
+	
+	furbolg_ideas_1 = {
+	
+	}
+	furbolg_ideas_2 = {
+	
+	}
+	furbolg_ideas_3 = {
+	
+	}
+	furbolg_ideas_4 = {
+	
+	}
+	furbolg_ideas_5 = {
+	
+	}
+	furbolg_ideas_6 = {
+	
+	}
+	furbolg_ideas_7 = {
+	
+	}
+}
+
+wolfvar_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_wolfvar
+	}
+	free = yes		#wibe added at load.
+	
+	wolfvar_ideas_1 = {
+	
+	}
+	wolfvar_ideas_2 = {
+	
+	}
+	wolfvar_ideas_3 = {
+	
+	}
+	wolfvar_ideas_4 = {
+	
+	}
+	wolfvar_ideas_5 = {
+	
+	}
+	wolfvar_ideas_6 = {
+	
+	}
+	wolfvar_ideas_7 = {
+	
+	}
+}
+
+gorloc_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_gorloc
+	}
+	free = yes		#wibe added at load.
+	
+	gorloc_ideas_1 = {
+	
+	}
+	gorloc_ideas_2 = {
+	
+	}
+	gorloc_ideas_3 = {
+	
+	}
+	gorloc_ideas_4 = {
+	
+	}
+	gorloc_ideas_5 = {
+	
+	}
+	gorloc_ideas_6 = {
+	
+	}
+	gorloc_ideas_7 = {
+	
+	}
+}
+
+kobold_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_kobold
+	}
+	free = yes		#wibe added at load.
+	
+	kobold_ideas_1 = {
+	
+	}
+	kobold_ideas_2 = {
+	
+	}
+	kobold_ideas_3 = {
+	
+	}
+	kobold_ideas_4 = {
+	
+	}
+	kobold_ideas_5 = {
+	
+	}
+	kobold_ideas_6 = {
+	
+	}
+	kobold_ideas_7 = {
+	
+	}
+}
+
+harpy_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_harpy
+	}
+	free = yes		#wibe added at load.
+	
+	harpy_ideas_1 = {
+	
+	}
+	harpy_ideas_2 = {
+	
+	}
+	harpy_ideas_3 = {
+	
+	}
+	harpy_ideas_4 = {
+	
+	}
+	harpy_ideas_5 = {
+	
+	}
+	harpy_ideas_6 = {
+	
+	}
+	harpy_ideas_7 = {
+	
+	}
+}
+
+quillboar_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_quillboar
+	}
+	free = yes		#wibe added at load.
+	
+	quillboar_ideas_1 = {
+	
+	}
+	quillboar_ideas_2 = {
+	
+	}
+	quillboar_ideas_3 = {
+	
+	}
+	quillboar_ideas_4 = {
+	
+	}
+	quillboar_ideas_5 = {
+	
+	}
+	quillboar_ideas_6 = {
+	
+	}
+	quillboar_ideas_7 = {
+	
+	}
+}
+
+titan_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		OR = {
+			primary_culture = culture_tol_vir
+			primary_culture = culture_earthen
+			primary_culture = culture_trogg
+			primary_culture = culture_grummle
+		}
+	}
+	free = yes		#wibe added at load.
+	
+	titan_ideas_1 = {
+	
+	}
+	titan_ideas_2 = {
+	
+	}
+	titan_ideas_3 = {
+	
+	}
+	titan_ideas_4 = {
+	
+	}
+	titan_ideas_5 = {
+	
+	}
+	titan_ideas_6 = {
+	
+	}
+	titan_ideas_7 = {
+	
+	}
+}
+
+dwarven_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		OR = {
+			primary_culture = culture_ironforge
+			primary_culture = culture_wildhammer
+			primary_culture = culture_dark_iron
+			primary_culture = culture_iron
+			primary_culture = culture_frostborn
+		}
+	}
+	free = yes		#wibe added at load.
+	
+	dwarven_ideas_1 = {
+	
+	}
+	dwarven_ideas_2 = {
+	
+	}
+	dwarven_ideas_3 = {
+	
+	}
+	dwarven_ideas_4 = {
+	
+	}
+	dwarven_ideas_5 = {
+	
+	}
+	dwarven_ideas_6 = {
+	
+	}
+	dwarven_ideas_7 = {
+	
+	}
+}
+
+fire_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		primary_culture = culture_fire
+	}
+	free = yes		#wibe added at load.
+	
+	fire_ideas_1 = {
+	
+	}
+	fire_ideas_2 = {
+	
+	}
+	fire_ideas_3 = {
+	
+	}
+	fire_ideas_4 = {
+	
+	}
+	fire_ideas_5 = {
+	
+	}
+	fire_ideas_6 = {
+	
+	}
+	fire_ideas_7 = {
+	
+	}
+}
+
+earth_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		primary_culture = culture_earth
+	}
+	free = yes		#wibe added at load.
+	
+	earth_ideas_1 = {
+	
+	}
+	earth_ideas_2 = {
+	
+	}
+	earth_ideas_3 = {
+	
+	}
+	earth_ideas_4 = {
+	
+	}
+	earth_ideas_5 = {
+	
+	}
+	earth_ideas_6 = {
+	
+	}
+	earth_ideas_7 = {
+	
+	}
+}
+
+air_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		primary_culture = culture_air
+	}
+	free = yes		#wibe added at load.
+	
+	air_ideas_1 = {
+	
+	}
+	air_ideas_2 = {
+	
+	}
+	air_ideas_3 = {
+	
+	}
+	air_ideas_4 = {
+	
+	}
+	air_ideas_5 = {
+	
+	}
+	air_ideas_6 = {
+	
+	}
+	air_ideas_7 = {
+	
+	}
+}
+
+water_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		primary_culture = culture_water
+	}
+	free = yes		#wibe added at load.
+	
+	water_ideas_1 = {
+	
+	}
+	water_ideas_2 = {
+	
+	}
+	water_ideas_3 = {
+	
+	}
+	water_ideas_4 = {
+	
+	}
+	water_ideas_5 = {
+	
+	}
+	water_ideas_6 = {
+	
+	}
+	water_ideas_7 = {
+	
+	}
+}
+
+magical_creatures_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		OR = {
+			primary_culture = culture_sprite
+			primary_culture = culture_bog_beast
+			primary_culture = culture_ooze
+			primary_culture = culture_treant
+			primary_culture = culture_sha
+			primary_culture = culture_construct
+		}
+	}
+	free = yes		#wibe added at load.
+	
+	magical_creatures_ideas_1 = {
+	
+	}
+	magical_creatures_ideas_2 = {
+	
+	}
+	magical_creatures_ideas_3 = {
+	
+	}
+	magical_creatures_ideas_4 = {
+	
+	}
+	magical_creatures_ideas_5 = {
+	
+	}
+	magical_creatures_ideas_6 = {
+	
+	}
+	magical_creatures_ideas_7 = {
+	
+	}
+}
+
+worgen_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_worgen
+	}
+	free = yes		#wibe added at load.
+	
+	worgen_ideas_1 = {
+	
+	}
+	worgen_ideas_2 = {
+	
+	}
+	worgen_ideas_3 = {
+	
+	}
+	worgen_ideas_4 = {
+	
+	}
+	worgen_ideas_5 = {
+	
+	}
+	worgen_ideas_6 = {
+	
+	}
+	worgen_ideas_7 = {
+	
+	}
+}
+
+arrakoa_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_arrakoa
+	}
+	free = yes		#wibe added at load.
+	
+	arrakoa_ideas_1 = {
+	
+	}
+	arrakoa_ideas_2 = {
+	
+	}
+	arrakoa_ideas_3 = {
+	
+	}
+	arrakoa_ideas_4 = {
+	
+	}
+	arrakoa_ideas_5 = {
+	
+	}
+	arrakoa_ideas_6 = {
+	
+	}
+	arrakoa_ideas_7 = {
+	
+	}
+}
+
+tuskarr_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_tuskarr
+	}
+	free = yes		#wibe added at load.
+	
+	tuskarr_ideas_1 = {
+	
+	}
+	tuskarr_ideas_2 = {
+	
+	}
+	tuskarr_ideas_3 = {
+	
+	}
+	tuskarr_ideas_4 = {
+	
+	}
+	tuskarr_ideas_5 = {
+	
+	}
+	tuskarr_ideas_6 = {
+	
+	}
+	tuskarr_ideas_7 = {
+	
+	}
+}
+
+pandaren_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_pandaren
+	}
+	free = yes		#wibe added at load.
+	
+	pandaren_ideas_1 = {
+	
+	}
+	pandaren_ideas_2 = {
+	
+	}
+	pandaren_ideas_3 = {
+	
+	}
+	pandaren_ideas_4 = {
+	
+	}
+	pandaren_ideas_5 = {
+	
+	}
+	pandaren_ideas_6 = {
+	
+	}
+	pandaren_ideas_7 = {
+	
+	}
+}
+
+mantid_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_mantid
+	}
+	free = yes		#wibe added at load.
+	
+	mantid_ideas_1 = {
+	
+	}
+	mantid_ideas_2 = {
+	
+	}
+	mantid_ideas_3 = {
+	
+	}
+	mantid_ideas_4 = {
+	
+	}
+	mantid_ideas_5 = {
+	
+	}
+	mantid_ideas_6 = {
+	
+	}
+	mantid_ideas_7 = {
+	
+	}
+}
+
+mogu_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_mogu
+	}
+	free = yes		#wibe added at load.
+	
+	mogu_ideas_1 = {
+	
+	}
+	mogu_ideas_2 = {
+	
+	}
+	mogu_ideas_3 = {
+	
+	}
+	mogu_ideas_4 = {
+	
+	}
+	mogu_ideas_5 = {
+	
+	}
+	mogu_ideas_6 = {
+	
+	}
+	mogu_ideas_7 = {
+	
+	}
+}
+
+yaungol_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_yaungol
+	}
+	free = yes		#wibe added at load.
+	
+	yaungol_ideas_1 = {
+	
+	}
+	yaungol_ideas_2 = {
+	
+	}
+	yaungol_ideas_3 = {
+	
+	}
+	yaungol_ideas_4 = {
+	
+	}
+	yaungol_ideas_5 = {
+	
+	}
+	yaungol_ideas_6 = {
+	
+	}
+	yaungol_ideas_7 = {
+	
+	}
+}
+
+ethereal_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_ethereal
+	}
+	free = yes		#wibe added at load.
+	
+	ethereal_ideas_1 = {
+	
+	}
+	ethereal_ideas_2 = {
+	
+	}
+	ethereal_ideas_3 = {
+	
+	}
+	ethereal_ideas_4 = {
+	
+	}
+	ethereal_ideas_5 = {
+	
+	}
+	ethereal_ideas_6 = {
+	
+	}
+	ethereal_ideas_7 = {
+	
+	}
+}
+
+gnomish_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_gnomish
+	}
+	free = yes		#wibe added at load.
+	
+	gnomish_ideas_1 = {
+	
+	}
+	gnomish_ideas_2 = {
+	
+	}
+	gnomish_ideas_3 = {
+	
+	}
+	gnomish_ideas_4 = {
+	
+	}
+	gnomish_ideas_5 = {
+	
+	}
+	gnomish_ideas_6 = {
+	
+	}
+	gnomish_ideas_7 = {
+	
+	}
+}
+
+hozen_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_hozen
+	}
+	free = yes		#wibe added at load.
+	
+	hozen_ideas_1 = {
+	
+	}
+	hozen_ideas_2 = {
+	
+	}
+	hozen_ideas_3 = {
+	
+	}
+	hozen_ideas_4 = {
+	
+	}
+	hozen_ideas_5 = {
+	
+	}
+	hozen_ideas_6 = {
+	
+	}
+	hozen_ideas_7 = {
+	
+	}
+}
+
+saurok_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_saurok
+	}
+	free = yes		#wibe added at load.
+	
+	saurok_ideas_1 = {
+	
+	}
+	saurok_ideas_2 = {
+	
+	}
+	saurok_ideas_3 = {
+	
+	}
+	saurok_ideas_4 = {
+	
+	}
+	saurok_ideas_5 = {
+	
+	}
+	saurok_ideas_6 = {
+	
+	}
+	saurok_ideas_7 = {
+	
+	}
+}
+
+giant_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_giant
+	}
+	free = yes		#wibe added at load.
+	
+	giant_ideas_1 = {
+	
+	}
+	giant_ideas_2 = {
+	
+	}
+	giant_ideas_3 = {
+	
+	}
+	giant_ideas_4 = {
+	
+	}
+	giant_ideas_5 = {
+	
+	}
+	giant_ideas_6 = {
+	
+	}
+	giant_ideas_7 = {
+	
+	}
+}
+
+taunka_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_taunka
+	}
+	free = yes		#wibe added at load.
+	
+	taunka_ideas_1 = {
+	
+	}
+	taunka_ideas_2 = {
+	
+	}
+	taunka_ideas_3 = {
+	
+	}
+	taunka_ideas_4 = {
+	
+	}
+	taunka_ideas_5 = {
+	
+	}
+	taunka_ideas_6 = {
+	
+	}
+	taunka_ideas_7 = {
+	
+	}
+}
+
+dryad_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_dryad
+	}
+	free = yes		#wibe added at load.
+	
+	dryad_ideas_1 = {
+	
+	}
+	dryad_ideas_2 = {
+	
+	}
+	dryad_ideas_3 = {
+	
+	}
+	dryad_ideas_4 = {
+	
+	}
+	dryad_ideas_5 = {
+	
+	}
+	dryad_ideas_6 = {
+	
+	}
+	dryad_ideas_7 = {
+	
+	}
+}
+
+virmen_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_virmen
+	}
+	free = yes		#wibe added at load.
+	
+	virmen_ideas_1 = {
+	
+	}
+	virmen_ideas_2 = {
+	
+	}
+	virmen_ideas_3 = {
+	
+	}
+	virmen_ideas_4 = {
+	
+	}
+	virmen_ideas_5 = {
+	
+	}
+	virmen_ideas_6 = {
+	
+	}
+	virmen_ideas_7 = {
+	
+	}
+}
+
+wildkin_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_wildkin
+	}
+	free = yes		#wibe added at load.
+	
+	wildkin_ideas_1 = {
+	
+	}
+	wildkin_ideas_2 = {
+	
+	}
+	wildkin_ideas_3 = {
+	
+	}
+	wildkin_ideas_4 = {
+	
+	}
+	wildkin_ideas_5 = {
+	
+	}
+	wildkin_ideas_6 = {
+	
+	}
+	wildkin_ideas_7 = {
+	
+	}
+}
+
+void_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_void
+	}
+	free = yes		#wibe added at load.
+	
+	void_ideas_1 = {
+	
+	}
+	void_ideas_2 = {
+	
+	}
+	void_ideas_3 = {
+	
+	}
+	void_ideas_4 = {
+	
+	}
+	void_ideas_5 = {
+	
+	}
+	void_ideas_6 = {
+	
+	}
+	void_ideas_7 = {
+	
+	}
+}
+
+flayer_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = culture_group_flayer
+	}
+	free = yes		#wibe added at load.
+	
+	flayer_ideas_1 = {
+	
+	}
+	flayer_ideas_2 = {
+	
+	}
+	flayer_ideas_3 = {
+	
+	}
+	flayer_ideas_4 = {
+	
+	}
+	flayer_ideas_5 = {
+	
+	}
+	flayer_ideas_6 = {
+	
+	}
+	flayer_ideas_7 = {
+	
+	}
+}
