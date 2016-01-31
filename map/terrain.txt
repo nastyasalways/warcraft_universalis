@@ -529,20 +529,20 @@ terrain
 	
 	terrain_21			= { type = farmlands		color = { 	21	 } }	
 	
-	burnt_earth 		= { type = burnt_earth		color = { 	22	 } }	
-	frozen_wastes		= { type = frozen_wastes	color = { 	23	 } }
-	
-	silvermoon		 	= { type = silvermoon		color = { 	24	 } }
-	darnassus		 	= { type = darnassus		color = { 	25	 } }
-	exodar		 		= { type = exodar			color = { 	26	 } }
-	ironforge		 	= { type = ironforge		color = { 	27	 } }
-	orgrimmar		 	= { type = orgrimmar		color = { 	28	 } }
-	stormwind		 	= { type = stormwind		color = { 	29	 } }
-	thunder_bluff	 	= { type = thunder_bluff	color = { 	30	 } }
-	undercity		 	= { type = undercity		color = { 	31	 } }
-	dalaran		 		= { type = dalaran			color = { 	32	 } }
-	shattrath		 	= { type = shattrath		color = { 	33	 } }
-	icecrown_citadel	= { type = icecrown_citadel		color = { 	34	 } }
+	# Unique
+	burnt_earth 		= { type = burnt_earth		color = { 	25	 } }	
+	frozen_wastes		= { type = frozen_wastes	color = { 	26	 } }
+	silvermoon		 	= { type = silvermoon		color = { 	27	 } }
+	darnassus		 	= { type = darnassus		color = { 	28	 } }
+	exodar		 		= { type = exodar			color = { 	29	 } }
+	ironforge		 	= { type = ironforge		color = { 	30	 } }
+	orgrimmar		 	= { type = orgrimmar		color = { 	31	 } }
+	stormwind		 	= { type = stormwind		color = { 	32	 } }
+	thunder_bluff	 	= { type = thunder_bluff	color = { 	33	 } }
+	undercity		 	= { type = undercity		color = { 	34	 } }
+	dalaran		 		= { type = dalaran			color = { 	35	 } }
+	shattrath		 	= { type = shattrath		color = { 	36	 } }
+	icecrown_citadel	= { type = icecrown_citadel	color = { 	37	 } }
 }
 
 ##################################################################

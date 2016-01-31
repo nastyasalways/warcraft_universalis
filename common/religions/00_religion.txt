@@ -702,7 +702,7 @@ warcraft_religions = {
 		heretic = { }
 	}
 	
-religion_geomancy = {
+	religion_geomancy = {
 		color = { 77 27 76 }
 		icon = 29
 		
@@ -726,7 +726,7 @@ religion_geomancy = {
 		heretic = { }
 	}
 
-religion_tech = {
+	religion_tech = {
 		color = { 0.45 0.45 0.45 }
 		icon = 30
 		
@@ -750,7 +750,7 @@ religion_tech = {
 		heretic = { }
 	}
 
-religion_voodoo = {
+	religion_voodoo = {
 		color = { 0.25 0.15 0.25 }
 		icon = 6
 		

@@ -36,6 +36,7 @@ replace_path = "common/tradenodes"
 replace_path = "common/triggered_modifiers"
 replace_path = "common/parliament_issues"
 replace_path = "common/parliament_bribes"
+replace_path = "common/estates"
 
 replace_path = "history/provinces"
 replace_path = "history/countries"

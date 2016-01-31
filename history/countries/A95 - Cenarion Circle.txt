@@ -2,6 +2,6 @@
 government 		= despotic_monarchy
 mercantilism 		= 0.1
 technology_group 	= tech_darnassian
-religion			= noreligion
-primary_culture 	= noculture
+religion			= culture_cenarion
+primary_culture 	= religion_elune
 capital 			= 1

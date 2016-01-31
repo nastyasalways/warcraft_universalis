@@ -1,8 +1,8 @@
 # 2964 Brazie Farmstead
 is_city = yes
 
-controller = A18
 owner = A18
+controller = A18
 add_core = A18
 
 base_tax = 1

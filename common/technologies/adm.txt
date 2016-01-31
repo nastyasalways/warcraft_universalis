@@ -4,634 +4,388 @@ ahead_of_time = {
 	production_efficiency 	=	0.2
 }
 
-#545
+# 0
 technology = {
 	year = 545
 	
+	magocracy_republic = yes
+	despotic_magocracy = yes
+	tinker_republic = yes
+	orcish_horde = yes
+	warcraft_horde = yes
+	warband = yes
+	roaming_trade_company = yes
+	pirate_clan = yes
+	kul_tiras = yes
+	draconic_kingdom = yes
+	scourge_horde = yes
+	insectoid_kingdom = yes
+	legion = yes
+	elemental_kingdom = yes
+	wind_trader_coalition = yes
+	shado_pan = yes
+	high_monarchy = yes
+	7th_legion = yes
+	argent_crusade = yes
+	military_dictat = yes
+	scarlet_crusade = yes
+	exodar_city = yes
+	twilight_cabal = yes
+	old_god_lair = yes
+	thunderbluff_tribe = yes
+	minor_tribe = yes
+	criminal_organization = yes
+
 	may_support_rebels = yes
 	may_force_march = yes
 }
 
-#550
+# 1
 technology = {
 	year = 550
 	
 	production_efficiency 	=	0.05
 }
 
-#555
+# 2
 technology = {
 	year = 555
 	
-	production_efficiency 	=	0.05
+	# building
 }
 
-#560
+# 3
 technology = {
 	year = 560
 	
 	allowed_idea_groups = 1
 }
 
-#565
+# 4
 technology = {
 	year = 565
 	
 	production_efficiency 	=	0.05
 }
 
-#570
+# 5
 technology = {
 	year = 570
+	
+	# building
+}
+
+# 6
+technology = {
+	year = 575
 	
 	production_efficiency 	=	0.05
 }
 
-#575
-technology = {
-	year = 575
-	
-}
-
-#580
+# 7
 technology = {
 	year = 580
 	
 	allowed_idea_groups = 2
 }
 
-#585
+# 8
 technology = {
 	year = 585
 	
 	production_efficiency 	=	0.05
 }
 
-#590
+# 9
 technology = {
 	year = 590
+	
+	# building
+}
+
+# 10
+technology = {
+	year = 595
 	
 	production_efficiency 	=	0.05
 }
 
-#595
-technology = {
-	year = 595
-	
-}
-
-#600
+# 11
 technology = {
 	year = 600
-	
-}
-
-#605
-technology = {
-	year = 605
 	
 	allowed_idea_groups = 3
 }
 
-#610
+# 12
+technology = {
+	year = 605
+	
+	# building
+}
+
+# 13
 technology = {
 	year = 610
 	
 	production_efficiency 	=	0.05
 }
 
-#615
+# 14
 technology = {
 	year = 615
 	
-	production_efficiency 	=	0.05
+	# building
 }
 
-#620
+# 15
 technology = {
 	year = 620
-	
-}
-
-#625
-technology = {
-	year = 625
-	
-}
-
-#630
-technology = {
-	year = 630
 	
 	allowed_idea_groups = 4
 }
 
-#635
+# 16
+technology = {
+	year = 625
+	
+	production_efficiency 	=	0.05
+}
+
+# 17
+technology = {
+	year = 630
+	
+	administrative_efficiency = 0.1
+}
+
+# 18
 technology = {
 	year = 635
 	
-	production_efficiency 	=	0.05
+	development_efficiency = 0.1
 }
 
-#640
+# 19
 technology = {
 	year = 640
-	
-	production_efficiency 	=	0.05
-}
-
-#645
-technology = {
-	year = 645
-	
-}
-
-#650
-technology = {
-	year = 650
-	
-}
-
-#655
-technology = {
-	year = 655
 	
 	allowed_idea_groups = 5
 }
 
-#660
+# 20
 technology = {
-	year = 660
-	
+	year = 645
+
 	production_efficiency 	=	0.05
 }
 
-#665
+# 21
+technology = {
+	year = 650
+	
+	administrative_efficiency = 0.1
+}
+
+# 22
+technology = {
+	year = 655
+	
+	development_efficiency = 0.1
+}
+
+# 23
+technology = {
+	year = 660
+	
+	allowed_idea_groups = 6
+}
+
+# 24
 technology = {
 	year = 665
 	
 	production_efficiency 	=	0.05
 }
 
-#670
+# 25
 technology = {
 	year = 670
 	
+	administrative_efficiency = 0.1
 }
 
-#675
+# 26
 technology = {
 	year = 675
 	
+	development_efficiency = 0.1
 }
 
-#680
+# 27
 technology = {
 	year = 680
 	
-	allowed_idea_groups = 6
+	allowed_idea_groups = 7
 }
 
-#685
+# 28
 technology = {
 	year = 685
 	
 	production_efficiency 	=	0.05
 }
 
-#690
+# 29
 technology = {
 	year = 690
 	
-	production_efficiency 	=	0.05
+	administrative_efficiency = 0.1
 }
 
-#695
+# 30
 technology = {
 	year = 695
-	
+
+	development_efficiency = 0.1
 }
 
-#700
+# 31
 technology = {
 	year = 700
-	
-}
-
-#705
-technology = {
-	year = 705
-	
-	allowed_idea_groups = 7
-}
-
-#710
-technology = {
-	year = 710
-	
-	production_efficiency 	=	0.05
-}
-
-#715
-technology = {
-	year = 715
-	
-	production_efficiency 	=	0.05
-}
-
-#720
-technology = {
-	year = 720
-	
-}
-
-#725
-technology = {
-	year = 725
-	
-}
-
-#730
-technology = {
-	year = 730
 	
 	allowed_idea_groups = 8
 }
 
-#735
+# 32
+technology = {
+	year = 705
+	
+	production_efficiency 	=	0.05
+}
+
+# 33
+technology = {
+	year = 710
+	
+	administrative_efficiency = 0.1
+}
+
+# 34
+technology = {
+	year = 715
+
+	development_efficiency = 0.1
+}
+
+# 35
+technology = {
+	year = 720
+	
+	production_efficiency 	=	0.05
+}
+
+# 36
+technology = {
+	year = 725
+
+	administrative_efficiency = 0.05
+}
+
+# 37
+technology = {
+	year = 730
+	
+	development_efficiency = 0.05
+}
+
+# 38
 technology = {
 	year = 735
 	
-	production_efficiency 	=	0.05
+	production_efficiency 	=	0.1
 }
 
-#740
+# 39
 technology = {
 	year = 740
 	
-	production_efficiency 	=	0.05
+	administrative_efficiency = 0.05
 }
 
-#745
+# 40
 technology = {
 	year = 745
 	
-	administrative_efficiency = 0.03
+	development_efficiency = 0.05
 }
 
-#750
+# 41
 technology = {
 	year = 750
 	
-	development_efficiency = 0.03
+	production_efficiency 	=	0.1
 }
 
-#755
+# 42
 technology = {
 	year = 755
 	
-	administrative_efficiency = 0.03
+	administrative_efficiency = 0.05
 }
 
-#760
+# 43
 technology = {
 	year = 760
 	
-	development_efficiency = 0.03
+	development_efficiency = 0.05
 }
 
-#765
+# 44
 technology = {
 	year = 765
 	
-	production_efficiency 	=	0.05
+	production_efficiency 	=	0.1
 }
 
-#770
+# 45
 technology = {
 	year = 770
 	
-	production_efficiency 	=	0.05
+	administrative_efficiency = 0.05
 }
 
-#775
+# 46
 technology = {
 	year = 775
 	
-	administrative_efficiency = 0.03
+	development_efficiency = 0.05
 }
 
-#780
+# 47
 technology = {
 	year = 780
 	
-	development_efficiency = 0.03
+	production_efficiency 	=	0.1
 }
 
-#785
+# 48
 technology = {
 	year = 785
 	
-	administrative_efficiency = 0.03
+	administrative_efficiency = 0.05
 }
 
-#790
+# 49
 technology = {
 	year = 790
 	
-	development_efficiency = 0.03
+	development_efficiency = 0.05
 }
 
-#795
+# 50
 technology = {
 	year = 795
 	
-	administrative_efficiency = 0.03
-}
-
-#800
-technology = {
-	year = 800
 	
-	development_efficiency = 0.03
-}
-
-#805
-technology = {
-	year = 805
-	
-	administrative_efficiency = 0.03
-}
-
-#810
-technology = {
-	year = 810
-	
-	development_efficiency = 0.03
-}
-
-#815
-technology = {
-	year = 815
-	
-	administrative_efficiency = 0.03
-}
-
-#820
-technology = {
-	year = 820
-	
-	development_efficiency = 0.03
-}
-
-#825
-technology = {
-	year = 825
-	
-	administrative_efficiency = 0.03
-}
-
-#830
-technology = {
-	year = 830
-	
-	development_efficiency = 0.03
-}
-
-#835
-technology = {
-	year = 835
-	
-	administrative_efficiency = 0.03
-}
-
-#840
-technology = {
-	year = 840
-	
-	development_efficiency = 0.03
-}
-
-#845
-technology = {
-	year = 845
-	
-	administrative_efficiency = 0.03
-}
-
-#850
-technology = {
-	year = 850
-	
-	development_efficiency = 0.03
-}
-
-#855
-technology = {
-	year = 855
-	
-	administrative_efficiency = 0.03
-}
-
-#860
-technology = {
-	year = 860
-	
-	development_efficiency = 0.03
-}
-
-#865
-technology = {
-	year = 865
-	
-	administrative_efficiency = 0.03
-}
-
-#870
-technology = {
-	year = 870
-	
-	development_efficiency = 0.03
-}
-
-#875
-technology = {
-	year = 875
-	
-	administrative_efficiency = 0.03
-}
-
-#880
-technology = {
-	year = 880
-	
-	development_efficiency = 0.03
-}
-
-#885
-technology = {
-	year = 885
-	
-	administrative_efficiency = 0.03
-}
-
-#890
-technology = {
-	year = 890
-	
-	development_efficiency = 0.03
-}
-
-#895
-technology = {
-	year = 895
-	
-	administrative_efficiency = 0.03
-}
-
-#900
-technology = {
-	year = 900
-	
-	development_efficiency = 0.03
-}
-
-#905
-technology = {
-	year = 905
-
-	administrative_efficiency = 0.03
-}
-
-#910
-technology = {
-	year = 910
-	
-	development_efficiency = 0.03
-}
-
-#915
-technology = {
-	year = 915
-	
-	administrative_efficiency = 0.03
-}
-
-#920
-technology = {
-	year = 920
-	
-	development_efficiency = 0.03
-}
-
-#925
-technology = {
-	year = 925
-	
-	administrative_efficiency = 0.03
-}
-
-#930
-technology = {
-	year = 930
-	
-	development_efficiency = 0.03
-}
-
-#935
-technology = {
-	year = 935
-	
-	administrative_efficiency = 0.03
-}
-
-#940
-technology = {
-	year = 940
-	
-	development_efficiency = 0.03
-}
-
-#945
-technology = {
-	year = 945
-	
-	administrative_efficiency = 0.03
-}
-
-#950
-technology = {
-	year = 950
-	
-	development_efficiency = 0.03
-}
-
-#955
-technology = {
-	year = 955
-	
-	administrative_efficiency = 0.03
-}
-
-#960
-technology = {
-	year = 960
-	
-	development_efficiency = 0.03
-}
-
-#965
-technology = {
-	year = 965
-	
-	administrative_efficiency = 0.03
-}
-
-#970
-technology = {
-	year = 970
-	
-	development_efficiency = 0.03
-}
-
-#975
-technology = {
-	year = 975
-	
-	administrative_efficiency = 0.03
-}
-
-#980
-technology = {
-	year = 980
-	
-	development_efficiency = 0.03
-}
-
-#985
-technology = {
-	year = 985
-	
-	administrative_efficiency = 0.03
-}
-
-#990
-technology = {
-	year = 990
-	
-	development_efficiency = 0.03
-}
-
-#995
-technology = {
-	year = 995
-	
-	administrative_efficiency = 0.03
-}
-
-#1000
-technology = {
-	year = 1000
-		
-	development_efficiency = 0.03
 }

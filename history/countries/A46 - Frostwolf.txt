@@ -2,6 +2,6 @@
 government 		= despotic_monarchy
 mercantilism 		= 0.1
 technology_group 	= tech_orc
-religion			= noreligion
-primary_culture 	= noculture
+primary_culture 	= culture_frostwolf
+religion			= religion_ancestral
 capital 			= 1

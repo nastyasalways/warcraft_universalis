@@ -42,6 +42,50 @@ spriteTypes = {
 		noOfFrames = 14
 	}
 	
+	spriteType = {
+		name = "GFX_resource_icon"
+		texturefile = "gfx//interface//resources.tga"
+		noOfFrames = 57
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_resource_icon_small"
+		texturefile = "gfx//interface//resources_small.dds"
+		noOfFrames = 57
+		loadType = "INGAME"
+	}	
+	
+	spriteType = {
+		name = "GFX_resource_icon_transparent"
+		texturefile = "gfx//interface//resources.tga"
+		noOfFrames = 57
+		loadType = "INGAME"
+		
+		allwaystransparent = yes
+	}
+	
+	# Estates
+	spriteType = {
+		name = "GFX_estates_icons"
+		texturefile = "gfx//interface//estates_icons.dds"
+		noOfFrames = 100
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_estates_interactions"
+		texturefile = "gfx//interface//estates_icons.dds"
+		noOfFrames = 100
+	}	
+	
+	spriteType = {
+		name = "GFX_estate_interactions"
+		texturefile = "gfx//interface//estate_interactions_strip.dds"
+		noOfFrames = 200
+		loadType = "INGAME"
+	}
+	
 	# Terrain
 	# Colony
 	# 332 x 84

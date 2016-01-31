@@ -29,6 +29,4 @@ capital 			= 1
 	technology_group = tech_orc
 	primary_culture = culture_fel_orc
 	government = orcish_horde
-	remove_accepted_culture = culture_moarg
-	remove_accepted_culture = culture_saayad
 }

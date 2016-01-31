@@ -2,6 +2,6 @@
 government 		= despotic_monarchy
 mercantilism 		= 0.1
 technology_group 	= tech_kobold
-religion			= noreligion
-primary_culture 	= noculture
+religion			= religion_geomancy
+primary_culture 	= culture_gravelsnout
 capital 			= 1

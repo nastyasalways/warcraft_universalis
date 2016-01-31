@@ -3,7 +3,7 @@
 government 		= warband
 mercantilism 		= 0.1 
 technology_group 	= tech_orc
-religion		= religion_fel
+religion			= religion_fel
 primary_culture 	= culture_blackrock
 capital 			= 1
 

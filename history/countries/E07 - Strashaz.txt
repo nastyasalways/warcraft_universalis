@@ -1,7 +1,7 @@
 # Strashaz
 government 		= despotic_monarchy
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_naga
+religion			= religion_old_gods
+primary_culture 	= culture_strashaz
 capital 			= 1

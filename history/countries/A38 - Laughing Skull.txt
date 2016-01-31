@@ -2,6 +2,6 @@
 government 		= despotic_monarchy
 mercantilism 		= 0.1
 technology_group 	= tech_orc
-religion			= noreligion
-primary_culture 	= noculture
+primary_culture 	= culture_laughing_skull
+religion			= religion_fel
 capital 			= 1

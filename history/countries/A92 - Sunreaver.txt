@@ -2,6 +2,6 @@
 government 		= despotic_monarchy
 mercantilism 		= 0.1
 technology_group 	= tech_thalassian
-religion			= noreligion
-primary_culture 	= noculture
+religion			= religion_arcane
+primary_culture 	= culture_blood_elf
 capital 			= 1

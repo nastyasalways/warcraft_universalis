@@ -2,6 +2,6 @@
 government 		= despotic_monarchy
 mercantilism 		= 0.1
 technology_group 	= tech_satyr
-religion			= noreligion
-primary_culture 	= noculture
+religion			= religion_fel
+primary_culture 	= culture_jadefire
 capital 			= 1

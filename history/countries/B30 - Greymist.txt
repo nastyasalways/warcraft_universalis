@@ -2,6 +2,6 @@
 government 		= despotic_monarchy
 mercantilism 		= 0.1
 technology_group 	= tech_depths
-religion			= noreligion
-primary_culture 	= noculture
+religion			= religion_old_gods
+primary_culture 	= culture_nerglish
 capital 			= 1
