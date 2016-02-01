@@ -1,5 +1,5 @@
 # The Sha
-government 		= elemental_kingdom
+government 			= cult_gov
 mercantilism 		= 0.1
 technology_group 	= tech_elemental
 religion			= religion_old_gods

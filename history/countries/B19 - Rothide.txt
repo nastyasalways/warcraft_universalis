@@ -1,5 +1,5 @@
 # Rothide
-government 		= minor_tribe
+government 			= war_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_gnoll
 religion			= religion_ancestral

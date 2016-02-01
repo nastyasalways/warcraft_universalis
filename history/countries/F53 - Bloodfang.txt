@@ -1,16 +1,14 @@
 # Bloodfang Pack
-government = warband
-government_rank = 1
-mercantilism = 0.1 
-
-technology_group = tech_worgen
-religion= religion_church_of_the_light
-primary_culture = culture_gilnean_worgen
+government 			= warband_gov_gov
+government_rank 	= 1
+mercantilism 		= 0.1 
+technology_group 	= tech_worgen
+religion			= religion_church_of_the_light
+primary_culture		= culture_gilnean_worgen
 
 capital = 1
 
 631.1.1 = { 
-	government_rank = 1
 	monarch =
 	{
 		name = "Ivar" 			 

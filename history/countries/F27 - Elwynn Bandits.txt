@@ -1,6 +1,6 @@
 # Bandits
-government 		= criminal_organization
-government_rank = 1
+government 			= criminal_organisation
+government_rank 	= 1
 mercantilism 		= 0.1
 technology_group 	= tech_human
 religion			= religion_church_of_the_light

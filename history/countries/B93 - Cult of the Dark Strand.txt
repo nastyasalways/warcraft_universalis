@@ -1,7 +1,7 @@
 # Cult of the Dark Strand
-government 		= despotic_monarchy
+government 			= cult_gov
 mercantilism 		= 0.1
 technology_group 	= tech_demonic
-religion			= noreligion
-primary_culture 	= noculture
+religion			= religion_shadow
+primary_culture 	= culture_dark_strand
 capital 			= 1

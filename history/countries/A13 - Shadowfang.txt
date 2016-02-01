@@ -1,10 +1,10 @@
 # Shadowfang
-government = despotic_magocracy
-mercantilism = 0.1 
-technology_group = tech_worgen
-religion= religion_shadow
-primary_culture = culture_gilnean_worgen
-capital = 648
+government 			= administrative_kingdom
+mercantilism 		= 0.1 
+technology_group 	= tech_worgen
+religion			= religion_shadow
+primary_culture 	= culture_gilnean_worgen
+capital 			= 648
 
 618.1.1 = { 
 
@@ -29,7 +29,7 @@ capital = 648
 		mil = 3	
 	}
 
-	government = military_dictat
+	government = dictatorship_gov
 	primary_culture = culture_forsaken 
 	technology_group = tech_undead
 }

@@ -1,10 +1,10 @@
 # Mudsnout
-government = minor_tribe
-mercantilism = 0.1 
-technology_group = tech_gnoll
-religion= religion_ancestral
-primary_culture = culture_mudsnout
-capital = 2968
+government 			= war_tribe
+mercantilism 		= 0.1 
+technology_group 	= tech_gnoll
+religion			= religion_ancestral
+primary_culture 	= culture_mudsnout
+capital 			= 2968
 
 546.1.1 = { 
 monarch = { 

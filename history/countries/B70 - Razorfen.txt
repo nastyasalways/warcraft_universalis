@@ -1,15 +1,15 @@
 # Razorfen
-government 		= tribal_despotism
+government 			= war_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_quillboar
-religion		= religion_geomancy
+religion			= religion_geomancy
 primary_culture 	= culture_razorfen
-capital 		= 1
+capital 			= 1
 
 546.1.1 = { 
-monarch = { 
-     name = "Strongtusk" 
-     dynasty = "Razorfen" 
+	monarch = { 
+		name = "Strongtusk" 
+		dynasty = "Razorfen" 
 		adm = 2
 		dip = 1
 		mil = 4
@@ -17,27 +17,26 @@ monarch = {
  } 
 
 592.1.1 = { 
-monarch = { 
-     name = "Ramtusk" 
-     dynasty = "Razorfen" 
+	monarch = { 
+		name = "Ramtusk" 
+		dynasty = "Razorfen" 
 		adm = 3
 		dip = 1
 		mil = 4
  	} 
- } 
+} 
 
 622.1.1 = { 
-monarch = { 
+	monarch = { 
 		name = "Charga" 
 		dynasty = "Razorflank" 
 		adm = 3
 		dip = 3
 		mil = 3
-                female = yes
+		female = yes
 	} 
-government = theocratic_government
- } 
+} 
 
 625.1.1 = { 
-religion = religion_the_damned
- } 
+	religion = religion_the_damned
+} 

@@ -1,5 +1,5 @@
 # Northshire
-government 		= theocratic_government
+government 			= administrative_theocracy
 mercantilism 		= 0.1
 technology_group 	= tech_human 
 religion			= religion_church_of_the_light

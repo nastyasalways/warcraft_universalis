@@ -1,7 +1,7 @@
 # Screeching
-government 		= despotic_monarchy
+government 			= war_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_harpy
-religion			= noreligion
-primary_culture 	= noculture
+religion			= religion_al_akir
+primary_culture 	= culture_screeching
 capital 			= 1

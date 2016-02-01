@@ -1,5 +1,5 @@
 # Coaststrider Tribe (Sea Giants)
-government 		= minor_tribe
+government 			= war_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_titan
 religion			= religion_titan

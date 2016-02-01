@@ -1292,53 +1292,6 @@ superiority_religious_league = {
 	war_name = RELIGIOUS_LEAGUE_WAR_NAME
 }
 
-superiority_chinese_unification = {
-	type = superiority
-	
-	attacker = {
-		badboy_factor = 0.5
-		prestige_factor = 1.5
-		peace_cost_factor = 0.5
-		
-		allowed_provinces = {
-			OR = {
-				region = south_china_region
-				region = xinan_region
-				region = north_china_region
-				culture_group = FROM
-			}
-		}
-		
-		po_demand_provinces = yes
-		
-		country_desc = ALL_CGROUP_COUNTRIES
-		prov_desc = ALL_CHINESE_PROVS
-	}
-	
-	defender = {
-		badboy_factor = 0.5
-		prestige_factor = 1.5
-		peace_cost_factor = 0.5
-		
-		allowed_provinces = {
-			OR = {
-				region = south_china_region
-				region = xinan_region
-				region = north_china_region
-				culture_group = FROM
-			}
-		}
-		
-		po_demand_provinces = yes
-		
-		country_desc = ALL_CGROUP_COUNTRIES
-		prov_desc = ALL_CHINESE_PROVS
-	}
-	
-	
-	war_name = CHINESE_UNIFICATION_WAR_NAME	
-}
-
 force_migration = {
 	type = take_capital
 	

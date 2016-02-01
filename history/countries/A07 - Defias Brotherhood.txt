@@ -1,5 +1,5 @@
 # Defias Brotherhood
-government 			= criminal_organization
+government 			= criminal_organisation
 mercantilism 		= 0.1
 technology_group 	= tech_human 
 religion			= religion_church_of_the_light

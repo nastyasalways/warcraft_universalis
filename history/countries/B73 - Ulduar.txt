@@ -1,10 +1,10 @@
 # Ulduar
-government 		= military_dictat
+government 			= cult_gov
 mercantilism 		= 0.1
 technology_group 	= tech_titan
-religion		= religion_old_gods
+religion			= religion_old_gods
 primary_culture 	= culture_iron
-capital 		= 782
+capital 			= 782
 
 546.1.1 = { 
 	monarch = { 

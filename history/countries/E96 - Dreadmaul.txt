@@ -1,8 +1,8 @@
 # Dreadmaul
-government 		= warband
+government 			= warband_gov
 mercantilism 		= 0.1 
 technology_group 	= tech_ogre
-religion		= religion_geomancy
+religion			= religion_geomancy
 primary_culture 	= culture_dreadmaul
 capital 			= 1
 

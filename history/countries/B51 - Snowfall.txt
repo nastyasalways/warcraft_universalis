@@ -1,7 +1,7 @@
 # Snowfall
-government 		= despotic_monarchy
+government 			= war_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_wolfvar
-religion			= noreligion
-primary_culture 	= noculture
+religion			= religion_ancestral
+primary_culture 	= culture_snowfall
 capital 			= 1

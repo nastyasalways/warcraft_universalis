@@ -1,6 +1,6 @@
 # Iron Summit
 
-government 		= military_dictat
+government 			= dictatorship_gov
 mercantilism 		= 0.1
 technology_group 	= tech_dwarven
 religion			= religion_arcane

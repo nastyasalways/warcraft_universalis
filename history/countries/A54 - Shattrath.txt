@@ -1,6 +1,6 @@
 # Shattrath
 mercantilism 		= 0.1
-government 		= exodar_city
+government 			= administrative_theocracy
 technology_group 	= tech_draenei
 religion			= religion_light_of_the_naaru
 primary_culture 	= culture_shattrathi

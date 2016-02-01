@@ -1,7 +1,7 @@
 # Tolvir
-government 		= despotic_monarchy
+government 			= cult_gov
 mercantilism 		= 0.1
 technology_group 	= tech_titan
-religion			= noreligion
-primary_culture 	= noculture
+religion			= religion_al_akir
+primary_culture 	= culture_air
 capital 			= 1

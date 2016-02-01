@@ -1,5 +1,5 @@
 # Atalai
-government 		= theocratic_government
+government 			= militaristic_order
 mercantilism 		= 0.1
 technology_group 	= tech_troll
 religion			= religion_hakkari

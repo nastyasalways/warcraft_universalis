@@ -1,7 +1,7 @@
 # Exiles
-government 		= despotic_monarchy
+government 			= mercantile_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_arrakoa
-religion			= noreligion
-primary_culture 	= noculture
+religion			= religion_terokk
+primary_culture 	= culture_exiles
 capital 			= 1

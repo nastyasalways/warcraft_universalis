@@ -1,76 +1,505 @@
 # For specific government types
 # Will pick the first valid one it finds in list
-gov_exodar = {
+
+########################
+# Kingdoms
+########################
+gov_kingdom_magic = {
 	rank = {
+		1 = PETTY_MAGOCRACY
+		2 = MAGOCRACY
+		3 = GRAND_MAGOCRACY
+	}
+	
+	ruler_male = {
+		1 = MAGE
+		2 = ARCHMAGE
+		3 = GRAND_MAGUS
+	}
+	
+	ruler_female = {
+		1 = MAGE
+		2 = ARCHMAGE
+		3 = GRAND_MAGUS
+	}
+	
+	trigger = {
+		OR = {
+			government = administrative_kingdom
+			government = mercantile_kingdom
+			government = militaristic_kingdom
+		}
+		primary_culture = culture_dalaran
+		# Add others
+	}
+}
+
+gov_kingdom_kul_tiras = {
+	rank = {
+		1 = PETTY_ADMIRALITY
+		2 = ADMIRALITY
+		3 = GRAND_ADMIRALITY
+	}
+	
+	ruler_male = {
+		1 = LORD
+		2 = KING
+		3 = EMPEROR
+	}
+	
+	ruler_female = {
+		1 = LADY
+		2 = QUEEN
+		3 = EMPRESS
+	}
+	
+	trigger = {
+		OR = {
+			government = administrative_kingdom
+			government = mercantile_kingdom
+			government = militaristic_kingdom
+		}
+		primary_culture = culture_kul_tiran
+	}
+}
+
+gov_kingdom_dragonflight = {
+	rank = {
+		1 = DRAGONFLIGHT
+		2 = DRAGONFLIGHT
+		3 = DRAGONFLIGHT
+	}
+	
+	ruler_male = {
+		1 = LORD
+		2 = LORD
+		3 = LORD
+	}
+	
+	ruler_female = {
+		1 = LADY
+		2 = LADY
+		3 = LADY
+	}
+	
+	trigger = {
+		OR = {
+			government = administrative_kingdom
+			government = mercantile_kingdom
+			government = militaristic_kingdom
+		}
+		culture_group = culture_group_dragonkin
+	}
+}
+
+gov_kingdom = {
+	rank = {
+		1 = HOLDING
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+	
+	ruler_male = {
+		1 = LORD
+		2 = KING
+		3 = EMPEROR
+	}
+	
+	ruler_female = {
+		1 = LADY
+		2 = QUEEN
+		3 = EMPRESS
+	}
+	
+	trigger = {
+		OR = {
+			government = administrative_kingdom
+			government = mercantile_kingdom
+			government = militaristic_kingdom
+		}
+	}
+}
+
+########################
+# Republics
+########################
+gov_republic_ethereal = {
+	rank = {
+		1 = TRADE_COMPANY
+		2 = TRADE_CARTEL
+		3 = TRADE_CONSORTIUM
+	}
+	
+	ruler_male = {
+		1 = MOGUL
+		2 = TRADE_PRINCE
+		3 = TRADE_KING
+	}
+	
+	ruler_female = {
+		1 = MOGUL
+		2 = TRADE_PRINCESS
+		3 = TRADE_QUEEN
+	}
+	
+	trigger = {
+		OR = {
+			government = administrative_republic
+			government = mercantile_republic
+			government = militaristic_republic
+		}
+		culture_group = culture_group_ethereal
+	}
+}
+
+gov_republic_tinker = {
+	rank = {
+		1 = TINKER_REPUBLIC
+		2 = TINKER_REPUBLIC
+		3 = TINKER_REPUBLIC
+	}
+	
+	ruler_male = {
+		1 = TINKER
+		2 = HIGH_TINKER
+		3 = GRAND_TINKER
+	}
+	
+	ruler_female = {
+		1 = TINKER
+		2 = HIGH_TINKER
+		3 = GRAND_TINKER
+	}
+	
+	trigger = {
+		OR = {
+			government = administrative_republic
+			government = mercantile_republic
+			government = militaristic_republic
+		}
+		culture_group = culture_group_gnomish
+	}
+}
+
+gov_republic = {
+	rank = {
+		1 = COUNCIL
+		2 = REPUBLIC
+		3 = GRAND_REPUBLIC
+	}
+	
+	ruler_male = {
+		1 = MAGISTRATE
+		2 = MAGISTRATE
+		3 = GRAND_MAGISTRATE
+	}
+	
+	ruler_female = {
+		1 = MAGISTRATE
+		2 = MAGISTRATE
+		3 = GRAND_MAGISTRATE
+	}
+	
+	trigger = {
+		OR = {
+			government = administrative_republic
+			government = mercantile_republic
+			government = militaristic_republic
+		}
+	}
+}
+
+gov_dictatorship = {
+	rank = {
+		1 = PETTY_DICTATORSHIP
+		2 = DICTATORSHIP
+		3 = GRAND_DICTATORSHIP
+	}
+	
+	ruler_male = {
+		1 = COMMANDER
+		2 = COMMANDER
+		3 = COMMANDER
+	}
+	
+	ruler_female = {
+		1 = COMMANDER
+		2 = COMMANDER
+		3 = COMMANDER
+	}
+	
+	trigger = {
+		government = dictatorship_gov
+	}
+}
+
+########################
+# Religion
+########################
+gov_theocracy_elune = {
+	rank = {
+		1 = LOCAL_DRUID_CIRCLE
+		2 = DRUID_CIRCLE
+		3 = GRAND_DRUID_CIRCLE
+	}
+	
+	ruler_male = {
+		1 = ARCHDRUID
+		2 = ARCHDRUID
+		3 = ARCHDRUID
+	}
+	
+	ruler_female = {
+		1 = ARCHDRUID
+		2 = ARCHDRUID
+		3 = ARCHDRUID
+	}
+	
+	trigger = {
+		OR = {
+			government = administrative_theocracy
+			government = mercantile_theocracy
+			government = militaristic_theocracy
+		}
+		religion = religion_elune
+	}
+}
+
+gov_theocracy_naaru = {
+	rank = {
+		1 = PETTY_THEOCRACY
+		2 = THEOCRACY
+		3 = GRAND_THEOCRACY
+	}
+	
+	ruler_male = {
 		1 = EXODAR
-	}
-	
-	ruler_male = {
-		1 = PROPHET
-	}
-	
-	ruler_female = {
-		1 = PROPHETESS
-	}
-	
-	trigger = {
-		government = exodar_city
-	}
-}
-
-gov_legion = {
-	rank = {
-		1 = LEGION
-		2 = LEGION
-		3 = LEGION
-	}
-	
-	ruler_male = {
-		1 = LEGION_COMMANDER
-		2 = LEGION_COMMANDER
-		3 = LEGION_COMMANDER
+		2 = PROPHET
+		3 = PROPHET
 	}
 	
 	ruler_female = {
-		1 = LEGION_COMMANDER
-		2 = LEGION_COMMANDER
-		3 = LEGION_COMMANDER
+		1 = EXODAR
+		2 = PROPHETESS
+		3 = PROPHETESS
 	}
 	
 	trigger = {
-		government = legion
+		OR = {
+			government = administrative_theocracy
+			government = mercantile_theocracy
+			government = militaristic_theocracy
+		}
+		religion = religion_light_of_the_naaru
 	}
 }
 
-gov_twilight_cabal = {
+gov_theocracy = {
 	rank = {
-		1 = TWILIGHT_CABAL
-		2 = TWILIGHT_CABAL
-		3 = TWILIGHT_CABAL
+		1 = PETTY_THEOCRACY
+		2 = THEOCRACY
+		3 = GRAND_THEOCRACY
 	}
 	
 	ruler_male = {
-		1 = HIGH_COUNCILLOR
-		2 = HIGH_COUNCILLOR
-		3 = HIGH_COUNCILLOR
+		1 = PRIEST
+		2 = PRIEST
+		3 = HIGH_PRIEST
 	}
 	
 	ruler_female = {
-		1 = HIGH_COUNCILLOR
-		2 = HIGH_COUNCILLOR
-		3 = HIGH_COUNCILLOR
+		1 = PRIESTESS
+		2 = PRIESTESS
+		3 = HIGH_PRIESTESS
 	}
 	
 	trigger = {
-		government = twilight_cabal
+		OR = {
+			government = administrative_theocracy
+			government = mercantile_theocracy
+			government = militaristic_theocracy
+		}
 	}
 }
 
-gov_horde = {
+gov_order_scarlet_crusade = {
 	rank = {
-		1 = HORDE
-		2 = HORDE
-		3 = HORDE
+		1 = SCARLET_CRUSADE
+		2 = SCARLET_CRUSADE
+		3 = SCARLET_CRUSADE
+	}
+	
+	ruler_male = {
+		1 = CRUSADER
+		2 = CRUSADER
+		3 = GRAND_CRUSADER
+	}
+	
+	ruler_female = {
+		1 = CRUSADER
+		2 = CRUSADER
+		3 = GRAND_CRUSADER
+	}
+	
+	trigger = {
+		OR = {
+			government = administrative_order
+			government = mercantile_order
+			government = militaristic_order
+		}
+		tag = A22
+	}
+}
+
+gov_order_scarlet_onslaught = {
+	rank = {
+		1 = SCARLET_ONSLAUGHT
+		2 = SCARLET_ONSLAUGHT
+		3 = SCARLET_ONSLAUGHT
+	}
+	
+	ruler_male = {
+		1 = CRUSADER
+		2 = CRUSADER
+		3 = GRAND_CRUSADER
+	}
+	
+	ruler_female = {
+		1 = CRUSADER
+		2 = CRUSADER
+		3 = GRAND_CRUSADER
+	}
+	
+	trigger = {
+		OR = {
+			government = administrative_order
+			government = mercantile_order
+			government = militaristic_order
+		}
+		tag = F18
+	}
+}
+
+gov_order_argent_crusade = {
+	rank = {
+		1 = ARGETN_CRUSADE
+		2 = ARGETN_CRUSADE
+		3 = ARGETN_CRUSADE
+	}
+	
+	ruler_male = {
+		1 = CRUSADER
+		2 = CRUSADER
+		3 = GRAND_CRUSADER
+	}
+	
+	ruler_female = {
+		1 = CRUSADER
+		2 = CRUSADER
+		3 = GRAND_CRUSADER
+	}
+	
+	trigger = {
+		OR = {
+			government = administrative_order
+			government = mercantile_order
+			government = militaristic_order
+		}
+		tag = F19
+	}
+}
+
+
+gov_order_argent_dawn = {
+	rank = {
+		1 = ARGENT_DAWN
+		2 = ARGENT_DAWN
+		3 = ARGENT_DAWN
+	}
+	
+	ruler_male = {
+		1 = CRUSADER
+		2 = CRUSADER
+		3 = GRAND_CRUSADER
+	}
+	
+	ruler_female = {
+		1 = CRUSADER
+		2 = CRUSADER
+		3 = GRAND_CRUSADER
+	}
+	
+	trigger = {
+		OR = {
+			government = administrative_order
+			government = mercantile_order
+			government = militaristic_order
+		}
+		tag = A24
+	}
+}
+
+
+gov_order = {
+	rank = {
+		1 = PETTY_ORDER
+		2 = ORDER
+		3 = GRAND_ORDER
+	}
+	
+	ruler_male = {
+		1 = CRUSADER
+		2 = CRUSADER
+		3 = GRAND_CRUSADER
+	}
+	
+	ruler_female = {
+		1 = CRUSADER
+		2 = CRUSADER
+		3 = GRAND_CRUSADER
+	}
+	
+	trigger = {
+		OR = {
+			government = administrative_order
+			government = mercantile_order
+			government = militaristic_order
+		}
+	}
+}
+
+gov_cult = {
+	rank = {
+		1 = PETTY_CULT
+		2 = CULT
+		3 = GRAND_CULT
+	}
+	
+	ruler_male = {
+		1 = CULTIST
+		2 = CULTIST
+		3 = GRAND_CULTIST
+	}
+	
+	ruler_female = {
+		1 = CULTIST
+		2 = CULTIST
+		3 = GRAND_CULTIST
+	}
+	
+	trigger = {
+		government = cult_gov
+	}
+}
+
+########################
+# Nomad
+########################
+gov_warband_gov_horde = {
+	rank = {
+		1 = THE_HORDE
+		2 = THE_HORDE
+		3 = THE_HORDE
 	}
 	
 	ruler_male = {
@@ -80,24 +509,71 @@ gov_horde = {
 	}
 	
 	ruler_female = {
-		1 = WARCHIEF_F
-		2 = WARCHIEF_F
-		3 = WARCHIEF_F
+		1 = WAR_MISTRESS
+		2 = WAR_MISTRESS
+		3 = WAR_MISTRESS
 	}
 	
 	trigger = {
-		OR = {
-			government = orcish_horde
-			government = warcraft_horde
-		}
+		government = warband_gov
+		primary_culture = culture_horde
 	}
 }
 
-gov_scourge = {
+gov_warband_gov_pirate = {
 	rank = {
-		1 = UNDEAD_SCOURGE
-		2 = UNDEAD_SCOURGE
-		3 = UNDEAD_SCOURGE
+		1 = PIRATE_CLAN
+		2 = PIRATE_CLAN
+		3 = PIRATE_CLAN
+	}
+	
+	ruler_male = {
+		1 = PIRATE_KING
+		2 = PIRATE_KING
+		3 = PIRATE_KING
+	}
+	
+	ruler_female = {
+		1 = PIRATE_QUEEN
+		2 = PIRATE_QUEEN
+		3 = PIRATE_QUEEN
+	}
+	
+	trigger = {
+		government = warband_gov
+		tag = XXX #todo add the pirate tags
+	}
+}
+
+gov_warband_gov = {
+	rank = {
+		1 = PETTY_WARBAND
+		2 = WARBAND
+		3 = GRAND_WARBAND
+	}
+	
+	ruler_male = {
+		1 = WARCHIEF
+		2 = WARCHIEF
+		3 = WARCHIEF
+	}
+	
+	ruler_female = {
+		1 = WAR_MISTRESS
+		2 = WAR_MISTRESS
+		3 = WAR_MISTRESS
+	}
+	
+	trigger = {
+		government = warband_gov
+	}
+}
+
+gov_scourge_main = {
+	rank = {
+		1 = SCOURGE
+		2 = SCOURGE
+		3 = SCOURGE
 	}
 	
 	ruler_male = {
@@ -113,687 +589,111 @@ gov_scourge = {
 	}
 	
 	trigger = {
-		government = scourge_horde
-		tag = E11
-	}
-}
-gov_nathrezim = {
-	rank = {
-		1 = LEGION
-		2 = LEGION
-		3 = LEGION
-	}
-	
-	ruler_male = {
-		1 = DREADLORD
-		2 = DREADLORD
-		3 = DREADLORD
-	}
-	
-	ruler_female = {
-		1 = DREADLADY
-		2 = DREADLADY
-		3 = DREADLADY
-	}
-	
-	trigger = {
-		government = scourge_horde
-		tag = F15
-	}
-}
-gov_cult_damned = {
-	rank = {
-		1 = CULT
-		2 = CULT
-		3 = CULT
-	}
-	
-	ruler_male = {
-		1 = CULTIST
-		2 = HEADMASTER
-		3 = ARCHLICH
-	}
-	
-	ruler_female = {
-		1 = CULTIST
-		2 = HEADMISTRESS
-		3 = ARCHLICH
-	}
-	
-	trigger = {
-		government = scourge_horde
-		primary_culture = culture_cultist
+		government = scourge_gov
+		tag = XXX # Add Lich King tag
 	}
 }
 
-gov_scourge_command = {
+gov_scourge = {
 	rank = {
-		1 = UNDEAD_SCOURGE
-		2 = UNDEAD_SCOURGE
-		3 = UNDEAD_SCOURGE
+		1 = SCOURGE
+		2 = SCOURGE
+		3 = SCOURGE
 	}
-	
-	ruler_male = {
-		1 = SCOURGE_LIUTENANT
-		2 = SCOURGE_COMMANDER
-		3 = LICH_KING
-	}
-	
-	ruler_female = {
-		1 = SCOURGE_LIUTENANT
-		2 = SCOURGE_COMMANDER
-		3 = LICH_QUEEN
-	}
-	
-	trigger = {
-		government = scourge_horde
-		OR = {
-			tag = E52
-			tag = F21
-		}
-	}
-}
-
-gov_criminal = {
-	rank = {
-		1 = CRIMINAL_ORGANIZATION
-	}
-	
-	ruler_male = {
-		1 = KINGPIN
-	}
-	
-	ruler_female = {
-		1 = KINGPIN
-	}
-	
-	trigger = {
-		government = criminal_organization
-	}
-}
-
-scarlet = {
-	rank = {
-		1 = RELIGIOUS_ORDER
-		2 = RELIGIOUS_ORDER
-	}
-	
-	ruler_male = {
-		1 = HIGH_INQUISITOR
-		2 = GRAND_CRUSADER
-	}
-	
-	ruler_female = {
-		1 = HIGH_INQUISITOR
-		2 = GRAND_CRUSADER
-	}
-	
-	trigger = {
-		government = scarlet_crusade
-	}
-}
-
-argent = {
-	rank = {
-		1 = RELIGIOUS_ORDER
-		2 = RELIGIOUS_ORDER
-	}
-	
-	ruler_male = {
-		1 = LORD
-		2 = HIGHLORD
-	}
-	
-	ruler_female = {
-		1 = LADY
-		2 = HIGHLADY
-	}
-	
-	trigger = {
-		government = argent_crusade
-	}
-}
-
-orc_ogre_clan = {
-	rank = {
-		1 = CLAN
-		2 = CLAN
-		3 = EMPIRE
-	}	
-	
-	ruler_male = {
-		1 = CHIEF
-		2 = WARLORD
-		3 = IMPERATOR
-	}
-	
-	ruler_female = {
-		1 = CHIEFTESS
-		2 = WARLORD_fem	
-		3 = EMPRESS
-	}
-	
-	trigger = {
-		AND = {
-			OR = {
-				government = tribal_despotism
-				government = minor_tribe
-				government = warband
-				government = tribal_federation
-			}    
-			OR = {
-				technology_group = tech_orc
-				technology_group = tech_ogre
-			}  
-		}
-	}
-}
-
-troll_tribe = {
-	rank = {
-		1 = TRIBE
-		2 = TRIBE
-		3 = EMPIRE
-	}	
-	
-	ruler_male = {
-		1 = CHIEF
-		2 = WARLORD
-		3 = EMPEROR
-	}
-	
-	ruler_female = {
-		1 = CHIEFTESS
-		2 = WARLORD_fem	
-		3 = EMPRESS
-	}
-	
-	trigger = {
-		AND = {
-			OR = {
-				government = tribal_despotism
-				government = minor_tribe
-				government = warband
-				government = tribal_federation
-			}     
-			technology_group = tech_troll
-		}
-	}
-}
-
-gov_warband = {
-	rank = {
-		1 = WARBAND
-		2 = WARBAND
-		3 = EMPIRE
-	}	
-	
-	ruler_male = {
-		1 = CHIEF
-		2 = WARLORD
-		3 = IMPERATOR
-	}
-	
-	ruler_female = {
-		1 = CHIEFTESS
-		2 = WARLORD_fem	
-		3 = EMPRESS
-	}
-	trigger = {
-		government = warband
-	}
-}
-
-wildhammer_clan = {
-	rank = {
-		1 = CLAN
-		2 = CLAN
-		3 = EMPIRE
-	}	
-	
-	ruler_male = {
-		1 = THANE
-		2 = THANE
-		3 = EMPEROR
-	}
-	
-	ruler_female = {
-		1 = THANESS
-		2 = THANESS	
-		3 = EMPRESS
-	}
-	
-	trigger = {
-		primary_culture = culture_wildhammer
-		government = monarchy 
-	}
-}
-
-default_tribal = {
-	rank = {
-		1 = TRIBE
-		2 = TRIBE
-		3 = GREAT_TRIBE
-	}
-
-	ruler_male = {
-		1 = CHIEF
-		2 = CHIEF
-		3 = GREAT_CHIEF
-	}
-
-	ruler_female = {
-		1 = CHIEFTESS
-		2 = CHIEFTESS
-		3 = GREAT_CHIEFTESS
-	}
-
-	trigger = {
-		OR = {
-			government = tribal_despotism
-			government = minor_tribe
-			government = tribal_federation
-			government = tribal_democracy
-		}
-	}
-}
-
-
-military_dictat_garithos = {
-	rank = {
-		1 = MILITARY_DICTAT
-		2 = MILITARY_DICTAT
-		3 = EMPIRE
-	}	
-	
-	ruler_male = {
-		1 = MARSHAL
-		2 = GRAND_MARSHAL
-		3 = EMPEROR
-	}
-	
-	ruler_female = {
-		1 = MARSHAL
-		2 = GRAND_MARSHAL	
-		3 = EMPRESS
-	}
-	
-	trigger = {
-		government = military_dictat
-		tag = A25
-	}
-}
-
-
-military_dictat = {
-	rank = {
-		1 = MILITARY_DICTAT
-		2 = MILITARY_DICTAT
-		3 = EMPIRE
-	}	
 	
 	ruler_male = {
 		1 = COMMANDER
-		2 = LORD
-		3 = EMPEROR
+		2 = COMMANDER
+		3 = COMMANDER
 	}
 	
 	ruler_female = {
-		1 = COMMANDER_fem
-		2 = LADY	
-		3 = EMPRESS
+		1 = COMMANDER
+		2 = COMMANDER
+		3 = COMMANDER
 	}
 	
 	trigger = {
-		government = military_dictat
+		government = scourge_gov
+		tag = XXX # add other scourge tags
 	}
 }
 
-draconic_kingdom = {
+gov_expenditionary_force = {
 	rank = {
-		1 = DRAGONFLIGHT
-		2 = DRAGONFLIGHT
-		3 = DRAGONFLIGHT
-	}	
-	
-	ruler_male = {
-		1 = CONSORT
-		2 = ASPECT
-		3 = ASPECT
-	}
-	
-	ruler_female = {
-		1 = CONSORT_fem
-		2 = ASPECT_fem	
-		3 = ASPECT_fem
-	}
-	
-	trigger = {
-		government = draconic_kingdom
-	}
-}
-
-elemental_kingdom = {
-	rank = {
-		1 = ELEMENTAL_KINGDOM
-		2 = ELEMENTAL_KINGDOM
-		3 = ELEMENTAL_KINGDOM
-	}	
-	
-	ruler_male = {
-		1 = LORD
-		2 = ELEMENTAL_LORD
-		3 = ELEMENTAL_LORD
-	}
-	
-	ruler_female = {
-		1 = LADY
-		2 = ELEMENTAL_LADY	
-		3 = ELEMENTAL_LADY
-	}
-	
-	trigger = {
-		government = elemental_kingdom
-	}
-}
-
-pirate_clan = {
-	rank = {
-		1 = PIRATE_CLAN
-		2 = PIRATE_CLAN
-		3 = EMPIRE
-	}	
-	
-	ruler_male = {
-		1 = CAPTAIN
-		2 = BARON
-		3 = PIRATE_KING
-	}
-	
-	ruler_female = {
-		1 = CAPTAIN_fem
-		2 = BARONESS	
-		3 = PIRATE_QUEEN
-	}
-	
-	trigger = {
-		government = pirate_clan
-	}
-}
-
-dark_iron_monarchy = {
-	rank = {
-		1 = CLAN
-		2 = EMPIRE
-		3 = EMPIRE
-	}	
-	
-	ruler_male = {
-		1 = THANE
-		2 = EMPEROR
-		3 = EMPEROR
-	}
-	
-	ruler_female = {
-		1 = THANESS
-		2 = EMPRESS	
-		3 = EMPRESS
-	}
-	
-	trigger = {
-		government = monarchy
-		primary_culture = culture_dark_iron
-	}
-}
-
-ironforge_monarchy = {
-	rank = {
-		1 = CLAN
-		2 = KINGDOM
-		3 = EMPIRE
-	}	
-	
-	ruler_male = {
-		1 = THANE
-		2 = KING
-		3 = EMPEROR
-	}
-	
-	ruler_female = {
-		1 = THANESS
-		2 = QUEEN	
-		3 = EMPRESS
-	}
-	
-	trigger = {
-		government = monarchy
-		primary_culture = culture_ironforge
-	}
-}
-
-admiralship = {
-	rank = {
-		1 = DOMINION
-		2 = ADMIRALSHIP
-		3 = GRAND_ADMIRALSHIP
-	}	
-	
-	ruler_male = {
-		1 = CAPTAIN
-		2 = LORD_ADMIRAL
-		3 = GRAND_ADMIRAL
-	}
-	
-	ruler_female = {
-		1 = CAPTAIN_fem
-		2 = LADY_ADMIRAL	
-		3 = GRAND_ADMIRAL_fem
-	}
-	
-	trigger = {
-		government = kul_tiras
-	}
-}
-
-roaming_trade_company = {
-	rank = {
-		1 = COMPANY
-		2 = CARTEL
-		3 = MONOPOLY
+		1 = EXPENDITIONARY_FORCE
+		2 = EXPENDITIONARY_FORCE
+		3 = EXPENDITIONARY_FORCE
 	}
 	
 	ruler_male = {
-		1 = MOGUL
-		2 = TRADE_PRINCE
-		3 = TRADE_KING
+		1 = COMMANDER
+		2 = COMMANDER
+		3 = COMMANDER
 	}
 	
 	ruler_female = {
-		1 = MOGUL_fem
-		2 = TRADE_PRINCESS
-		3 = TRADE_QUEEN
+		1 = COMMANDER
+		2 = COMMANDER
+		3 = COMMANDER
 	}
 	
 	trigger = {
-		government = roaming_trade_company
-	}       
+		government = expenditionary_force
+	}
 }
 
-tinker_republic = {
+gov_criminal_organisation = {
 	rank = {
-		1 = TINKER_REPUBLIC
-		2 = TINKER_REPUBLIC
-		3 = GRAND_TINKER_REPUBLIC
+		1 = CRIMINAL_GANG
+		2 = CRIMINAL_COLLECTIVE
+		3 = CRIMINAL_ORGANISATION
 	}
 	
 	ruler_male = {
-		1 = TINKER
-		2 = HIGH_TINKER
-		3 = GRAND_TINKER
+		1 = KINGPIN
+		2 = KINGPIN
+		3 = KINGPIN
 	}
 	
 	ruler_female = {
-		1 = TINKER_fem
-		2 = HIGH_TINKER_fem
-		3 = GRAND_TINKER_fem
+		1 = KINGPIN
+		2 = KINGPIN
+		3 = KINGPIN
 	}
 	
 	trigger = {
-		government = tinker_republic
-	}       
-}
-
-warcraft_republic = {
-	rank = {
-		1 = SHIRE
-		2 = REPUBLIC
-		3 = GRAND_REPUBLIC
-	}
-	
-	ruler_male = {
-		1 = MAGISTRATE
-		2 = MAGISTRATE
-		3 = GRAND_MAGISTRATE
-	}
-	
-	ruler_female = {
-		1 = MAGISTRATE_fem
-		2 = MAGISTRATE_fem
-		3 = GRAND_MAGISTRATE_fem
-	}
-	
-	trigger = {
-		government = administrative_republic
-	}       
-}
-
-light_theocracy = {
-	rank = {
-		1 = BISHOPRIC
-		2 = ARCHBISHOPRIC
-		3 = IMPERIAL_BISHOPRIC
-	}
-	
-	ruler_male = {
-		1 = BISHOP
-		2 = ARCHBISHOP
-		3 = PATRIARCH
-	}
-	
-	ruler_female = {
-		1 = BISHOP_fem
-		2 = ARCHBISHOP_fem
-		3 = MATRIARCH
-	}
-	
-	trigger = {
-		religion = religion_church_of_the_light	
-		government = theocratic_government     
+		government = criminal_organisation
 	}
 }
 
-magocracy = {
+########################
+# Tribal
+########################
+gov_tribe = {
 	rank = {
-		1 = PETTY_MAGOCRACY
-		2 = MAGOCRACY
-		3 = GRAND_MAGOCRACY
-	}
-	
-	ruler_male = {
-		1 = MAGE
-		2 = ARCHMAGE
-		3 = GRAND_MAGUS
-	}
-	
-	ruler_female = {
-		1 = MAGE_fem
-		2 = ARCHMAGE_fem
-		3 = GRAND_MAGUS_fem
-	}
-	
-	trigger = {
-		OR = { 
-			government = despotic_magocracy
-			government = magocracy_republic
-		}
-	}
-}
-
-lordaeron_vassal = {
-	rank = {
-		1 = BARONY
-		2 = BARONY
-		3 = KINGDOM
-	}
-	
-	ruler_male = {
-		1 = BARON
-		2 = BARON
-		3 = KING
-	}
-	
-	ruler_female = {
-		1 = BARONESS
-		2 = BARONESS
-		3 = QUEEN
-	}
-	
-	trigger = {
-		government = monarchy
-		OR = {
-			tag = E62
-			tag = A10
-		}
-		is_vassal = yes
-	}
-}
-
-tauren_tribe = {
-	rank = {
-		1 = TRIBE
+		1 = PETTY_TRIBE
 		2 = TRIBE
-		3 = FEDERATION
-	}	
+		3 = GRAND_TRIBE
+	}
 	
 	ruler_male = {
-		1 = ELDER
+		1 = CHIEFTAIN
 		2 = CHIEFTAIN
-		3 = HIGH_CHIEFTAIN
+		3 = CHIEFTAIN
 	}
 	
 	ruler_female = {
-		1 = ELDER
-		2 = CHIEFTESS
-		3 = HIGH_CHIEFTESS
+		1 = CHIEFESS
+		2 = CHIEFESS
+		3 = CHIEFESS
 	}
 	
 	trigger = {
-		government = thunderbluff_tribe
-		technology_group = tech_tauren 
-	}
-}
-
-druidic_theocracy = {
-	rank = {
-		1 = CIRCLE
-		2 = CIRCLE
-		3 = CIRCLE
-	}
-	
-	ruler_male = {
-		1 = DRUID
-		2 = ARCH_DRUID
-		3 = ARCH_DRUID
-	}
-	
-	ruler_female = {
-		1 = DRUID
-		2 = ARCH_DRUID
-		3 = ARCH_DRUID
-	}
-	
-	trigger = {
-		government = theocratic_government
-		religion = religion_druidic
+		OR = {
+			government = religious_tribe
+			government = mercantile_tribe
+			government = war_tribe
+		}
 	}
 }

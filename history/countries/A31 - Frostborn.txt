@@ -1,8 +1,8 @@
 # Frostborn
-government 		= despotic_monarchy
+government 			= war_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_dwarven
-religion		= religion_titan
+religion			= religion_titan
 primary_culture 	= culture_frostborn
 capital 			= 576
 

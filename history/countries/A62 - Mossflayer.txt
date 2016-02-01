@@ -1,7 +1,6 @@
 # Mossflayer
 # Amani
-government			= warband
-government_rank		= 2
+government			= warband_gov
 mercantilism 		= 0.1
 technology_group 	= tech_troll
 religion			= religion_loa

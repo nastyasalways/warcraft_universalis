@@ -1,5 +1,5 @@
 # Coilskar
-government 		= military_dictat
+government 			= militaristic_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_naga
 religion			= religion_old_gods
@@ -8,13 +8,12 @@ capital 			= 1
 
 618.1.1 = { 
 	monarch = { 
-		name = "" 
+		name = "Neik'ja" 
 		dynasty = "Vashj" 
 		adm = 4
 		dip = 5
 		mil = 4
-                female = yes
-                
+		female = yes        
 	} 
 }
 
@@ -24,8 +23,6 @@ capital 			= 1
 		dynasty = "Coilskar" 
 		adm = 3
 		dip = 3
-		mil = 4
-                
-	} 
-government = warband
+		mil = 4    
+	}
 }

@@ -1,5 +1,5 @@
 # Sunfury
-government 		= despotic_monarchy
+government 			= administrative_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_thalassian
 religion			= religion_arcane

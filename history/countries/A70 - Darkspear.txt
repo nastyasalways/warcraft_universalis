@@ -1,6 +1,5 @@
 # Darkspear
-government 		= warband
-government_rank = 1
+government 			= warband_gov
 mercantilism 		= 0.1
 technology_group 	= tech_troll
 religion			= religion_loa

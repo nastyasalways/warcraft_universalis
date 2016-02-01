@@ -1,5 +1,5 @@
 # Karazhan
-government 		= despotic_magocracy
+government 			= militaristic_kingdom
 mercantilism 		= 0.1 
 technology_group 	= tech_human
 religion			= religion_arcane

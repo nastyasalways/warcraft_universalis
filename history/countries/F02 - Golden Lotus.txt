@@ -1,8 +1,8 @@
 # Dreadmaul
-government 		= monastic_order_government
+government 			= militaristic_theocracy
 mercantilism 		= 0.1 
 technology_group 	= tech_pandaren
-religion		= religion_celestial
+religion			= religion_celestial
 primary_culture 	= culture_golden_lotus
 capital 			= 1
 

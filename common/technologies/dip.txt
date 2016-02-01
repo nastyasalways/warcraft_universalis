@@ -4,744 +4,420 @@ ahead_of_time = {
 	trade_efficiency 		= 0.2
 }
 
-#545
+# 0
 technology = {
 	year = 545
 	
 	merchants = yes
-	allow_client_states = yes	
+	
 	
 	naval_maintenance		=	0.1
 	naval_morale			=	2.0
-	range					=	60
-	trade_range				=	100
-	global_colonial_growth	= 	10
+	range					=	450
+	trade_range				=	450
+	global_colonial_growth	= 	5
+	
+	enable = w_cog
+	enable = w_galley
+	enable = w_barque
+	enable = w_carrack 
 }
 
-#550
+# 1
 technology = {
 	year = 550
 	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
+	naval_morale			= 0.5
+	naval_maintenance		= 0.1
 }
 
-#555
+# 2
 technology = {
 	year = 555
 	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
+	trade_range				= 50
+	range					= 50
+	global_colonial_growth	= 10
 }
 
-#560
+# 3
 technology = {
 	year = 560
 	
+	trade_efficiency 		= 0.05
 }
 
-#565
+# 4
 technology = {
 	year = 565
 	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
+	# building
 }
 
-#570
+# 5
 technology = {
 	year = 570
 	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
+	naval_morale			= 0.5
+	naval_maintenance		= 0.1
 }
 
-#575
+# 6
 technology = {
 	year = 575
 	
+	trade_range				= 100
+	range					= 100
+	global_colonial_growth	= 15
 }
 
-#580
+# 7
 technology = {
 	year = 580
 	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
+	trade_efficiency 		= 0.05
 }
 
-#585
+# 8
 technology = {
 	year = 585
 	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
+	# building
 }
 
-#590
+# 9
 technology = {
 	year = 590
 	
+	naval_morale			= 0.5
+	naval_maintenance		= 0.1
 }
 
-#595
+# 10
 technology = {
 	year = 595
 	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
 	trade_range				= 100
+	range					= 100
+	global_colonial_growth	= 15
 }
 
-#600
+# 11
 technology = {
 	year = 600
 	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
+	trade_efficiency 		= 0.05
 }
 
-#605
+# 12
 technology = {
 	year = 605
 	
+	# building
 }
 
-#610
+# 13
 technology = {
 	year = 610
 	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
+	naval_morale			= 0.5
+	naval_maintenance		= 0.05
 }
 
-#615
+# 14
 technology = {
 	year = 615
 	
+	trade_range				= 100
 	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
+	global_colonial_growth	= 15
 }
 
-#620
+# 15
 technology = {
 	year = 620
-	
+
+	trade_efficiency 		= 0.05
 }
 
-#625
+# 16
 technology = {
 	year = 625
 	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
+	# building
 }
 
-#630
+# 17
 technology = {
 	year = 630
 	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
+	naval_morale			= 0.5
+	naval_maintenance		= 0.05
 }
 
-#635
+# 18
 technology = {
 	year = 635
 	
+	trade_range				= 100
+	range					= 100
+	global_colonial_growth	= 20
 }
 
-#640
+# 19
 technology = {
 	year = 640
 
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
+	trade_efficiency 		= 0.05
 }
 
-#645
+# 20
 technology = {
 	year = 645
 	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
+	# building
 }
 
-#650
+# 21
 technology = {
 	year = 650
 	
+	naval_morale			= 0.5
+	naval_maintenance		= 0.05
 }
 
-#655
+# 22
 technology = {
 	year = 655
 	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
 	trade_range				= 100
+	range					= 100
+	global_colonial_growth	= 20
 }
 
-#660
+# 23
 technology = {
 	year = 660
 	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
+	trade_efficiency 		= 0.05
 }
 
-#665
+# 24
 technology = {
 	year = 665
 	
+	naval_morale			= 0.25
+	naval_maintenance		= 0.05
 }
 
-#670
+# 25
 technology = {
 	year = 670
 	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
+	trade_range				= 200
+	range					= 200
+	global_colonial_growth	= 20
 }
 
-#675
+# 26
 technology = {
 	year = 675
 	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
+	trade_efficiency 		= 0.05
+	
+	reduced_naval_attrition = yes
 }
 
-#680
+# 27
 technology = {
 	year = 680
 	
+	naval_morale			= 0.25
+	naval_maintenance		= 0.05
 }
 
-#685
+# 28
 technology = {
 	year = 685
 	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
+	trade_range				= 200
+	range					= 200
+	global_colonial_growth	= 20
 }
 
-#690
+# 29
 technology = {
 	year = 690
 	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
+	trade_efficiency 		= 0.05
+	
+	allow_client_states = yes	
 }
 
-#695
+# 30
 technology = {
 	year = 695
 	
+	naval_morale			= 0.25
+	naval_maintenance		= 0.05
 }
 
-#700
+# 31
 technology = {
 	year = 700
 	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
+	trade_range				= 200
+	range					= 200
+	global_colonial_growth	= 20
 }
 
-#705
+# 32
 technology = {
 	year = 705
 	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
+	trade_efficiency 		= 0.1
 }
 
-#710
+# 33
 technology = {
 	year = 710
 	
+	naval_morale			= 0.25
+	naval_maintenance		= 0.05
 }
 
-#715
+# 34
 technology = {
 	year = 715
 	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
+	trade_range				= 200
+	range					= 200
+	global_colonial_growth	= 20
 }
 
-#720
+# 35
 technology = {
 	year = 720
 	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
+	trade_efficiency 		= 0.1
 }
 
-#725
+# 36
 technology = {
 	year = 725
 	
+	naval_morale			= 0.5
+	naval_maintenance		= 0.05
 }
 
-#730
+# 37
 technology = {
 	year = 730
 	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
+	trade_range				= 200
+	range					= 200
+	global_colonial_growth	= 20
 }
 
-#735
+# 38
 technology = {
 	year = 735
 	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
+	trade_efficiency 		= 0.1
 }
 
-#740
+# 39
 technology = {
 	year = 740
 	
+	naval_morale			= 0.5
+	naval_maintenance		= 0.05
 }
 
-#745
+# 40
 technology = {
 	year = 745
 	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
+	trade_range				= 200
+	range					= 200
+	global_colonial_growth	= 25
 }
 
-#750
+# 41
 technology = {
 	year = 750
 	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
+	trade_efficiency 		= 0.1
 }
 
-#755
+# 42
 technology = {
 	year = 755
 	
+	naval_morale			= 1.0
+	naval_maintenance		= 0.05
 }
 
-#760
+# 43
 technology = {
 	year = 760
 	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
+	trade_range				= 200
+	range					= 200
+	global_colonial_growth	= 25
 }
 
-#765
+# 44
 technology = {
 	year = 765
 	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
+	trade_efficiency 		= 0.1
 }
 
-#770
+# 45
 technology = {
 	year = 770
 	
+	naval_morale			= 1.0
+	naval_maintenance		= 0.05
 }
 
-#775
+# 46
 technology = {
 	year = 775
 	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
+	trade_range				= 300
+	range					= 300
+	global_colonial_growth	= 25
 }
 
-#780
+# 47
 technology = {
 	year = 780
 	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
+	trade_efficiency 		= 0.1
 }
 
-#785
+# 48
 technology = {
 	year = 785
 	
+	naval_morale			= 1.0
+	naval_maintenance		= 0.05
 }
 
-#790
+# 49
 technology = {
 	year = 790
 	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
+	trade_range				= 300
+	range					= 300
+	global_colonial_growth	= 25
 }
 
-#795
+# 50
 technology = {
 	year = 795
 	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
-}
-
-#800
-technology = {
-	year = 800
 	
-}
-
-#805
-technology = {
-	year = 805
-	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
-}
-
-#810
-technology = {
-	year = 810
-	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
-}
-
-#815
-technology = {
-	year = 815
-	
-}
-
-#820
-technology = {
-	year = 820
-	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
-}
-
-#825
-technology = {
-	year = 825
-	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
-}
-
-#830
-technology = {
-	year = 830
-	
-}
-
-#835
-technology = {
-	year = 835
-	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
-}
-
-#840
-technology = {
-	year = 840
-	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
-}
-
-#845
-technology = {
-	year = 845
-	
-}
-
-#850
-technology = {
-	year = 850
-	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
-}
-
-#855
-technology = {
-	year = 855
-	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
-}
-
-#860
-technology = {
-	year = 860
-	
-}
-
-#865
-technology = {
-	year = 865
-	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
-}
-
-#870
-technology = {
-	year = 870
-	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
-}
-
-#875
-technology = {
-	year = 875
-	
-}
-
-#880
-technology = {
-	year = 880
-	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
-}
-
-#885
-technology = {
-	year = 885
-	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
-}
-
-#890
-technology = {
-	year = 890
-	
-}
-
-#895
-technology = {
-	year = 895
-	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
-}
-
-#900
-technology = {
-	year = 900
-	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
-}
-
-#905
-technology = {
-	year = 905
-	
-}
-
-#910
-technology = {
-	year = 910
-	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
-}
-
-#915
-technology = {
-	year = 915
-	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
-}
-
-#920
-technology = {
-	year = 920
-	
-}
-
-#925
-technology = {
-	year = 925
-	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
-}
-
-#930
-technology = {
-	year = 930
-	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
-}
-
-#935
-technology = {
-	year = 935
-	
-}
-
-#940
-technology = {
-	year = 940
-	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
-}
-
-#945
-technology = {
-	year = 945
-	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
-}
-
-#950
-technology = {
-	year = 950
-	
-}
-
-#955
-technology = {
-	year = 955
-	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
-}
-
-#960
-technology = {
-	year = 960
-	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
-}
-
-#965
-technology = {
-	year = 965
-	
-}
-
-#970
-technology = {
-	year = 970
-	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
-}
-
-#975
-technology = {
-	year = 975
-	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
-}
-
-#980
-technology = {
-	year = 980
-	
-}
-
-#985
-technology = {
-	year = 985
-	
-	naval_morale			= 0.4
-	naval_maintenance		= 0.04
-	trade_range				= 100
-}
-
-#990
-technology = {
-	year = 990
-	
-	range					= 100
-	trade_efficiency 		= 0.03
-	global_colonial_growth	= 4
-}
-
-#995
-technology = {
-	year = 995
-	
-	trade_efficiency 		= 0.05
-}
-
-#1000
-technology = {
-	year = 1000
-	
-	trade_efficiency 		= 0.05
 }

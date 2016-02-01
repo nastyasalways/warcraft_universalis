@@ -1,337 +1,287 @@
-# A province can belong to several regions.
+# A province can belong to several areas.
+
+random_new_world_region = {
+	discover_if = {
+		always = no
+	}
+}
 
 # Warcraft
 # Eastern Kingdoms
-region_stormwind = {
-	area_stormwind
-}
-
-region_isle_of_quel_danas = {
-	area_isle_of_quel_danas
-}
-
-region_eversong_woods = {
-	area_eversong_woods
-}
-
-region_ghostlands = {
-	area_ghostlands
-}
-
-region_eastern_plaguelands = {
-	area_eastern_plaguelands
-}
-
-region_western_plaguelands = {
-	area_western_plaguelands
-}
-
-region_tirisfal_glades = {
-	area_tirisfal_glades
-}
-
-region_silverpine_forest = {
-	area_silverpine_forest
-}
-
-region_hillsbrad_foothills = {
-	area_hillsbrad_foothills
-}
-
-region_gilneas = {
-	area_gilneas
-}
-
-region_tol_barad = {
-	area_tol_barad
-}
-
-region_zul_dare = {
-	area_zul_dare
-}
-
-region_kul_tiras = {
-	area_kul_tiras
-}
-
-region_arathi_highlands = {
-	area_arathi_highlands
-}
-
-region_the_hinterlands = {
-	area_the_hinterlands
-}
-
-region_wetlands = {
-	area_wetlands
-}
-
-region_twilight_highlands = {
-	area_twilight_highlands
-}
-
-region_loch_modan = {
-	area_loch_modan
-}
-
-region_dun_morogh = {
-	area_dun_morogh
-}
-
-region_badlands = {
-	area_badlands
-}
-
-region_searing_gorge = {
-	area_searing_gorge
-}
-
-region_burning_steppes = {
-	area_burning_steppes
-}
-
-region_redridge_mountains = {
-	area_redridge_mountains
-}
-
-region_elwynn_forest = {
-	area_elwynn_forest
-}
-
-region_swamp_of_sorrows = {
-	area_swamp_of_sorrows
-}
-
-region_blasted_lands = {
-	area_blasted_lands
-}
-
-region_deadwind_pass = {
-	area_deadwind_pass
-}
-
-region_duskwood = {
-	area_duskwood
-}
-
-region_westfall = {
-	area_westfall
-}
-
-region_stranglethorn_vale = {
-	area_stranglethorn_vale
-}
-
-# Kalimdor
-region_teldrassil = {
-	area_teldrassil
-}
-
-region_bloodmyst_isle = {
-	area_bloodmyst_isle 
-}
-
-region_azuremyst_isle = {
-	area_azuremyst_isle
-}
-
-region_moonglade = {
-	area_moonglade
-}
-
-region_darkshore = {
-	area_darkshore
-}
-
-region_winterspring = {
-	area_winterspring
-}
-
-region_felwood = {
-	area_felwood
-}
-
-region_mount_hyjal = {
-	area_mount_hyjal
-}
-
-region_ashenvale = {
-	area_ashenvale
-}
-
-region_azshara = {
-	area_azshara
-}
-
-region_durotar = {
-	area_durotar
-}
-
-region_northern_barrens = {
-	area_northern_barrens
-}
-
-region_stonetalon_mountains = {
-	area_stonetalon_mountains
-}
-
-region_desolace = {
-	area_desolace
-}
-
-region_mulgore = {
-	area_mulgore
-}
-
-region_southern_barrens = {
-	area_southern_barrens
-}
-
-region_dustwallow_marsh = {
-	area_dustwallow_marsh
-}
-
-region_thousand_needles = {
-	area_thousand_needles
-}
-
-region_feralas = {
-	area_feralas
-}
-
-region_silithus = {
-	area_silithus
-}
-
-region_un_goro_crater = {
-	area_un_goro_crater
-}
-
-region_tanaris = {
-	area_tanaris
-}
-
-region_uldum = {
-	area_uldum
-}
-
-region_ahn_qiraj = {
-	area_ahn_qiraj
-}
-
-# Maelstrom
-region_the_lost_isles = {
-	area_the_lost_isles
-}
-
-# Northrend
-region_borean_tundra = {
-	area_borean_tundra
-}
-
-region_wintergrasp = {
-	area_wintergrasp
-}
-
-region_dragonblight = {
-	area_dragonblight
-}
-
-region_sholazar_basin = {
-	area_sholazar_basin 
-}
-
-region_icecrown = {
-	area_icecrown
-}
-
-region_storm_peak = {
-	area_storm_peak
-}
-
-region_zul_drak = {
-	area_zul_drak
-}
-
-region_grizzly_hills = {
-	area_grizzly_hills
-}
-
-region_crystalsong = {
-	area_crystalsong
-}
-
-region_howling_fjord = {
-	area_howling_fjord
-}
-
-# Outland 
-region_hellfire_peninsula = {
-	area_hellfire_peninsula
-}
-
-region_zangermarsh = {
-	area_zangermarsh
-}
-
-region_terokkar_forest = {
-	area_zangermarsh
-}
-
-region_nagrand = {
-	area_nagrand
-}
-
-region_shadowmoon_valley = {
-	area_shadowmoon_valley
-}
-
-region_blades_edge_mountains = {
-	area_blades_edge_mountains
-}
-
-region_netherstorm = {
-	area_netherstorm
-}
-
-# Pandaria 
-region_hidden_valley = {
-	area_hidden_valley
-}
-
-region_isle_of_thunder = {
-	area_isle_of_thunder
-}
-
-region_isle_of_giants = {
-	area_isle_of_giants
-}
-
-region_the_jade_forest = {
-	area_the_jade_forest
-}
-
-region_valley_of_the_four_winds = {
-	area_valley_of_the_four_winds
-}
-
-region_krasarang_wilds = {
-	area_krasarang_wilds
-}
 
-region_dread_wastes = {
-	area_dread_wastes
-}
-
-region_vale_of_eternal_blossoms = {
-	area_vale_of_eternal_blossoms
-}
+eastern_kingdoms_region = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_eastern_kingdoms
+		}
+	}
+	areas = {
+		area_isle_of_quel_danas
+		area_eversong_woods
+		area_ghostlands
+		area_eastern_plaguelands
+		area_western_plaguelands
+		area_tirisfal_glades
+		area_silverpine_forest
+		area_hillsbrad_foothills
+		area_gilneas
+		area_tol_barad
+		area_zul_dare
+		area_kul_tiras
+		area_arathi_highlands
+		area_the_hinterlands
+		area_wetlands
+		area_twilight_highlands
+		area_loch_modan
+		area_dun_morogh
+		area_badlands
+		area_searing_gorge
+		area_burning_steppes
+		area_redridge_mountains
+		area_elwynn_forest
+		area_swamp_of_sorrows
+		area_blasted_lands
+		area_deadwind_pass
+		area_duskwood
+		area_westfall
+		area_stranglethorn_vale
+		area_stormwind
+	}
+}
+
+kalimdor_region = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_kalimdor
+		}
+	}
+	discover_if = {
+		capital_scope = {
+			continent = continent_exodar
+		}
+	}
+	discover_if = {
+		capital_scope = {
+			continent = continent_darnassus
+		}
+	}
+	areas = {
+		area_moonglade
+		area_darkshore
+		area_winterspring
+		area_felwood
+		area_mount_hyjal
+		area_ashenvale
+		area_azshara
+		area_durotar
+		area_northern_barrens
+		area_stonetalon_mountains
+		area_desolace
+		area_mulgore
+		area_southern_barrens
+		area_dustwallow_marsh
+		area_thousand_needles
+		area_feralas
+		area_silithus
+		area_un_goro_crater
+		area_tanaris
+		area_uldum
+		area_ahn_qiraj
+	}
+}
+
+northrend_region = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_northrend
+		}
+	}
+	areas = {
+		area_borean_tundra
+		area_wintergrasp
+		area_dragonblight
+		area_sholazar_basin
+		area_icecrown
+		area_storm_peak
+		area_zul_drak
+		area_grizzly_hills
+		area_crystalsong
+		area_howling_fjord
+	}
+}
 
-region_townlong_steppes = {
-	area_townlong_steppes
+exodar_region = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_kalimdor
+		}
+	}
+	discover_if = {
+		capital_scope = {
+			continent = continent_exodar
+		}
+	}
+	discover_if = {
+		capital_scope = {
+			continent = continent_darnassus
+		}
+	}
+	areas = {
+		area_bloodmyst_isle
+		area_azuremyst_isle
+	}
+}
+
+darnassus_region = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_kalimdor
+		}
+	}
+	discover_if = {
+		capital_scope = {
+			continent = continent_exodar
+		}
+	}
+	discover_if = {
+		capital_scope = {
+			continent = continent_darnassus
+		}
+	}
+	areas = {
+		area_teldrassil
+	}
+}
+
+outland_region = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_outland
+		}
+	}
+	areas = {
+		area_hellfire_peninsula
+		area_zangermarsh
+		area_terokkar_forest
+		area_nagrand
+		area_shadowmoon_valley
+		area_blades_edge_mountains
+		area_netherstorm
+	}
+}
+
+maelstrom_region = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_maelstrom
+		}
+	}
+	areas = {
+		area_the_lost_isles
+	}
+}
+
+pandaria_region = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_pandaria
+		}
+	}
+	areas = {
+		area_hidden_valley
+		area_isle_of_thunder
+		area_isle_of_giants
+		area_the_jade_forest
+		area_valley_of_the_four_winds
+		area_krasarang_wilds
+		area_dread_wastes
+		area_vale_of_eternal_blossoms
+		area_townlong_steppes
+		area_kun_lai_summit
+	}
+}
+
+# Seas
+eastern_ocean = {
+	areas = {
+		area_ek_east
+	}
+}
+
+western_ocean = {
+	areas = {
+		area_kalimdor_west
+	}
+}
+
+eastern_seas = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_eastern_kingdoms
+		}
+	}
+	areas = {
+		area_ek_south_coast
+		area_ek_central_coast
+		area_ek_north_coast
+	}
+}
+
+western_seas = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_kalimdor
+		}
+	}
+	discover_if = {
+		capital_scope = {
+			continent = continent_exodar
+		}
+	}
+	discover_if = {
+		capital_scope = {
+			continent = continent_darnassus
+		}
+	}
+	areas = {
+		area_kalimdor_south_coast
+		area_kalimdor_north_coast
+	}
+}
+
+northern_seas = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_northrend
+		}
+	}
+	areas = {
+		area_northrend_coast
+		area_kalimdor_north_east
+		area_ek_north_west
+	}
+}
+
+central_seas = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_maelstrom
+		}
+	}
+	areas = {
+		area_maelstrom_seas
+	}
+}
+
+southern_seas = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_pandaria
+		}
+	}
+	areas = {
+		area_pandaria_coast
+		area_kalimdor_south_east
+		area_ek_south_west
+	}
 }
-
-region_kun_lai_summit = {
-	area_kun_lai_summit
-}
-

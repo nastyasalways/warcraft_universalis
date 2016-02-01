@@ -1,7 +1,7 @@
 # Tidewalker
-government 		= despotic_monarchy
+government 			= religious_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_depths
-religion			= noreligion
-primary_culture 	= noculture
+religion			= religion_neptulon
+primary_culture 	= culture_water
 capital 			= 1

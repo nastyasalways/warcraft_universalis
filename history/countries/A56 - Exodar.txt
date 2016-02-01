@@ -1,10 +1,10 @@
 # Exodar
-government 		= exodar_city
+government 			= administrative_theocracy
 mercantilism 		= 0.1
 technology_group 	= tech_draenei
-religion		= religion_light_of_the_naaru
+religion			= religion_light_of_the_naaru
 primary_culture 	= culture_karaborian
-capital 		= 1087
+capital 			= 1087
 
 546.1.1 = { 
 monarch = { 

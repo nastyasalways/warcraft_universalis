@@ -1,5 +1,6 @@
-# 942 
+# 942 Shadra'alor
 is_city = yes 
+
 add_core = A64
 owner = A64
 controller = A64

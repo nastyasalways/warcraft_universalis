@@ -1,24 +1,18 @@
 # Daggerspine
-government = noble_republic
-mercantilism = 0.1 
-technology_group = tech_naga
-religion= religion_old_gods
-
-primary_culture = culture_vashjari
-
-
-
+government 			= militaristic_kingdom
+mercantilism 		= 0.1 
+technology_group 	= tech_naga
+religion			= religion_old_gods
+primary_culture 	= culture_vashjari
 
 622.1.1 = { 
-monarch =
-{ 
-name = "Nazjak" 
-     
-dynasty = "Daggerspine" 
-		
-adm = 3		
-dip = 2	
-mil = 3
- 	} 
-capital = 691
+	monarch =
+	{ 
+		name = "Nazjak"  
+		dynasty = "Daggerspine" 
+		adm = 3		
+		dip = 2	
+		mil = 3
+	} 
+	capital = 691
 } 

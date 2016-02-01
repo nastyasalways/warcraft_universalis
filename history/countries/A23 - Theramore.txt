@@ -1,7 +1,7 @@
 # Theramore
-government 		= despotic_monarchy
+government 			= administrative_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_human
-religion			= noreligion
-primary_culture 	= noculture
+religion			= religion_church_of_the_light
+primary_culture 	= culture_azerothian
 capital 			= 1

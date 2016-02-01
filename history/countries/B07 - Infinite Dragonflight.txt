@@ -1,7 +1,7 @@
 # Infinite Dragonflight
-government 		= despotic_monarchy
+government 			= dragonflight_gov
 mercantilism 		= 0.1
 technology_group 	= tech_dragonkin
-religion			= noreligion
-primary_culture 	= noculture
+religion			= religion_sect_of_dragons
+primary_culture 	= culture_infinite
 capital 			= 1

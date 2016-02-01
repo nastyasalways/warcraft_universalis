@@ -1,13 +1,16 @@
-# 1940
+# 1940 Raptor Ridge
 is_city = yes
 
 base_tax = 2
 base_manpower = 2
 base_production = 2
 
+owner = A99
+controller = A99
+add_core = A99
 
-culture = culture_mosshide
-religion = religion_ancestral
+culture = culture_black
+religion = religion_old_gods
 
 hre = no
 trade_goods = mounts
@@ -51,3 +54,11 @@ discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
 
+# Beyond the Dark Portal
+600.1.1 = { 
+owner = XXX
+controller = XXX
+remove_core = A43
+culture = culture_bog_beast 
+religion = religion_druidic
+}

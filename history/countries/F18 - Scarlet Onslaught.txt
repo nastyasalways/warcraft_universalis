@@ -1,5 +1,5 @@
 # Scarlet Onslaught
-government 			= scarlet_crusade
+government 			= militaristic_order
 government_rank 	= 2
 mercantilism 		= 0.1
 technology_group 	= tech_human

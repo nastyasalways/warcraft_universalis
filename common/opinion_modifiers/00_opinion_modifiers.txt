@@ -219,6 +219,12 @@ opinion_fleet_access = {
 # TIMED
 ##############
 
+pirated_us = {
+	opinion = -5
+	min = -100
+	yearly_decay = 2
+}
+
 converted_our_culture = {
 	opinion = -30
 	yearly_decay = 1
@@ -3207,4 +3213,10 @@ share_advanced_neighbor = {
 	opinion = 50
 	months = 1 #Updated every month.
 	max = 50
+}
+
+razed_province = {
+	opinion = -25
+	min = -200
+	yearly_decay = 2
 }

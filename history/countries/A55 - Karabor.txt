@@ -1,7 +1,7 @@
 # Karabor
-government 		= despotic_monarchy
+government 			= administrative_theocracy
 mercantilism 		= 0.1
 technology_group 	= tech_draenei
-religion			= noreligion
-primary_culture 	= noculture
+religion			= religion_light_of_the_naaru
+primary_culture 	= culture_karaborian
 capital 			= 1

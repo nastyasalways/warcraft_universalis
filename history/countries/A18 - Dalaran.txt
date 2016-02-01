@@ -1,6 +1,5 @@
 # Dalaran
-government 		= magocracy_republic
-government_rank = 2
+government 			= administrative_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_human
 religion			= religion_arcane

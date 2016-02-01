@@ -1,7 +1,7 @@
 # Blackwood
-government 		= despotic_monarchy
+government 			= war_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_furbolg
-religion			= noreligion
-primary_culture 	= noculture
+religion			= religion_ancestral
+primary_culture 	= culture_blackwood
 capital 			= 1

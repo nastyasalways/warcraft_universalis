@@ -1,5 +1,5 @@
 # Lordaeron
-government			= military_dictat #Fix me?
+government			= expenditionary_force
 government_rank		= 1
 mercantilism 		= 0.1
 technology_group 	= tech_human

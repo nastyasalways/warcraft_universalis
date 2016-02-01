@@ -1,14 +1,15 @@
-# Gnome - Ironforge Alliance
-
+#############################
+### Khaz Modan Alliances ###
+#############################
+# Gnomeregan - Ironforge
 alliance = {
 	first = A29
 	second = A32
 	start_date = 546.1.1
-	end_date = 640.1.1
+	end_date = 596.31.21
 }
 
 # Dark Iron - Ragnaros 
-
 alliance = {
 	first = A30
 	second = E26

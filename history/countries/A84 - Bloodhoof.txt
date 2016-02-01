@@ -1,5 +1,5 @@
 # Bloodhoof
-government 		= thunderbluff_tribe
+government 			= mercantile_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_tauren
 religion			= religion_ancestral

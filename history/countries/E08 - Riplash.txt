@@ -1,5 +1,5 @@
 # Riplash
-government 		= despotic_monarchy
+government 			= militaristic_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_naga
 religion			= religion_old_gods
@@ -18,14 +18,12 @@ monarch = {
  } 
 
 592.1.1 = { 
-government = theocratic_government
-government_rank = 1
-monarch = { 
-     name = "Veehja" 
-	female = yes
+	government = militaristic_theocracy
+	monarch = { 
+		name = "Veehja" 
+		female = yes
 		adm = 3
 		dip = 3
 		mil = 2 
-
- 	} 
- } 
+	} 
+} 

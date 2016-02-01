@@ -1,17 +1,17 @@
 # Hatefury
-government 		= tribal_despotism
+government 			= warband_gov
 mercantilism 		= 0.1
 technology_group 	= tech_satyr
-religion		= religion_fel
+religion			= religion_fel
 primary_culture 	= culture_hatefury
-capital 		= 1078
+capital 			= 1078
 
 546.1.1 = { 
-monarch = { 
-     name = "Kellen" 
-     dynasty = "Hatefury" 
+	monarch = { 
+		name = "Kellen" 
+		dynasty = "Hatefury" 
 		adm = 3
 		dip = 3
 		mil = 2
- 	} 
- } 
+	} 
+} 

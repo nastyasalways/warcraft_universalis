@@ -15,13 +15,7 @@ aristocracy_ideas = {
 	}
 
 	trigger = {
-		OR = {
-			government = monarchy
-			government = noble_republic
-			government = theocracy
-		}
-
-
+		government = monarchy
 	}
 
 	noble_knights = {
@@ -77,8 +71,6 @@ plutocracy_ideas = {
 
 	trigger = {
 		NOT = { government = monarchy }
-		NOT = { government = noble_republic }
-		NOT = { government = theocracy }
 	}
 
 	tradition_of_payment = {
@@ -140,10 +132,6 @@ innovativeness_ideas = {
 
 	ai_will_do = {
 		factor = 1
-		modifier = {
-			factor = 2
-			government = steppe_horde
-		}
 	}
 }
 
@@ -381,15 +369,6 @@ trade_ideas = {
 
 	ai_will_do = {
 		factor = 1
-		modifier = {
-			factor = 0
-			NOT = { num_of_cities = 6 }
-			NOT = { government = merchant_republic }
-		}
-		modifier = {
-			factor = 0.33
-			NOT = { government = merchant_republic }
-		}
 	}
 }
 
@@ -434,10 +413,6 @@ economic_ideas = {
 		modifier = {
 			factor = 1.5
 			inflation = 10
-		}
-		modifier = {
-			factor = 2
-			government = steppe_horde
 		}
 	}
 }
@@ -516,40 +491,6 @@ exploration_ideas = {
 			}			
 		}
 		modifier = {
-			factor = 0.1
-			NOT = { technology_group = western }
-			NOT = { technology_group = high_american }
-		}
-		modifier = {
-			factor = 0.1
-			capital_scope = {
-				NOT = {
-					region = france_region
-					region = iberia_region
-					region = british_isles_region
-					region = low_countries_region
-				}
-			}
-			NOT = { technology_group = high_american }
-		}
-		modifier = {
-			factor = 0.5
-			tag = ARA
-		}
-		modifier = {
-			factor = 0.1
-			NOT = { is_year = 1490 }
-			capital_scope = {
-				NOT = {
-					region = iberia_region
-				}
-			}
-		}
-		modifier = {
-			factor = 10
-			technology_group = high_american
-		}
-		modifier = {
 			factor = 2.0
 			num_of_ports = 5
 		}
@@ -564,20 +505,6 @@ exploration_ideas = {
 		modifier = {
 			factor = 2.0
 			num_of_ports = 20
-		}
-		modifier = {
-			factor = 10
-			tag = POR
-		}
-		modifier = {
-			factor = 2
-			OR = {
-				tag = GBR
-				tag = NED
-				tag = ENG
-				tag = FRA
-				tag = CAS
-			}
 		}
 	}
 }
@@ -752,14 +679,6 @@ expansion_ideas = {
 			NOT = { has_idea_group = exploration_ideas }
 			NOT = { is_colonial_nation = yes }
 		}
-		modifier = {
-			factor = 0.1
-			NOT = {
-				technology_group = western
-				technology_group = eastern
-				technology_group = muslim
-			}
-		}
 	}
 }
 
@@ -795,10 +714,6 @@ administrative_ideas = {
 
 	ai_will_do = {
 		factor = 1
-		modifier = {
-			factor = 2
-			government = steppe_horde
-		}
 	}
 }
 

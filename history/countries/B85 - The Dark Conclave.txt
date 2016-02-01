@@ -1,5 +1,5 @@
 # The Dark Conclave
-government 		= theocratic_government
+government 			= militaristic_theocracy
 mercantilism 		= 0.1
 technology_group 	= tech_arrakoa
 religion			= religion_old_gods

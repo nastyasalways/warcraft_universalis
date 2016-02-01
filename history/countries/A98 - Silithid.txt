@@ -1,5 +1,5 @@
 # Silithid
-government 		= despotic_monarchy
+government 			= militaristic_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_aqir
 religion			= religion_old_gods
