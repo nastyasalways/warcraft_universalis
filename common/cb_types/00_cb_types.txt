@@ -21,10 +21,7 @@ cb_restore_personal_union = {
 	months = 120
 	
 	prerequisites = {
-		OR = {
-			government = monarchy
-			government = dutch_republic
-		}
+		government = monarchy
 		is_revolution_target = no
 	}
 	
@@ -182,27 +179,6 @@ cb_change_government = {
 # AUTOMATIC - Constantly in effect while 'prerequisites' is true
 # --------------------------------------------------------------
 
-# One OPM can try to humiliate another OPM.
-cb_humiliate = {
-	valid_for_subject = no
-	
-	prerequisites = {
-		has_dlc = "Conquest of Paradise"
-		government = native_council
-		NOT = {
-			truce_with = FROM
-			num_of_cities = 2
-			FROM = {
-				num_of_cities = 2
-			}
-		}
-		is_neighbor_of = FROM
-		is_revolution_target = no
-	}
-	
-	war_goal = humiliate	
-}
-
 # Temporary claim CB (mostly used by missions)
 cb_conquest = {
 	
@@ -252,35 +228,6 @@ cb_colonial_independance_war = {
 	}
 		
 	war_goal = defend_capital_independence
-}
-
-# Nationalism
-cb_nationalist = {
-	
-	prerequisites = {
-		dip_tech = 23
-		is_subject = no
-		culture_group_claim = FROM
-		is_revolution_target = no
-	}
-	
-	war_goal = take_province_nationalist
-}
-
-# Napoleonic era imperialism
-cb_imperial = {
-	valid_for_subject = no
-	
-	prerequisites = {
-		OR = {
-			dip_tech = 23
-			invasion_nation = yes
-		}
-		is_subject = no
-		is_revolution_target = no
-	}
-	
-	war_goal = take_capital_imperial
 }
 
 # Colonialist CB

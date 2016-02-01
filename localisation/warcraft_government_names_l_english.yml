@@ -1,8 +1,75 @@
 l_english:
- # Cultures
+ # Government Names
+ # Kingdoms
+ HOLDING: "Holding"
+ KINGDOM: "Kingdom"
+ EMPIRE: "Empire"
+ 
  PETTY_MAGOCRACY: "Petty Magocracy"
  MAGOCRACY: "Magocracy"
  GRAND_MAGOCRACY: "Grand Magocracy"
+ 
+ CRIMINAL_GANG: "Criminal Gang"
+ CRIMINAL_COLLECTIVE: "Criminal Collective"
+ CRIMINAL_ORGANISATION: "Criminal Organisation"
+ 
+ PETTY_ADMIRALITY: "Petty Admirality"
+ ADMIRALITY: "Admirality"
+ GRAND_ADMIRALITY: "Grand Admirality"
+ 
+ # Republics
+ COUNCIL: "Council"
+ REPUBLIC: "Republic"
+ GRAND_REPUBLIC: "Grand Republic"
+ 
+ TINKER_REPUBLIC: "Tinker Republic"
+ 
+ TRADE_COMPANY: "Trade Company"
+ TRADE_CARTEL: "Trade Cartel"
+ TRADE_CONSORTIUM: "Trade Consortium"
+ 
+ PETTY_DICTATORSHIP: "Petty Dictatorship"
+ DICTATORSHIP: "Dictatorship"
+ GRAND_DICTATORSHIP: "Grand Dictatorship"
+ 
+ # Religion
+ PETTY_THEOCRACY: "Petty Theocracy"
+ THEOCRACY: "Theocracy"
+ GRAND_THEOCRACY: "Grand Theocracy"
+ 
+ LOCAL_DRUID_CIRCLE: "Local Druid Circle"
+ DRUID_CIRCLE: "Druid Circle"
+ GRAND_DRUID_CIRCLE: "Grand Druid Circle"
+ 
+ PETTY_CULT: "Petty Cult"
+ CULT: "Cult"
+ GRAND_CULT: "Grand Cult"
+ 
+ # Nomad
+ PETTY_WARBAND: "Petty Warband"
+ WARBAND: "Warband"
+ GRAND_WARBAND: "Grand Warband"
+ 
+ SCOURGE: "Scourge"
+ 
+ # Tribal
+ PETTY_TRIBE: "Petty Tribe"
+ TRIBE: "Tribe"
+ GRAND_TRIBE: "Grand Tribe"
+ 
+ # Ruler Names
+ # Kingdoms
+ 
+ # Republics
+ 
+ # Religion
+ 
+ # Nomad
+ 
+ # Tribal
+  
+ # Old
+ 
  MAGE: "Mage"
  ARCHMAGE: "Archmage"
  GRAND_MAGUS: "Grand Magus"

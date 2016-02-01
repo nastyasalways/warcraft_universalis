@@ -540,9 +540,9 @@ terrain
 	stormwind		 	= { type = stormwind		color = { 	32	 } }
 	thunder_bluff	 	= { type = thunder_bluff	color = { 	33	 } }
 	undercity		 	= { type = undercity		color = { 	34	 } }
-	dalaran		 		= { type = dalaran			color = { 	35	 } }
-	shattrath		 	= { type = shattrath		color = { 	36	 } }
-	icecrown_citadel	= { type = icecrown_citadel	color = { 	37	 } }
+	dalaran		 		= { type = dalaran			color = { 	36	 } }
+	shattrath		 	= { type = shattrath		color = { 	37	 } }
+	icecrown_citadel	= { type = icecrown_citadel	color = { 	38	 } }
 }
 
 ##################################################################

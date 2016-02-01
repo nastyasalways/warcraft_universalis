@@ -9,355 +9,150 @@
 #ai_will_do will only check if it's valid,and won't break unions or switch to republic from monarchy, nor check to convert to something earlier in the file.
 #ai_importance determines overall 'quality' of government when government is auto-picked.
 
-####################################
-#
-#Monarchies
-#
-####################################
+# Monarchy
+#	Administrative Kingdom	: Holding, Kingdom, Empire
+#							: Petty Magocracy, Magocracy, Grand Magocracy
+#							: Criminal Gang, Criminal Collective, Criminal Organisation
+#							: Petty Admirality, Admirality, Grand Admirality
+#	Mercantile Kingdom		: Holding, Kingdom, Empire
+#							: Petty Magocracy, Magocracy, Grand Magocracy
+#							: Criminal Gang, Criminal Collective, Criminal Organisation
+#							: Petty Admirality, Admirality, Grand Admirality	
+#	Militaristic Kingdom	: Holding, Kingdom, Empire
+#							: Petty Magocracy, Magocracy, Grand Magocracy
+#							: Criminal Gang, Criminal Collective, Criminal Organisation
+#							: Petty Admirality, Admirality, Grand Admirality
+# Republic
+#	Administrative Repubic 	: Council, Republic, Grand Republic
+#							: Tinker Republic
+#							: Trade Company, Trade Cartel, Trade Consortium
+#	Mercantile Repubic 		: Council, Republic, Grand Republic
+#							: Tinker Republic
+#							: Trade Company, Trade Cartel, Trade Consortium
+#	Militaristic Repubic 	: Council, Republic, Grand Republic
+#							: Tinker Republic
+#							: Trade Company, Trade Cartel, Trade Consortium
+						
+#	Dictatorship 			: Petty Dictatorship, Dictatorshop, Grand Dictatorship
 
-despotic_monarchy = {
-	monarchy = yes
-	
-	valid_for_new_country = yes
-	valid_for_nation_designer = yes
-	nation_designer_cost = 0
-	
-		
-	ai_will_do = {
-		factor = 0
-	}
-	ai_importance = 1
+# Theocracy
+#	Administrative Theocracy : Petty Theocracy, Theocracy, Grand Theocracy
+#							 : Local Druid Circle, Druid Circle, Grand Druid Circle
+#	Mercantile Theocracy	 : Petty Theocracy, Theocracy, Grand Theocracy
+#							 : Local Druid Circle, Druid Circle, Grand Druid Circle
+#	Militaristic Theocracy 	 : Petty Theocracy, Theocracy, Grand Theocracy
+#							 : Local Druid Circle, Druid Circle, Grand Druid Circle
+#	Cult					 : Petty Cult, Cult, Grand Cult
 
-	rank = {
-		1 = {
-			global_unrest = -1	
-			unjustified_demands = -0.1
-		}
-		2 = {
-			global_unrest = -1
-			unjustified_demands = -0.1		
-		}
-		3 = {
-			global_unrest = -1
-			unjustified_demands = -0.1		
-			global_autonomy = -0.05
-		}
-	}
-}
+# Nomad
+#	Warband					: Petty Warband, Warband, Grand Warband
+#	Scourge					: Scourge
 
+# Tribal
+#	Administrative Tribe	: Petty Tribe, Tribe, Grand Tribe
+#	Mercantile Tribe		: Petty Tribe, Tribe, Grand Tribe
+#	Militaristic Tribe		: Petty Tribe, Tribe, Grand Tribe
 
+# List
+#	magocracy_republic
+#	despotic_magocracy
+#	tinker_republic
+#	orcish_horde
+#	warcraft_horde
+#	warband
+#	roaming_trade_company
+#	pirate_clan
+#	kul_tiras
+#	draconic_kingdom
+#	scourge_horde
+#	insectoid_kingdom
+#	legion
+#	elemental_kingdom
+#	wind_trader_coalition
+#	shado_pan
+#	high_monarchy
+#	7th_legion
+#	argent_crusade
+#	military_dictat
+#	scarlet_crusade
+#	exodar_city
+#	twilight_cabal
+#	old_god_lair
+#	thunderbluff_tribe
+#	minor_tribe
+#	criminal_organization
 
-feudal_monarchy = {
-	monarchy = yes
-	
-	valid_for_new_country = yes
-	valid_for_nation_designer = yes
-	nation_designer_cost = 0
-	
-	ai_will_do = {
-		factor = 1
-		modifier = {
-			factor = 0
-			NOT = { government = despotic_monarchy }
-		}
-		modifier = {
-			factor = 0
-			NOT = {
-				has_idea_group = aristocracy_ideas
-			}
-		}
-	}
-	ai_importance = 2
-	
-	#bonus
-	rank = {
-		1 = {
-			global_manpower_modifier = 0.1	
-			vassal_income = 0.25
-		}
-		2 = {
-			global_manpower_modifier = 0.1	
-			vassal_income = 0.25
-		}
-		3 = {	
-			global_manpower_modifier = 0.1	
-			vassal_income = 0.25	
-			global_autonomy = -0.05
-		}
-	}
-}
-
-
-
-
-
-administrative_monarchy = {
-	monarchy = yes
-	
-	valid_for_new_country = yes	
-	
-	ai_will_do = {
-		factor = 1
-		modifier = {
-			factor = 0
-			NOT = { 
-				government = despotic_monarchy 
-				government = feudal_monarchy
-			}
-		}
-		modifier = {
-			factor = 0
-			NOT = {
-				has_idea_group = economic_ideas
-				has_idea_group = trade_ideas
-			}
-		}		
-	}
-	ai_importance = 3
-
-	#bonus
-	
-	rank = {
-		1 = {
-			production_efficiency = 0.1
-			global_tax_modifier = 0.05
-		}
-		2 = {
-			production_efficiency = 0.1
-			global_tax_modifier = 0.05	
-			global_autonomy = -0.05
-		}
-		3 = {	
-			production_efficiency = 0.1
-			global_tax_modifier = 0.05	
-			global_autonomy = -0.10	
-		}
-	}
-}
-
-absolute_monarchy = {
-	monarchy = yes
-	
-	valid_for_new_country = yes
-	
-	ai_will_do = {
-		factor = 1
-		modifier = {
-			factor = 0
-			NOT = { 
-				government = despotic_monarchy 
-				government = feudal_monarchy
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				has_idea_group = economic_ideas
-				has_idea_group = trade_ideas
-			}
-		}
-	}
-	ai_importance = 4
-	
-	#bonus
-	rank = {
-		1 = {
-			discipline = 0.05
-			global_unrest = -1
-			global_autonomy = -0.05
-		}
-		2 = {
-			discipline = 0.05
-			global_unrest = -1
-			global_autonomy = -0.10	
-		}
-		3 = {	
-			discipline = 0.05
-			global_unrest = -1
-			global_autonomy = -0.15	
-		}
-	}
-}
-
-constitutional_monarchy = {
-	monarchy = yes
-	
-	valid_for_new_country = yes
-	
-	ai_will_do = {
-		factor = 1
-		modifier = {
-			factor = 0
-			NOT = { government = administrative_monarchy }
-		}
-	}
-	ai_importance = 4
-	
-	has_parliament = yes
-
-	#bonus
-	rank = {
-		1 = {
-			years_of_nationalism = -5
-			legitimacy = 1
-			global_autonomy = -0.10
-		}
-		2 = {
-			years_of_nationalism = -5
-			legitimacy = 1
-			global_autonomy = -0.15
-		}
-		3 = {	
-			years_of_nationalism = -5
-			legitimacy = 1
-			global_autonomy = -0.20
-		}
-	}
-}
-
-enlightened_despotism = {
-	monarchy = yes
-	
-	valid_for_new_country = yes
-
-	ai_will_do = {
-		factor = 1
-		modifier = {
-			factor = 0
-			NOT = { government = absolute_monarchy }
-		}
-	}
-	ai_importance = 5
-
-	#bonus
-
-	rank = {
-		1 = {
-			accepted_culture_threshold = -0.10
-			global_manpower_modifier = 0.1
-			global_autonomy = -0.10
-		}
-		2 = {
-			accepted_culture_threshold = -0.10
-			global_manpower_modifier = 0.1
-			global_autonomy = -0.15	
-		}
-		3 = {	
-			accepted_culture_threshold = -0.10
-			global_manpower_modifier = 0.1
-			global_autonomy = -0.20
-		}
-	}
-}
-
-revolutionary_empire = {
-	monarchy = yes
+magocracy_republic = {
+	republic = yes
+	duration = 8
 	
 	valid_for_new_country = no
-	
-	ai_will_do = {
-		factor = 0
-	}
-
-	rank = {
-		3 = {
-			global_manpower_modifier = 0.25
-			land_morale = 0.10
-			global_autonomy = -0.25
-		}
-	}
-	fixed_rank = 3
-}
-
-
-####################################
-#
-#Republics
-#
-####################################
-
-merchant_republic = {
-	republic = yes
-
-	valid_for_new_country = no
 	valid_for_nation_designer = yes
-	nation_designer_cost = 40	
-	
-	duration = 4
-
-	republican_name = yes
-	royal_marriage = no
-	
-	boost_income = yes
-	can_use_trade_post = yes
-	
-	ai_will_do = {
-		factor = 0	
-	}
-	
-	rank = {
-		1 = {
-			merchants = 1
-			caravan_power = 0.33	
-		}
-		2 = {
-			merchants = 1
-			caravan_power = 0.33	
-		}
-		3 = {	
-			merchants = 1
-			caravan_power = 0.33
-			global_autonomy = -0.05
-		}
-	}
-}
-
-oligarchic_republic = {
-	republic = yes
-	
-	valid_for_new_country = yes
-	valid_for_nation_designer = yes
-	nation_designer_cost = 0	
-	
-	duration = 4
-
-	republican_name = yes
-	royal_marriage = no
+	nation_designer_cost = 0
 	
 	ai_will_do = {
 		factor = 0
 	}
 	ai_importance = 1
-
-	#bonus
+	
 	rank = {
 		1 = {
-			global_tax_modifier = 0.05
-			stability_cost_modifier = -0.05
+			technology_cost = -0.05
+			idea_cost = -0.1
+			advisor_cost = -0.25
 		}
 		2 = {
-			global_tax_modifier = 0.05
-			stability_cost_modifier = -0.05	
-			global_autonomy = -0.05
+			technology_cost = -0.05
+			idea_cost = -0.1
+			advisor_cost = -0.25	
 		}
 		3 = {
-			global_tax_modifier = 0.05
-			stability_cost_modifier = -0.05
-			global_autonomy = -0.1
+			technology_cost = -0.05
+			idea_cost = -0.1
+			advisor_cost = -0.25
 		}
 	}
 }
 
-noble_republic = {
-	republic = yes		
+despotic_magocracy = {
+	republic = yes
 	
-	valid_for_new_country = yes
+	valid_for_new_country = no
 	valid_for_nation_designer = yes
-	nation_designer_cost = 10
+	nation_designer_cost = 0
+	
+	ai_will_do = {
+		factor = 0
+	}
+	ai_importance = 1
+	
+	rank = {
+		1 = {
+			technology_cost = -0.1
+			idea_cost = -0.05
+			advisor_cost = -0.25
+		}
+		2 = {
+			technology_cost = -0.1
+			idea_cost = -0.05
+			advisor_cost = -0.25
+		}
+		3 = {
+			technology_cost = -0.1
+			idea_cost = -0.05
+			advisor_cost = -0.25
+		}
+	}
+}
+
+tinker_republic = {
+	republic = yes
 	
 	duration = 8
-
-	republican_name = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 	
 	ai_will_do = {
 		factor = 0
@@ -366,272 +161,469 @@ noble_republic = {
 
 	rank = {
 		1 = {
-			tolerance_heretic = 1
-			land_morale = 0.1
+			production_efficiency = 0.2
+			global_regiment_cost = -0.25
 		}
 		2 = {
-			tolerance_heretic = 1
-			land_morale = 0.1
-			global_autonomy = -0.05	
-		}
-		3 = {	
-			tolerance_heretic = 1
-			land_morale = 0.1
-			global_autonomy = -0.1
-		}
-	}
-}
-
-administrative_republic = {
-	republic = yes
-	
-	valid_for_new_country = yes
-	
-	duration = 5
-
-	republican_name = yes
-	royal_marriage = no
-	
-	ai_will_do = {
-		factor = 1
-		modifier = {
-			factor = 0
-			NOT = { 
-				AND = {
-					government = merchant_republic
-					capital_scope = { has_port = no }
-				}
-				AND = {
-					government = republican_dictatorship
-					NOT = { dip = 4 }
-					NOT = { adm = 4 }
-					NOT = { mil = 4 }
-				}
-			}
-		}
-	}
-	ai_importance = 2
-
-	#bonus
-
-	rank = {
-		1 = {
-			years_of_nationalism = -5
-			production_efficiency = 0.1
-			global_autonomy = -0.05
-		}
-		2 = {
-			years_of_nationalism = -5
-			production_efficiency = 0.1
-			global_autonomy = -0.1	
-		}
-		3 = {	
-			years_of_nationalism = -5
-			production_efficiency = 0.1
-			global_autonomy = -0.15
-		}
-	}
-}
-
-republican_dictatorship = {
-	dictatorship = yes
-	
-	valid_for_new_country = yes
-
-	republican_name = yes
-	royal_marriage = no
-	
-	ai_will_do = {
-		factor = 1
-		modifier = {
-			factor = 0
-			NOT = { 
-				AND = {
-					government = merchant_republic
-					capital_scope = { has_port = no }
-				}
-				government = administrative_republic
-				government = constitutional_republic
-			}
-		}
-		modifier = {
-			factor = 0
-			NOT = {
-				AND = {
-					dip = 5
-					adm = 5
-					mil = 5
-				}
-			}
-		}
-	}
-
-	rank = {
-		1 = {
-			global_autonomy = -0.05
-			tolerance_heathen = 1
-			land_morale = 0.1	
-		}
-		2 = {
-			global_autonomy = -0.1
-			tolerance_heathen = 1
-			land_morale = 0.1	
-		}
-		3 = {	
-			global_autonomy = -0.15
-			tolerance_heathen = 1
-			land_morale = 0.1	
-		}
-	}
-}
-
-constitutional_republic = {
-	republic = yes
-	
-	valid_for_new_country = yes
-	
-	duration = 4
-	
-	republican_name = yes
-	royal_marriage = no
-	
-	ai_will_do = {
-		factor = 1
-		modifier = {
-			factor = 0
-			NOT = { 
-				government = administrative_republic
-				AND = {
-					government = merchant_republic
-					capital_scope = { has_port = no }
-				}
-				AND = {
-					government = republican_dictatorship
-					NOT = { dip = 4 }
-					NOT = { adm = 4 }
-					NOT = { mil = 4 }
-				}
-			}
-		}
-	}
-	ai_importance = 3
-
-	has_parliament = yes
-
-	#bonus
-
-	rank = {
-		1 = {
-			production_efficiency = 0.1
-			trade_efficiency = 0.1
-			global_autonomy = -0.10
-		}
-		2 = {
-			production_efficiency = 0.1
-			trade_efficiency = 0.1
-			global_autonomy = -0.15
+			production_efficiency = 0.2
+			global_regiment_cost = -0.25
 		}
 		3 = {
-			production_efficiency = 0.1
-			trade_efficiency = 0.1
-			global_autonomy = -0.20
+			production_efficiency = 0.2
+			global_regiment_cost = -0.25
 		}
 	}
 }
 
-bureaucratic_despotism = {
-	republic = yes
-	
-	valid_for_new_country = yes
-	
-	republican_name = yes
-	royal_marriage = no
-	
-	ai_will_do = {
-		factor = 0
-	}
-
-	rank = {
-		1 = {
-			global_autonomy = -0.15
-			stability_cost_modifier = -0.20	
-		}
-		2 = {
-			global_autonomy = -0.20
-			stability_cost_modifier = -0.20	
-		}
-		3 = {
-			global_autonomy = -0.25
-			stability_cost_modifier = -0.20	
-		}
-	}
-}
-
-revolutionary_republic = {
-	republic = yes
+orcish_horde = {
+	monarchy = yes
+	tribal = yes
 	
 	valid_for_new_country = no
-	
-	duration = 4
-
-	republican_name = yes
-	royal_marriage = no
-	
-	ai_will_do = {
-		factor = 0
-	}
-	
-	rank = {
-		3 = {
-			tolerance_heretic = 2
-			land_morale = 0.1
-			global_autonomy = -0.25
-		}
-	}
-	fixed_rank = 3
-}
-
-
-####################################
-#
-#Religious Governments
-#
-####################################
-
-theocratic_government = {
-	religion = yes	
-	
-	valid_for_new_country = yes
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
-	
-	royal_marriage = no
-	
+
 	ai_will_do = {
 		factor = 0
 	}
-	has_devotion = yes
 	
 	rank = {
 		1 = {
-			tolerance_own = 2
-			tolerance_heretic = -1
+			global_manpower_modifier = 0.25
+			province_warscore_cost = -0.25
+			land_morale = 0.1
 		}
 		2 = {
-			tolerance_own = 2
-			tolerance_heretic = -1
-			global_autonomy = -0.05		
+			global_manpower_modifier = 0.25
+			province_warscore_cost = -0.25
+			land_morale = 0.1
 		}
 		3 = {
-			tolerance_own = 2
-			tolerance_heretic = -1
-			global_autonomy = -0.10	
+			global_manpower_modifier = 0.25
+			province_warscore_cost = -0.25
+			land_morale = 0.1
 		}
 	}
 }
 
-monastic_order_government = {
+warcraft_horde = {
+	monarchy = yes
+	tribal = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+
+	ai_will_do = {
+		factor = 0
+	}
+	
+	rank = {
+		1 = {
+			global_manpower_modifier = 0.25
+			province_warscore_cost = -0.25
+			discipline = 0.05
+		}
+		2 = {
+			global_manpower_modifier = 0.25
+			province_warscore_cost = -0.25
+			discipline = 0.05
+		}
+		3 = {
+			global_manpower_modifier = 0.25
+			province_warscore_cost = -0.25
+			discipline = 0.05
+		}
+	}
+}
+
+warband = {
+	monarchy = yes
+	tribal = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+
+	ai_will_do = {
+		factor = 0
+	}
+	
+	rank = {
+		1 = {
+			global_manpower_modifier = 0.25
+			province_warscore_cost = -0.25
+			infantry_power = 0.05
+		}
+		2 = {
+			global_manpower_modifier = 0.25
+			province_warscore_cost = -0.25
+			infantry_power = 0.05
+		}
+		3 = {
+			global_manpower_modifier = 0.25
+			province_warscore_cost = -0.25
+			infantry_power = 0.05
+		}
+	}
+}
+
+roaming_trade_company = {
+	republic = yes
+	duration = 4
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+
+	ai_will_do = {
+		factor = 0
+	}
+	
+	rank = {
+		1 = {
+			trade_efficiency = 0.1
+			merchants = 1
+			global_own_trade_power = 0.25
+		}
+		2 = {
+			trade_efficiency = 0.1
+			merchants = 1
+			global_own_trade_power = 0.25
+		}
+		3 = {
+			trade_efficiency = 0.1
+			merchants = 1
+			global_own_trade_power = 0.25
+		}
+	}
+}
+
+pirate_clan = {
+	monarchy = yes
+	tribal = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+
+	ai_will_do = {
+		factor = 0
+	}
+	
+	rank = {
+		1 = {
+			navy_tradition = 0.05
+			global_ship_cost = -0.25
+			naval_maintenance_modifier = -0.25
+			blockade_efficiency = 0.5
+		}
+		2 = {
+			navy_tradition = 0.05
+			global_ship_cost = -0.25
+			naval_maintenance_modifier = -0.25
+			blockade_efficiency = 0.5
+		}
+		3 = {
+			navy_tradition = 0.05
+			global_ship_cost = -0.25
+			naval_maintenance_modifier = -0.25
+			blockade_efficiency = 0.5
+		}
+	}
+}
+
+kul_tiras = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+
+	ai_will_do = {
+		factor = 0
+	}
+
+	rank = {
+		1 = {
+			naval_morale = 0.2
+			naval_forcelimit_modifier = 0.25
+			navy_tradition = 0.05
+		}
+		2 = {
+			naval_morale = 0.2
+			naval_forcelimit_modifier = 0.25
+			navy_tradition = 0.05
+		}
+		3 = {
+			naval_morale = 0.2
+			naval_forcelimit_modifier = 0.25
+			navy_tradition = 0.05
+		}
+	}
+}
+
+draconic_kingdom = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+
+	ai_will_do = {
+		factor = 0
+	}
+	
+	rank = {
+		1 = {
+			global_manpower_modifier = -0.5
+			manpower_recovery_speed = -0.25
+			cavalry_power = 0.25
+		}
+		2 = {
+			global_manpower_modifier = -0.5
+			manpower_recovery_speed = -0.25
+			cavalry_power = 0.25
+		}
+		3 = {
+			global_manpower_modifier = -0.5
+			manpower_recovery_speed = -0.25
+			cavalry_power = 0.25
+		}
+	}
+}
+
+scourge_horde = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+
+	ai_will_do = {
+		factor = 0
+	}
+	
+	rank = {
+		1 = {
+			global_manpower_modifier = 1
+			land_attrition = -0.25
+		}
+		2 = {
+			global_manpower_modifier = 1
+			land_attrition = -0.25
+		}
+		3 = {
+			global_manpower_modifier = 1
+			land_attrition = -0.25
+		}
+	}
+}
+
+insectoid_kingdom = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+
+	ai_will_do = {
+		factor = 0
+	}
+	
+	rank = {
+		1 = {
+			global_manpower_modifier = 1
+			province_warscore_cost = -0.25
+			reinforce_speed = 0.25
+		}
+		2 = {
+			global_manpower_modifier = 1
+			province_warscore_cost = -0.25
+			reinforce_speed = 0.25
+		}
+		3 = {
+			global_manpower_modifier = 1
+			province_warscore_cost = -0.25
+			reinforce_speed = 0.25
+		}
+	}
+}
+
+legion = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+
+	ai_will_do = {
+		factor = 0
+	}
+
+	rank = {
+		1 = {
+			land_forcelimit_modifier = 0.25
+		}
+		2 = {
+			land_forcelimit_modifier = 0.25
+		}
+		3 = {
+			land_forcelimit_modifier = 0.25
+		}
+	}
+}
+
+elemental_kingdom = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+
+	ai_will_do = {
+		factor = 0
+	}
+
+	rank = {
+		1 = {
+			enemy_core_creation = 1
+			diplomatic_reputation = 1
+			siege_ability = 0.1
+		}
+		2 = {
+			enemy_core_creation = 1
+			diplomatic_reputation = 1
+			siege_ability = 0.1
+		}
+		3 = {
+			enemy_core_creation = 1
+			diplomatic_reputation = 1
+			siege_ability = 0.1
+		}
+	}
+}
+
+wind_trader_coalition = {
+	republic = yes
+	
+	duration = 4
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+
+	ai_will_do = {
+		factor = 0
+	}
+	
+	rank = {
+		1 = {
+			trade_efficiency = 0.15
+			global_trade_power = 0.1
+			infantry_power = 0.1
+		}
+		2 = {
+			trade_efficiency = 0.15
+			global_trade_power = 0.1
+			infantry_power = 0.1
+		}
+		3 = {
+			trade_efficiency = 0.15
+			global_trade_power = 0.1
+			infantry_power = 0.1
+		}
+	}
+	
+}
+
+shado_pan = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+
+	ai_will_do = {
+		factor = 0
+	}
+
+	rank = {
+		1 = {
+			leader_land_shock = 2
+			diplomatic_reputation = 3
+			diplomatic_upkeep = 1
+		}
+		2 = {
+			leader_land_shock = 2
+			diplomatic_reputation = 3
+			diplomatic_upkeep = 1
+		}
+		3 = {
+			leader_land_shock = 2
+			diplomatic_reputation = 3
+			diplomatic_upkeep = 1
+		}
+	}
+}
+
+high_monarchy = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+
+	ai_will_do = {
+		factor = 0
+	}
+	
+	rank = {
+		1 = {
+			diplomatic_upkeep = 4
+			land_forcelimit_modifier = 0.15
+			naval_forcelimit_modifier = 0.15
+		}
+		2 = {
+			diplomatic_upkeep = 4
+			land_forcelimit_modifier = 0.15
+			naval_forcelimit_modifier = 0.15
+		}
+		3 = {
+			diplomatic_upkeep = 4
+			land_forcelimit_modifier = 0.15
+			naval_forcelimit_modifier = 0.15
+		}
+	}
+}
+
+seventh_legion = {
+	dictatorship = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+
+	ai_will_do = {
+		factor = 0
+	}
+	
+	rank = {
+		1 = {
+			discipline = 0.1
+		}
+		2 = {
+			discipline = 0.1
+		}
+		3 = {
+			discipline = 0.1
+		}
+	}
+}
+
+argent_crusade = {
 	religion = yes	
+	monastic = yes
 	
 	valid_for_new_country = no
 	valid_for_nation_designer = yes
@@ -651,147 +643,102 @@ monastic_order_government = {
 			fort_maintenance_modifier = -0.2
 			global_autonomy = -0.05	
 		}
+		2 = {
+			tolerance_own = 1
+			fort_maintenance_modifier = -0.2
+			global_autonomy = -0.05	
+		}
 	}
-	fixed_rank = 1	
 }
 
-papal_government = {
-	religion = yes
-	papacy = yes
+military_dictat = {
+	dictatorship = yes
 	
 	valid_for_new_country = no
-	allow_convert = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+
+	ai_will_do = {
+		factor = 0
+	}
+	
+	
+	rank = {
+		1 = {
+			army_tradition = 1
+			hostile_attrition = 1
+			land_morale = 0.1
+		}
+		2 = {
+			army_tradition = 1
+			hostile_attrition = 1
+			land_morale = 0.1
+		}
+		3 = {
+			army_tradition = 1
+			hostile_attrition = 1
+			land_morale = 0.1
+		}
+	}
+}
+
+scarlet_crusade = {
+	religion = yes	
+	monastic = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
 
 	royal_marriage = no
+	
+	ai_will_do = {
+		factor = 0
+	}
 	
 	has_devotion = yes
 	
+	rank = {
+		1 = {
+			fort_maintenance_modifier = -0.2
+			discipline = 0.1
+			tolerance_own = 3
+		}
+		2 = {
+			fort_maintenance_modifier = -0.2
+			discipline = 0.1
+			tolerance_own = 3
+		}
+	}
+}
+
+exodar_city = {
+	religion = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+
 	ai_will_do = {
 		factor = 0
 	}
-
+	
+	has_devotion = yes
+	
 	rank = {
-		2 = {
+		1 = {
 			tolerance_own = 1
-			prestige = 1
-			global_autonomy = -0.1	
+			diplomatic_reputation = 3
+			diplomatic_upkeep = 1
 		}
 	}
-	fixed_rank = 2
+	fixed_rank = 1
 }
 
-
-####################################
-#
-#Tribal Governments
-#
-####################################
-
-steppe_horde = {
-	monarchy = yes
-	tribal = yes
-	nomad = yes	
+twilight_cabal = {
+	religion = yes
 	
 	valid_for_new_country = no
-	allow_convert = no
-	valid_for_nation_designer = yes
-	nation_designer_cost = 0	
-
-	ai_will_do = {
-		factor = 0
-	}
-
-	min_autonomy = 25
-
-	rank = {
-		1 = {
-			global_manpower_modifier = 0.25
-			land_forcelimit_modifier = 0.25
-			loot_amount = 0.50
-		}
-		2 = {
-			global_manpower_modifier = 0.5
-			land_forcelimit_modifier = 0.5	
-			loot_amount = 0.50
-		}
-		3 = {
-			global_manpower_modifier = 0.75
-			land_forcelimit_modifier = 0.75
-			loot_amount = 0.50
-		}
-	}
-}
-
-tribal_despotism = {
-	monarchy = yes
-	tribal = yes
-	
-	valid_for_nation_designer = yes
-	nation_designer_cost = 0	
-	
-	valid_for_new_country = yes
-	
-	ai_will_do = {
-		factor = 0
-	}
-
-	rank = {
-		1 = {
-			core_creation = -0.05
-			global_unrest = 1
-			diplomatic_upkeep = -1	
-		}
-		2 = {
-			core_creation = -0.1
-			global_unrest = 1
-			diplomatic_upkeep = -1	
-		}
-		3 = {
-			core_creation = -0.15
-			global_unrest = 1
-		}
-	}
-}
-
-
-tribal_kingdom = {
-	monarchy = yes
-	tribal = yes
-	
-	valid_for_new_country = yes
-	valid_for_nation_designer = yes
-	nation_designer_cost = 0
-	
-	republican_name = yes
-	
-	ai_will_do = {
-		factor = 0
-	}
-
-	rank = {
-		1 = {
-			vassal_income = 0.05
-			stability_cost_modifier = -0.10
-			technology_cost = 0.1
-		}
-		2 = {
-			vassal_income = 0.10
-			stability_cost_modifier = -0.15
-			technology_cost = 0.1	
-		}
-		3 = {
-			vassal_income = 0.15
-			stability_cost_modifier = -0.2
-			technology_cost = 0.1
-		}
-	}
-}
-
-tribal_federation = {
-	monarchy = yes
-	tribal = yes
-	
-	valid_for_new_country = yes
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
 
@@ -801,334 +748,108 @@ tribal_federation = {
 	
 	rank = {
 		1 = {
-			land_forcelimit_modifier = 0.15
-			global_manpower_modifier = 0.15
-			diplomatic_upkeep = -2	
+			land_morale = 0.2
+			infantry_cost = -0.25
+			global_missionary_strength = 0.02
 		}
 		2 = {
-			land_forcelimit_modifier = 0.2
-			global_manpower_modifier = 0.2
-			diplomatic_upkeep = -1	
+			land_morale = 0.2
+			infantry_cost = -0.25
+			global_missionary_strength = 0.02
 		}
 		3 = {
-			land_forcelimit_modifier = 0.25
-			global_manpower_modifier = 0.25
+			land_morale = 0.2
+			infantry_cost = -0.25
+			global_missionary_strength = 0.02
 		}
 	}
 }
 
-tribal_democracy = {
-	republic = yes
+old_god_lair = {
+	religion = yes
+	
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+
+	ai_will_do = {
+		factor = 0
+	}
+	
+	rank = {
+		1 = {
+			land_morale = 0.2
+			infantry_cost = -0.25
+			hostile_attrition = 1
+		}
+		2 = {
+			land_morale = 0.2
+			infantry_cost = -0.25
+			hostile_attrition = 1
+		}
+		3 = {
+			land_morale = 0.2
+			infantry_cost = -0.25
+			hostile_attrition = 1
+		}
+	}
+}
+
+thunderbluff_tribe = {
+	monarchy = yes
 	tribal = yes
 	
-	valid_for_new_country = yes
+	valid_for_new_country = no
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
-	
-	republican_name = yes
-	royal_marriage = no
-	
+
 	ai_will_do = {
 		factor = 0
 	}
 
 	rank = {
 		1 = {
-			stability_cost_modifier = -0.15
-			technology_cost = 0.1
-			diplomatic_upkeep = -1
+			advisor_pool = 1
+			stability_cost_modifier = -0.25
 		}
 		2 = {
-			stability_cost_modifier = -0.33
-			technology_cost = 0.1
-			diplomatic_upkeep = -1
+			advisor_pool = 1
+			stability_cost_modifier = -0.25
 		}
 		3 = {
-			stability_cost_modifier = -0.33
-			technology_cost = 0.1
+			advisor_pool = 1
+			stability_cost_modifier = -0.25
 		}
 	}
 }
 
-native_council = {
-	native_mechanic = yes
-	allow_migration = yes
-	allow_westernize = no
+minor_tribe = {
+	monarchy = yes
+	tribal = yes
 	
 	valid_for_new_country = no
-	allow_convert = no
-	
-	republican_name = yes
-	royal_marriage = no
-	
 	valid_for_nation_designer = yes
-	nation_designer_cost = 0	
-	
+	nation_designer_cost = 0
+
 	ai_will_do = {
 		factor = 0
 	}
 
 	rank = {
 		1 = {
-			stability_cost_modifier = -0.33
-			land_maintenance_modifier = -0.5	
-			diplomatic_upkeep = -1
-		}
-	}
-	fixed_rank = 1
-}
-
-siberian_native_council = {
-	native_mechanic = no
-	allow_migration = yes
-	allow_westernize = no
-	
-	valid_for_new_country = no
-	allow_convert = no
-	
-	republican_name = yes
-	royal_marriage = no
-	
-	ai_will_do = {
-		factor = 0
-	}
-	
-	rank = {
-		1 = {
-			stability_cost_modifier = -0.33
-			technology_cost = 0.15
-		}
-	}
-	fixed_rank = 1
-}
-
-
-##########################################
-#
-#Unique Governments for special countries
-#
-##########################################
-
-#Special for England
-english_monarchy = {
-	monarchy = yes
-	
-	valid_for_new_country = no
-	allow_convert = no
-	
-	valid_for_nation_designer = yes
-	nation_designer_cost = 15
-	nation_designer_trigger = {
-		has_dlc = "Common Sense"
-	}
-
-	has_parliament = yes
-	
-	rank = {
-		1 = {
-			legitimacy = 0.5
-			global_unrest = -1
-			global_autonomy = -0.05		
+			stability_cost_modifier = -0.1
 		}
 		2 = {
-			legitimacy = 0.5
-			global_unrest = -1
-			global_autonomy = -0.1		
+			stability_cost_modifier = -0.1
 		}
-		3 = {	
-			legitimacy = 0.5
-			global_unrest = -1
-			global_autonomy = -0.15			
-		}
-	}
-}
-
-
-
-
-#Special for Poland
-elective_monarchy = {
-	monarchy = yes
-	
-	valid_for_new_country = no
-	allow_convert = no
-	valid_for_nation_designer = yes
-	nation_designer_cost = 10
-	nation_designer_trigger = {
-		has_dlc = "Res Publica"
-	}		
-	
-	is_elective = yes
-	
-	rank = {
-		1 = {
-			vassal_income = 0.25
-			global_unrest = -1
-		}
-		2 = {
-			vassal_income = 0.25
-			global_unrest = -1
-			global_autonomy = -0.05		
-		}
-		3 = {	
-			vassal_income = 0.25
-			global_unrest = -1
-			global_autonomy = -0.10	
-		}
-	}
-}
-
-# Special for HRE free cities
-imperial_city = {
-	republic = yes
-	free_city = yes
-	
-	valid_for_new_country = no
-	allow_convert = no
-	duration = 4
-	
-	republican_name = yes
-	royal_marriage = no
-	
-	valid_for_nation_designer = yes
-	nation_designer_cost = 40
-	nation_designer_trigger = {
-		has_dlc = "Common Sense"
-		capital_scope = { is_part_of_hre = yes }
-		NOT = { num_custom_nation_provinces = 2 }
-	}	
-
-	rank = {
-		1 = {
-			trade_efficiency = 0.1
-			development_cost = -0.1
-		}
-	}
-	fixed_rank = 1
-}
-
-#Special for Milan
-ambrosian_republic = {
-	republic = yes
-	
-	valid_for_new_country = no
-	allow_convert = yes
-	duration = 4
-	
-	republican_name = yes
-	royal_marriage = no
-	
-	valid_for_nation_designer = yes
-	nation_designer_cost = 10	
-
-	rank = {
-		1 = {
-			global_tax_modifier = 0.10
-			land_morale = 0.05
-		}
-		2 = {
-			global_tax_modifier = 0.10
-			land_morale = 0.05
-			global_autonomy = -0.05	
-		}
-		3 = {	
-			global_tax_modifier = 0.10
-			land_morale = 0.05
-			global_autonomy = -0.10	
-		}
-	}
-}
-
-# Special for the Dutch
-dutch_republic = {
-	republic = yes
-	duration = 4
-	
-	valid_for_new_country = no
-	allow_convert = no
-	
-	republican_name = no
-	royal_marriage = yes
-	
-	dutch_mechanics = yes
-	
-	valid_for_nation_designer = yes
-	nation_designer_cost = 40
-	nation_designer_trigger = {
-		has_dlc = "Res Publica"
-	}			
-
-	rank = {
-		1 = {
-			heavy_ship_power = 0.10
-			trade_efficiency = 0.10
-			global_autonomy = -0.05
-		}
-		2 = {
-			heavy_ship_power = 0.10
-			trade_efficiency = 0.10
-			global_autonomy = -0.10	
-		}
-		3 = {	
-			heavy_ship_power = 0.10
-			trade_efficiency = 0.10
-			global_autonomy = -0.15	
-		}
-	}
-}
-
-# China
-celestial_empire = {
-	monarchy = yes
-	
-	valid_for_new_country = no
-	allow_convert = no
-	
-	faction = temples
-	faction = enuchs
-	faction = bureaucrats
-	
-	min_autonomy = 50
-	
-	rank = {
 		3 = {
-			technology_cost = -0.1 	
-			land_forcelimit_modifier = -0.33
-		}
-	}
-	fixed_rank = 3
-}
-
-# Arab Countries, Earlygame
-iqta = {
-	monarchy = yes
-	
-	valid_for_new_country = no
-	allow_convert = no
-	valid_for_nation_designer = yes
-	nation_designer_cost = 10
-	
-	rank = {
-		1 = {
-			vassal_income = 0.33
-			heir_chance = 1.0
-		}
-		2 = {
-			vassal_income = 0.33
-			heir_chance = 1.0
-			global_autonomy = -0.05	
-		}
-		3 = {	
-			vassal_income = 0.33
-			heir_chance = 1.0
-			global_autonomy = -0.1	
+			stability_cost_modifier = -0.1
 		}
 	}
 }
 
-#Japanese vassals
-daimyo = {
-	monarchy = yes
+criminal_organization = {
+	dictatorship = yes
 	
 	valid_for_new_country = no
 	allow_convert = no
@@ -1136,57 +857,47 @@ daimyo = {
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
 	
+	ai_will_do = {
+		factor = 1
+	}
+	ai_importance = 1
+	
 	rank = {
 		1 = {
-			land_morale = 0.10
-			infantry_power = 0.10	
+			ae_impact = -0.25
+			caravan_power = 0.1
 		}
 	}
 	fixed_rank = 1
 }
 
-#Japan itself before unification.
-shogunate = {
+horde_kingdom = {
 	monarchy = yes
 	
 	valid_for_new_country = no
-	allow_convert = no
-	
-	allow_vassal_war = yes
-	allow_vassal_alliance = yes
-	
 	valid_for_nation_designer = yes
-	nation_designer_cost = 50	
-	
-	rank = {
-		2 = {
-			diplomatic_upkeep = 4
-		}
-	}
-	fixed_rank = 2
-}
-
-# Colonial Nations
-colonial_government = {
-	republic = yes
-	
-	duration = 8
-	
-	valid_for_new_country = no
-	allow_convert = no
-	
-	republican_name = yes
-	royal_marriage = no
+	nation_designer_cost = 0
 	
 	ai_will_do = {
 		factor = 0
 	}
-
+	ai_importance = 1
+	
 	rank = {
 		1 = {
-			global_autonomy = -0.1
-			recover_army_morale_speed = 0.02	
+			technology_cost = -0.1
+			idea_cost = -0.05
+			advisor_cost = -0.25
+		}
+		2 = {
+			technology_cost = -0.1
+			idea_cost = -0.05
+			advisor_cost = -0.25
+		}
+		3 = {
+			technology_cost = -0.1
+			idea_cost = -0.05
+			advisor_cost = -0.25
 		}
 	}
-	fixed_rank = 1
 }
