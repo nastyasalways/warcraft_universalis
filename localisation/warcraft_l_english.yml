@@ -1108,6 +1108,17 @@
  horde_kingdom_ruler_female: "Queen"
  
  # Religions
+ religion_group_titanic: "Titanic"
+ religion_group_old_god: "Old Gods"
+ religion_group_loa: "Loa"
+ religion_group_the_light: "Light"
+ religion_group_the_void: "Void"
+ religion_group_elemental: "Elemental"
+ religion_group_technology: "Technology"
+ religion_group_arcane: "Arcane"
+ religion_group_nature: "Nature"
+ religion_group_dragonflight: "Dragonflight"
+ 
  religion_titan: "Titanic"
  religion_sect_of_dragons: "Sect of Dragons"
  religion_druidic: "Druidic"
@@ -1128,7 +1139,7 @@
  religion_ancestral: "Ancestral Shamanism"
  religion_loa: "Loa Voodoo"
  religion_celestial: "Celestials"
- religion_arkkorok: "Arkkorok"
+ religion_arkkorok: "Arkkoroc"
  religion_void: "Void"
  religion_mystery_of_the_makers: "Mystery of the Makers"
  religion_ragnaros: "Ragnaros"

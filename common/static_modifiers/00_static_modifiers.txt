@@ -194,14 +194,14 @@ capital_city = {
 
 # Multiplied in provinces of same religion.
 patriarch_authority_local = {
-	local_unrest = -3
-	local_manpower_modifier = 0.33
-	local_tax_modifier = -0.33
+	
 }
 
 #for the country
 patriarch_authority_global = {
-	global_missionary_strength = 0.02
+	global_missionary_strength = 0.03
+	infantry_power = 0.1
+	cavalry_power = 0.1
 }
 
 colony_level = {
@@ -528,22 +528,18 @@ navy_tradition = {
 }
 
 positive_piety = {
-	land_morale = 0.10
+	land_morale = 0.15
 	global_missionary_strength = 0.03
-	defensiveness = 0.20
 }
 
 #For convenience, its multiplied by negative piety in code.
 negative_piety = {
 	technology_cost = -0.1
-	global_manpower_modifier = 0.20
-	global_tax_modifier = 0.20
 }
 
 defender_of_faith = {
 	land_morale = 0.05
 	naval_morale = 0.05
-	technology_cost = 0.05
 	war_exhaustion = -0.025					#quicker recovery
 	papal_influence = 1
 	prestige = 1							#1% extra prestige yearly
@@ -963,18 +959,19 @@ divert_trade = {
 
 karma_just_right =
 {
-	diplomatic_reputation = 1
-	discipline = 0.05
+	
 }
 
 karma_too_high =
 {
-	discipline = -0.05
+	discipline = 0.05
+	diplomatic_reputation = -1
 }
 
 karma_too_low =
 {
-	diplomatic_reputation = -1
+	diplomatic_reputation = 1
+	discipline = -0.05
 }
 
 ########################################

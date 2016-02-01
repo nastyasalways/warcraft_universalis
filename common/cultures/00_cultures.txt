@@ -2079,7 +2079,8 @@ culture_group_depths = {
 			
 		}
 	}
-	
+	 
+	# Morloc
 	culture_nerglish = {
 		male_names = {
 			

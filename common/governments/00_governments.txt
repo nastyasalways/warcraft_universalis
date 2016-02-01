@@ -271,8 +271,8 @@ militaristic_republic = {
 dictatorship_gov = {
 	republic = yes
 	
-	valid_for_new_country = yes
-	
+	valid_for_new_country = no
+	allow_convert = no
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
 	
@@ -394,9 +394,10 @@ militaristic_theocracy = {
 #	administrative_order
 administrative_order = {
 	religion = yes
+	monastic = yes
 	
 	valid_for_new_country = yes
-	
+	#allow_convert = no
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
 	
@@ -424,9 +425,10 @@ administrative_order = {
 #	mercantile_order
 mercantile_order = {
 	religion = yes
+	monastic = yes
 	
 	valid_for_new_country = yes
-	
+	#allow_convert = no
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
 	
@@ -454,9 +456,10 @@ mercantile_order = {
 #	militaristic_order
 militaristic_order = {
 	religion = yes
+	monastic = yes
 	
 	valid_for_new_country = yes
-	
+	#allow_convert = no
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
 	
@@ -623,7 +626,7 @@ religious_tribe = {
 	allow_migration = yes
 	allow_westernize = no
 	
-	valid_for_new_country = no
+	valid_for_new_country = yes
 	allow_convert = no
 	
 	valid_for_nation_designer = yes
@@ -659,7 +662,7 @@ mercantile_tribe = {
 	allow_migration = yes
 	allow_westernize = no
 	
-	valid_for_new_country = no
+	valid_for_new_country = yes
 	allow_convert = no
 	
 	valid_for_nation_designer = yes
@@ -695,7 +698,7 @@ war_tribe = {
 	allow_migration = yes
 	allow_westernize = no
 	
-	valid_for_new_country = no
+	valid_for_new_country = yes
 	allow_convert = no
 	
 	valid_for_nation_designer = yes

@@ -39,6 +39,43 @@ azerothian_ideas = {
 	}
 }
 
+depths_ideas = {
+	start = {
+		
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		primary_culture = culture_group_depths
+	}
+	free = yes		#wibe added at load.
+	
+	depths_ideas_1 = {
+	
+	}
+	depths_ideas_2 = {
+	
+	}
+	depths_ideas_3 = {
+	
+	}
+	depths_ideas_4 = {
+	
+	}
+	depths_ideas_5 = {
+	
+	}
+	depths_ideas_6 = {
+	
+	}
+	depths_ideas_7 = {
+	
+	}
+}
+
 gilnean_ideas = {
 	start = {
 		
