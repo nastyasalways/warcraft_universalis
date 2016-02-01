@@ -1,5 +1,5 @@
 # Shadowsworn
-government 		= theocratic_government
+government 			= militaristic_theocracy
 mercantilism 		= 0.1
 technology_group 	= tech_orc
 religion			= religion_fel
@@ -20,6 +20,6 @@ capital 			= 1
 }
 
 618.1.1 = {
-technology_group 	= tech_demonic
-primary_culture 	= culture_legion_cultist
+	technology_group 	= tech_demonic
+	primary_culture 	= culture_legion_cultist
 }

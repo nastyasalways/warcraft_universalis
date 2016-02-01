@@ -1,8 +1,8 @@
 # Oona Tribe
-government 		= pirate_clan
+government 			= war_tribe
 mercantilism 		= 0.1 
 technology_group 	= tech_primitive
-religion		= religion_celestial
+religion			= religion_celestial
 primary_culture 	= culture_forest_hozen
 capital 			= 1
 

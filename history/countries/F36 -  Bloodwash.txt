@@ -1,11 +1,11 @@
 # Naga Explorers
-government = noble_republic
-mercantilism = 0.1 
-technology_group = tech_naga
-religion= religion_old_gods
+government 			= expenditionary_force
+mercantilism 		= 0.1 
+technology_group 	= tech_naga
+religion			= religion_old_gods
 capital = 1
 
-primary_culture = culture_nazja
+primary_culture 	= culture_nazja
 
 631.1.1 = { 
 	monarch = { 

@@ -1,12 +1,9 @@
 # Deatholme
-government			= scourge_horde
+government			= scourge_gov
 mercantilism 		= 0.1
 technology_group 	= tech_scourge
 religion			= religion_the_damned
 primary_culture 	= culture_scourge
-add_accepted_culture = culture_ghost
-add_accepted_culture = culture_cultist
-add_accepted_culture = culture_nerubian
 capital 			= 1039
 
 618.1.1 = {

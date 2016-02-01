@@ -1,5 +1,5 @@
 # Azjol-Nerub
-government 		= insectoid_kingdom
+government 			= militaristic_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_aqir
 religion			= religion_old_gods

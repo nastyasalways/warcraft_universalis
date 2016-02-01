@@ -1,5 +1,5 @@
 # Silvermoon
-government			= despotic_monarchy
+government			= administrative_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_thalassian
 religion			= religion_arcane
@@ -24,5 +24,4 @@ capital 			= 660
 		dip = 2
 		mil = 5
 	}
-	government = oligarchic_republic
 }

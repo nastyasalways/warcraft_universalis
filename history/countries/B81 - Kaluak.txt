@@ -1,5 +1,5 @@
 # Kaluak
-government 		= minor_tribe
+government 			= mercantile_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_tuskarr
 religion			= religion_ancestral

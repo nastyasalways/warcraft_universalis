@@ -1,8 +1,8 @@
 # Inkgill
-government 		= tribal_democracy
+government 			= religious_tribe
 mercantilism 		= 0.1 
 technology_group 	= tech_depths
-religion		= religion_celestial
+religion			= religion_celestial
 primary_culture 	= culture_jinyu
 capital 			= 1
 

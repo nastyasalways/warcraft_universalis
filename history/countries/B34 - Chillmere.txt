@@ -1,8 +1,8 @@
 # Chillmere
-government 		= minor_tribe
+government 			= war_tribe
 mercantilism 		= 0.1 
 technology_group 	= tech_depths
-religion		= religion_old_gods
+religion			= religion_old_gods
 primary_culture 	= culture_nerglish
 capital 			= 651
 

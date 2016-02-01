@@ -1,5 +1,5 @@
 # Faceless
-government 		= old_god_lair
+government 			= cult_gov
 mercantilism 		= 0.1
 technology_group 	= tech_old_god
 religion			= religion_old_gods

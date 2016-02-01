@@ -1,11 +1,10 @@
 # Forest Heart
-government 		= despotic_magocracy
+government 			= war_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_pandaren
-religion		= religion_arcane
+religion			= religion_arcane
 primary_culture 	= culture_jade_serpent
-add_accepted_culture = culture_construct
-capital 		= 1
+capital 			= 1
 
 546.1.1 = { 
 monarch = { 

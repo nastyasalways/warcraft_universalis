@@ -1,5 +1,5 @@
 # Kargesh
-government 		= despotic_monarchy
+government 			= warband_gov
 mercantilism 		= 0.1
 technology_group 	= tech_mogu
 religion			= religion_titan

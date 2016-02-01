@@ -1,9 +1,9 @@
 # Ravenholdt
-government = absolute_monarchy
-mercantilism = 0.1 
-technology_group = tech_human
-religion = religion_sect_of_dragons
-primary_culture = culture_lordaeron
+government 			= cult_gov
+mercantilism 		= 0.1 
+technology_group 	= tech_human
+religion 			= religion_sect_of_dragons
+primary_culture 	= culture_lordaeron
 capital = 624 
 
 618.1.1 = { 

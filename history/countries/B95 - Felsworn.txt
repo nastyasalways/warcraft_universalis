@@ -1,9 +1,9 @@
 # Felsworn
-government = legion
-mercantilism = 0.1 
-technology_group = tech_demonic
-religion= religion_fel
-capital = 1
+government 			= warband_gov
+mercantilism 		= 0.1 
+technology_group 	= tech_demonic
+religion			= religion_fel
+capital 			= 1
 
 primary_culture = culture_doomguard
 add_accepted_culture = culture_dreadlord
@@ -29,5 +29,5 @@ add_accepted_culture = culture_moarg
 		dip = 4	
 		mil = 3	
 	}
-primary_culture = culture_dreadlord  
+	primary_culture = culture_dreadlord  
 } 

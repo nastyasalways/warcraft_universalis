@@ -1,8 +1,8 @@
 # Winterskorn
-government 		= tribal_despotism
+government 			= war_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_vrykul
-religion		= religion_the_damned
+religion			= religion_the_damned
 primary_culture 	= culture_winterskorn
 capital 		= 734
 

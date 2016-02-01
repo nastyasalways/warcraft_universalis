@@ -1,5 +1,5 @@
 # Mauraudine
-government 			= steppe_horde
+government 			= warband_gov
 mercantilism 		= 0.1
 technology_group 	= tech_centaur
 religion			= religion_therazane

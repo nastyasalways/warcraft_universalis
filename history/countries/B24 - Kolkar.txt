@@ -1,10 +1,10 @@
 # Kolkar
-government 		= steppe_horde
+government 			= warband_gov
 mercantilism 		= 0.1
 technology_group 	= tech_centaur
-religion		= religion_ancestral
+religion			= religion_ancestral
 primary_culture 	= culture_kolkar
-capital 		= 1
+capital 			= 1
 
 546.1.1 = { 
 monarch = { 

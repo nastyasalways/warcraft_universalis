@@ -1,5 +1,5 @@
 # Exiles
-government 		= despotic_monarchy
+government 			= mercantile_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_arrakoa
 religion			= religion_terokk

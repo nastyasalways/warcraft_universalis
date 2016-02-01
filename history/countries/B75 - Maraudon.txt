@@ -1,5 +1,5 @@
 # Maraudon
-government 		= despotic_monarchy
+government 			= cult_gov
 mercantilism 		= 0.1
 technology_group 	= tech_titan
 religion			= religion_therazane

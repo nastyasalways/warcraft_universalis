@@ -1,5 +1,5 @@
 # Hillsbrad
-government 			= feudal_monarchy
+government 			= administrative_kingdom
 government_rank 	= 1
 mercantilism 		= 0.1
 technology_group 	= tech_human
@@ -25,7 +25,7 @@ monarch = {
 		dip = 3
 		mil = 4
  	} 
- 	government = military_dictat
+ 	government = dictatorship_gov
 }
 
 597.1.1 = { 

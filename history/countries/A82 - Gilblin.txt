@@ -1,5 +1,5 @@
 # Gilblin
-government 		= warband
+government 			= war_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_goblin
 religion			= religion_divine

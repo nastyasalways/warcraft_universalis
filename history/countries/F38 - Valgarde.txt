@@ -1,6 +1,6 @@
 # Lordaeron
-government 		= feudal_monarchy
-government_rank = 2
+government 			= administrative_kingdom
+government_rank 	= 2
 mercantilism 		= 0.1
 technology_group 	= tech_human
 religion			= religion_church_of_the_light
@@ -19,23 +19,23 @@ capital 			= 1
 } 
 
 618.1.1 = { 
-monarch = { 
-     name = "Luc" 
-     dynasty = "Valonforth" 
+	monarch = { 
+		name = "Luc" 
+		dynasty = "Valonforth" 
 		adm = 3
 		dip = 4
 		mil = 4
  	} 
-government = military_dictat
- } 
+	government = dictatorship_gov
+} 
 
 626.1.1 = { 
-monarch = { 
-     name = "Andrew" 
-     dynasty = "Keller" 
+	monarch = { 
+		name = "Andrew" 
+		dynasty = "Keller" 
 		adm = 2
 		dip = 1
 		mil = 3
  	} 
- } 
+} 
  

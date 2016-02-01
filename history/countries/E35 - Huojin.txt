@@ -1,6 +1,6 @@
 # Huojin
-government 		= monastic_order_government
-government_rank = 1
+government 			= militaristic_order
+government_rank 	= 1
 mercantilism 		= 0.1
 technology_group 	= tech_pandaren
 religion			= religion_celestial

@@ -1,5 +1,5 @@
 # Karabor
-government 		= despotic_monarchy
+government 			= administrative_theocracy
 mercantilism 		= 0.1
 technology_group 	= tech_draenei
 religion			= religion_light_of_the_naaru

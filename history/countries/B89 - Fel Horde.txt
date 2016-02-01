@@ -1,5 +1,5 @@
 # Magtheridon's Forces
-government 		= legion
+government 			= warband_gov
 mercantilism 		= 0.1
 technology_group 	= tech_demonic
 religion			= religion_fel

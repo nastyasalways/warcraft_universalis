@@ -1,9 +1,9 @@
 # The Burning Legion
-government 		= legion
-mercantilism 		= 0.1
-technology_group 	= tech_demonic
-religion			= religion_fel
-primary_culture 	= culture_eredar
+government 				= warband_gov
+mercantilism 			= 0.1
+technology_group 		= tech_demonic
+religion				= religion_fel
+primary_culture 		= culture_eredar
 add_accepted_culture = culture_pit_lord
 add_accepted_culture = culture_dreadlord
 add_accepted_culture = culture_doomguard

@@ -1,10 +1,10 @@
 # Hyldnir
-government 		= despotic_monarchy
+government 			= militaristic_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_vrykul
-religion		= religion_titan
+religion			= religion_titan
 primary_culture 	= culture_brunnhilde
-capital 		= 1280
+capital 			= 1280
 
 546.1.1 = {  
 monarch = {  

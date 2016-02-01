@@ -1,8 +1,8 @@
 # Howling
-government 		= minor_tribe
+government 			= war_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_wolfvar
-religion		= religion_ancestral
+religion			= religion_ancestral
 primary_culture 	= culture_howling
 capital 		= 1
 

@@ -1,4 +1,4 @@
-government 				= minor_tribe
+government 				= religious_tribe
 mercantilism 			= 0.1
 technology_group 		= tech_darnassian
 religion				= religion_elune

@@ -1,5 +1,5 @@
 # Blackwater
-government 		= pirate_clan
+government 			= criminal_organisation
 mercantilism 		= 0.1
 technology_group 	= tech_goblin
 religion			= religion_tech

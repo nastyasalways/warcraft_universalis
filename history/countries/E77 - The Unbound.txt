@@ -1,5 +1,5 @@
 # The Unbound (Crystal Nymphs and Satyrs)
-government 		= warband
+government 			= religious_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_darnassian
 religion			= religion_arcane

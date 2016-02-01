@@ -1,6 +1,5 @@
 # Westfall
-government 		= feudal_monarchy
-government_rank = 1
+government 			= mercantile_republic
 mercantilism 		= 0.1
 technology_group 	= tech_human 
 religion			= religion_church_of_the_light
@@ -27,5 +26,4 @@ capital 			= 1
 		mil = 4
                 
 	} 
-government = military_dictat
 }  

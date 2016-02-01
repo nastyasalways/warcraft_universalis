@@ -1,5 +1,5 @@
 # Winterfin
-government 		= despotic_monarchy
+government 			= war_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_depths
 religion			= religion_old_gods

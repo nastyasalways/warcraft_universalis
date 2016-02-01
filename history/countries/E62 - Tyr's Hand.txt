@@ -1,9 +1,9 @@
 # Tyr's Hand
-government 		= feudal_monarchy
-government_rank = 1
+government 			= administrative_kingdom
+government_rank 	= 1
 mercantilism 		= 0.1 
 technology_group 	= tech_human
-religion		= religion_church_of_the_light
+religion			= religion_church_of_the_light
 primary_culture 	= culture_lordaeron
 capital 			= 1
 

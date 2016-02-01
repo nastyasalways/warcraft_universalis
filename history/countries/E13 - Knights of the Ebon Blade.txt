@@ -1,5 +1,5 @@
 # Knights of the Ebon Blade
-government 		= military_dictat
+government 			= militaristic_order
 mercantilism 		= 0.1
 technology_group 	= tech_scourge
 religion			= religion_shadow

@@ -1,8 +1,8 @@
 # Red Crane Clan
-government 		= theocratic_government
+government 			= administrative_theocracy
 mercantilism 		= 0.1 
 technology_group 	= tech_pandaren
-religion		= religion_celestial
+religion			= religion_celestial
 primary_culture 	= culture_red_crane
 capital 			= 1
 

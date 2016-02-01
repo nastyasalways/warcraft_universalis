@@ -1,5 +1,5 @@
 # Baradin's Wardens
-government 			= feudal_monarchy
+government 			= militaristic_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_human
 religion			= religion_church_of_the_light
@@ -44,6 +44,6 @@ capital 			= 1
 		dip = 3
 		mil = 3 
  	}	
-	government 		= military_dictat
+	government = dictatorship_gov
 }
  

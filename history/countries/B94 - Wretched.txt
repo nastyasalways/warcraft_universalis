@@ -1,5 +1,5 @@
 # Wretched
-government			= despotic_magocracy
+government			= religious_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_thalassian
 religion			= religion_arcane

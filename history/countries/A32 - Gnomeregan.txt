@@ -1,5 +1,5 @@
 # Gnomeregan
-government 			= tinker_republic
+government 			= mercantile_republic
 mercantilism 		= 0.1
 technology_group 	= tech_gnome
 religion			= religion_tech

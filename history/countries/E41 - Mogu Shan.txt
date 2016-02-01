@@ -1,8 +1,8 @@
 # Mogu Shan
-government 		= warband
+government 			= warband_gov
 mercantilism 		= 0.1 
 technology_group 	= tech_mogu
-religion		= religion_titan
+religion			= religion_titan
 primary_culture 	= culture_korune
 capital 			= 1
 

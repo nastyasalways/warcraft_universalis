@@ -1,5 +1,5 @@
 # Deepholm
-government 		= elemental_kingdom
+government 			= militaristic_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_elemental
 religion			= religion_therazane

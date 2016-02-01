@@ -1,5 +1,5 @@
 # Stonesplinter
-government 		= minor_tribe
+government 			= war_tribe
 mercantilism 		= 0.1 
 technology_group 	= tech_primitive
 religion			= religion_geomancy

@@ -1,5 +1,5 @@
 # Quel'Thalas Remnants
-government			= military_dictat
+government			= dictatorship_gov
 mercantilism 		= 0.1
 technology_group 	= tech_thalassian
 religion			= religion_church_of_the_light

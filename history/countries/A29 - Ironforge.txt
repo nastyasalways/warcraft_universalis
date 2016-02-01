@@ -1,5 +1,5 @@
 # Ironforge
-government 		= constitutional_monarchy
+government 			= administrative_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_dwarven
 religion			= religion_church_of_the_light

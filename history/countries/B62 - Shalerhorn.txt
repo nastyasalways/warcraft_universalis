@@ -1,5 +1,5 @@
 # Shalerhorn
-government 		= despotic_monarchy
+government 			= war_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_kobold
 religion			= religion_geomancy

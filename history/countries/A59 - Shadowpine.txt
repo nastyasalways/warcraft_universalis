@@ -1,6 +1,6 @@
 # Shadowpine
 # Amani
-government 			= warband
+government 			= warband_gov
 mercantilism 		= 0.1
 technology_group 	= tech_troll
 religion			= religion_loa

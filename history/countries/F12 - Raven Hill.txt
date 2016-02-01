@@ -1,5 +1,5 @@
 # Shadowsworn
-government 		= despotic_magocracy
+government 			= militaristic_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_undead
 religion			= religion_shadow

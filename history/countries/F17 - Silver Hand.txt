@@ -1,6 +1,6 @@
 # Silver Hand
-government 		= monastic_order_government
-government_rank = 1
+government 			= militaristic_order
+government_rank 	= 1
 mercantilism 		= 0.1
 technology_group 	= tech_human
 religion			= religion_church_of_the_light

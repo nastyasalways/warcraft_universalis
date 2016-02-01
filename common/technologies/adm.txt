@@ -8,34 +8,27 @@ ahead_of_time = {
 technology = {
 	year = 545
 	
-	magocracy_republic = yes
-	despotic_magocracy = yes
-	tinker_republic = yes
-	orcish_horde = yes
-	warcraft_horde = yes
-	warband = yes
-	roaming_trade_company = yes
-	pirate_clan = yes
-	kul_tiras = yes
-	draconic_kingdom = yes
-	scourge_horde = yes
-	insectoid_kingdom = yes
-	legion = yes
-	elemental_kingdom = yes
-	wind_trader_coalition = yes
-	shado_pan = yes
-	high_monarchy = yes
-	7th_legion = yes
-	argent_crusade = yes
-	military_dictat = yes
-	scarlet_crusade = yes
-	exodar_city = yes
-	twilight_cabal = yes
-	old_god_lair = yes
-	thunderbluff_tribe = yes
-	minor_tribe = yes
-	criminal_organization = yes
-
+	administrative_kingdom = yes
+	mercantile_kingdom = yes
+	militaristic_kingdom = yes
+	
+	administrative_republic = yes
+	mercantile_republic = yes
+	militaristic_republic = yes
+	dictatorship_gov = yes
+	
+	administrative_theocracy = yes
+	mercantile_theocracy = yes
+	militaristic_theocracy = yes
+	
+	administrative_order = yes
+	mercantile_order = yes
+	militaristic_order = yes
+	
+	religious_tribe = yes
+	mercantile_tribe = yes
+	war_tribe = yes
+	
 	may_support_rebels = yes
 	may_force_march = yes
 }

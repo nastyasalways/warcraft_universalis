@@ -1,8 +1,8 @@
 # Jellyneck
-government 		= warband
+government 			= warband_gov
 mercantilism 		= 0.1 
 technology_group 	= tech_troll
-religion		= religion_loa
+religion			= religion_loa
 primary_culture 	= culture_jellyneck
 capital 			= 1
 

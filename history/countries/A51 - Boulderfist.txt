@@ -1,9 +1,9 @@
 # Boulderfist
-government = warband
-mercantilism = 0.1 
-technology_group = tech_ogre
-religion= religion_geomancy
-primary_culture = culture_boulderfist
+government 			= warband_gov
+mercantilism 		= 0.1 
+technology_group 	= tech_ogre
+religion			= religion_geomancy
+primary_culture 	= culture_boulderfist
 capital = 962
 
 

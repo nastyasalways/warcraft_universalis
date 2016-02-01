@@ -1,5 +1,5 @@
 # Skumblade Saurok
-government 		= warband
+government 			= warband_gov
 mercantilism 		= 0.1
 technology_group 	= tech_primitive
 religion			= religion_voodoo
@@ -7,13 +7,13 @@ primary_culture 	= culture_riverblade
 capital 			= 1
 
 546.1.1 = { 
-monarch = { 
-     name = "Progentius" 
-     dynasty = "Skumblade" 
+	monarch = { 
+		name = "Progentius" 
+		dynasty = "Skumblade" 
 		adm = 3
 		dip = 3
 		mil = 4
- 	} 
- } 
+	} 
+} 
 
  
