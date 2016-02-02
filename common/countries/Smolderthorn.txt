@@ -9,7 +9,7 @@ monarch_names = {
 }
 
 leader_names = {
-
+""
 }
 
 ship_names = {

@@ -72,9 +72,8 @@ controller = XXX
 
 # Rise of the Qiraji
 622.1.1 = { 
-owner = A01
-controller = A01
+owner = A41
+controller = A41
+add_core = A41
 add_core = A01
-culture = culture_azerothian
-religion = religion_church_of_the_light
 }
