@@ -83,7 +83,7 @@ owner = A24
 controller = A24
 add_core = E14
 culture = culture_lordaeron
-religion = religion_church_of_the_light
+religion = religion_argent_light 
 base_tax = 2
 base_manpower = 2
 }

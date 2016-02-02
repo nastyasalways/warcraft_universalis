@@ -71,6 +71,7 @@ controller = A10
 add_core = A22
 owner = A22
 controller = A22
+religion = religion_scarlet_light
 }
 
 # Cataclysm

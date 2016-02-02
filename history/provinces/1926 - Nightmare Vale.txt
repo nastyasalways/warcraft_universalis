@@ -71,4 +71,5 @@ controller = A22
 owner = A22
 add_core = A22
 remove_core = F16
+religion = religion_scarlet_light
 }
