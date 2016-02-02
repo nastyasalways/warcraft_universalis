@@ -67,7 +67,9 @@ religion = religion_geomancy
 # Beyond the Dark Portal
 600.1.1 = {
 add_core = A65
-owner = F01
-controller = F01
+owner = A65
+controller = A65
+culture = culture_smolderthorn
+religion = religion_loa
 }
 
