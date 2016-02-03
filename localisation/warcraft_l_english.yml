@@ -1245,8 +1245,6 @@
  tech_gnome_desc: "With the Gnomish technology group, technology levels are standard cost (100%)."
  tech_primitive: "Primitive"
  tech_primitive_desc: "With the Primitive technology group, technology levels are standard cost (100%)."
- tech_dwarven: "Dwarven"
- tech_dwarven_desc: "With the Dwarven technology group, technology levels are standard cost (100%)."
  
  # Triggered Modifiers
  draconic_weakness: "Draconic Weakness"
