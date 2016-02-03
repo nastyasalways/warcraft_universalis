@@ -1,16 +1,25 @@
 # 3036 Hall of Gears
 is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+add_core = A32
+owner = A32
+controller = A32
 
-add_core = A29
-owner = A29
-controller = A29
+base_tax = 5
+base_manpower = 5
+base_production = 5
 
-culture = culture_ironforge
-religion = religion_church_of_the_light
+culture = culture_gnome
+religion = religion_tech
 
 hre = no
-trade_goods = fish
+trade_goods = workshops
+
+# Rise of the Qiraji
+622.1.1 = {
+owner = A33
+controller = A33
+add_core = A33
+add_core = F24
+culture = culture_leper_gnome
+}

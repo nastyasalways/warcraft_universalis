@@ -1,16 +1,16 @@
 # 3035 Frostmane Tunnels
 is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 3
+base_manpower = 3
+base_production = 4
 
-add_core = A29
-owner = A29
-controller = A29
+add_core = A75
+owner = A75
+controller = A75
 
-culture = culture_ironforge
-religion = religion_church_of_the_light
+culture = culture_frostmane
+religion = religion_loa
 
 hre = no
-trade_goods = fish
+trade_goods = copper
