@@ -20,10 +20,24 @@ monarch = {
 monarch = {  
       name = "Voon"  
      dynasty = "Smolderthorn"  
- 		adm = 2 
+ 		adm = 3 
 		dip = 3 
-		mil = 4 
+		mil = 5 
   	}  
   }  
   
-  617.1.1 = { capital = 1 }
+617.1.1 = { capital = 1 }
+
+622.1.1 = { 
+heir = {    
+name = "Vosh'gajin" 
+     dynasty = "Smolderthorn" 
+		adm = 2
+		dip = 4
+		mil = 3
+           female = yes
+           birth_date = 599.12.11
+ 	} 
+} 
+
+

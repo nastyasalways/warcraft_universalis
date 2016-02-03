@@ -951,6 +951,8 @@
  F54_ADJ: "Quel'Thalas"
  F55: "Lordaeron Survivors"
  F55_ADJ: "Lordaeron"
+ F56: "Southvale"
+ F56_ADJ: "Southvale"
  
  H01: "Nordrassil"
  H01_ADJ: "Nordrassil"
@@ -1165,7 +1167,9 @@
  diety_y_shaarj: "Y'Shaarj"
  diety_c_thun_desc: "C'Thun is the Old God responsible for the creation of the Qiraji by using the primitive Silithid and shaping them in the gods own image. Long ago C'Thun's armies were defeated and citadel shattered by the combined forces of the Titans, however this Old God was able to defeat a Titan in battle before being imprisoned. Deep beneath the fortress city of Ahn'Qiraj he awaits his return to full strength. C'Thun's notable trait is its great lidless eye and being surrounded by a sea of tenticles."
  diety_y_shaarj_desc: "Y'Shaarj is known be the only Old God to have been physically killed by the Titans. With Y'Shaarj's last breadth it cursed the land of Pandaria and gave life to the foul shadow creations known as the Sha. After Y'Shaarj was slain in battle, its heart was cut from its body, locked away, and hidden. While this Old God's influence is primarily contained to Pandaria, soon the world will know the feeling of true despair."
-
+ # Loa
+ diety_shadra: "Shadra"
+ diety_shadra_desc: "The loa of Spiders, also known as the silk dancer or the venom queen. Although a part of the jungle troll pantheon, Shadra is revered by the Witherbark tribe of forest trolls. Shadra's influence may have spread to Blackrock Spire, where the Smolderthorn tribe respect and fear her spawn, Mother Smolderweb." 
  # Technology
  tech_human: "Human"
  tech_human_desc: "With the Human technology group, technology levels are standard cost (100%)."

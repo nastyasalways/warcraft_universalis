@@ -71,3 +71,12 @@ remove_core = A40
 culture = culture_ironforge 
 religion = religion_church_of_the_light
 }
+
+# Cataclysm
+631.1.1 = {
+owner = B26
+controller = B26
+add_core = B26
+culture = culture_nerglish
+religion = religion_old_gods
+}

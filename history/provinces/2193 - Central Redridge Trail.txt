@@ -1,13 +1,12 @@
-# 2193
-is_city = no
+# 2193 Central Redridge Trail
+is_city = yes
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
-
-culture = noculture
-religion = noreligion
+culture = culture_shadowhide
+religion = religion_ancestral
 
 hre = no
 trade_goods = grain
@@ -50,4 +49,3 @@ discovered_by = tech_mogu
 discovered_by = tech_yaungol
 discovered_by = tech_ethereal
 discovered_by = tech_gnome
-

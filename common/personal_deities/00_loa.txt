@@ -1,0 +1,24 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new dieties, make sure they are uniquely named.
+diety_shadra = 
+{ 
+	#(Economic - Offensive) 
+	siege_ability = 0.1
+	production_efficiency = 0.1
+	discovered_relations_impact = -0.15
+	
+	allow = { religion = religion_loa }
+	sprite = 13
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_capitalist
+		}	
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}		
+	}	
+}

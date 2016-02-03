@@ -76,4 +76,5 @@ religion = religion_arcane
 # The Frozen Throne
 618.1.1 = {
 religion = religion_church_of_the_light
+add_core = F56
 }

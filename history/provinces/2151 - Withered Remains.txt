@@ -91,4 +91,5 @@ owner = F12
 controller = F12
 add_core = F12
 remove_core = A44
+religion = religion_shadow
 }

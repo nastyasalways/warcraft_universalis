@@ -650,38 +650,43 @@ draenei_ideas = {
 }
 
 forest_troll_ideas = {
-	start = {
-		
-	}
+	start = { 
+          manpower_recovery_speed = 0.10
+		  defensiveness = 0.10
+		  }
 
-	bonus = {
-		
-	}
+	bonus = { 
+            leader_land_fire = 1
+			}
 	
 	trigger = {
 		culture_group = culture_group_forest_troll
 	}
 	free = yes		#wibe added at load.
 	
-	forest_troll_ideas_1 = {
+	forest_troll_berserkers { infantry_power = 0.1
 	
 	}
-	forest_troll_ideas_2 = {
+	forest_troll_empire = { core_creation = -0.15
 	
 	}
-	forest_troll_ideas_3 = {
+	
+	forest_troll_lumber_mills = { production_efficiency = 0.1
+	}
+	
+	forest_troll_land = { culture_conversion_cost = -0.2
+	global_missionary_strength = 0.01
 	
 	}
-	forest_troll_ideas_4 = {
+
+	forest_troll_destroyers = { navy_tradition = 1
+		light_ship_power = 0.15
 	
 	}
-	forest_troll_ideas_5 = {
+	forest_troll_war_bears = { cavalry_power = 0.1
 	
 	}
-	forest_troll_ideas_6 = {
-	
-	}
-	forest_troll_ideas_7 = {
+	forest_troll_hexxers = { land_morale = 0.1
 	
 	}
 }
