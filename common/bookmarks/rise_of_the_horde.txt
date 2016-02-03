@@ -9,4 +9,17 @@ bookmark =
 	name = "RISE_OF_THE_HORDE_NAME"
 	desc = "RISE_OF_THE_HORDE_DESC"
 	date = 546.1.1
+	
+	country = H01
+	country = A90
+	country = A58
+	country = A08
+	country = A29
+	country = A16
+	country = A12
+	country = A18
+	country = A17
+	country = A01
+	country = A30
+	country = A66
 }
