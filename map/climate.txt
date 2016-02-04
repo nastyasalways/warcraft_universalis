@@ -122,5 +122,6 @@ impassable = {
 	2137
 	1108 # Wildlook Cliffs
 	3008 # Amani Wildlands
+	3046 # Anvil Mountains
 
 }
