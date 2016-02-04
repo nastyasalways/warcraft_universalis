@@ -1,0 +1,25 @@
+# 3041 Frostmane Village
+is_city = yes
+
+base_tax = 2
+base_manpower = 2
+base_production = 3
+
+add_core = A29
+owner = A29
+controller = A29
+
+culture = culture_ironforge
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = fur
+
+# Rise of the Qiraji
+622.1.1 = {
+add_core = A75
+owner = A75
+controller = A75
+culture = culture_frostmane
+religion = religion_loa
+}

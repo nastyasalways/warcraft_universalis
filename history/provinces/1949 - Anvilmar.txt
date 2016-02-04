@@ -1,20 +1,16 @@
-# 1949
+# 1949 Anvilmar
 is_city = yes
+
 add_core = A29
 owner = A29
 controller = A29
 
-base_tax = 3
+base_tax = 4
 base_manpower = 3
 base_production = 3
-
 
 culture = culture_ironforge
 religion = religion_church_of_the_light
 
 hre = no
 trade_goods = grain_silo
-
-
-
-

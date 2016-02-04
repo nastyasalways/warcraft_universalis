@@ -1,0 +1,12 @@
+# 3046 Anvil Mountains
+is_city = no
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+culture = no_culture
+religion = no_religion
+
+hre = no
+trade_goods = fur
