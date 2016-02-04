@@ -1108,7 +1108,7 @@ l_english:
  PROV1107: "Ruins of Vashj'elan"
  PROV1108: "wasteland: Wildlook Cliffs"
  PROV1109: "Melted Land"
- PROV1110: "Redridge Mountains"
+ PROV1110: "" # Redridge Mountains
  PROV1111: ""
  PROV1112: ""
  PROV1113: ""
@@ -1127,37 +1127,37 @@ l_english:
  PROV1126: ""
  PROV1127: ""
  PROV1128: ""
- PROV1129: "Twilight Mountains"
- PROV1130: "Grim Mountains"
- PROV1131: "Wetland Mountains"
- PROV1132: "Loch Modan Mountains"
- PROV1133: "Ironforge Mountains"
+ PROV1129: "" # Twilight Mountains
+ PROV1130: "" # Grim Mountains
+ PROV1131: "" # Wetland Mountains
+ PROV1132: "" # Loch Modan Mountains
+ PROV1133: "" # Ironforge Mountains
  PROV1134: "Amberstill Ranch"
- PROV1135: "Loch Modan Mountains"
- PROV1136: "Twilight Mountains"
+ PROV1135: "" # Loch Modan Mountains
+ PROV1136: "" # Twilight Mountains
  PROV1137: "Stonesplinter Valley"
  PROV1138: ""
- PROV1139: "Dun Morogh Mountains"
+ PROV1139: "" # Dun Morogh Mountains
  PROV1140: "New Tinkertown"
- PROV1141: "Ironforge Mountains"
+ PROV1141: "" # Ironforge Mountains
  PROV1142: "The Grizzled Den"
  PROV1143: ""
- PROV1144: "Azerothian Mountains"
+ PROV1144: "" # Azerothian Mountains
  PROV1145: ""
  PROV1146: ""
- PROV1147: "Burning Mountains"
+ PROV1147: "" # Burning Mountains
  PROV1148: ""
  PROV1149: ""
- PROV1150: "Westfall Mountains"
+ PROV1150: "" # Westfall Mountains
  PROV1151: ""
  PROV1152: ""
- PROV1153: "Sorrowful Mountains"
+ PROV1153: "" # Sorrowful Mountains
  PROV1154: ""
  PROV1155: ""
  PROV1156: ""
- PROV1157: "Zul'kunda Mountains"
- PROV1158: "Blasted Mountains"
- PROV1159: "Tainted Mountains"
+ PROV1157: "" # Zul'kunda Mountains
+ PROV1158: "" # Blasted Mountains
+ PROV1159: "" # Tainted Mountains
  PROV1160: ""
  PROV1161: "The Maelstrom"
  PROV1162: ""
