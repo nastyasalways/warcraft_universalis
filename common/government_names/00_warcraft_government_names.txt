@@ -42,15 +42,15 @@ gov_kingdom_kul_tiras = {
 	}
 	
 	ruler_male = {
-		1 = LORD
-		2 = KING
-		3 = EMPEROR
+		1 = REAR_ADMIRAL
+		2 = ADMIRAL
+		3 = GRAND_ADMIRAL
 	}
 	
 	ruler_female = {
-		1 = LADY
-		2 = QUEEN
-		3 = EMPRESS
+		1 = REAR_ADMIRAL
+		2 = ADMIRAL
+		3 = GRAND_ADMIRAL
 	}
 	
 	trigger = {
@@ -261,7 +261,7 @@ gov_theocracy_elune = {
 			government = mercantile_theocracy
 			government = militaristic_theocracy
 		}
-		religion = religion_elune
+		religion = religion_druidic
 	}
 }
 
@@ -418,14 +418,14 @@ gov_order_argent_dawn = {
 	}
 	
 	ruler_male = {
-		1 = CRUSADER
-		2 = CRUSADER
+		1 = LORD
+		2 = LORD
 		3 = GRAND_CRUSADER
 	}
 	
 	ruler_female = {
-		1 = CRUSADER
-		2 = CRUSADER
+		1 = LADY
+		2 = LADY
 		3 = GRAND_CRUSADER
 	}
 	
@@ -528,20 +528,25 @@ gov_warband_gov_pirate = {
 	}
 	
 	ruler_male = {
-		1 = PIRATE_KING
-		2 = PIRATE_KING
+		1 = CAPTAIN
+		2 = PIRATE_LORD
 		3 = PIRATE_KING
 	}
 	
 	ruler_female = {
-		1 = PIRATE_QUEEN
-		2 = PIRATE_QUEEN
+		1 = CAPTAIN
+		2 = PIRATE_LADY
 		3 = PIRATE_QUEEN
 	}
 	
 	trigger = {
-		government = warband_gov
-		tag = XXX #todo add the pirate tags
+		government = criminal_organisation
+		OR = {
+			tag = A15
+			tag = A19
+			tag = A20
+			tag = A83
+		}
 	}
 }
 
@@ -590,7 +595,7 @@ gov_scourge_main = {
 	
 	trigger = {
 		government = scourge_gov
-		tag = XXX # Add Lich King tag
+		tag = E11 # Add Lich King tag
 	}
 }
 
@@ -615,7 +620,11 @@ gov_scourge = {
 	
 	trigger = {
 		government = scourge_gov
-		tag = XXX # add other scourge tags
+		OR = {
+			tag = E52
+			tag = F21
+			tag = E13
+		}
 	}
 }
 
@@ -651,13 +660,13 @@ gov_criminal_organisation = {
 	}
 	
 	ruler_male = {
-		1 = KINGPIN
+		1 = BOSS
 		2 = KINGPIN
 		3 = KINGPIN
 	}
 	
 	ruler_female = {
-		1 = KINGPIN
+		1 = BOSS
 		2 = KINGPIN
 		3 = KINGPIN
 	}

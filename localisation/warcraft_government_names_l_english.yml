@@ -134,6 +134,10 @@ l_english:
  ARCHMAGE: "Archmage"
  GRAND_MAGUS: "Grand Magus"
  
+ REAR_ADMIRAL: "Rear Admiral"
+ ADMIRAL: "Admiral"
+ GRAND_ADMIRAL: "Grand Admiral"
+ 
  # Republics
  MAGISTRATE: "Magistrate"
  GRAND_MAGISTRATE: "Grand Magistrate"
@@ -176,9 +180,14 @@ l_english:
  WARCHIEF: "Warchief"
  WAR_MISTRESS: "War Mistress"
  
+ CAPTAIN: "Captain"
+ PIRATE_LORD: "Pirate Lord"
  PIRATE_KING: "Pirate King"
+ 
+ PIRATE_LADY: "Pirate Lady"
  PIRATE_QUEEN: "Pirate Queen"
  
+ BOSS: "Boss"
  KINGPIN: "Kingpin"
  
  LICH_KING: "Lich King" 
