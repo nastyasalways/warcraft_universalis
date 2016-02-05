@@ -1,10 +1,9 @@
-# 1456
+# 1456 Theramore Isle
 is_city = no
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
-
 
 culture = noculture
 religion = noreligion
@@ -12,6 +11,29 @@ religion = noreligion
 hre = no
 trade_goods = grain
 
+# The Frozen Throne
+618.1.1 = { 
+controller = A23
+owner = A23
+add_core = A23
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+base_tax = 5
+base_manpower = 6
+base_production = 5
+}
 
+# Mists of Pandaria
+632.1.1 = { 
+	owner = A48
+	controller = A48
+	add_core = A48 
 
+	base_tax = 1
+	base_manpower = 1
+	base_production = 1
 
+	capital = "Ruins of Theramore"
+	culture = culture_horde
+	religion = religion_ancestral
+}
