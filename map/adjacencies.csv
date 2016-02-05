@@ -154,4 +154,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 676;558;sea;226;-1;-1;-1;-1;Ruins of Silvermoon to Sunstrider Isle (Eversong)
 2988;978;sea;226;-1;-1;-1;-1;Silver Guard to Falthrien Academy (Eversong)
 558;978;sea;225;-1;-1;-1;-1;Sunstrider Isle to Falthrien Academy (Eversong)
+1456;1461;;;-1;-1;-1;-1;Theramore to Northern Swamp (Dustwallow Marsh)
+1456;1462;;;-1;-1;-1;-1;Theramore to Bridge to Theramore (Dustwallow Marsh)
 -1;-1;;-1;-1;-1;-1;-1;-1

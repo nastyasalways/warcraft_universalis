@@ -1,10 +1,9 @@
-# 1451
+# 1451 Brackenwall Village
 is_city = no
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
-
 
 culture = noculture
 religion = noreligion
@@ -12,6 +11,14 @@ religion = noreligion
 hre = no
 trade_goods = grain
 
-
-
-
+# Beyond the Dark Portal
+600.1.1 = { 
+owner = F57
+controller = F57
+add_core = F57
+culture = culture_crushridge
+religion = religion_geomancy 
+base_tax = 3
+base_manpower = 4
+base_production = 3
+}
