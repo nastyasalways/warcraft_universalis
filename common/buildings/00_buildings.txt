@@ -14,6 +14,85 @@
 
 # AI will consider buildings it does not have the tech for at 20% of scripted AI weight (in case it wants to save slots)
 
+# Alchemy Lab
+# Barn
+# Barracks
+# War Bunker
+# Enchanter's Study
+# Engineering Works
+# Fishing Docks
+# Gem Boutique
+# Gladiator's Sanctum
+# Gnomish Gearworks
+# Herb Garden
+# Lumber Mill
+# Excavation
+# Inn
+# Shipyard
+# Mage Tower
+# Salvage Yard
+# Scribe's Quarters
+# Stables
+# Storehouse
+# Tailoring Emporium
+# Forge
+# Tannery
+# Trading Post
+
+# ADM
+# Barn
+#	local_tax_modifier
+# Engineering Works
+#	local_production_efficiency
+# Lumber Mill
+#	allowed_num_of_buildings
+# Salvage Yard
+# 	local_development_cost
+# Inn
+# 	local_unrest
+
+# DIP
+# Shipyard
+#	local_ship_cost
+#	local_ship_repair
+#	ship_recruit_speed
+# Trading Post
+#	province_trade_power_modifier
+# Storehouse
+#	trade_goods_size_modifier
+# Dock
+#	naval_forcelimit
+# Mage Tower
+#	local_spy_defence
+
+# MIL
+# War Bunker
+#	land_forcelimit
+# Barracks
+# 	local_manpower_modifier
+# Gladiator's Sanctum
+# 	local_regiment_cost
+#	regiment_recruit_speed
+# Outpost/Castle/Citadel
+#	local_defensiveness
+#	fort_level
+# Excavation
+#	supply_limit_modifier
+
+# Unique
+# Enchanter's Study
+#	diplomatic_reputation
+#	diplomatic_upkeep
+# Tannery
+#	land_maintenance_modifier
+# Forge
+#	land_forcelimit_modifier
+# Tailoring Emporium
+#	advisor_cost
+# Scribe's Quarters
+#	diplomatic_annexation_cost
+# Alchemy Lab
+#	technology_cost
 
 ################################################
 # Tier 1, 15th Century Buildings
