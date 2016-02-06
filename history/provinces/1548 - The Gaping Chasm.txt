@@ -17,9 +17,9 @@ trade_goods = fossils
 
 # Rise of the Qiraji
 622.1.1 = { 
-	owner = A97
-	controller = A97
-	add_core = A97
+	owner = A98
+	controller = A98
+	add_core = A98
 	culture = culture_silithid
 	religion = religion_old_gods
 }

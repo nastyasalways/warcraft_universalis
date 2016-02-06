@@ -1,5 +1,6 @@
-# 1073
+# 1073 Darnassus City
 is_city = no
+
 native_size = 10
 native_ferocity = 10
 native_hostileness = 10
@@ -12,15 +13,17 @@ culture = culture_sentinel
 religion = religion_elune
 
 hre = no
-trade_goods = grain
-
-
-
+trade_goods = army_supplies
 
 # After the Third War
 622.1.1 = {
 	owner = A94
 	controller = A94
 	add_core = A94
+	
 	is_city = yes
+	
+	base_tax = 6
+	base_manpower = 7
+	base_production = 6
 }

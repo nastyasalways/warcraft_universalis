@@ -1,10 +1,9 @@
-# 1468
-is_city = no
+# 1468 Wildmane Water Well
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
-
+base_tax = 2
+base_manpower = 2
+base_production = 3
 
 owner = H04
 controller = H04
@@ -13,17 +12,13 @@ add_core = H04
 culture = culture_galak
 religion = religion_ancestral
 
-
 hre = no
 trade_goods = grain
-
-
-
 
 618.1.1 = { 
 	owner = A87
 	controller = A87
 	add_core = A87
-	culture = culture_misrunner
+	culture = culture_mistrunner
 	religion = religion_druidic
 }

@@ -1222,6 +1222,8 @@
  # Loa
  diety_shadra: "Shadra"
  diety_shadra_desc: "The loa of Spiders, also known as the silk dancer or the venom queen. Although a part of the jungle troll pantheon, Shadra is revered by the Witherbark tribe of forest trolls. Shadra's influence may have spread to Blackrock Spire, where the Smolderthorn tribe respect and fear her spawn, Mother Smolderweb." 
+ diety_gahzrilla: "Gahz'rilla"
+ diety_gahzrilla_desc: "Legend has it that Gahz'rilla was an adored pet of the Old Gods, or even a demigod in her own right. Whatever the truth is, the Sandfury trolls have worshiped this monstrous hydra for thousands of years. Ever wary of the beast's icy wrath, the trolls will only rouse Gahz'rilla when they have plentiful sacrifices to sate the ravenous creature's appetite."
  # Technology
  tech_human: "Human"
  tech_human_desc: "With the Human technology group, technology levels are standard cost (100%)."

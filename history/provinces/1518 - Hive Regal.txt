@@ -1,10 +1,9 @@
-# 1518
+# 1518 Hive Regal
 is_city = no
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
-
 
 culture = noculture
 religion = noreligion
@@ -12,6 +11,17 @@ religion = noreligion
 hre = no
 trade_goods = grain
 
-
-
-
+# Rise of the Qiraji
+622.1.1 = { 
+	owner = A98
+	controller = A98
+	add_core = A98
+	culture = culture_silithid
+	religion = religion_old_gods
+	
+	is_city = yes
+	
+	base_tax = 6
+	base_manpower = 7
+	base_production = 6
+}
