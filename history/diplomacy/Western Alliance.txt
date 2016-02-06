@@ -1,0 +1,16 @@
+########################
+### Western Alliance ###
+########################
+# Theramore - Nordrassil
+alliance = {
+	first = A23
+	second = H01
+	start_date = 618.1.1
+	end_date = 622.1.1
+}
+
+# Place
+# For
+# Dwarves
+# of
+# BaelModan

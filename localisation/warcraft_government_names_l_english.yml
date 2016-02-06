@@ -108,6 +108,7 @@ l_english:
  PIRATE_CLAN: "Pirate Clan"
  SCOURGE: "Scourge"
  THE_HORDE: "The Horde"
+ TRUE_HORDE: "True Horde"
  
  EXPENDITIONARY_FORCE: "Expenditionary Force"
  ALLIANCE_VANGUARD: "Alliance Vanguard"
@@ -133,6 +134,10 @@ l_english:
  MAGE: "Mage"
  ARCHMAGE: "Archmage"
  GRAND_MAGUS: "Grand Magus"
+ 
+ REAR_ADMIRAL: "Rear Admiral"
+ ADMIRAL: "Admiral"
+ GRAND_ADMIRAL: "Grand Admiral"
  
  # Republics
  MAGISTRATE: "Magistrate"
@@ -163,6 +168,12 @@ l_english:
  CRUSADER: "Crusader"
  GRAND_CRUSADER: "Grand Crusader"
  
+ KNIGHT: "Knight"
+ HIGHLORD: "Highlord"
+ HIGHLADY: "Highlady"
+ GRAND_MASTER: "Grand Master"
+ GRAND_MISTRESS: "Grand Mistress"
+ 
  HEADMASTER: "Headmaster" 
  HEADMISTRESS: "Headmistress"  
  
@@ -176,10 +187,18 @@ l_english:
  WARCHIEF: "Warchief"
  WAR_MISTRESS: "War Mistress"
  
+ CAPTAIN: "Captain"
+ PIRATE_LORD: "Pirate Lord"
  PIRATE_KING: "Pirate King"
+ 
+ PIRATE_LADY: "Pirate Lady"
  PIRATE_QUEEN: "Pirate Queen"
  
+ BOSS: "Boss"
  KINGPIN: "Kingpin"
+ 
+ ACOLYTE: "Acolyte" 
+ ARCHLICH: "Archlich" 
  
  LICH_KING: "Lich King" 
  LICH_QUEEN: "Lich Queen" 

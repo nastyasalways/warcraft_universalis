@@ -1,10 +1,9 @@
-# 1469
+# 1469 Camp Sungaze
 is_city = no
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
-
 
 culture = culture_galak
 religion = religion_ancestral
@@ -12,49 +11,16 @@ religion = religion_ancestral
 hre = no
 trade_goods = grain
 
-discovered_by = tech_human
-discovered_by = tech_darnassian
-discovered_by = tech_thalassian
-discovered_by = tech_vrykul
-discovered_by = tech_orc
-discovered_by = tech_ogre
-discovered_by = tech_draenei
-discovered_by = tech_troll
-discovered_by = tech_goblin
-discovered_by = tech_tauren
-discovered_by = tech_aqir
-discovered_by = tech_demonic
-discovered_by = tech_satyr
-discovered_by = tech_naga
-discovered_by = tech_depths
-discovered_by = tech_old_god
-discovered_by = tech_scourge
-discovered_by = tech_dragonkin
-discovered_by = tech_undead
-discovered_by = tech_gnoll
-discovered_by = tech_centaur
-discovered_by = tech_furbolg
-discovered_by = tech_wolfvar
-discovered_by = tech_gorloc
-discovered_by = tech_kobold
-discovered_by = tech_harpy
-discovered_by = tech_quillboar
-discovered_by = tech_titan
-discovered_by = tech_elemental
-discovered_by = tech_worgen
-discovered_by = tech_arrakoa
-discovered_by = tech_tuskarr
-discovered_by = tech_pandaren
-discovered_by = tech_mantid
-discovered_by = tech_mogu
-discovered_by = tech_yaungol
-discovered_by = tech_ethereal
-discovered_by = tech_gnome
-
 618.1.1 = { 
 	owner = A87
 	controller = A87
 	add_core = A87
-	culture = culture_misrunner
+	culture = culture_mistrunner
 	religion = religion_druidic
+	
+	base_tax = 4
+	base_manpower = 4
+	base_production = 5
+	
+	is_city = yes
 }

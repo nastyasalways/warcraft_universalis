@@ -1,5 +1,5 @@
 # Blackthorn
-government 			= warband_gov
+government 			= criminal_organisation
 government_rank 	= 1
 mercantilism 		= 0.1
 technology_group 	= tech_human
@@ -8,7 +8,7 @@ primary_culture 	= culture_lordaeron
 capital 			= 1
 
 618.1.1 = { 
-
+government_rank	= 1
 monarch = { 
      name = "" 
      dynasty = "Blackthorn" 

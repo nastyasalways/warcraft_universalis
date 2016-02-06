@@ -4,11 +4,11 @@ mercantilism 		= 0.1
 technology_group 	= tech_dragonkin
 religion			= religion_sect_of_dragons
 primary_culture 	= culture_bronze
-capital 			= 1
+capital 			= 1544
 
 546.1.1 = { 
 monarch = { 
-     name = "Norzdormu" 
+     name = "Nozdormu" 
      dynasty = "the Timeless" 
 		adm = 5
 		dip = 5

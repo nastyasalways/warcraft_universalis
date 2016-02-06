@@ -3,9 +3,32 @@
 diety_shadra = 
 { 
 	#(Economic - Offensive) 
-	siege_ability = 0.1
-	production_efficiency = 0.1
-	discovered_relations_impact = -0.15
+	siege_ability = 0.15
+	production_efficiency = 0.15
+	###discovered_relations_impact = -0.1 # Until we find a way to resize this religion window (looks bad)
+	
+	allow = { religion = religion_loa }
+	sprite = 13
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_capitalist
+		}	
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}		
+	}	
+}
+
+diety_gahzrilla = 
+{ 
+	#(Trade - Deffensive) 
+	defensiveness = 0.15
+	trade_efficiency = 0.15
+	###core_creation = -0.1
 	
 	allow = { religion = religion_loa }
 	sprite = 13

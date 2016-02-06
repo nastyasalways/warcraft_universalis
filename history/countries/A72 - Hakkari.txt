@@ -4,14 +4,13 @@ mercantilism 		= 0.1
 technology_group 	= tech_troll
 religion			= religion_hakkari
 primary_culture 	= culture_hakkari
-capital 			= 1
+capital 			= 2160
 
-546.1.1 = { 
-monarch = { 
-     name = "Ogom" 
-     dynasty = "Atal'ai" 
-		adm = 3
-		dip = 4
-		mil = 3
- 	} 
- } 
+546.1.1 = {
+monarch = {
+     name = "Hakkari Council"  # Personal Union with Atal'ai
+		adm = 2
+		dip = 0
+		mil = 1
+ 	}
+} 

@@ -7,6 +7,7 @@ primary_culture 		= culture_sentinel
 add_accepted_culture 	= culture_cenarion
 capital 				= 1334
 546.1.1 = { 
+	government_rank	= 3
 	monarch = { 
 		name = "Tyrande"  
 		dynasty = "Whisperwind" 	
