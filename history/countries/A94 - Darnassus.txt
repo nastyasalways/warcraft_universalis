@@ -8,7 +8,7 @@ add_accepted_culture = culture_cenarion
 capital 			= 1
 
 622.1.1 = { 
-
+	government_rank	= 3
 	monarch =
 	{ 
 		name = "Tyrande" 

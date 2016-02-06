@@ -26,10 +26,7 @@ monarch = {
  	} 
  } 
  
-598.1.1 = {
-	government = high_monarchy
-}
-
+ 
 617.1.1 = {
 	add_accepted_culture = culture_gilnean
 }

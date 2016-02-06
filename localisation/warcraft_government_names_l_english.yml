@@ -168,6 +168,12 @@ l_english:
  CRUSADER: "Crusader"
  GRAND_CRUSADER: "Grand Crusader"
  
+ KNIGHT: "Knight"
+ HIGHLORD: "Highlord"
+ HIGHLADY: "Highlady"
+ GRAND_MASTER: "Grand Master"
+ GRAND_MISTRESS: "Grand Mistress"
+ 
  HEADMASTER: "Headmaster" 
  HEADMISTRESS: "Headmistress"  
  
@@ -190,6 +196,9 @@ l_english:
  
  BOSS: "Boss"
  KINGPIN: "Kingpin"
+ 
+ ACOLYTE: "Acolyte" 
+ ARCHLICH: "Archlich" 
  
  LICH_KING: "Lich King" 
  LICH_QUEEN: "Lich Queen" 

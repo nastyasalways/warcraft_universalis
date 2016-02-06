@@ -1,5 +1,5 @@
 # Dunemaul
-government 			= warband_gov_gov
+government 			= warband_gov
 mercantilism 		= 0.1 
 technology_group 	= tech_ogre
 religion			= religion_geomancy

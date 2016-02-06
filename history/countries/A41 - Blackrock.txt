@@ -19,7 +19,7 @@ capital 			= 1
 }
 
 
-592.1.1 = { government = orcish_horde
+592.1.1 = {
         heir = { 
 		name = "Rend" 
 		dynasty = "Blackhand" 

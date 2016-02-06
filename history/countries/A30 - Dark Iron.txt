@@ -7,6 +7,7 @@ primary_culture 	= culture_dark_iron
 capital 			= 1952
 
 546.1.1 = { 
+government_rank	= 3
 monarch = { 
      name = "Dagran" 
      dynasty = "Thaurissan" 
