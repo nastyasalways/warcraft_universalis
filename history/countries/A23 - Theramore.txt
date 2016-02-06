@@ -21,8 +21,8 @@ monarch = {
 
 632.1.1 = {
 monarch = {
-    name = "no ruler" 
-		adm = 0
+    name = "Theramore Council" 
+		adm = 1
 		dip = 0
 		mil = 0
  	}

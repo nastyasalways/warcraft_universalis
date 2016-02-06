@@ -26,6 +26,14 @@ alliance = {
 	end_date = 650.5.1
 }
 
+# Orgrimmar - Stonemaul  #The Ogres talk only to orcs, rest is weak (in their opinion)
+alliance = {
+	first = A48
+	second = F57
+	start_date = 618.1.1
+	end_date = 650.5.1
+}
+
 ### Forsaken Alliances
 # Forsaken - Silvermoon
 alliance = {
