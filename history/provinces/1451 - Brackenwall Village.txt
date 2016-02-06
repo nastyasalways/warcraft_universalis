@@ -5,11 +5,14 @@ base_tax = 1
 base_manpower = 1
 base_production = 1
 
+owner = XXX
+controller = XXX
+
 culture = noculture
 religion = noreligion
 
 hre = no
-trade_goods = grain
+trade_goods = copper
 
 # Beyond the Dark Portal
 600.1.1 = { 
@@ -21,4 +24,6 @@ religion = religion_geomancy
 base_tax = 3
 base_manpower = 4
 base_production = 3
+is_city = yes
+trade_goods = army_supplies
 }

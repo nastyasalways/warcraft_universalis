@@ -1,18 +1,22 @@
-# 1550
-is_city = no
+# 1550 Path to Tanaris
+is_city = yes
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
+owner = A73
+controller = A73
+add_core = A73
 
-
-culture = culture_galak
-religion = religion_ancestral
+culture = culture_sandfury
+religion = religion_loa
 
 hre = no
-trade_goods = grain
+trade_goods = smugglers
 
-
-
-
+# Rise of the Qiraji
+622.1.1 = { 
+	owner = XXX
+	controller = XXX
+}

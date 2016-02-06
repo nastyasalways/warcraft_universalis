@@ -1,5 +1,8 @@
 # 1462 Bridge to Theramore
-is_city = yes
+is_city = no
+
+controller = XXX
+owner = XXX
 
 base_tax = 1
 base_manpower = 1
@@ -9,16 +12,19 @@ culture = noculture
 religion = noreligion
 
 hre = no
-trade_goods = grain
+trade_goods = fish
 
 # The Frozen Throne
 618.1.1 = { 
-controller = A23
-owner = A23
-add_core = A23
-culture = culture_lordaeron
-religion = religion_church_of_the_light
-base_tax = 2
-base_manpower = 2
-base_production = 3
+	controller = A23
+	owner = A23
+	add_core = A23
+	culture = culture_lordaeron
+	religion = religion_church_of_the_light
+
+	base_tax = 2
+	base_manpower = 2
+	base_production = 3
+
+	is_city = yes
 }

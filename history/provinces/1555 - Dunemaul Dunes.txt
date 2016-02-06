@@ -1,20 +1,19 @@
-# 1555
-is_city = no
+# 1555 Dunemaul Dunes
+is_city = yes
 
-base_tax = 1
+base_tax = 2
 base_manpower = 1
 base_production = 1
 
+owner = A73
+controller = A73
+add_core = A73
 
-
-culture = culture_silithid
-religion = religion_old_gods
+culture = culture_sandfury
+religion = religion_loa
 
 hre = no
-trade_goods = grain
-
-
-
+trade_goods = runecloth
 
 # Beyond Dark Portal
 600.1.1 = { 
@@ -22,4 +21,8 @@ owner = H05
 controller = H05
 add_core = H05
 religion = religion_geomancy
-culture = culture_dunemaul}
+culture = culture_dunemaul
+base_tax = 3
+base_manpower = 2
+base_production = 2
+}

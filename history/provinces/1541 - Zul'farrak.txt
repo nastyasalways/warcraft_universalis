@@ -1,10 +1,9 @@
-# 1541
+# 1541 Zul'Darrak
 is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
-
+base_tax = 5
+base_manpower = 6
+base_production = 5
 
 owner = A73
 controller = A73
@@ -14,8 +13,4 @@ culture = culture_sandfury
 religion = religion_loa
 
 hre = no
-trade_goods = grain
-
-
-
-
+trade_goods = artifacts

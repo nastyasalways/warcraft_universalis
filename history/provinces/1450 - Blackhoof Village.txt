@@ -13,8 +13,4 @@ culture = culture_grimtotem
 religion = religion_ancestral
 
 hre = no
-trade_goods = grain
-
-
-
-
+trade_goods = army_supplies

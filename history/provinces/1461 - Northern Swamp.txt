@@ -13,16 +13,17 @@ culture = culture_grimtotem
 religion = religion_ancestral
 
 hre = no
-trade_goods = grain
+trade_goods = fish
 
 # The Frozen Throne
 618.1.1 = { 
-controller = A23
-owner = A23
-add_core = A23
-culture = culture_high_elf
-religion = religion_church_of_the_light
-base_tax = 3
-base_manpower = 3
-base_production = 3
+	controller = A23
+	owner = A23
+	add_core = A23
+	culture = culture_high_elf
+	religion = religion_church_of_the_light
+
+	base_tax = 3
+	base_manpower = 4
+	base_production = 3
 }
