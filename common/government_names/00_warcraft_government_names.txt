@@ -495,6 +495,34 @@ gov_cult = {
 ########################
 # Nomad
 ########################
+gov_warband_gov_true_horde = {
+	rank = {
+		1 = TRUE_HORDE
+		2 = TRUE_HORDE
+		3 = TRUE_HORDE
+	}
+	
+	ruler_male = {
+		1 = WARCHIEF
+		2 = WARCHIEF
+		3 = WARCHIEF
+	}
+	
+	ruler_female = {
+		1 = WAR_MISTRESS
+		2 = WAR_MISTRESS
+		3 = WAR_MISTRESS
+	}
+	
+	trigger = {
+		government = warband_gov
+		has_country_flag = true_horde
+		capital_scope = 
+			area = area_durotar
+		}
+	}
+}
+
 gov_warband_gov_horde = {
 	rank = {
 		1 = THE_HORDE
@@ -516,7 +544,9 @@ gov_warband_gov_horde = {
 	
 	trigger = {
 		government = warband_gov
-		primary_culture = culture_horde
+		capital_scope = 
+			area = area_durotar
+		}
 	}
 }
 

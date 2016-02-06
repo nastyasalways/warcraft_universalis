@@ -389,6 +389,7 @@ F21 = "countries/Deatholme.txt"
 # Undead
 E14 = "countries/The Forsaken.txt"
 F12 = "countries/Raven Hill.txt"
+X01 = "countries/The Risen.txt"
 
 # Ethereal
 E18 = "countries/The Consortium.txt"
