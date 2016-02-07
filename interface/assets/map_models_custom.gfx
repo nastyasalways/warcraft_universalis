@@ -1,0 +1,19 @@
+objectTypes = {
+	pdxmesh = {
+		name = "mesh_booty_bay_statue"
+		file = "gfx/models/custom/booty_bay_statue_eu4.mesh"	
+		scale = 500.0
+	}
+	
+	pdxmesh = {
+		name = "mesh_dalaran_dome_barrier"
+		file = "gfx/models/custom/dalaran_eu4.mesh"	
+		scale = 100.0
+	}
+	
+	pdxmesh = {
+		name = "mesh_wooden_water_wheel"
+		file = "gfx/models/custom/wooden_water_wheel.mesh"	
+		scale = 10.0
+	}
+}
