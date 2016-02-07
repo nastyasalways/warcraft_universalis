@@ -9,8 +9,18 @@ alliance = {
 	end_date = 622.1.1
 }
 
-# Place
-# For
-# Dwarves
-# of
-# BaelModan
+# Theramore - Bael Modan
+alliance = {
+	first = A23
+	second = F59
+	start_date = 618.1.1
+	end_date = 622.1.1
+}
+
+# Theramore - Kul Tiras
+alliance = {
+	first = A23
+	second = A14
+	start_date = 618.1.1
+	end_date = 622.1.1
+}

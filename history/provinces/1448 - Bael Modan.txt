@@ -1,10 +1,9 @@
-# 1448
+# 1448 Bael Modan
 is_city = no
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
-
 
 culture = noculture
 religion = noreligion
@@ -12,6 +11,17 @@ religion = noreligion
 hre = no
 trade_goods = grain
 
+# The Frozen Throne
+618.1.1 = { 
+	controller = F59
+	owner = F59
+	add_core = F59
+	culture = culture_ironforge
+	religion = religion_mystery_of_the_makers
+	
+	base_tax = 5
+	base_manpower = 6
+	base_production = 5
 
-
-
+	is_city = yes
+}

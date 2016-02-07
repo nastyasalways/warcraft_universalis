@@ -81,6 +81,7 @@ A31 = "countries/Frostborn.txt"
 E56 = "countries/Thorium Brotherhood.txt"
 F25 = "countries/Iron Summit.txt"
 F29 = "countries/Nesingwary.txt"
+F59 = "countries/Bael Modan.txt"
 
 # Gnomish
 A32 = "countries/Gnomeregan.txt"
