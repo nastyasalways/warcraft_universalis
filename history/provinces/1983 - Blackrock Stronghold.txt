@@ -29,9 +29,5 @@ religion = religion_fel
 
 # Beyond the Dark Portal
 600.1.1 = {
-owner = A65
-controller = A65
 add_core = A65
-culture = culture_smolderthorn
-religion = religion_loa
 }

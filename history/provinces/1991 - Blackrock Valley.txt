@@ -35,5 +35,6 @@ owner = A65
 controller = A65
 culture = culture_smolderthorn
 religion = religion_loa
+capital = "Smolderthorn Camp"
 }
 
