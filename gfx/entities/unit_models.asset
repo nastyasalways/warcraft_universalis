@@ -1,0 +1,4 @@
+entity = {
+	name = "orc_unit"
+	pdxmesh = "mesh_orc_male"
+}

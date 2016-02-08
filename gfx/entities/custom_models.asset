@@ -1,3 +1,4 @@
+# World objects
 entity = {
 	name = "dalaran_dome_barrier"
 	pdxmesh = "mesh_dalaran_dome_barrier"
@@ -9,11 +10,22 @@ entity = {
 }
 
 entity = {
-	name = "wooden_water_wheel"
-	pdxmesh = "mesh_wooden_water_wheel"
+	name = "outland_dark_portal"
+	pdxmesh = "mesh_outland_dark_portal"
 }
 
 entity = {
-	name = "outland_dark_portal"
-	pdxmesh = "mesh_outland_dark_portal"
+	name = "big_orange_mushroom"
+	pdxmesh = "mesh_big_orange_mushroom"
+}
+
+entity = {
+	name = "big_purple_mushroom"
+	pdxmesh = "mesh_big_purple_mushroom"
+}
+
+# Building objects
+entity = {
+	name = "wooden_water_wheel"
+	pdxmesh = "mesh_wooden_water_wheel"
 }

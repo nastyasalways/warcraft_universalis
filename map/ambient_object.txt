@@ -1,4 +1,156 @@
 type={
+	type="orc_unit"
+	use_animation=no
+	time_duration=300.000000
+	always_visible=yes
+	visible_in_all_map_modes=yes
+	object={
+		name="orc_unit01"
+		hidden_on_start=no
+		position={
+			3932.000 0.000 1188.000 
+		}
+		rotation={
+			0.000 180.000 0.000 
+		}
+	}
+}
+
+type={
+	type="big_orange_mushroom"
+	use_animation=no
+	time_duration=300.000000
+	always_visible=yes
+	visible_in_all_map_modes=yes
+	object={
+		name="big_orange_mushroom_02"
+		hidden_on_start=no
+		position={
+			4213.000 0.000 1406.000 
+		}
+		rotation={
+			0.000 100.000 0.000 
+		}
+	}
+	object={
+		name="big_orange_mushroom_03"
+		hidden_on_start=no
+		position={
+			4214.000 0.000 1409.000 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+	object={
+		name="big_orange_mushroom_04"
+		hidden_on_start=no
+		position={
+			4227.000 0.000 1399.000 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+	object={
+		name="big_orange_mushroom_05"
+		hidden_on_start=no
+		position={
+			4230.000 0.000 1397.000 
+		}
+		rotation={
+			0.000 90.000 0.000 
+		}
+	}
+	object={
+		name="big_orange_mushroom_06"
+		hidden_on_start=no
+		position={
+			4247.000 0.000 1416.000 
+		}
+		rotation={
+			0.000 180.000 0.000 
+		}
+	}
+	object={
+		name="big_orange_mushroom_01"
+		hidden_on_start=no
+		position={
+			4216.000 0.000 1407.000 
+		}
+		rotation={
+			0.000 180.000 0.000 
+		}
+	}
+}
+type={
+	type="big_purple_mushroom"
+	use_animation=no
+	time_duration=300.000000
+	always_visible=yes
+	visible_in_all_map_modes=yes
+	object={
+		name="big_purple_mushroom_02"
+		hidden_on_start=no
+		position={
+			4224.000 0.000 1408.000 
+		}
+		rotation={
+			0.000 90.000 0.000 
+		}
+	}
+	object={
+		name="big_purple_mushroom_03"
+		hidden_on_start=no
+		position={
+			4222.000 0.000 1393.000 
+		}
+		rotation={
+			0.000 270.000 0.000 
+		}
+	}
+	object={
+		name="big_purple_mushroom_04"
+		hidden_on_start=no
+		position={
+			4198.000 0.000 1405.000 
+		}
+		rotation={
+			0.000 45.000 0.000 
+		}
+	}
+	object={
+		name="big_purple_mushroom_05"
+		hidden_on_start=no
+		position={
+			4242.000 0.000 1395.000 
+		}
+		rotation={
+			0.000 230.000 0.000 
+		}
+	}
+	object={
+		name="big_purple_mushroom_05"
+		hidden_on_start=no
+		position={
+			4245.000 0.000 1413.000 
+		}
+		rotation={
+			0.000 230.000 0.000 
+		}
+	}
+	object={
+		name="big_purple_mushroom_01"
+		hidden_on_start=no
+		position={
+			4230.000 0.000 1400.000 
+		}
+		rotation={
+			0.000 180.000 0.000 
+		}
+	}
+}
+type={
 	type="outland_dark_portal"
 	use_animation=no
 	scale=4.000000
@@ -16,15 +168,12 @@ type={
 		}
 	}
 }
-
 type={
 	type="outland_dark_portal"
 	use_animation=no
-	scale=1.000000
 	time_duration=300.000000
 	always_visible=yes
 	visible_in_all_map_modes=yes
-
 	object={
 		name="outland_dark_portal_ingame2"
 		hidden_on_start=no
@@ -36,7 +185,6 @@ type={
 		}
 	}
 }
-
 type={
 	type="dalaran_dome_barrier"
 	use_animation=no
@@ -47,7 +195,7 @@ type={
 		name="dalaran_dome_barrier_ingame"
 		hidden_on_start=no
 		position={
-			3933.000 0.000 1190.000 
+			3932.000 0.000 1188.000 
 		}
 		rotation={
 			0.000 180.000 0.000 
