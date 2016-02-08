@@ -1,8 +1,0 @@
-objectTypes = {
-	# Unit objects
-	pdxmesh = {
-		name = "mesh_orc_male"
-		file = "gfx/models/custom/units/orc_male_static.mesh"	
-		scale = 10.0
-	}
-}
