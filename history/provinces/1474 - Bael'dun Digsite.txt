@@ -26,7 +26,7 @@ trade_goods = fossils
 	is_city = yes
 }
 
-# The Frozen Throne
+# Cataclysm
 631.1.1 = { 
 	controller = E27
 	owner = E27

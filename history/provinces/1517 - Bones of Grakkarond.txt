@@ -1,17 +1,16 @@
-# 1517
-is_city = no
+# 1517 Bones of Grakkarond
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 2
+base_manpower = 2
+base_production = 3
 
+owner = A98
+controller = A98
+add_core = A98
 
-culture = noculture
-religion = noreligion
+culture = culture_silithid
+religion = religion_old_gods
 
 hre = no
-trade_goods = grain
-
-
-
-
+trade_goods = fossils

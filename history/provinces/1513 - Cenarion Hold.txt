@@ -1,17 +1,19 @@
+# 1513 Cenarion Hold
+is_city = yes
+
 owner = H03
 controller = H03
 add_core = H03
-is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 5
+base_manpower = 6
+base_production = 5
 
 culture = culture_cenarion
 religion = religion_elune
 
 hre = no
-trade_goods = grain
+trade_goods = army_supplies
 
 
 
