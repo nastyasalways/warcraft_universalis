@@ -13,3 +13,6 @@ Allowing for a unique EU4 experience where the player does not simply play at al
 	(and **\Documents\Paradox Interactive\Europa Universalis IV\mod\warcraft_universalis.mod)
 4. Launch Europa Universalis 4 and tick **Warcraft Universalis** under the Mod tab.
 
+# Optional Downloads
+
+- Custom Models: https://github.com/vawser/zz_warcraft_models
