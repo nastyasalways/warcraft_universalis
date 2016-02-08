@@ -16,4 +16,10 @@ objectTypes = {
 		file = "gfx/models/custom/wooden_water_wheel.mesh"	
 		scale = 10.0
 	}
+	
+	pdxmesh = {
+		name = "mesh_outland_dark_portal"
+		file = "gfx/models/custom/outland_dark_portal.mesh"	
+		scale = 10.0
+	}
 }

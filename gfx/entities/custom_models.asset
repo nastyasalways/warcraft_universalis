@@ -12,3 +12,8 @@ entity = {
 	name = "wooden_water_wheel"
 	pdxmesh = "mesh_wooden_water_wheel"
 }
+
+entity = {
+	name = "outland_dark_portal"
+	pdxmesh = "mesh_outland_dark_portal"
+}
