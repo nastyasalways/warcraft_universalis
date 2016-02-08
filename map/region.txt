@@ -46,6 +46,7 @@ eastern_kingdoms_region = {
 		area_westfall
 		area_stranglethorn_vale
 		area_stormwind
+		area_zul_aman
 	}
 }
 

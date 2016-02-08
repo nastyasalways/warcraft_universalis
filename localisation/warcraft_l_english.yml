@@ -220,6 +220,8 @@
  area_townlong_steppes: "Townlong Steppes"
  area_kun_lai_summit: "Kun-lai Summit"
  
+ area_zul_aman: "Zul'Aman"
+ 
  # Bookmarks
  RISE_OF_THE_HORDE_NAME: "Rise of the Horde"
  RISE_OF_THE_HORDE_DESC: "The rise of the Horde"
@@ -1227,6 +1229,8 @@
  diety_gahzrilla: "Gahz'rilla"
  diety_gahzrilla_desc: "Legend has it that Gahz'rilla was an adored pet of the Old Gods, or even a demigod in her own right. Whatever the truth is, the Sandfury trolls have worshiped this monstrous hydra for thousands of years. Ever wary of the beast's icy wrath, the trolls will only rouse Gahz'rilla when they have plentiful sacrifices to sate the ravenous creature's appetite."
  # Technology
+ tech_dwarven: "Dwarven"
+ tech_dwarven_desc: "With the Dwarven technology group, technology levels are standard cost (100%)."
  tech_human: "Human"
  tech_human_desc: "With the Human technology group, technology levels are standard cost (100%)."
  tech_darnassian: "Darnassian"
