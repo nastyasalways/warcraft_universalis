@@ -14,4 +14,62 @@ capital 			= 660
 		dip = 4
 		mil = 4
 	}
+	
+	heir = {
+		name = "Kael'Thas"
+		monarch_name = "Kael'Thas"
+		dynasty = "Sunstrider"
+		birth_date = 544.1.1
+		death_date = 618.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	
+	leader = {
+		name = "Aristan Windrunner"
+		type = general
+		rank = 2
+		fire = 4
+		shock = 3
+		manuever = 2
+		siege = 4
+		death_date = 600.1.1
+	}
+}
+
+592.1.1 = {
+	leader = {
+		name = "Sylvanas Windrunner"
+		type = general
+		rank = 2
+		fire = 4
+		shock = 5
+		manuever = 5
+		siege = 3
+		death_date = 618.1.1
+	}
+	
+	leader = {
+		name = "Lor'Themar Theron"
+		type = general
+		rank = 1
+		fire = 2
+		shock = 3
+		manuever = 3
+		siege = 5
+		death_date = 618.1.1
+	}
+	
+	leader = {
+		name = "Halduron Brightwing"
+		type = general
+		rank = 1
+		fire = 4
+		shock = 3
+		manuever = 3
+		siege = 1
+		death_date = 618.1.1
+	}
 }
