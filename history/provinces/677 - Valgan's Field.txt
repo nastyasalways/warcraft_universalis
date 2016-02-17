@@ -14,9 +14,6 @@ religion = religion_church_of_the_light
 hre = no 
 trade_goods = grain
 
-
-
-
 # The Frozen Throne
 618.1.1 = { 
 owner = A25

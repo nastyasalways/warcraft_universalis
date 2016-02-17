@@ -1,5 +1,6 @@
 # 742 Northridge Lumber Camp
 is_city = yes
+
 add_core = A08
 owner = A08
 controller = A08
@@ -14,33 +15,30 @@ religion = religion_church_of_the_light
 hre = no 
 trade_goods = lumber
 
-
-
-
 # The Frozen Throne
 618.1.1 = { 
-add_core = A09
-owner = A09
-controller = F15
+	add_core = A09
+	owner = A09
+	controller = F15
 }
 
 # War of Lordaeron (TFT)
 620.9.1 = { 
-controller = A09
+	controller = A09
 }
 
 # Rise of the Qiraji
 622.1.1 = { 
-owner = A22
-controller = A22
-add_core = A22
-religion = religion_scarlet_light 
+	owner = A22
+	controller = A22
+	add_core = A22
+	religion = religion_scarlet_light 
 }
 
 # Cataclysm
 631.1.1 = { 
-owner = F19
-controller = F19
-add_core = F19
-religion = religion_church_of_the_light 
+	owner = F19
+	controller = F19
+	add_core = F19
+	religion = religion_argent_light
 }
