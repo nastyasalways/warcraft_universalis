@@ -34,6 +34,14 @@ alliance = {
 	end_date = 650.5.1
 }
 
+# Orgrimmar - Raventusk
+alliance = {
+	first = A48
+	second = A61
+	start_date = 622.1.1
+	end_date = 650.5.1
+}
+
 ### Forsaken Alliances
 # Forsaken - Silvermoon
 alliance = {
@@ -51,11 +59,27 @@ alliance = {
 	end_date = 650.5.1
 }
 
+# Forsaken - Raventusk
+alliance = {
+	first = E14
+	second = A61
+	start_date = 622.1.1
+	end_date = 650.5.1
+}
+
 ### Darkspear Alliances
 # Darkspear - Silvermoon
 alliance = {
 	first = A70
 	second = A91
+	start_date = 622.1.1
+	end_date = 650.5.1
+}
+
+# Darkspear - Raventusk
+alliance = {
+	first = A70
+	second = A61
 	start_date = 622.1.1
 	end_date = 650.5.1
 }

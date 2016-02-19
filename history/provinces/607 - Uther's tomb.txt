@@ -16,45 +16,42 @@ religion = religion_church_of_the_light
 hre = no 
 trade_goods = crypts
 
-
-
-
 # The Third War
 617.5.1 = { 
-add_core = F17
-owner = F17 
-controller = F17
+	add_core = F17
+	owner = F17 
+	controller = F17
 }
 
 # The Frozen Throne
 618.1.1 = { 
-add_core = F15
-remove_core = F17
-owner = F15
-controller = F15
-religion = religion_fel
-culture = culture_scourge 
+	add_core = F15
+	remove_core = F17
+	owner = F15
+	controller = F15
+	religion = religion_fel
+	culture = culture_scourge 
 }
 
 # War of Lordaeron (TFT)
 620.6.1 = { 
-controller = E52
+	controller = E52
 }
 
 # Rise of the Qiraji
 622.1.1 = { 
 owner = E52
-add_core = E52
-remove_core = F15
-religion = religion_the_damned
+	add_core = E52
+	remove_core = F15
+	religion = religion_the_damned
 }
 
 # Cataclysm
 631.1.1 = { 
-owner = F19
-controller = F19
-add_core = F19
-remove_core = E52
-culture = culture_lordaeron
-religion = religion_church_of_the_light 
+	owner = F19
+	controller = F19
+	add_core = F19
+	remove_core = E52
+	culture = culture_lordaeron
+	religion = religion_argent_light
 }
