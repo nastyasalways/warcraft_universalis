@@ -72,6 +72,7 @@ F52 = "countries/Pyrewood.txt"
 F55 = "countries/Lordaeron Survivors.txt"
 H06 = "countries/Alliance Vanguard.txt"
 F58 = "countries/Theramore Deserters.txt"
+F61 = "countries/Morgans Forces.txt"
 
 # Dwarven
 A28 = "countries/Wildhammer.txt"
@@ -127,6 +128,7 @@ F31 = "countries/Mosh'Ogg.txt"
 F50 = "countries/Outland Boulderfist.txt"
 H05 = "countries/Dunemaul.txt" 
 F57 = "countries/Stonemaul.txt"
+F60 = "countries/Stagecoach.txt"
 
 # Draenei
 A54 = "countries/Shattrath.txt"
