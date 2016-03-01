@@ -8,10 +8,6 @@ base_production = 4
 add_core = A16
 owner = A16
 controller = A16
-
-base_tax = 4
-base_manpower = 4
-base_production = 4
  
 culture = culture_arathi
 religion = religion_church_of_the_light
@@ -21,9 +17,9 @@ trade_goods = fur
 
 # Rise of the Qiraji
 622.1.1 = {
-owner = E14
-controller = E14
-add_core = E14
-culture = culture_forsaken
-religion = religion_forgotten_shadow
+	owner = E14
+	controller = E14
+	add_core = E14
+	culture = culture_forsaken
+	religion = religion_forgotten_shadow
 }

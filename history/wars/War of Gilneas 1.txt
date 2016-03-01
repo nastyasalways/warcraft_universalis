@@ -1,0 +1,30 @@
+name = "First War of Gilneas"
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 927 # Gilneas City
+}
+
+631.1.1 = {
+	add_attacker = E14
+	add_attacker = E29
+	add_attacker = A48
+	add_defender = A12
+	add_defender = F53
+	add_defender = A94
+	add_defender = A01
+	add_defender = A11
+	add_defender = A29
+}
+
+632.1.1 = {
+	rem_attacker = E14
+	rem_attacker = E29
+	rem_attacker = A48
+	rem_defender = A12
+	rem_defender = F53
+	rem_defender = A94
+	rem_defender = A01
+	rem_defender = A11
+	rem_defender = A29
+}

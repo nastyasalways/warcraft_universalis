@@ -15,14 +15,11 @@ religion = religion_tech
 hre = no
 trade_goods = fur
 
-
-
-
 # Rise of the Qiraji
 622.1.1 = {
-add_core = A29
-owner = A29
-controller = A29
-culture = culture_ironforge
-religion = religion_church_of_the_light
+	add_core = A29
+	owner = A29
+	controller = A29
+	culture = culture_ironforge
+	religion = religion_church_of_the_light
 }

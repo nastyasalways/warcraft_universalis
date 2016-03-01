@@ -15,9 +15,6 @@ religion = religion_church_of_the_light
  
 hre = no 
 trade_goods = gold
-
-
-
  
 # Beyond the Dark Portal
 600.1.1 = { 
