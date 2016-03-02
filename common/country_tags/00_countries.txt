@@ -104,6 +104,7 @@ A45 = "countries/Dragonmaw.txt"
 A46 = "countries/Frostwolf.txt"
 A47 = "countries/MokNathal.txt"
 A48 = "countries/Orgrimmar.txt"
+A50 = "countries/Thrallmar.txt"
 E98 = "countries/Black Tooth Grin.txt"
 F26 = "countries/Ironmarch.txt"
 F48 = "countries/Fel Dragonmaw.txt"
@@ -111,7 +112,6 @@ H07 = "countries/Horde Expedition.txt"
 
 # Ogre
 A49 = "countries/Bladespire.txt"
-A50 = "countries/Angorosh.txt"
 A51 = "countries/Boulderfist.txt"
 A52 = "countries/Gordunni.txt"
 A53 = "countries/Ogrila.txt"
@@ -129,6 +129,7 @@ F50 = "countries/Outland Boulderfist.txt"
 H05 = "countries/Dunemaul.txt" 
 F57 = "countries/Stonemaul.txt"
 F60 = "countries/Stagecoach.txt"
+F69 = "countries/Ango'rosh.txt"
 
 # Draenei
 A54 = "countries/Shattrath.txt"
@@ -138,6 +139,11 @@ A57 = "countries/Ashtoungue Deathsworn.txt"
 F34 = "countries/Harborage.txt"
 F35 = "countries/Fallow Sanctuary.txt"
 F49 = "countries/Auchenai.txt"
+F65 = "countries/Umbrafen.txt"
+F66 = "countries/Feralfen.txt"
+F67 = "countries/Daggerfen.txt"
+F68 = "countries/Kurenai.txt"
+F70 = "countries/Telredor.txt"
 
 # Forest Troll
 A58 = "countries/Amani.txt"
@@ -160,6 +166,7 @@ A71 = "countries/Atalai.txt"
 A72 = "countries/Hakkari.txt"
 E58 = "countries/Zanzil.txt"
 F09 = "countries/Jellyneck.txt"
+F63 = "countries/Zabra'jin.txt"
 
 # Sand Troll
 A73 = "countries/Sandfury.txt"	# tech_troll
@@ -209,6 +216,7 @@ A95 = "countries/Cenarion Circle.txt" # tech_darnassian
 H01 = "countries/Nordrassil.txt"
 H02 = "countries/Moonglade.txt"
 H03 = "countries/Cenarion Hold.txt"
+F64 = "countries/Cenarion Expedition.txt"
 
 
 # Aqir
@@ -502,8 +510,10 @@ E87 = "countries/Rikkitun.txt"
 # Grummle
 E93 = "countries/Grummle.txt"
 
-# Rockflayer
-F51 = "countries/Razorthorn.txt"
+# Zangar
+F51 = "countries/Zangar Giants.txt"
+F62 = "countries/Sporeggar.txt"
+F71 = "countries/Sporelok.txt"
 
 
 # Formables

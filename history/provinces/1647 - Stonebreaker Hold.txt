@@ -12,14 +12,10 @@ religion = religion_ancestral
 hre = no
 trade_goods = artifacts
 
-
-
-
-# The Burning Crusade
 625.1.1 = {
-owner = A48
-controller = A48
-add_core = A48
+owner = A50
+controller = A50
+add_core = A50
 culture = culture_horde
 }
 

@@ -1,16 +1,23 @@
 # 1616
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
+culture = culture_ango_rosh
+religion = religion_geomancy
 
 hre = no
-trade_goods = grain
+trade_goods = glowcap
+
+617.1.1 = {
+owner = F69
+controller = F69
+add_core =  F69
+}
+
 
 
 

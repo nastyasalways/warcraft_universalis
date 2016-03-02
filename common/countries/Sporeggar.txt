@@ -1,8 +1,8 @@
-# Razorfen
+# Sporeggar
 
 graphical_culture = westerngfx
 
-color = { 23 72 239 }
+color = { 153 194 255 }
 
 monarch_names = {
 

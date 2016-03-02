@@ -1,8 +1,8 @@
-# Orgrimmar
+# Kurenai
 
 graphical_culture = westerngfx
 
-color = { 225 125 140 }
+color = { 122 78 141 }
 
 monarch_names = {
 

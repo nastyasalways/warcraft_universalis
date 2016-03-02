@@ -1,8 +1,8 @@
-# Orgrimmar
+# Darkspear Zangarmarsh colony
 
 graphical_culture = westerngfx
 
-color = { 225 125 140 }
+color = { 0 128 228  }
 
 monarch_names = {
 

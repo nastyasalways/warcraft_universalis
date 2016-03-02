@@ -1,16 +1,27 @@
 # 1607
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
 
-culture = noculture
-religion = noreligion
+culture = culture_lost_one
+religion = religion_ancestral
 
 hre = no
-trade_goods = grain
+trade_goods = warbeasts
+
+622.1.1 = {
+base_tax = 3
+base_manpower = 3
+base_production = 3
+owner = E02
+controller = E02
+add_core = E02
+culture = culture_vashjari
+religion = religion_old_gods
+}
 
 
 

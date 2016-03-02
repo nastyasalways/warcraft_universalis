@@ -1,8 +1,8 @@
-# Orgrimmar
+# Thrallmar (Outland)
 
 graphical_culture = westerngfx
 
-color = { 225 125 140 }
+color = { 249 130 104 }
 
 monarch_names = {
 

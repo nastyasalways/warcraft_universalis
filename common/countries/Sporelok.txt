@@ -1,8 +1,8 @@
-# Orgrimmar
+# Sporelok
 
 graphical_culture = westerngfx
 
-color = { 225 125 140 }
+color = { 149 130 204 }
 
 monarch_names = {
 

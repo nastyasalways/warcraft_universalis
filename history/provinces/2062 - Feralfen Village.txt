@@ -1,0 +1,24 @@
+# 2062
+is_city = no
+
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_lost_one
+religion = religion_ancestral
+
+hre = no
+trade_goods = fish
+
+617.1.1 = {
+owner = F66
+controller = F66
+add_core =  F66
+}
+
+
+
+

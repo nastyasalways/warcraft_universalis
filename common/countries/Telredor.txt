@@ -1,15 +1,15 @@
-# Orgrimmar
+# Telredor draenei
 
 graphical_culture = westerngfx
 
-color = { 225 125 140 }
+color = { 122 36 148 }
 
 monarch_names = {
-
+	
 }
 
 leader_names = {
-
+		
 }
 
 ship_names = {
