@@ -1,0 +1,21 @@
+# Feralfen (Lost Ones)
+government 			= religious_tribe
+mercantilism 		= 0.1
+technology_group 	= tech_draenei
+religion			= religion_ancestral
+primary_culture 	= culture_lost_one
+capital 			= 1
+
+600.1.1 = { 
+monarch = { 
+     name = "Kuruti" 
+     dynasty = "Feralfen" 
+		adm = 3
+		dip = 3
+		mil = 3
+ 	} 
+ } 
+
+
+
+ 

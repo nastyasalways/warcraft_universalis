@@ -1,7 +1,0 @@
-# Angorosh
-government 			= warband_gov
-mercantilism 		= 0.1
-technology_group 	= tech_ogre
-religion			= religion_shadow
-primary_culture 	= culture_ango_rosh
-capital 			= 1

@@ -37,7 +37,7 @@ capital 			= 2999
 		female = yes
  	} 
  	religion = religion_hakkari
-    government = theocratic_government
+    government = militaristic_theocracy
 } 
  
 631.1.1 = { 

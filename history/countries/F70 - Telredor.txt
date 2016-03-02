@@ -1,0 +1,17 @@
+# Telredor
+mercantilism 		= 0.1
+government 			= administrative_theocracy
+technology_group 	= tech_draenei
+religion			= religion_light_of_the_naaru
+primary_culture 	= culture_shattrathi
+capital 			= 1
+
+617.1.1 = { 
+monarch = { 
+     name = "Ahuurn" 
+     dynasty = "of Telredor" 
+		adm = 3
+		dip = 3
+		mil = 2
+ 	} 
+ } 

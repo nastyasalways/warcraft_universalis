@@ -25,7 +25,6 @@ monarch = {
 		dip = 3	
 		mil = 4
 	}  
-government = theocratic_government
 } 
 
 625.1.1 = {

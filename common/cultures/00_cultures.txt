@@ -4417,3 +4417,42 @@ culture_group_flayer = {
 		}
 	}
 }
+
+culture_group_zangar = {
+	graphical_culture = westerngfx
+
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+		
+	}
+		
+	culture_sporeling = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+	culture_fungal_giant = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+}
+

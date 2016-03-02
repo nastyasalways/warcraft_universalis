@@ -1029,6 +1029,31 @@ religion_group_nature = {
 
 		heretic = { }
 	}
+
+	religion_zangar = {
+		color = { 63 72 204 }
+		
+		country = {
+			global_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			global_missionary_strength = 0.01
+		}
+
+		personal_deity = no
+		
+		on_convert = {
+			change_religion = religion_zangar
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		}
+
+		heretic = { }
+	}
 }
 # Dragonflight
 religion_group_dragonflight = {

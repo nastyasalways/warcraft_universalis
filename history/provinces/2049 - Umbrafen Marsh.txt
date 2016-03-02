@@ -1,4 +1,4 @@
-# 1617
+# 1606
 is_city = no
 
 base_tax = 3
@@ -6,20 +6,16 @@ base_manpower = 3
 base_production = 3
 
 
-culture = culture_broken
-religion = religion_ancestral
+culture = culture_lost_one
+religion = religion_shadow
 
 hre = no
 trade_goods = fish
 
-
 617.1.1 = {
-owner = F68
-controller = F68
-add_core =  F68
+owner = F65
+controller = F65
+add_core =  F65
 }
-
-
-
 
 

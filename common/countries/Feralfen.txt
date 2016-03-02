@@ -1,8 +1,8 @@
-# Orgrimmar
+# Feralfen Lost Ones
 
 graphical_culture = westerngfx
 
-color = { 225 125 140 }
+color = { 59 212 96 }
 
 monarch_names = {
 

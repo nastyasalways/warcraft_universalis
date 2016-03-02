@@ -1,16 +1,23 @@
 # 1608
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 4
+base_manpower = 4
+base_production = 4
 
 
-culture = noculture
-religion = noreligion
+culture = culture_shattrathi
+religion = religion_light_of_the_naaru
 
 hre = no
-trade_goods = grain
+trade_goods = glowcap
+
+
+617.1.1 = {
+owner = F70
+controller = F70
+add_core =  F70
+}
 
 
 

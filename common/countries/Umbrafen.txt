@@ -1,8 +1,8 @@
-# Orgrimmar
+# Umbrafen
 
 graphical_culture = westerngfx
 
-color = { 225 125 140 }
+color = { 163 106 0 }
 
 monarch_names = {
 

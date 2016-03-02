@@ -1,0 +1,28 @@
+# Kurenai (Broken)
+government 			= religious_tribe
+mercantilism 		= 0.1
+technology_group 	= tech_draenei
+religion			= religion_ancestral
+primary_culture 	= culture_broken
+capital 			= 1
+
+600.1.1 = { 
+monarch = { 
+     name = "Arechron" 
+     dynasty = "the Redeemed" 
+		adm = 3
+		dip = 4
+		mil = 2
+ 	} 
+heir = {
+name = "Corki" 
+     dynasty = "the Redeemed" 
+		adm = 2
+		dip = 3
+		mil = 1
+ } 
+}
+
+
+
+ 

@@ -1,5 +1,5 @@
 # Hillsbrad
-government 			= administrative_kingdom
+government 			= expenditionary_force
 government_rank 	= 1
 mercantilism 		= 0.1
 technology_group 	= tech_human
@@ -32,7 +32,6 @@ capital 			= 1
 	primary_culture = culture_arathi
 	add_accepted_culture = culture_dalaran
 	religion = religion_church_of_the_light
-	government = dictatorship_gov
 }
 
 

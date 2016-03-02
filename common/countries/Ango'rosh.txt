@@ -1,8 +1,7 @@
-# Orgrimmar
-
+# Ango'rosh
 graphical_culture = westerngfx
 
-color = { 225 125 140 }
+color = { 85 105 45 }
 
 monarch_names = {
 

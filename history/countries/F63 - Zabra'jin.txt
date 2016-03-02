@@ -1,0 +1,19 @@
+# Darkspear Outland Colony
+government 			= expenditionary_force
+mercantilism 		= 0.1 
+technology_group 	= tech_troll
+religion			= religion_loa
+primary_culture 	= culture_darkspear
+capital 			= 1
+
+625.1.1 = {
+	monarch = {
+		name = "Denjai" 
+		dynasty = "Darkspear" 
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+
