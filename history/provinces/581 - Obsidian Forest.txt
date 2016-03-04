@@ -35,5 +35,5 @@ controller = E27
 add_core = E27
 remove_core = A99
 culture = culture_earth
-religion = religion_therazane
+religion = religion_earth
 }

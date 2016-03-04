@@ -2,7 +2,7 @@
 government 			= militaristic_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_elemental
-religion			= religion_therazane
+religion			= religion_earth
 primary_culture 	= culture_earth
 capital 			= 1
 

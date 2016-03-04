@@ -28,5 +28,4 @@ capital 			= 1
 	} 
 	technology_group = tech_orc
 	primary_culture = culture_fel_orc
-	government = orcish_horde
 }

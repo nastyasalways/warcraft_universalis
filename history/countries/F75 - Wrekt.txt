@@ -1,0 +1,17 @@
+# Wrekt
+government 			= war_tribe
+mercantilism 		= 0.1
+technology_group 	= tech_draenei
+religion			= religion_shadow
+primary_culture 	= culture_broken
+capital 			= 1
+
+617.1.1 = { 
+	monarch = { 
+		name = "Chief" 
+		dynasty = "Wrekt" 
+		adm = 2
+		dip = 3
+		mil = 3                
+	} 
+}

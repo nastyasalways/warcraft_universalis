@@ -11,7 +11,7 @@ base_production = 3
 
 
 culture = culture_coldwind
-religion = religion_al_akir
+religion = religion_air
 
 hre = no
 trade_goods = lumber

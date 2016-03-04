@@ -2,6 +2,6 @@
 government 			= religious_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_depths
-religion			= religion_neptulon
+religion			= religion_water
 primary_culture 	= culture_water
 capital 			= 1
