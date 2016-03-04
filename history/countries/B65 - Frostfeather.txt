@@ -2,7 +2,7 @@
 government 			= war_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_harpy
-religion			= religion_air
+religion			= religion_al_akir
 primary_culture 	= culture_frostfeather
 capital 		= 896
 

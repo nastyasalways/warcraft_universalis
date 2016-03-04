@@ -1,16 +1,16 @@
 # 1602
 is_city = no
 
-base_tax = 2
-base_manpower = 2
-base_production = 2
+base_tax = 1
+base_manpower = 1
+base_production = 1
 
 
-culture = culture_rockflayer
-religion = religion_geomancy
+culture = noculture
+religion = noreligion
 
 hre = no
-trade_goods = fel_iron
+trade_goods = grain
 
 
 

@@ -31,5 +31,5 @@ add_core = E28
 controller = E28
 owner = E28
 culture = culture_air
-religion = religion_air
+religion = religion_al_akir
 }

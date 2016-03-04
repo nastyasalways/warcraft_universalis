@@ -2,7 +2,7 @@
 government 			= war_tribe
 mercantilism 		= 0.1 
 technology_group 	= tech_depths
-religion			= religion_water
+religion			= religion_neptulon
 primary_culture 	= culture_nerglish
 capital 			= 1
 

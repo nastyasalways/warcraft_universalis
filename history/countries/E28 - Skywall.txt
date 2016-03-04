@@ -2,7 +2,7 @@
 government 			= militaristic_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_elemental
-religion			= religion_air
+religion			= religion_al_akir
 primary_culture 	= culture_air
 capital 			= 1
 

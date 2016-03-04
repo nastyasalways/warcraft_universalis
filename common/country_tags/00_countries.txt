@@ -108,8 +108,7 @@ A50 = "countries/Thrallmar.txt"
 E98 = "countries/Black Tooth Grin.txt"
 F26 = "countries/Ironmarch.txt"
 F48 = "countries/Fel Dragonmaw.txt"
-H07 = "countries/Horde Expedition.txt"
-F72 = "countries/Mag'har.txt"
+H07 = "countries/Horde Expedition.txt" 
 
 # Ogre
 A49 = "countries/Bladespire.txt"
@@ -144,8 +143,7 @@ F65 = "countries/Umbrafen.txt"
 F66 = "countries/Feralfen.txt"
 F67 = "countries/Daggerfen.txt"
 F68 = "countries/Kurenai.txt"
-F74 = "countries/Dreghood.txt"
-F75 = "countries/Wrekt.txt"
+F70 = "countries/Telredor.txt"
 
 # Forest Troll
 A58 = "countries/Amani.txt"
@@ -345,7 +343,6 @@ B77 = "countries/Skettis.txt" # tech_arrakoa
 B78 = "countries/Sethikk.txt" # tech_arrakoa
 B79 = "countries/Exiles.txt" # tech_arrakoa
 B80 = "countries/Apexis.txt" # tech_arrakoa
-F73 = "countries/Haal'esh.txt"
 
 # Tuskarr
 B81 = "countries/Kaluak.txt"
@@ -506,7 +503,6 @@ E78 = "countries/Crystalvice.txt"
 F33 = "countries/Coaststrider.txt"
 F42 = "countries/Sons of Hodir.txt"
 F44 = "countries/Arkkoroc.txt"
-F70 = "countries/Colossi.txt"
 
 # Sprite
 E87 = "countries/Rikkitun.txt"

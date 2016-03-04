@@ -35,5 +35,5 @@ trade_goods = grain
 	add_core = E27
 	add_core = A98
 	culture = culture_earth
-	religion = religion_earth
+	religion = religion_therazane
 }

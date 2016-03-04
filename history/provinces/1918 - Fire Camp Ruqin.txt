@@ -20,7 +20,7 @@ owner = E89
 controller = E89
 add_core = E89
 culture = culture_ruqin
-religion = religion_fire
+religion = religion_ragnaros
 trade_goods = oil
 }
 

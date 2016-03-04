@@ -1,30 +1,16 @@
 # 1597
 is_city = no
 
-base_tax = 3
-base_manpower = 3
-base_production = 3
+base_tax = 1
+base_manpower = 1
+base_production = 1
 
 
-culture = culture_fel_orc
-religion = religion_fel
+culture = noculture
+religion = noreligion
 
 hre = no
-trade_goods = arcane
-
-618.1.1 = { 
-owner = A93
-controller = A93
-add_core = A93
-culture = culture_blood_elf
-religion = religion_arcane
-}
-
-625.1.1 = {
-owner = A91
-controller = A91
-add_core = A91
-}
+trade_goods = grain
 
 
 

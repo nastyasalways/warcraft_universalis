@@ -7,7 +7,7 @@ add_core = A30
 add_core = E27
 
 culture = culture_dark_iron
-religion = religion_fire
+religion = religion_ragnaros
 
 base_tax = 2
 base_manpower = 2

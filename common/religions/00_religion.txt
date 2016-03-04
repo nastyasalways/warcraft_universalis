@@ -58,13 +58,13 @@
 #		uses_church_power
 
 # religion_group_elemental
-#	religion_fire
+#	religion_ragnaros
 #		has_patriarchs
-#	religion_earth
+#	religion_therazane
 #		has_patriarchs
-#	religion_air
+#	religion_al_akir
 #		has_patriarchs
-#	religion_water
+#	religion_neptulon
 #		has_patriarchs
 #	religion_geomancy
 #		has_patriarchs
@@ -644,7 +644,7 @@ religion_group_elemental = {
 	
 	crusade_name = CRUSADE
 	
-	religion_fire = {
+	religion_ragnaros = {
 		color = { 241 124 42 }
 		icon = 25
 		
@@ -663,7 +663,7 @@ religion_group_elemental = {
 		has_patriarchs = yes
 		
 		on_convert = {
-			change_religion = religion_fire
+			change_religion = religion_ragnaros
 			add_prestige = -100
 
 			add_country_modifier = {
@@ -675,7 +675,7 @@ religion_group_elemental = {
 		heretic = { }
 	}
 	
-	religion_earth = {
+	religion_therazane = {
 		color = { 47 27 76 }
 		icon = 26
 		
@@ -692,7 +692,7 @@ religion_group_elemental = {
 		has_patriarchs = yes
 		
 		on_convert = {
-			change_religion = religion_earth
+			change_religion = religion_therazane
 			add_prestige = -100
 
 			add_country_modifier = {
@@ -704,7 +704,7 @@ religion_group_elemental = {
 		heretic = { }
 	}
 
-	religion_air = {
+	religion_al_akir = {
 		color = { 5 181 190 }
 		icon = 27
 		
@@ -721,7 +721,7 @@ religion_group_elemental = {
 		has_patriarchs = yes
 		
 		on_convert = {
-			change_religion = religion_air
+			change_religion = religion_al_akir
 			add_prestige = -100
 
 			add_country_modifier = {
@@ -733,7 +733,7 @@ religion_group_elemental = {
 		heretic = { }
 	}
 
-	religion_water = {
+	religion_neptulon = {
 		color = { 59 172 229 }
 		icon = 28
 		
@@ -750,7 +750,7 @@ religion_group_elemental = {
 		has_patriarchs = yes
 		
 		on_convert = {
-			change_religion = religion_water
+			change_religion = religion_neptulon
 			add_prestige = -100
 
 			add_country_modifier = {

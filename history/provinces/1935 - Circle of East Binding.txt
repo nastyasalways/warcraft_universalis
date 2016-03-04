@@ -24,6 +24,6 @@ add_core = E24
 controller = E24
 owner = E24
 culture = culture_water
-religion = religion_water
+religion = religion_neptulon
 }
 

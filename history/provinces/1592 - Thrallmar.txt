@@ -1,23 +1,17 @@
 # 1592
 is_city = no
 
-base_tax = 4
-base_manpower = 4
-base_production = 4
+base_tax = 1
+base_manpower = 1
+base_production = 1
 
 
-culture = culture_fel_orc
-religion = religion_fel
+culture = noculture
+religion = noreligion
 
 hre = no
-trade_goods = army_supplies
+trade_goods = grain
 
-625.1.1 = { 
-owner = A50
-controller = A50
-add_core = A50
-culture = culture_horde
-religion = religion_ancestral
-}
+
 
 

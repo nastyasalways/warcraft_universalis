@@ -1,21 +1,17 @@
 # 1595
 is_city = no
 
-base_tax = 3
-base_manpower = 3
-base_production = 3
+base_tax = 1
+base_manpower = 1
+base_production = 1
 
 
-culture = culture_mag_har
-religion = religion_ancestral
+culture = noculture
+religion = noreligion
 
 hre = no
-trade_goods = netherweave
+trade_goods = grain
 
-617.1.1 = { 
-owner = F72
-controller = F72
-add_core = F72
-}
+
 
 

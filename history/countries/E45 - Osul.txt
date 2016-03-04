@@ -2,7 +2,7 @@
 government 			= war_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_yaungol
-religion			= religion_fire
+religion			= religion_ragnaros
 primary_culture 	= culture_osul
 capital 			= 1
 

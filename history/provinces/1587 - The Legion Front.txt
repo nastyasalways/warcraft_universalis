@@ -1,35 +1,16 @@
 # 1587
 is_city = no
 
-base_tax = 3
-base_manpower = 4
-base_production = 3
+base_tax = 1
+base_manpower = 1
+base_production = 1
 
 
-culture = culture_moarg
-religion = religion_fel
+culture = noculture
+religion = noreligion
 
 hre = no
-trade_goods = army_supplies
-
-617.1.1 = { 
-owner = B89
-controller = B89
-add_core = B89
-}
-
-618.1.1 = { 
-owner = xxx
-controller = xxx
-}
-
-625.1.1 = {
-owner = B92
-controller = B92
-add_core = B92
-remove_core = B89
-}
-
+trade_goods = grain
 
 
 
