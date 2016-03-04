@@ -1,0 +1,17 @@
+# 2033
+is_city = no
+
+base_tax = 2
+base_manpower = 2
+base_production = 3
+
+
+culture = culture_voidwalker
+religion = religion_void
+
+hre = no
+trade_goods = arcane
+
+
+
+

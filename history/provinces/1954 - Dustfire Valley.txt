@@ -11,7 +11,7 @@ base_production = 2
 
 
 culture = culture_dark_iron
-religion = religion_ragnaros
+religion = religion_fire
 
 hre = no
 trade_goods = thorium
@@ -33,7 +33,7 @@ owner = A30
 controller = A30
 remove_core = E98
 culture = culture_dark_iron
-religion = religion_ragnaros
+religion = religion_fire
  }
 
 # Cataclysm

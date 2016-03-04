@@ -1,0 +1,17 @@
+# 2034
+is_city = no
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+
+culture = culture_rockflayer
+religion = religion_geomancy
+
+hre = no
+trade_goods = fel_iron
+
+
+
+

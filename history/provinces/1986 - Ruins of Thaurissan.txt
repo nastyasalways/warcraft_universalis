@@ -10,7 +10,7 @@ base_manpower = 2
 base_production = 2
 
 culture = culture_fire
-religion = religion_ragnaros
+religion = religion_fire
 
 hre = no
 trade_goods = artifacts

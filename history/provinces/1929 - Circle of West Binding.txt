@@ -24,5 +24,5 @@ owner = E26
 controller = E26
 add_core = E26
 culture = culture_fire
-religion = religion_ragnaros
+religion = religion_fire
 }

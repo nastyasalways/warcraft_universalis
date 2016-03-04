@@ -1,16 +1,24 @@
 # 1588
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 3
+base_manpower = 4
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
+culture = culture_fel_orc
+religion = religion_fel
 
 hre = no
-trade_goods = grain
+trade_goods = army_supplies
+
+617.1.1 = { 
+owner = A40
+controller = A40
+add_core = A40
+}
+
+
 
 
 

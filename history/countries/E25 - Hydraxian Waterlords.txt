@@ -2,6 +2,6 @@
 government 			= militaristic_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_elemental
-religion			= religion_neptulon
+religion			= religion_water
 primary_culture 	= culture_water
 capital 			= 1

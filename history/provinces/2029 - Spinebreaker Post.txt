@@ -1,0 +1,27 @@
+# 2029
+is_city = no
+
+base_tax = 2
+base_manpower = 2
+base_production = 23
+
+
+culture = culture_fel_orc
+religion = religion_fel
+
+hre = no
+trade_goods = army_supplies
+
+617.1.1 = { 
+owner = A40
+controller = A40
+add_core = A40
+}
+
+625.1.1 = { 
+owner = A50
+controller = A50
+add_core = A50
+culture = culture_horde
+religion = religion_ancestral
+}

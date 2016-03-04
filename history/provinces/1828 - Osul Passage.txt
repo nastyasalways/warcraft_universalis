@@ -24,6 +24,6 @@ trade_goods = army_supplies
 controller = E45
 add_core = E45
 culture = culture_osul
-religion = religion_ragnaros
+religion = religion_fire
 }
 
