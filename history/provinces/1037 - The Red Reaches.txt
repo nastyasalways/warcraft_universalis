@@ -13,7 +13,7 @@ base_production = 3
 
 
 culture = culture_nerglish
-religion = religion_neptulon
+religion = religion_water
 
 hre = no
 trade_goods = fish

@@ -12,17 +12,12 @@ religion = religion_ancestral
 hre = no
 trade_goods = artifacts
 
-
-
-
-# The Third War
 617.1.1 = {
-owner = A57
-controller = A57
-add_core =  A57
-remove_core = E02
+owner = F75
+controller = F75
+add_core =  F75
 culture = culture_broken
-religion = religion_ancestral
+religion = religion_shadow
 }
 
 

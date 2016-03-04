@@ -1,0 +1,17 @@
+# Outland Colossi
+mercantilism 		= 0.1
+government 			= militaristic_kingdom
+technology_group 	= tech_elemental
+religion			= religion_earth
+primary_culture 	= culture_mountain_giant
+capital 			= 1
+
+617.1.1 = { 
+monarch = { 
+     name = "Behemothon" 
+     dynasty = "Fallen Sky" 
+		adm = 2
+		dip = 2
+		mil = 4
+ 	} 
+ } 

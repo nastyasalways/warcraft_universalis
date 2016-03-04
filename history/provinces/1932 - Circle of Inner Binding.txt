@@ -26,6 +26,6 @@ add_core = E27
 owner = E27
 controller = E27
 culture = culture_earth
-religion = religion_therazane
+religion = religion_earth
 }
 

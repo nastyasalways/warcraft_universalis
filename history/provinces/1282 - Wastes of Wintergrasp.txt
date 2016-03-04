@@ -7,7 +7,7 @@ base_production = 1
 
 
 culture = culture_revenant
-religion = religion_al_akir
+religion = religion_air
 
 hre = no
 trade_goods = grain

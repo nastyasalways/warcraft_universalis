@@ -6,7 +6,7 @@ base_manpower = 3
 base_production = 3
 
 
-culture = culture_sporling
+culture = culture_sporeling
 religion = religion_zangar
 
 hre = no

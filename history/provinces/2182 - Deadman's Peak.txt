@@ -6,11 +6,11 @@ base_manpower = 1
 base_production = 1
 
 
-culture = noculture
-religion = noreligion
+culture = culture_azerothian
+religion = religion_arcane
 
 hre = no
-trade_goods = grain
+trade_goods = smugglers
 
 
 

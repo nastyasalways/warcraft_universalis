@@ -47,6 +47,7 @@ l_english:
  culture_burning_blade: "Burning Blade"
  culture_thunderlord: "Thunderlord"
  culture_horde: "Hordish"
+ culture_mag_har: "Mag'har"
  
  culture_group_ogre: "Ogre"
  culture_bladespire: "Bladespire"
@@ -354,6 +355,7 @@ l_english:
  culture_frost_giant: "Frost Giant"
  culture_ice_giant: "Ice Giant"
  culture_sea_giant: "Sea Giant"
+ culture_mountain_giant: "Mountain Giant"
 
  culture_group_dryad: "Dyrad"
  culture_forest_nymph: "Forest Nypmh"

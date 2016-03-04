@@ -12,7 +12,7 @@ base_production = 8
 
 
 culture = culture_dark_iron
-religion = religion_ragnaros
+religion = religion_fire
 
 hre = no
 trade_goods = workshops
@@ -34,7 +34,7 @@ owner = A30
 controller = A30
 remove_core = A41
 culture = culture_dark_iron
-religion = religion_ragnaros 
+religion = religion_fire 
 }
 
 # Cataclysm
