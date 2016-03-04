@@ -1,20 +1,21 @@
-# 1694
+# 2055
 is_city = no
 
 base_tax = 3
 base_manpower = 3
 base_production = 3
 
-culture = culture_sethekk
-religion = religion_terokk
+
+culture = culture_netherwing
+religion = religion_arcane
 
 hre = no
 trade_goods = flying_mounts
 
 617.1.1 = {
-owner = F79
-controller = F79
-add_core = F79
+owner = B05
+controller = B05
+add_core = B05
 }
 
 

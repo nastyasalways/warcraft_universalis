@@ -1,0 +1,17 @@
+# Outland Wyrmcult
+government 			= cult_gov
+mercantilism 		= 0.1
+technology_group 	= tech_dragonkin
+religion			= religion_sect_of_dragons
+primary_culture 	= culture_black
+capital 			= 1
+
+617.1.1 = { 
+monarch = { 
+     name = "Maxnar" 
+     dynasty = "the Ashmaw" 
+		adm = 4
+		dip = 2
+		mil = 3
+ 	} 
+ } 

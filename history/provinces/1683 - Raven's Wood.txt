@@ -1,17 +1,21 @@
 # 1683
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 4
+base_manpower = 4
+base_production = 4
 
+capital = "Boulder'mok"
 
-culture = noculture
-religion = noreligion
+culture = culture_bladespire
+religion = religion_geomancy
 
 hre = no
-trade_goods = grain
+trade_goods = lumber
 
-
-
-
+617.1.1 = {
+owner = F77
+controller = F77
+add_core = F77
+add_core = A49
+}
