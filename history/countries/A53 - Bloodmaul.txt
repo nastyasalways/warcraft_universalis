@@ -1,7 +1,7 @@
-# Ogrila
+# Bloodmaul
 government 			= warband_gov
 mercantilism 		= 0.1
 technology_group 	= tech_ogre
-religion			= religion_shadow
-primary_culture 	= culture_ogri_la
+religion			= religion_geomancy
+primary_culture 	= culture_bloodmaul
 capital 			= 1

@@ -115,7 +115,7 @@ F72 = "countries/Mag'har.txt"
 A49 = "countries/Bladespire.txt"
 A51 = "countries/Boulderfist.txt"
 A52 = "countries/Gordunni.txt"
-A53 = "countries/Ogrila.txt"
+A53 = "countries/Bloodmaul.txt"
 E50 = "countries/Crushridge.txt"
 E96 = "countries/Dreadmaul.txt"
 E97 = "countries/Splinterfist.txt"
@@ -131,6 +131,8 @@ H05 = "countries/Dunemaul.txt"
 F57 = "countries/Stonemaul.txt"
 F60 = "countries/Stagecoach.txt"
 F69 = "countries/Ango'rosh.txt"
+F76 = "countries/Ogrila.txt"
+F77 = "countries/Gronn.txt"
 
 # Draenei
 A54 = "countries/Shattrath.txt"
@@ -236,6 +238,7 @@ B04 = "countries/Green Dragonflight.txt"
 B05 = "countries/Netherwing Dragonflight.txt"
 B06 = "countries/Twilight Dragonflight.txt"
 B07 = "countries/Infinite Dragonflight.txt" # tech_dragonkin
+F78 = "countries/Wyrmcult.txt"
 
 # Vrykul
 B08 = "countries/Dragonflayer.txt"
@@ -346,6 +349,7 @@ B78 = "countries/Sethikk.txt" # tech_arrakoa
 B79 = "countries/Exiles.txt" # tech_arrakoa
 B80 = "countries/Apexis.txt" # tech_arrakoa
 F73 = "countries/Haal'esh.txt"
+F79 = "countries/Grishna.txt"
 
 # Tuskarr
 B81 = "countries/Kaluak.txt"
@@ -412,6 +416,7 @@ E20 = "countries/Razaani.txt"
 E21 = "countries/Shaffar.txt"
 E22 = "countries/Viraani.txt"
 E23 = "countries/Zaxxis.txt"
+F80 = "countries/Ethereum.txt"
 
 # Elemental
 E24 = "countries/Abyssal Maw.txt"

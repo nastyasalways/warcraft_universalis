@@ -1,17 +1,20 @@
 # 1692
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 4
+base_manpower = 4
+base_production = 4
 
-
-culture = noculture
-religion = noreligion
+culture = culture_mok_nathal
+religion = religion_ancestral
 
 hre = no
-trade_goods = grain
+trade_goods = warbeasts
 
-
+617.1.1 = {
+owner = A47
+controller = A47
+add_core = A47
+}
 
 

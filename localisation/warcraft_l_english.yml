@@ -996,6 +996,16 @@
  F74_ADJ: "Dreghood"
  F75: "Wrekt"
  F75_ADJ: "Wrekt"
+ F76: "Ogri'la"
+ F76_ADJ: "Ogri'la"
+ F77: "Gronn"
+ F77_ADJ: "Gronn"
+ F78: "Wyrmcult"
+ F78_ADJ: "Wyrmcult"
+ F79: "Grishna"
+ F79_ADJ: "Grishna"
+ F80: "Ethereum"
+ F80_ADJ: "Ethereum"
  
  
  
@@ -1213,8 +1223,8 @@
  religion_fel_religion_desc: ""
  religion_the_damned: "The Damned"
  religion_the_damned_religion_desc: ""
- religion_terokk: "Terokk"
- religion_terokk_religion_desc: ""
+ religion_terokk: "Arrakoa"
+ religion_terokk_religion_desc: "The Arrakoa pantheon includes Anzu, the dread raven, Sethekk, the cold windserpent, and Rukhmar, the firehawk."
  religion_ancestral: "Ancestral Shamanism"
  religion_ancestral_religion_desc: ""
  religion_loa: "Loa Voodoo"
@@ -1244,7 +1254,7 @@
  religion_light_of_the_sunwell: "Light of the Sunwell"
  religion_light_of_the_sunwell_religion_desc: ""
  religion_zangar: "Zangar"
- religion_zangar_desc: "The fungal inhabitants of the Zangarmarsh believe that the growth of the Zangar should spread. Prolonged exposure to Zangar spores can convince other humanoids of this as well."
+ religion_zangar_religion_desc: "The fungal inhabitants of the Zangarmarsh believe that the growth of the Zangar should spread. Prolonged exposure to Zangar spores can convince other humanoids of this as well."
  
  # Factions
  faction_lower_spire: "The Lower Spire"

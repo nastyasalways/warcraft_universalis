@@ -5,3 +5,25 @@ technology_group 	= tech_orc
 primary_culture 	= culture_thunderlord
 religion			= religion_fel
 capital 			= 1
+
+546.1.1 = { 
+	monarch = { 
+		name = "Fenris" 
+		dynasty = "Wolfbrother" 
+		adm = 3
+		dip = 2
+		mil = 5
+                
+	} 
+}
+
+617.1.1 = { 
+	monarch = { 
+		name = "Garm" 
+		dynasty = "Wolfbrother" 
+		adm = 3
+		dip = 3
+		mil = 3
+                
+	} 
+}

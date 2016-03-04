@@ -1,18 +1,22 @@
-# 1693
+# 2053
 is_city = no
 
 base_tax = 3
-base_manpower = 2
-base_production = 4
+base_manpower = 3
+base_production = 3
+
+capital = "Blackwing Coven"
 
 culture = culture_black
 religion = religion_sect_of_dragons
 
 hre = no
-trade_goods = lumber
+trade_goods = flying_mounts
 
 617.1.1 = {
 owner = F78
 controller = F78
 add_core = F78
 }
+
+

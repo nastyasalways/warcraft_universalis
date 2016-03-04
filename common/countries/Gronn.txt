@@ -1,0 +1,25 @@
+# Outland Gronn
+graphical_culture = westerngfx
+
+color = { 102 58 61 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+
