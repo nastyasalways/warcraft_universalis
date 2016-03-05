@@ -1,17 +1,22 @@
 # 1707
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+
+base_tax = 3
+base_manpower = 4
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
-
+culture = culture_voidwalker
+religion = religion_void
 hre = no
-trade_goods = grain
+trade_goods = arcane
 
-
-
-
+622.1.1 = {
+owner = A93
+controller = A93
+add_core =  A93
+culture = culture_blood_elf
+religion = religion_fel
+trade_goods = army_supplies
+}

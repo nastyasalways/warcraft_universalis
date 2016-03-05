@@ -1,17 +1,31 @@
 # 1624
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
-
+culture = culture_moarg
+religion = religion_fel
 hre = no
-trade_goods = grain
+trade_goods = fel
 
+617.1.1 = {
+owner = B89
+controller = B89
+add_core =  B89
+}
 
+618.1.1 = {
+owner = xxx
+controller = xxx
+remove_core =  B89
+}
 
-
+622.1.1 = {
+owner = B88
+controller = B88
+add_core =  B88
+culture = culture_horde
+}

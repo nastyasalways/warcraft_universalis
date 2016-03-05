@@ -1,0 +1,17 @@
+# Netherstorm Goblins
+government 			= mercantile_republic
+mercantilism 		= 0.1
+technology_group 	= tech_goblin
+religion			= religion_tech
+primary_culture 	= culture_kezani
+capital 			= 1
+
+625.1.1 = { 
+monarch = { 
+     name = "" 
+     dynasty = "Fuselage" 
+		adm = 3
+		dip = 3
+		mil = 3
+ 	} 
+ } 

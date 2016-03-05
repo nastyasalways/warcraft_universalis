@@ -21,6 +21,7 @@ controller = E02
 add_core = E02
 culture = culture_vashjari
 religion = religion_old_gods
+trade_goods = workshops
 }
 
 

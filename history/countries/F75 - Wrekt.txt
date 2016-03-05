@@ -8,7 +8,7 @@ capital 			= 1
 
 617.1.1 = { 
 	monarch = { 
-		name = "Chief" 
+		name = "" 
 		dynasty = "Wrekt" 
 		adm = 2
 		dip = 3

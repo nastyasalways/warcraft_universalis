@@ -10,7 +10,7 @@ culture = culture_arathi
 religion = religion_church_of_the_light
 
 hre = no
-trade_goods = army_supplies
+trade_goods = khorium
 
 617.1.1 = { 
 owner = F14

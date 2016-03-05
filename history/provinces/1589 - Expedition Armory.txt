@@ -7,7 +7,7 @@ base_production = 3
 
 
 culture = culture_ghost
-religion = religion_shadow
+religion = religion_church_of_the_light
 
 hre = no
 trade_goods = army_supplies
