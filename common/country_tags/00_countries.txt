@@ -110,6 +110,7 @@ F26 = "countries/Ironmarch.txt"
 F48 = "countries/Fel Dragonmaw.txt"
 H07 = "countries/Horde Expedition.txt"
 F72 = "countries/Mag'har.txt"
+F85 = "countries/Earthen Ring.txt"
 
 # Ogre
 A49 = "countries/Bladespire.txt"
@@ -133,6 +134,7 @@ F60 = "countries/Stagecoach.txt"
 F69 = "countries/Ango'rosh.txt"
 F76 = "countries/Ogrila.txt"
 F77 = "countries/Gronn.txt"
+F83 = "countries/Warmaul.txt"
 
 # Draenei
 A54 = "countries/Shattrath.txt"
@@ -148,6 +150,8 @@ F67 = "countries/Daggerfen.txt"
 F68 = "countries/Kurenai.txt"
 F74 = "countries/Dreghood.txt"
 F75 = "countries/Wrekt.txt"
+F84 = "countries/Murkblood.txt"
+F86 = "countries/Windyreed.txt"
 
 # Forest Troll
 A58 = "countries/Amani.txt"
@@ -193,6 +197,7 @@ A80 = "countries/Steamwheedle.txt"
 A81 = "countries/Venture Company.txt"
 A82 = "countries/Gilblin.txt"
 A83 = "countries/Blackwater.txt"
+F81 = "countries/BOOM.txt"
 
 # Tauren
 A84 = "countries/Bloodhoof.txt" # tech_tauren
@@ -374,6 +379,7 @@ B95 = "countries/Felsworn.txt"
 F15 = "countries/Dreadlord.txt"
 F13 = "countries/Shadowsworn.txt"
 F37 = "countries/Disciples of Hate.txt"
+F82 = "countries/Hounds of Culuthas.txt"
 
 # Satyr
 B96 = "countries/Jadefire.txt"

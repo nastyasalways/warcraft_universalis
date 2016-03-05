@@ -1,0 +1,24 @@
+# 2056
+is_city = no
+
+base_tax = 3
+base_manpower = 2
+base_production = 3
+
+
+culture = culture_kareshi
+religion = religion_arcane
+
+hre = no
+trade_goods = adamantium
+
+617.1.1 = {
+owner = F80
+controller = F80
+add_core = F80
+}
+
+625.1.1 = {
+trade_goods = fel_iron
+add_core = B92
+}

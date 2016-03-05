@@ -1,0 +1,20 @@
+# 2059
+is_city = no
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_kareshi
+religion = religion_arcane
+
+hre = no
+trade_goods = army_supplies
+
+617.1.1 = {
+owner = F80
+controller = F80
+add_core = F80
+}
+

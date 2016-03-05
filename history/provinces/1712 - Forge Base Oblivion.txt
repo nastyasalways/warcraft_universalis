@@ -1,17 +1,19 @@
 # 1712
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
-
+culture = culture_ghost
+religion = religion_fel
 hre = no
-trade_goods = grain
+trade_goods = workshops
 
-
-
-
+625.1.1 = {
+owner = B92
+controller = B92
+add_core =  B92
+culture = culture_construct
+}

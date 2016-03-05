@@ -1,17 +1,28 @@
 # 1625
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 4
+base_manpower = 3
+base_production = 4
 
 
-culture = noculture
-religion = noreligion
+culture = culture_consortium
+religion = religion_arcane
 
 hre = no
-trade_goods = grain
+trade_goods = gemstones
 
+617.1.1 = {
+owner = E18
+controller = E18
+add_core =  E18
+}
 
-
-
+622.1.1 = {
+owner = B88
+controller = B88
+add_core =  B88
+remove_core = E18
+culture = culture_horde
+religion = religion_fel
+}

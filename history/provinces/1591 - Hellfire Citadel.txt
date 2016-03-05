@@ -1,9 +1,9 @@
 # 1591
 is_city = no
 
-base_tax = 6
-base_manpower = 6
-base_production = 6
+base_tax = 7
+base_manpower = 7
+base_production = 7
 
 
 culture = culture_fel_orc
@@ -22,4 +22,5 @@ add_core = A36
 owner = B89
 controller = B89
 add_core = B89
+trade_goods = fel
 }

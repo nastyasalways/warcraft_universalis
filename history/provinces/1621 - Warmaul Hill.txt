@@ -1,17 +1,19 @@
 # 1621
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 4
+base_manpower = 4
+base_production = 4
 
-
-culture = noculture
-religion = noreligion
+culture = culture_warmaul
+religion = religion_earth
 
 hre = no
-trade_goods = grain
+trade_goods = fur
 
-
-
+617.1.1 = {
+owner = F83
+controller = F83
+add_core = F83
+}
 
