@@ -6,7 +6,7 @@ base_manpower = 4
 base_production = 5
 
 
-culture = culture_consortium
+culture = culture_kareshi
 religion = religion_arcane
 
 hre = no

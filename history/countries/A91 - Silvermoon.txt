@@ -24,4 +24,5 @@ capital 			= 660
 		dip = 2
 		mil = 5
 	}
+government			= regency_gov
 }

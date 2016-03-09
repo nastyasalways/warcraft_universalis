@@ -24,6 +24,7 @@ owner = F54
 controller = F54
 add_core = F54
 religion = religion_church_of_the_light
+remove_core = A90
 }
 
 # Rise of the Qiraji
@@ -36,7 +37,8 @@ base_production = 3
 625.1.1 = { 
 owner = F20
 controller = F20
-add_core = F20 
+add_core = F20
+remove_core = F54 
 }
 
 # Cataclysm

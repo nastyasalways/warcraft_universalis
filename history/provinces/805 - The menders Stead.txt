@@ -32,6 +32,7 @@ add_core = F15
 owner = F15
 controller = F15
 religion = religion_fel
+remove_core = A08
 }
 
 # War of Lordaeron (TFT)

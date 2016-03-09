@@ -23,6 +23,7 @@ owner = F54
 controller = F54
 add_core = F54
 religion = religion_church_of_the_light
+remove_core = A90
 }
 
 # The Burning Crusade
@@ -31,4 +32,5 @@ owner = XXX
 controller = XXX
 culture = culture_ghost
 religion = religion_arcane
+remove_core = F54
 }

@@ -25,6 +25,10 @@ controller = E12
 religion = religion_the_damned
 }
 
+618.1.1 = {
+remove_core = A08
+}
+
 # Rise of the Qiraji
 622.1.1 = { 
 culture = culture_cultist

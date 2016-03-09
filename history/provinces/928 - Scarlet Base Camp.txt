@@ -19,14 +19,15 @@ trade_goods = fish
 
 # The Third War
 618.1.1 = { 
-add_core = E52
+add_claim = E52
 }
 
 # The Frozen Throne
 618.1.1 = { 
-add_core = A10
-owner = A10
-controller = A10
+owner = E62
+controller = E62
+add_core = E62
+remove_core = A08
 }
 
 # Rise of the Qiraji

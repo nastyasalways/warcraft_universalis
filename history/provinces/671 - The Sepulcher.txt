@@ -25,6 +25,7 @@ controller = E52
 add_core = E52
 religion = religion_the_damned
 culture = culture_scourge
+remove_core = A08
 }
 
 # War of Lordaeron (TFT)

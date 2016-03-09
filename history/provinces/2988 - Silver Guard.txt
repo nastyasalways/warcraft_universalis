@@ -1,9 +1,9 @@
 # 2988 Silver Guard
 is_city = yes
 
-base_tax = 7
-base_manpower = 7
-base_production = 7
+base_tax = 4
+base_manpower = 4
+base_production = 4
 
 add_core = A90
 owner = A90
@@ -24,6 +24,7 @@ owner = F54
 controller = F54
 add_core = F54
 religion = religion_church_of_the_light
+remove_core = A90
 }
 
 # The Burning Crusade
@@ -34,6 +35,6 @@ add_core = B94
 culture = culture_wretched
 religion = religion_arcane
 base_tax = 3
-base_manpower = 4
 base_production = 3
+remove_core = F54
 }

@@ -121,6 +121,30 @@ gov_kingdom = {
 	}
 }
 
+gov_regency = {
+	rank = {
+		1 = HOLDING
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+	
+	ruler_male = {
+		1 = LORD
+		2 = LORD
+		3 = LORD
+	}
+	
+	ruler_female = {
+		1 = LADY
+		2 = LADY
+		3 = LADY
+	}
+	
+	trigger = {
+			government = regency_gov
+	}
+}
+
 ########################
 # Republics
 ########################
@@ -555,9 +579,9 @@ gov_warband_gov_true_horde = {
 
 gov_warband_gov_horde = {
 	rank = {
-		1 = THE_HORDE
-		2 = THE_HORDE
-		3 = THE_HORDE
+		1 = HORDE
+		2 = HORDE
+		3 = HORDE
 	}
 	
 	ruler_male = {
@@ -614,17 +638,17 @@ gov_warband_gov = {
 	rank = {
 		1 = PETTY_WARBAND
 		2 = WARBAND
-		3 = GRAND_WARBAND
+		3 = HORDE
 	}
 	
 	ruler_male = {
-		1 = WARCHIEF
-		2 = WARCHIEF
+		1 = CHIEFTAIN
+		2 = WARLORD
 		3 = WARCHIEF
 	}
 	
 	ruler_female = {
-		1 = WAR_MISTRESS
+		1 = CHEIFESS
 		2 = WAR_MISTRESS
 		3 = WAR_MISTRESS
 	}

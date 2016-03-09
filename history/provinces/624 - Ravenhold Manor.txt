@@ -23,5 +23,6 @@ trade_goods = army_supplies
 owner = A27
 controller = A27
 add_core = A27
+remove_core = A08
 religion = religion_sect_of_dragons
 }

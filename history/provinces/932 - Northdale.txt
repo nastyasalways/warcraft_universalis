@@ -34,6 +34,7 @@ owner = A62
 controller = A62
 religion = religion_loa
 culture = culture_mossflayer
+remove_core = A08
 }
 
 # Rise of the Qiraji

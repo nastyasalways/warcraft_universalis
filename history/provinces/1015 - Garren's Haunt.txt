@@ -25,6 +25,7 @@ owner = B19
 controller = B19
 culture = culture_rothide
 religion = religion_ancestral
+remove_core = A08
 }
 
 # War of Lordaeron (TFT)

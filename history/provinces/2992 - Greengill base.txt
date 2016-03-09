@@ -25,6 +25,7 @@ controller = F22
 add_core = F22
 culture = culture_nerglish
 religion = religion_old_gods
+remove_core = A90
 }
 
 # The Burning Crusade

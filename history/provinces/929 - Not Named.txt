@@ -1,8 +1,6 @@
 # 929
 is_city = yes
-add_core = A90
-owner = A90
-controller = A90
+
 
 base_tax = 1
 base_manpower = 1

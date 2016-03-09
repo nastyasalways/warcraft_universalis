@@ -24,8 +24,9 @@ add_core =  B89
 
 # The Frozen Throne
 618.1.1 = {
-owner = E02
-controller = E02
+owner = B87
+controller = B87
+add_core = B87
 add_core =  E02
 remove_core = B89
 culture = culture_vashjari

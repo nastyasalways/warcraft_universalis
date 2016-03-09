@@ -1,7 +1,7 @@
 # The Consortium
-government 			= mercantile_republic
+government 			= mercantile_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_ethereal
 religion			= religion_arcane
-primary_culture 	= culture_consortium
+primary_culture 	= culture_kareshi
 capital 			= 1

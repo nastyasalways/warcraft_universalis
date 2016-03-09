@@ -42,6 +42,7 @@ add_core = E52
 remove_core = A41
 religion = religion_the_damned
 culture = culture_scourge 
+remove_core = A08
 }
 
 # Rise of the Qiraji

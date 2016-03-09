@@ -25,6 +25,7 @@ owner = E50
 controller = E50
 culture = culture_crushridge
 religion = religion_geomancy
+remove_core = A08
 }
 
 # War of Lordaeron (TFT)

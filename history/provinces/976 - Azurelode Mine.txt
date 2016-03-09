@@ -39,6 +39,7 @@ culture = culture_lordaeron
 owner = A11
 controller = A11
 add_core = A11
+remove_core = A08
 }
 
 # Cataclysm

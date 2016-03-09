@@ -1,4 +1,4 @@
-# 981 Stromgarde Keep
+# 981 Arathor Square
 is_city = yes
 
 add_core = A16
@@ -6,26 +6,27 @@ owner = A16
 controller = A16
 
 base_tax = 4
-base_manpower = 5
-base_production = 4
+base_manpower = 3
+base_production = 3
 
-capital = "Stromgarde Keep"
+capital = "Stromgarde Marketplace"
 
 culture = culture_arathi
 religion = religion_church_of_the_light
  
 hre = no 
-trade_goods = army_supplies
+trade_goods = silk
 
 
  
 
 # Rise of the Qiraji
 622.1.1 = { 
-	owner = A26
-	controller = A26
+	owner = A64
+	controller = A64
 	add_core = A26
 	add_core = A64
 	add_core = A51 
-	culture = culture_alterac
+	culture = culture_witherbark
+        religion = religion_loa
 }

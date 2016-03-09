@@ -42,6 +42,7 @@ add_core = A11
 base_tax = 5
 base_manpower = 5
 base_production = 5
+remove_core = A08
 }
 
 # Cataclysm

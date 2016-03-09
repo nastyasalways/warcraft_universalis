@@ -23,6 +23,7 @@ add_core = F17
 controller = F17
 owner = F17 
 base_production = 2
+remove_core = A08
 }
 
 # Rise of the Qiraji
