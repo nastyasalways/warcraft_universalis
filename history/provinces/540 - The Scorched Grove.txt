@@ -23,5 +23,6 @@ owner = XXX
 controller = XXX
 culture = culture_treant
 religion = religion_druidic
+remove_core = A90
 }
 

@@ -25,6 +25,7 @@ controller = B14
 add_core = B14
 culture = culture_mudsnout
 religion = religion_ancestral
+remove_core = A08
 }
 
 # Rise of the Qiraji

@@ -25,4 +25,5 @@ controller = F21
 add_core = F21
 culture = culture_cultist
 religion = religion_the_damned 
+remove_core = A90
 }

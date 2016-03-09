@@ -1,30 +1,33 @@
 # 763 Quel'Danil Lodge
 is_city = yes
 
-add_core = A90
-owner = A90
-controller = A90
+add_core = A60
+owner = A60
+controller = A60
 
 base_tax = 3
 base_manpower = 3
 base_production = 3
 
-culture = culture_high_elf
-religion = religion_arcane
+culture = culture_vilebranch
+religion = religion_loa
 
 hre = no 
 trade_goods = fur
  
-
-
-
-# The Frozen Throne
-618.1.1 = { 
+# High elven expedition to assist wildhammers with hinterlands trolls after second war
+600.1.1 = {
 add_core = E49
 owner = E49  
 controller = E49 
 capital = "Quel'danil Lodge"
 religion = religion_church_of_the_light
-base_tax = 5
+culture = culture_high_elf
+}
+
+
+# The Frozen Throne - Independance and influx of high elven refugees
+618.1.1 = { 
+base_tax = 4
 base_production = 4
 }

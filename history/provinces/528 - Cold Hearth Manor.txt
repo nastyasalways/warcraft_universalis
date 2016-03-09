@@ -25,6 +25,7 @@ owner = E55
 controller = E55
 culture = culture_shadowglen
 religion = religion_loa
+remove_core = A08
 }
 
 # War of Lordaeron (TFT)

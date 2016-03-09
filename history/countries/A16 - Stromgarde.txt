@@ -4,7 +4,7 @@ mercantilism 		= 0.1
 technology_group 	= tech_human
 religion			= religion_church_of_the_light
 primary_culture 	= culture_arathi
-capital 			= 981
+capital 			= 3002
 
 546.1.1 = { 
 monarch = { 
@@ -47,5 +47,5 @@ monarch = {
 		female = yes
 		
  	} 
- 	government = dictatorship_gov
+ 	government = regency_gov
  }

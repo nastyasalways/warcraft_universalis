@@ -34,7 +34,8 @@ controller = A13
 add_core = A13
 culture = culture_gilnean_worgen
 religion = religion_shadow
-capital = "Shadowfang Keep" 
+capital = "Shadowfang Keep"
+remove_core = A08 
 }
 
 # Cataclysm

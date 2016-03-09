@@ -25,6 +25,7 @@ owner = F15
 controller = F15
 culture = culture_scourge
 religion = religion_fel
+remove_core = A08
 }
 
 # War of Lordaeron (TFT)

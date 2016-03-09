@@ -30,6 +30,7 @@ trade_goods = fur
 	controller = A58
 	culture = culture_amani
 	religion = religion_loa
+        remove_core = A90
 }
 
 # The Burning Crusade

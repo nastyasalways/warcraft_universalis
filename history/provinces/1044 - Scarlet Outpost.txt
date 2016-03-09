@@ -26,6 +26,7 @@ owner = B25
 controller = B25
 culture = culture_nerglish
 religion = religion_old_gods
+remove_core = A08
 }
 
 # War of Lordaeron (TFT)

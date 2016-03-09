@@ -25,4 +25,5 @@ owner = E14
 controller = E14
 culture = culture_forsaken
 religion = religion_forgotten_shadow
+remove_core = A08
 }

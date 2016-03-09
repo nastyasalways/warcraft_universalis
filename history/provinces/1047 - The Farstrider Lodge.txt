@@ -33,6 +33,7 @@ owner = A29
 controller = A29
 add_core = A29
 remove_core = A40
+remove_core = A90
 culture = culture_high_elf 
 religion = religion_arcane
 }

@@ -9,4 +9,10 @@ bookmark =
 	name = "THIRD_WAR_NAME"
 	desc = "THIRD_WAR_DESC"
 	date = 617.1.1
+country = E11
+country = A08
+country = E52
+country = H01
+country = A48
+country = A90
 }

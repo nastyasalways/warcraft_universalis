@@ -24,4 +24,5 @@ controller = B27
 culture = culture_nerglish
 religion = religion_old_gods
 add_core = B27
+remove_core = A90
 }

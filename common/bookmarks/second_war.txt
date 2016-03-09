@@ -9,4 +9,15 @@ bookmark =
 	name = "SECOND_WAR_NAME"
 	desc = "SECOND_WAR_DESC"
 	date = 598.1.1
+country = A41
+country = A08
+country = A29
+country = A16
+country = A14
+country = A90
+country = A58
+country = A42
+country = A43
+country = A45
+country = A28
 }

@@ -25,6 +25,7 @@ controller = F21
 add_core = F21
 culture = culture_ghost
 religion = religion_the_damned 
+remove_core = A90
 }
 
 # Rise of the Qiraji

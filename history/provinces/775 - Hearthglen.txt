@@ -20,6 +20,7 @@ trade_goods = grain
 	owner = A09
 	controller = A09
 	add_core = A09
+        remove_core = A08
 }
 
 # Rise of the Qiraji

@@ -9,4 +9,10 @@ bookmark =
 	name = "FALL_OF_STORMWIND_NAME"
 	desc = "FALL_OF_STORMWIND_DESC"
 	date = 597.1.1
+country = A41
+country = A08
+country = A29
+country = A30
+country = A90
+country = A58
 }

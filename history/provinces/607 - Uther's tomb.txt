@@ -30,7 +30,8 @@ trade_goods = crypts
 	owner = F15
 	controller = F15
 	religion = religion_fel
-	culture = culture_scourge 
+	culture = culture_scourge
+        remove_core = A08 
 }
 
 # War of Lordaeron (TFT)

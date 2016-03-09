@@ -15,26 +15,19 @@ religion = religion_ancestral
 hre = no
 trade_goods = elementium
 
-
-
-
-# The Third War
-617.1.1 = { 
-culture = culture_n_zoth
-religion = religion_old_gods
-owner = XXX
-controller = XXX
-remove_core = F10
+598.1.1 = { owner = A45
+controller = A45
+add_core = A45
+culture = culture_dragonmaw
+religion = religion_fel 
 }
 
-630.11.11 = {
-owner = XXX
-controller = XXX
-}
 
 # Cataclysm
 631.1.1 = { 
-owner = B83
-controller = B83
-add_core = B83
+owner = A43
+controller = A43
+add_core = A43
+culture = culture_n_zoth
+religion = religion_old_gods
 }

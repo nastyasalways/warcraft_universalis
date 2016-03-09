@@ -19,7 +19,7 @@ trade_goods = fish
 
 
 # The Third War
-617.1.1 = { 
+618.1.1 = { 
 culture = culture_n_zoth
 religion = religion_old_gods
 owner = XXX
@@ -34,7 +34,7 @@ controller = XXX
 
 # Cataclysm
 631.1.1 = { 
-owner = B83
-controller = B83
-add_core = B83
+owner = A43
+controller = A43
+add_core = A43
 }

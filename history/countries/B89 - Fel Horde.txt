@@ -1,5 +1,6 @@
 # Magtheridon's Forces
 government 			= warband_gov
+government_rank 	= 3
 mercantilism 		= 0.1
 technology_group 	= tech_demonic
 religion			= religion_fel

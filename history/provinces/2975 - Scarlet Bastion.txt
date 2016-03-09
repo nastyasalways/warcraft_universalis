@@ -25,9 +25,10 @@ add_core = E52
 
 # The Frozen Throne
 618.1.1 = { 
-add_core = A10
-owner = A10
-controller = A10
+add_core = F17
+owner = F17
+controller = F17
+remove_core = A08
 }
 
 # Rise of the Qiraji

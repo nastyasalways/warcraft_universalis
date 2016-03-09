@@ -1,9 +1,9 @@
-# 3002 Tight Square
+# 3002 Stromgarde Keep
 is_city = yes
 
-base_tax = 3
-base_manpower = 3
-base_production = 3
+base_tax = 4
+base_manpower = 5
+base_production = 4
 
 add_core = A16
 owner = A16
@@ -13,7 +13,7 @@ culture = culture_arathi
 religion = religion_church_of_the_light
 
 hre = no
-trade_goods = silk
+trade_goods = army_supplies
 
 
 

@@ -43,7 +43,9 @@ l_english:
  mercantile_tribe: "Mercantile Tribe"
  mercantile_tribe_desc: "A trading tribe."
  war_tribe: "War Tribe"
- war_tribe_desc: "A tribe focused on conques of its neighours."
+ war_tribe_desc: "A tribe focused on the conquest of its neighours."
+ regency_gov: "Regency"
+ regency_gov_desc: "A kingdom which is currently in a state of prolonged interregnum."
  
  # Kingdoms
  HOLDING: "Holding"
@@ -107,7 +109,7 @@ l_english:
  
  PIRATE_CLAN: "Pirate Clan"
  SCOURGE: "Scourge"
- THE_HORDE: "The Horde"
+ HORDE: "Horde"
  TRUE_HORDE: "True Horde"
  
  EXPENDITIONARY_FORCE: "Expenditionary Force"
@@ -118,9 +120,9 @@ l_english:
  CRIMINAL_ORGANISATION: "Criminal Organisation"
  
  # Tribal
- PETTY_TRIBE: "Petty Tribe"
+ PETTY_TRIBE: "Clan"
  TRIBE: "Tribe"
- GRAND_TRIBE: "Grand Tribe"
+ GRAND_TRIBE: "Tribal Federation"
  
  # Ruler Names
  # Kingdoms
@@ -138,6 +140,8 @@ l_english:
  REAR_ADMIRAL: "Rear Admiral"
  ADMIRAL: "Admiral"
  GRAND_ADMIRAL: "Grand Admiral"
+ 
+ 
  
  # Republics
  MAGISTRATE: "Magistrate"
@@ -185,6 +189,7 @@ l_english:
  
  # Nomad
  WARCHIEF: "Warchief"
+ WARLORD: "Warlord"
  WAR_MISTRESS: "War Mistress"
  
  CAPTAIN: "Captain"

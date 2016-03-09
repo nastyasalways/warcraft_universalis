@@ -29,6 +29,7 @@ religion = religion_the_damned
 # The Frozen Throne
 618.1.1 = { 
 controller = F15
+remove_core = A08
 }
 
 # War of Lordaeron (TFT)

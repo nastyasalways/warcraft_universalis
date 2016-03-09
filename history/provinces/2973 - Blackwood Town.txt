@@ -28,6 +28,7 @@ add_core = E52
 add_core = A10
 owner = A10
 controller = A10
+remove_core = A08
 }
 
 # Rise of the Qiraji

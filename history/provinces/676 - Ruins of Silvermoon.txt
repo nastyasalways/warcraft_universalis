@@ -27,6 +27,7 @@ religion = religion_the_damned
 base_tax = 4
 base_manpower = 4
 base_production = 4
+remove_core = A90
 }
 
 # Rise of the Qiraji

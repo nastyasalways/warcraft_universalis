@@ -22,9 +22,16 @@ trade_goods = army_supplies
 618.1.1 = {
 owner = F21
 controller = F21
+add_claim = A58
 add_core = F21
 culture = culture_scourge
-religion = religion_the_damned 
+religion = religion_the_damned
+remove_core = A90 
+}
+
+
+622.1.1 = {
+remove_claim = A58
 }
 
 # The Burning Crusade

@@ -23,7 +23,8 @@ trade_goods = arcane
 owner = F54
 controller = F54
 add_core = F54
-religion = religion_church_of_the_light
+remove_core = A90
+add_claim = A58
 }
 
 # Rise of the Qiraji
@@ -32,12 +33,15 @@ owner = A93
 controller = A93
 add_core = A93
 culture = culture_blood_elf
-religion = religion_fel
+religion = religion_arcane
+remove_claim = A58
+remove_core = A54
 }
 
 # The Burning Crusade
-622.1.1 = { 
+625.1.1 = { 
 culture = culture_felblood_elf
+religon = religion_fel
 }
 
 # Wrath of the Lich King

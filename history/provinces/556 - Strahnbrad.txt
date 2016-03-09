@@ -29,6 +29,7 @@ add_core = A08
 owner = F40
 controller = F40
 add_core = F40
+remove_core = A08
 }
 
 # Rise of the Qiraji
