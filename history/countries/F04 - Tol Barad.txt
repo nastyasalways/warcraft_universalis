@@ -4,7 +4,7 @@ mercantilism 		= 0.1
 technology_group 	= tech_human
 religion			= religion_church_of_the_light
 primary_culture 	= culture_arathi
-capital 			= 1
+capital 			= 2007
 
 546.1.1 = { 
 	monarch = { 
@@ -41,8 +41,8 @@ capital 			= 1
 		name = "Marcus" 
 		dynasty = "Johnson" 
 		adm = 4
-		dip = 3
-		mil = 3 
+		dip = 2
+		mil = 4
  	}	
 	government = dictatorship_gov
 }

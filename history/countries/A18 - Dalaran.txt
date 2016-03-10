@@ -40,13 +40,13 @@ monarch = {
 capital = 1 
 }
 
-631.1.1 = { 
+632.1.1 = { 
 monarch = { 
-     name = "Jaina"
-     dynasty = "Proudmoore" 
+    name = "Jaina"
+    dynasty = "Proudmoore" 
 		adm = 4
 		dip = 4
 		mil = 4
 		female = yes
- 	} 
- } 
+	} 
+} 
