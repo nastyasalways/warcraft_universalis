@@ -3,6 +3,7 @@ government 			= warband_gov
 mercantilism 		= 0.1
 technology_group 	= tech_troll
 religion			= religion_loa
+secondary_religion = religion_voodoo
 primary_culture 	= culture_drakkari
 capital 			= 1
 

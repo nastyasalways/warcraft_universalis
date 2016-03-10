@@ -152,11 +152,12 @@ arathi_ideas = {
 
 lordaeron_ideas = {
 	start = {
-		
+	diplomatic_upkeep = 1
+    legitimacy = 1	
 	}
 
 	bonus = {
-		
+	advisor_pool = 1
 	}
 	
 	trigger = {
@@ -164,26 +165,34 @@ lordaeron_ideas = {
 	}
 	free = yes		#wibe added at load.
 	
+	#Alliance of Lordaeron
 	lordaeron_ideas_1 = {
-	
+	diplomatic_reputation = 1
 	}
+	#Feudal Farms
 	lordaeron_ideas_2 = {
-	
+	land_maintenance_modifier = -0.10
 	}
+	#Devout Soldiers
 	lordaeron_ideas_3 = {
-	
+	land_morale = 0.10
 	}
+	# Holy Light
 	lordaeron_ideas_4 = {
-	
+	tolerance_own = 1
 	}
+	# Paladins
 	lordaeron_ideas_5 = {
-	
+	discipline = 0.05
+	cavalry_power = 0.05
 	}
+	#Lordaeron Colonists
 	lordaeron_ideas_6 = {
-	
+	colonists = 1
 	}
+	# Lordaeron Patriotism
 	lordaeron_ideas_7 = {
-	
+	war_exhaustion_cost = -0.2
 	}
 }
 
@@ -652,11 +661,11 @@ draenei_ideas = {
 forest_troll_ideas = {
 	start = { 
           manpower_recovery_speed = 0.10
-		  defensiveness = 0.10
+		  naval_forcelimit_modifier = 0.25
 		  }
 
 	bonus = { 
-            leader_land_fire = 1
+            leader_land_shock = 1
 			}
 	
 	trigger = {
@@ -693,11 +702,12 @@ forest_troll_ideas = {
 
 jungle_troll_ideas = {
 	start = {
-		
+	manpower_recovery_speed = 0.10
+    infantry_cost = -0.10	
 	}
 
 	bonus = {
-		
+	global_unrest = -1	
 	}
 	
 	trigger = {
@@ -705,32 +715,39 @@ jungle_troll_ideas = {
 	}
 	free = yes		#wibe added at load.
 	
+	#Jungle Warfare
 	jungle_troll_ideas_1 = {
-	
+	hostile_attrition = 1
 	}
+	#Tribal Conflicts
 	jungle_troll_ideas_2 = {
-	
+	army_tradition_decay = -0.01
 	}
+	#Headhunting
 	jungle_troll_ideas_3 = {
-	
+	recover_army_morale_speed = 0.05
 	}
+	#Voodoo
 	jungle_troll_ideas_4 = {
-	
+	stability_cost_modifier = -0.1
 	}
+	#Primitive Armaments
 	jungle_troll_ideas_5 = {
-	
+	land_maintenance_modifier = -0.1
 	}
+	#Shadow Hunters
 	jungle_troll_ideas_6 = {
-	
+	land_morale = 0.1
 	}
+	#Witch Doctors
 	jungle_troll_ideas_7 = {
-	
+	advisor_cost = -0.1
 	}
 }
 
 sand_troll_ideas = {
 	start = {
-		
+	manpower_recovery_speed = 0.10
 	}
 
 	bonus = {
@@ -767,7 +784,8 @@ sand_troll_ideas = {
 
 ice_troll_ideas = {
 	start = {
-		
+	          manpower_recovery_speed = 0.10
+		      defensiveness = 0.10
 	}
 
 	bonus = {
@@ -804,7 +822,7 @@ ice_troll_ideas = {
 
 zandalar_troll_ideas = {
 	start = {
-		
+	manpower_recovery_speed = 0.10	
 	}
 
 	bonus = {
@@ -1248,11 +1266,12 @@ undead_ideas = {
 
 gnoll_ideas = {
 	start = {
-		
+	fabricate_claims_time = -0.25
+	infantry_cost = -0.2
 	}
 
 	bonus = {
-		
+	land_forcelimit_modifier = 0.10
 	}
 	
 	trigger = {
@@ -1260,26 +1279,34 @@ gnoll_ideas = {
 	}
 	free = yes		#wibe added at load.
 	
+	#Brawlers
 	gnoll_ideas_1 = {
-	
+	army_tradition_decay = -0.01
 	}
+	#Scavengers
 	gnoll_ideas_2 = {
-	
+	land_attrition = -0.25
 	}
+	#Skins and Tents
 	gnoll_ideas_3 = {
-	
+	build_cost = -0.1
+	production_efficiency = 0.05
 	}
+	#Gnoll Mercenaries
 	gnoll_ideas_4 = {
-	
+	possible_mercenaries = 0.5
 	}
+	#Ambush tactics
 	gnoll_ideas_5 = {
-	
+	hostile_attrition = 1.0
 	}
+	#Only the Strong Lead
 	gnoll_ideas_6 = {
-	
+	heir_chance = 0.5
 	}
+	#The Weak are Food
 	gnoll_ideas_7 = {
-	
+	defensiveness = 0.15
 	}
 }
 
@@ -1470,11 +1497,11 @@ kobold_ideas = {
 
 harpy_ideas = {
 	start = {
-		
+		  diplomats = 1
 	}
 
 	bonus = {
-		
+		core_creation = -0.15
 	}
 	
 	trigger = {
@@ -1482,26 +1509,33 @@ harpy_ideas = {
 	}
 	free = yes		#wibe added at load.
 	
+	#Egg Clutches
 	harpy_ideas_1 = {
-	
+	manpower_recovery_speed = 0.15
 	}
+	#Nest Builders
 	harpy_ideas_2 = {
-	
+	build_cost = -0.1
 	}
+	#Matriarchs
 	harpy_ideas_3 = {
-	
+	leader_land_fire = 1
 	}
+	#Harpy Raiders
 	harpy_ideas_4 = {
-	
+	production_efficiency = 0.05
 	}
+	#Tool Traders
 	harpy_ideas_5 = {
-	
+	merchants = 1
 	}
+	#Screechers
 	harpy_ideas_6 = {
-	
+	infantry_power = 0.10
 	}
+	#Winged Fury
 	harpy_ideas_7 = {
-	
+	cavalry_power = 0.15
 	}
 }
 

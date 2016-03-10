@@ -1,4 +1,4 @@
-fire_elemental
+Harpy
 Starting: 1 diplomat
 Egg Clutch: 20% manpower recovery bonus
 Local Nests: 20% build cost
