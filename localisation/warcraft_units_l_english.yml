@@ -561,4 +561,7 @@ l_english:
  insectoid_wasp_cav: "Wasp Swarm Cavalry"
  insectoid_battleguard_cav: "Armored Battleguards"
  insectoid_prophets_cav: "Guarded Prophets"
- 
+ worgen_savage_warriors: "Savage Warriors"
+ worgen_wild_fighters: "Wild Fighters"
+ worgen_runners_cav: "Forest Runners"
+ worgen_rushers_cav: "City Rushers"

@@ -144,6 +144,12 @@ technology = {
 	enable = naga_explorers
 	enable = naga_manhunter
 	
+	# tech_worgen
+	enable = worgen_savage_warriors    #lvl1 infantry a,
+	enable = worgen_wild_fighters      #lvl1 infantry b,
+	enable = worgen_runners_cav        #lvl1 cavalry a,
+	enable = worgen_rushers_cav        #lvl1 cavalry b,
+	
 	# tech_ogre
 	#	Ogre Clobbers (1)
 	#		An ogre loves nothing more than to clobber. Any enemy facing an ogre on the battle must keep their wits about them, lest they be clobbered from behind!
@@ -168,7 +174,6 @@ technology = {
 	# tech_harpy
 	# tech_quillboar
 	# tech_titan
-	# tech_worgen
 	# tech_arrakoa
 	# tech_tuskarr
 	# tech_mantid
