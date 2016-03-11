@@ -1,0 +1,26 @@
+name = "Hinterlands War"
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 2998 # Quel'Lorien
+}
+
+631.1.1 = {
+	add_attacker = E14
+	add_attacker = A61
+	add_attacker = A91
+	add_defender = E49
+	add_defender = A28
+	add_defender = A56
+	add_defender = F34
+}
+
+633.1.1 = {
+	rem_attacker = E14
+	rem_attacker = A61
+	rem_attacker = A91
+	rem_defender = E49
+	rem_defender = A28
+	rem_defender = A56
+	rem_defender = F34
+}

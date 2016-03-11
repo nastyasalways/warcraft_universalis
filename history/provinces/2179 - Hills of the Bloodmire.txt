@@ -1,18 +1,15 @@
-# 2179
+# 2179 Hills of Bloodmire
 is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
 culture = culture_hakkari
 religion = religion_hakkari
 
 hre = no
 trade_goods = fish
-
-
-
 
 # First War
 592.1.1 = { 
@@ -31,4 +28,13 @@ trade_goods = fish
 	culture = culture_broken
 	religion = religion_light_of_the_naaru
 	remove_core = A41
+	
+	base_manpower = 3
+}
+
+# Cataclysm - aid of the Alliance
+631.1.1 = {
+	base_tax = 3
+	base_manpower = 4
+	base_production = 3
 }
