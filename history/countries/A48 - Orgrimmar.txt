@@ -16,6 +16,12 @@ capital 			= 1377
 		mil = 3
                 
 	} 
+historical_friend = A61
+historical_friend = A35
+}
+
+618.1.1 = {
+historical_friend = A70
 }
 
 631.1.1 = {

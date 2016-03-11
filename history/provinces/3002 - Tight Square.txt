@@ -23,7 +23,7 @@ trade_goods = army_supplies
 	owner = A26
 	controller = A26
 	add_core = A26
-	add_core = A64
-	add_core = A51 
+	add_claim = A64
+	add_claim = A51 
 	culture = culture_alterac
 }

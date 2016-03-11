@@ -20,7 +20,7 @@ trade_goods = grain_silo
 
 # Rise of the Qiraji
 622.1.1 = { 
-	add_core = A26
-	add_core = A64
-	add_core = A51 
+	add_claim = A26
+	add_claim = A64
+	add_claim = A51 
 }

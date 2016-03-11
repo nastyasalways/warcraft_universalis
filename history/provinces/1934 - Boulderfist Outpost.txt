@@ -26,7 +26,6 @@ trade_goods = army_supplies
 	owner = A51
 	controller = A51
 	add_core = A51
-        add_core = A64
 	culture = culture_boulderfist
 	religion = religion_geomancy
 	capital = "Boulder'gor"

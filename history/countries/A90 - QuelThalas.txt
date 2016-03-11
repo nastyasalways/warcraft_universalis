@@ -3,6 +3,7 @@ government 			= administrative_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_thalassian
 religion			= religion_arcane
+secondary_religion = religion_church_of_the_light
 primary_culture 	= culture_high_elf
 capital 			= 660
 
