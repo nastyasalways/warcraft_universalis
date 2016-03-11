@@ -26,3 +26,7 @@ capital 			= 660
 	}
 government			= regency_gov
 }
+
+626.1.1 = {
+secondary_religion = religion_light_of_the_sunwell
+}

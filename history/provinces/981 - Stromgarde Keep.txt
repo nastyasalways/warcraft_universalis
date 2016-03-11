@@ -24,9 +24,8 @@ trade_goods = silk
 622.1.1 = { 
 	owner = A64
 	controller = A64
-	add_core = A26
+	add_claim = A26
 	add_core = A64
-	add_core = A51 
 	culture = culture_witherbark
         religion = religion_loa
 }

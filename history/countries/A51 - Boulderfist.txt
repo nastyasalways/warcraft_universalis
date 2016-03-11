@@ -7,6 +7,9 @@ primary_culture 	= culture_boulderfist
 capital = 962
 
 
+600.1.1 = {
+historical_friend = A64
+}
 
 617.1.1 = { 
 monarch =
@@ -20,3 +23,4 @@ dip = 3
 mil = 4 	} 
  
 } 
+

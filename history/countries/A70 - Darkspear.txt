@@ -35,5 +35,6 @@ monarch = {
  		adm = 4 
 		dip = 4 
 		mil = 4  
-  	}  
+  	} 
+historical_friend = A48 
   }  
