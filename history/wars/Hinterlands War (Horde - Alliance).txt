@@ -2,7 +2,7 @@ name = "Hinterlands War"
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
-	province = 2998 # Quel'Lorien
+	province = 2998 # Quel'Danil
 }
 
 631.1.1 = {

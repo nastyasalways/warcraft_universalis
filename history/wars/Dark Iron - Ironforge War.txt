@@ -12,7 +12,7 @@ war_goal = {
 }
 
 632.1.1 = {
-	rem_attacker = A14
+	rem_attacker = A30
 	rem_defender = A29
 	rem_defender = A06
 }
