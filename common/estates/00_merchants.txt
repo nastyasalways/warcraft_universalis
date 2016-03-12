@@ -1,8 +1,8 @@
-estate_commoners =
+estate_merchants =
 {
 	icon = 1
 	
-	color = { 200 150 0 }
+	color = { 0 150 150 }
 	
 	# Is estate kept in control of province on conquest?
 	keep_on_conquest = no
