@@ -17,7 +17,7 @@ estate_old_gods =
 	
 	# If true, country will get estate
 	trigger = {
-		always = yes
+		religion_group = religion_group_old_god
 	}
 	
 	# If true, province can be granted to estate

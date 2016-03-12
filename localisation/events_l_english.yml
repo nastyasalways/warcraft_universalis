@@ -38,4 +38,11 @@ l_english:
  story.8.desc: ""
  story.8.option.a: ""
  
- 
+ #Gilneas
+ gilneas.1.title: "Build the Wall!"
+ gilneas.1.desc: "We should build a wall to forever remove our nation from other people's troubles."
+ gilneas.1.option.a: "We care for ourselves and only ourselves."
+ gilneas.1.option.b: "We mustn't let our fellow humans stand alone."
+ gilneas.2.title: "Peasants Moving Behind the Wall"
+ gilneas.2.desc: "Peasants from the lands outside the wall are asking to come in."
+ gilneas.2.option.a: "Let them come."

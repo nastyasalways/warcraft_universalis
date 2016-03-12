@@ -1,0 +1,55 @@
+namespace = gilneas
+
+country_event = {
+	id = gilneas.1
+	title = gilneas.1.title #Build the Wall!
+	desc = gilneas.1.desc #We should build a wall to forever remove our nation from other people's troubles.
+	
+	fire_only_once = yes
+	
+	trigger = {
+		is_year = 600
+		tag = A12 #Country is Gilneas
+		owns = 914
+		exists = A08 #Lordaeron exists
+		
+		NOT = {
+			914 = {
+				OR = {
+					has_building = fort_15th
+					has_building = fort_16th
+					has_building = fort_17th
+					has_building = fort_18th
+				}
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 48
+	}
+	
+	option = {
+		name = gilneas.1.option.a #We care for ourselves and only ourselves.
+		ai_chance = { factor = 100 }
+		add_prestige = 10
+		every_owned_province = {
+			limit = {
+				NOT = { area = area_gilneas }
+			}
+			cede_province = A08
+			add_core = A08
+			remove_core = A12
+		}
+		
+		914 = {
+			add_building = fort_18th
+		}
+	}
+	
+	option = {
+		name = gilneas.1.option.b #We mustn't let our fellow humans stand alone.
+		ai_chance = { factor = 0 }
+		add_prestige = -10
+	}
+}

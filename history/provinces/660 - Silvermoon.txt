@@ -23,6 +23,9 @@ add_core = F21
 culture = culture_scourge
 religion = religion_the_damned
 remove_core = A90
+base_tax = 6
+base_manpower = 6
+base_production = 6
 }
 
 # Rise of the Qiraji

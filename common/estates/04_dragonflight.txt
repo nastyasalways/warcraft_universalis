@@ -17,7 +17,7 @@ estate_dragonflight =
 	
 	# If true, country will get estate
 	trigger = {
-		always = yes
+		technology_group = tech_dragonkin
 	}
 	
 	# If true, province can be granted to estate
