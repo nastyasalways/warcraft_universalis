@@ -1,0 +1,29 @@
+# Savage Hill
+government 			= war_tribe
+mercantilism 		= 0.1
+technology_group 	= tech_gnoll
+religion			= religion_ancestral
+primary_culture 	= culture_savage_hill
+capital 			= 1
+
+546.1.1 = { 
+	monarch = { 
+		name = "Coldfang" 
+		dynasty = "Savage Hill" 
+		adm = 3
+		dip = 3
+		mil = 3
+                
+	} 
+}
+
+626.1.1 = { 
+	monarch = { 
+		name = "Gnarlhide" 
+		dynasty = "Savage Hill" 
+		adm = 2
+		dip = 2
+		mil = 4
+                
+	} 
+}

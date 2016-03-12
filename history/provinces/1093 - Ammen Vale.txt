@@ -1,0 +1,25 @@
+# 1093
+is_city = no
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+
+culture = culture_owlkin
+religion = religion_druidic
+
+hre = no
+trade_goods = grain
+
+
+
+
+# The Burning Crusade
+625.1.1 = { 
+	owner = A56
+	controller = A56
+	add_core = A56 
+	culture = culture_karaborian
+	religion = religion_light_of_the_naaru
+}

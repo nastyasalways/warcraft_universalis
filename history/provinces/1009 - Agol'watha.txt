@@ -1,0 +1,42 @@
+# 1009
+is_city = yes
+
+add_core = A60
+owner = A60 
+controller = A60
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+ 
+culture = culture_vilebranch
+religion = religion_loa
+ 
+hre = no 
+trade_goods = fish
+ 
+
+
+
+
+# Beyond the Dark Portal
+600.1.1 = { 
+remove_core = A60 
+owner = XXX
+controller = XXX
+culture = culture_ooze 
+}
+
+
+630.11.11 = { 
+owner = XXX
+controller = XXX
+}
+
+# Cataclysm
+631.1.1 = {
+add_core = A60
+owner = A60
+controller = A60
+culture = culture_vilebranch 
+}

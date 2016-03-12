@@ -1,7 +1,30 @@
 # Shadow Council
-government 		= despotic_monarchy
+government 			= militaristic_theocracy
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_orc
+religion			= religion_fel
+primary_culture 	= culture_horde
 capital 			= 1
+
+
+546.1.1 = { 
+	monarch = { 
+		name = "Gul'dan" 
+		dynasty = "Shadowmoon" 
+		adm = 5
+		dip = 5
+		mil = 3
+                
+	} 
+}
+
+597.1.1 = { 
+	monarch = { 
+		name = "Vorpil" 
+		dynasty = "Thunderlord" 
+		adm = 3
+		dip = 3
+		mil = 3
+                
+	} 
+}

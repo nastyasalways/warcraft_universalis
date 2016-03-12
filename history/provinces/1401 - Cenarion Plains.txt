@@ -1,0 +1,20 @@
+# 1401
+is_city = no
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+owner = B24
+controller = B24
+add_core = B24
+
+culture = culture_kolkar
+religion = religion_ancestral
+
+hre = no
+trade_goods = grain
+
+
+
+

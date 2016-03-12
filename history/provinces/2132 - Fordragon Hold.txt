@@ -1,0 +1,23 @@
+# 2132
+is_city = yes
+
+owner = B64
+controller = B64
+add_core = B64
+capital = "Coldwind Lair"
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_coldwind
+religion = religion_air
+
+
+hre = no
+trade_goods = army_supplies
+
+
+
+

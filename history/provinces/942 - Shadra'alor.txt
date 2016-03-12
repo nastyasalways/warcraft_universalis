@@ -1,0 +1,27 @@
+# 942 Shadra'alor
+is_city = yes 
+
+add_core = A64
+owner = A64
+controller = A64
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+ 
+culture = culture_witherbark
+religion = religion_loa
+ 
+hre = no 
+trade_goods = silk
+ 
+
+
+
+# Cataclysm
+631.1.1 = {
+owner = A60
+controller = A60 
+add_core = A60 
+culture = culture_vilebranch
+}

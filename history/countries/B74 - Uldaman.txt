@@ -1,7 +1,18 @@
 # Uldaman
-government 		= despotic_monarchy
+government 			= cult_gov
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+technology_group 	= tech_titan
+religion			= religion_titan
+primary_culture 	= culture_earthen
+capital 			= 1968
+
+546.1.1 = { 
+	monarch = { 
+		name = "Archaedas" 
+		dynasty = "the Watcher" 
+		adm = 3
+		dip = 3
+		mil = 3
+                
+	} 
+}

@@ -1,0 +1,27 @@
+# 1776
+is_city = yes
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_dojani
+religion = religion_titan
+
+hre = no
+trade_goods = fish
+
+
+
+
+632.1.1 = { 
+owner = A88
+controller = A88
+add_core = A88
+culture = culture_dawnchaser
+religion = religion_ancestral
+}
+
+
+

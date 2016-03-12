@@ -1,0 +1,23 @@
+# 1675 Sketh'lon Wreckage
+is_city = yes
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_ghost
+religion = religion_old_gods
+
+hre = no
+trade_goods = artifacts
+
+
+
+
+# The Third War
+617.1.1 = {
+	add_core = B85
+	owner = B85
+	controller = B85
+}

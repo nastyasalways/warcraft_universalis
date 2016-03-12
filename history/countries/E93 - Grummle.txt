@@ -1,0 +1,18 @@
+# Grummle
+government 			= mercantile_tribe
+mercantilism 		= 0.1 
+technology_group 	= tech_titan
+religion			= religion_celestial
+primary_culture 	= culture_grummle
+capital 			= 1
+
+546.1.1 = { 
+	monarch = { 
+		name = "Lucky" 
+		dynasty = "Tencoins" 
+		adm = 4
+		dip = 4
+		mil = 2
+	} 
+} 
+

@@ -1,0 +1,19 @@
+# Thrallmar
+government 			= expenditionary_force
+mercantilism 		= 0.1 
+technology_group 	= tech_orc
+religion			= religion_ancestral
+primary_culture 	= culture_horde
+capital 			= 1
+
+625.1.1 = {
+	monarch = {
+		name = "Nazgrel" 
+		dynasty = "Frostwolf" 
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+

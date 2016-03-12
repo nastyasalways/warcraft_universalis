@@ -1,0 +1,29 @@
+# 1876
+is_city = yes
+
+owner = E89
+controller = E89
+add_core = E89
+
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_ruqin
+religion = religion_fire
+
+hre = no
+trade_goods = oil
+
+
+
+
+632.1.1 = {
+owner = XXX
+controller = XXX
+culture = culture_bog_beast
+religion = religion_shadow
+}
+

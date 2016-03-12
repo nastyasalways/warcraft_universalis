@@ -1,0 +1,61 @@
+# 677 Valgans Field
+is_city = yes
+add_core = A08
+owner = A08
+controller = A08
+
+base_tax = 3
+base_manpower = 2
+base_production = 3
+
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = grain
+
+# The Frozen Throne
+618.1.1 = { 
+owner = A25
+controller = A25
+add_core = A25
+add_core = E52
+remove_core = A08
+}
+
+# War of Lordaeron (TFT)
+620.8.1 = { 
+controller = E14
+}
+
+# War of Lordaeron (TFT)
+620.10.1 = {
+controller = E52
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+owner = A13
+controller = A13
+add_core = A13
+culture = culture_gilnean_worgen
+religion = religion_shadow 
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = F53
+controller = F53
+add_core = F53
+add_core = E14
+remove_core = A13 
+religion = religion_church_of_the_light
+}
+
+# Pandaria
+632.1.1 = { 
+owner = E14
+controller = E14
+culture = culture_forsaken
+religion = religion_forgotten_shadow
+}

@@ -1,0 +1,44 @@
+# 528 Cold Hearth Manor
+is_city = yes
+add_core = A08
+owner = A08
+controller = A08
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = grain
+
+
+
+
+# The Frozen Throne
+618.1.1 = { 
+add_core = E52
+add_core = E55
+owner = E55
+controller = E55
+culture = culture_shadowglen
+religion = religion_loa
+remove_core = A08
+}
+
+# War of Lordaeron (TFT)
+619.11.1 = { 
+controller = F15
+}
+
+# War of Lordaeron (TFT)
+620.5.1 = {
+add_core = E14
+owner = E14
+controller = E14
+remove_core = E55
+culture = culture_forsaken
+religion = religion_forgotten_shadow
+}

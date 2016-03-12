@@ -1,0 +1,18 @@
+# The Sha
+government 			= cult_gov
+mercantilism 		= 0.1
+technology_group 	= tech_elemental
+religion			= religion_old_gods
+primary_culture 	= culture_sha
+capital 			= 1
+
+632.1.1 = { 
+
+monarch = { 
+     name = "The Heart" 
+     dynasty = "of Y'Shaarj" 
+		adm = 3
+		dip = 3
+		mil = 4
+ 	} 
+ } 

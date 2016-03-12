@@ -1,0 +1,18 @@
+# Dustbelcher
+government 			= warband_gov
+mercantilism 		= 0.1 
+technology_group 	= tech_ogre
+religion			= religion_geomancy
+primary_culture 	= culture_dustbelcher
+capital 			= 1
+
+598.1.1 = { 
+	monarch = { 
+		name = "Tho'grun" 
+		dynasty = "Dustbelcher" 
+		adm = 3
+		dip = 3
+		mil = 4
+	} 
+} 
+

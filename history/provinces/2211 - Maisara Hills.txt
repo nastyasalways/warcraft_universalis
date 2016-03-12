@@ -1,0 +1,22 @@
+is_city = yes 
+
+add_core = A58
+owner = A58
+controller = A58
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+culture = culture_amani
+religion = religion_loa
+
+capital = "Ironwood Lumber Mill"
+ 
+hre = no 
+trade_goods = lumber
+
+
+
+
+ 

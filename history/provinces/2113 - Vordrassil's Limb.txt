@@ -1,0 +1,17 @@
+# 
+is_city = yes
+
+base_tax = 3
+base_manpower = 2
+base_production = 3
+
+
+culture = culture_ooze
+religion = religion_old_gods
+
+hre = no
+trade_goods = saronite
+
+
+
+

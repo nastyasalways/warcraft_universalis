@@ -1,0 +1,30 @@
+# 1125 Stormfeather Woods
+is_city = yes 
+add_core = A60
+owner = A60
+controller = A60
+
+base_tax = 3
+base_manpower = 2
+base_production = 3
+
+culture = culture_vilebranch
+religion = religion_loa
+ 
+hre = no 
+trade_goods = lumber
+ 
+
+ 
+
+# Cataclysm
+631.1.1 = { 
+add_core = A61
+add_core = A28 
+owner = A28
+controller = A28 
+culture = culture_wildhammer
+religion = religion_ancestral 
+}
+
+

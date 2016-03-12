@@ -1,7 +1,37 @@
 # Gurubashi
-government 		= despotic_monarchy
+government 			= warband_gov
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+technology_group 	= tech_troll
+religion			= religion_loa
+secondary_religion = religion_voodoo
+primary_culture 	= culture_gurubashi
+capital 			= 783
+
+546.1.1 = {  
+monarch = {  
+      name = "Jeklik"  
+     dynasty = "Gurubashi"  
+ 		adm = 2 
+		dip = 3 
+		mil = 4 
+  	}  
+  }  
+
+600.1.1 = {  
+monarch = {  
+      name = "Jin'do"  
+     dynasty = "Gurubashi"  
+ 		adm = 4 
+		dip = 3 
+		mil = 4 
+  	}  
+  }
+
+622.1.1 = {
+religion = religion_hakkari
+}
+
+631.1.1 = {
+religion = religion_loa
+secondary_religion = religion_voodoo
+}

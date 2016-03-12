@@ -1,0 +1,36 @@
+# 2204
+is_city = yes
+add_core = A01
+owner = A01
+controller = A01
+
+base_tax = 5
+base_manpower = 5
+base_production = 5
+
+culture = culture_azerothian
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = wine
+
+
+
+
+# Fall of Stormwind
+597.1.1 = {
+	owner = A41
+	controller = A41
+	add_core = A41
+	culture = culture_blackrock
+	religion = religion_fel 
+}
+
+# Beyond the Dark Portal
+600.1.1 = {
+	owner = A01
+	controller = A01
+	remove_core = A41
+	culture = culture_azerothian
+	religion = religion_church_of_the_light 
+}

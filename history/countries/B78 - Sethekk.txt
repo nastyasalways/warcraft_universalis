@@ -1,0 +1,7 @@
+# Sethikk
+government 			= war_tribe
+mercantilism 		= 0.1
+technology_group 	= tech_arrakoa
+religion			= religion_terokk
+primary_culture 	= culture_sethekk
+capital 			= 1

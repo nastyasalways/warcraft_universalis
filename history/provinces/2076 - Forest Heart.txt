@@ -1,0 +1,21 @@
+# 2076
+is_city = yes
+
+owner = F45
+controller = F45
+add_core = F45
+
+base_tax = 3
+base_manpower = 2
+base_production = 3
+
+culture = culture_construct
+religion = religion_arcane
+
+hre = no
+trade_goods = lumber
+
+
+
+
+

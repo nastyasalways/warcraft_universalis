@@ -1,7 +1,7 @@
 # Bloodfury
-government 		= despotic_monarchy
+government 			= war_tribe
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_harpy
+religion			= religion_air
+primary_culture 	= culture_bloodfury
 capital 			= 1

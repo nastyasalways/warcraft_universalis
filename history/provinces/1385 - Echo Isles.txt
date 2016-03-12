@@ -1,0 +1,27 @@
+# 1385 Echo Isles
+is_city = no
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+culture = culture_nerglish
+religion = religion_old_gods
+
+hre = no
+trade_goods = grain
+
+# The Frozen Throne
+618.1.1 = { 
+	owner = A70
+	controller = A70
+	add_core = A70
+	culture = culture_darkspear
+	religion = religion_loa 
+	
+	is_city = yes
+	
+	base_tax = 6
+	base_manpower = 6
+	base_production = 6
+}

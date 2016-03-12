@@ -1,0 +1,29 @@
+# 2999 Upper Jintha'alor
+is_city = yes
+
+base_tax = 6
+base_manpower = 6
+base_production = 6
+
+add_core = A60
+owner = A60
+controller = A60
+
+culture = culture_vilebranch
+religion = religion_loa
+
+hre = no
+trade_goods = artifacts
+
+
+
+
+# Rise of the Qiraji
+622.1.1 = { 
+	religion = religion_hakkari 
+}
+
+# Cataclysm
+631.1.1 = { 
+	add_core = A61 
+}

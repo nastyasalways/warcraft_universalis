@@ -1,0 +1,15 @@
+# Stormwind - Alliance Vanguard
+vassal = {
+	first = A01
+	second = H06
+	start_date = 626.1.1
+	start_date = 640.1.1
+}
+
+# Orgrimmar - Horde Expedition
+vassal = {
+	first = A48
+	second = H07
+	start_date = 626.1.1
+	start_date = 640.1.1
+}

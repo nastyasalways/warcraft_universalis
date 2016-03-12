@@ -1,0 +1,28 @@
+# 1896
+is_city = yes
+
+owner = E66
+controller = E66
+add_core = E66
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_white_tiger
+religion = religion_celestial
+
+hre = no
+trade_goods = grain
+
+
+
+
+632.1.1 = {
+owner = E36
+controller = E36
+add_core = E36
+remove_core = E66
+}
+

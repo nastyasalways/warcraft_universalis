@@ -1,0 +1,27 @@
+# 1265
+is_city = no
+
+owner = B54
+controller = B54
+add_core = B54
+
+base_tax = 5
+base_manpower = 5
+base_production = 5
+
+
+culture = culture_mosswalker
+religion = religion_titan
+
+hre = no
+trade_goods = grain
+
+
+
+
+610.1.1 = { 
+add_core = E11
+controller = E11
+owner = E11
+culture = culture_scourge
+religion = religion_the_damned }

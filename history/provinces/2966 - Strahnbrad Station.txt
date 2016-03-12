@@ -1,0 +1,65 @@
+# 2966 Strahnbrad Station
+is_city = yes
+
+base_tax = 1
+base_manpower = 0
+base_production = 1
+
+add_core = A17
+owner = A17
+controller = A17
+
+culture = culture_alterac
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = grain
+
+
+
+
+# Beyond the Dark Portal
+600.1.1 = { 
+owner = A08
+controller = A08
+add_core = A08
+}
+
+# The Third War
+617.1.1 = { 
+owner = A41
+controller = A41
+add_core = A41
+culture = culture_blackrock
+religion = religion_fel
+}
+
+# The Frozen Throne
+618.1.1 = { 
+owner = E52 
+controller = E52
+add_core = E52
+remove_core = A41
+religion = religion_the_damned
+culture = culture_scourge 
+remove_core = A08
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+owner = A26
+controller = A26
+add_core = A26
+add_core = E14
+remove_core = E52
+culture = culture_alterac
+religion = religion_church_of_the_light
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = E14
+controller = E14
+culture = culture_forsaken
+religion = religion_forgotten_shadow
+}

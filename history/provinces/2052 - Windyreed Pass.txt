@@ -1,0 +1,14 @@
+# 2052
+is_city = no
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+
+culture = culture_lost_one
+religion = religion_ancestral
+
+hre = no
+trade_goods = glowcap
+

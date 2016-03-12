@@ -1,0 +1,67 @@
+# 2960 Beren's Peril
+is_city = yes 
+
+add_core = A12
+owner = A12
+controller = A12
+
+base_tax = 1
+base_manpower = 1
+base_production = 2
+
+culture = culture_gilnean
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = salt
+
+
+
+
+# Third War
+617.1.1 = {
+owner = A18
+controller = A18
+add_core = A18
+remove_core = A12
+religion = religion_arcane 
+culture = culture_dalaran
+}
+
+# The Frozen Throne
+618.1.1 = {
+owner = A25
+controller = A25
+add_core = A25
+religion = religion_church_of_the_light
+}
+
+# Reconquest of Lordaeron (TFT)
+620.8.1 = { 
+controller = E52
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+owner = E52
+add_core = E52
+religion = religion_the_damned
+culture = culture_scourge
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = A18
+controller = A18
+religion = religion_arcane
+culture = culture_dalaran
+}
+
+# Mists of Pandaria
+632.1.1 = { 
+owner = E14
+controller = E14
+add_core = E14
+religion = religion_forgotten_shadow
+culture = culture_forsaken
+}

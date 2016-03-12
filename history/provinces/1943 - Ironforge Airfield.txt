@@ -1,0 +1,34 @@
+# 1943 Ironforge Airfield
+is_city = yes
+
+add_core = A29
+owner = A29
+controller = A29
+
+base_tax = 3
+base_manpower = 4
+base_production = 3
+
+culture = culture_ironforge
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = army_supplies
+
+# Cataclysm
+631.1.1 = {
+	owner = A43
+	controller = A43
+	add_core = A43
+	religion = religion_old_gods
+	culture = culture_dark_iron
+}
+
+# Mists of Pandaria
+632.1.1 = {
+	owner = A29
+	controller = A29
+	remove_core = A43
+	culture = culture_ironforge
+	religion = religion_church_of_the_light
+}

@@ -1,0 +1,23 @@
+# 1688
+is_city = no
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+culture = culture_bloodmaul
+religion = religion_geomancy
+
+hre = no
+trade_goods = army_supplies
+
+617.1.1 = {
+owner = F77
+controller = F77
+add_core = F77
+add_core = A53
+}
+
+625.1.1 = {
+trade_goods = ale
+}

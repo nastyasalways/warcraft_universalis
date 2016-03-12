@@ -1,0 +1,30 @@
+# Glintrok Saurok
+government 			= warband_gov
+mercantilism 		= 0.1
+technology_group 	= tech_primitive
+religion			= religion_voodoo
+primary_culture 	= culture_glintrok
+capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Lizgron" 
+     dynasty = "Glintrok" 
+		adm = 3
+		dip = 2
+		mil = 3
+ 	} 
+ } 
+
+ 592.1.1 = { 
+monarch = { 
+     name = "Gekkan" 
+     dynasty = "Twitcheel" 
+		adm = 3
+		dip = 2
+		mil = 3
+ 	} 
+ } 
+
+
+ 

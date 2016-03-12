@@ -1,0 +1,46 @@
+# 962 Purgation Isle
+is_city = yes
+
+add_core = A14
+owner = A14
+controller = A14
+
+base_tax = 2
+base_manpower = 3
+base_production = 3
+
+culture = culture_kul_tiran
+religion = religion_church_of_the_light
+
+hre = no 
+trade_goods = naval_supplies
+
+
+
+
+# Rise of the Qiraj
+622.1.1 = { 
+owner = E51
+controller = E51
+add_core = E51
+capital = "Torn Fin Wreck"
+culture = culture_nerglish
+religion = religion_old_gods
+base_tax = 1
+base_manpower = 2
+base_production = 1
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = F53
+controller = F53
+add_core = F53
+add_core = A29
+remove_core = E51
+culture = culture_gilnean_worgen
+religion = religion_church_of_the_light
+capital = "Bloodfang Camp" 
+base_tax = 2
+base_production = 2
+}

@@ -1,336 +1,422 @@
 monarch_power = DIP
 
-# applied when a country is ahead of time in this technology
 ahead_of_time = {
-	trade_efficiency = 0.2
+	trade_efficiency 		= 0.2
 }
 
-# Pre-era techs
+# 0
 technology = {
-	# Tech 0
-	year = 1350
-	
-	naval_maintenance		=	0.1
-	naval_morale			=	2.0
-	range					=	60
-
-}
-
-technology = {
-	# Tech 1
-	year = 1390
+	year = 545
 	
 	merchants = yes
-	trade_range				=	100
-	global_colonial_growth	= 	10
-}
-
-technology = {
-	# Tech 2
-	year = 1420
-	
-	
-	enable = barque
-	trade_range				=	100
-	enable = cog
-	enable = galley
-}
-
-# The 30 big techs from here on
-
-technology = {
-	# Tech 3
-	year = 1440
-
-	naval_morale			=	0.1
-	naval_maintenance		= 	0.1
-	range					= 	100
-	trade_efficiency 		= 	0.1
-	global_colonial_growth	= 	15
-	
-	enable = early_carrack
-
-}
-
-technology = {
-	# Tech 4
-	year = 1453
 		
-	trade_range	= 10
-
-	marketplace = yes 
-	dock = yes
+	naval_maintenance		=	0.1
+	naval_morale			=	2.0
+	range					=	450
+	trade_range				=	450
+	global_colonial_growth	= 	5
+	
+	enable = w_cog
+	enable = w_galley
+	enable = w_barque
+	enable = w_carrack 
 }
 
+# 1
 technology = {
-	# Tech 5
-	year = 1466
+	year = 550
 	
-	trade_efficiency 		= 	0.1
-	trade_range				=	20
+	naval_morale			= 0.5
+	naval_maintenance		= 0.1
 }
 
+# 2
 technology = {
-	# Tech 6
-	year = 1479
+	year = 555
 	
-	embassy = yes
-
+	trade_range				= 50
+	range					= 50
+	global_colonial_growth	= 10
 }
 
+# 3
 technology = {
-	# Tech 7
-	year = 1492
+	year = 560
 	
-	naval_morale			=	0.3
-	range					= 	115
-	
+	trade_efficiency 		= 0.05
 }
 
-technology  = {
-	# Tech 8
-	year = 1505
-	
-
-	trade_range				=	10
-	trade_depot = yes 
-	drydock = yes 
-}
-
+# 4
 technology = {
-	# Tech 9
-	year = 1518
+	year = 565
 	
-	naval_morale			=	0.2
-	naval_maintenance		= 	0.2	
-	range					=	50
-	
-	enable = carrack
-	enable = caravel
-	
+	# building
 }
 
+# 5
 technology = {
-	# Tech 10
-	year = 1531
+	year = 570
 	
-	trade_efficiency		= 	0.1
-	trade_range				=	20
-	global_colonial_growth  = 	10
-	enable = flute
-	enable = war_galley
+	naval_morale			= 0.5
+	naval_maintenance		= 0.1
 }
 
+# 6
 technology = {
-	# Tech 11
-	year = 1544
+	year = 575
 	
-	range					= 	100
-
-	canal = yes
-	shipyard = yes
+	trade_range				= 100
+	range					= 100
+	global_colonial_growth	= 15
 }
 
+# 7
 technology = {
-	# Tech 12
-	year = 1557
+	year = 580
 	
-	wharf = yes
-	tradecompany = yes
+	trade_efficiency 		= 0.05
 }
 
+# 8
 technology = {
-	# Tech 13
-	year = 1570
+	year = 585
 	
-	grand_shipyard = yes 
-	road_network = yes
+	# building
 }
 
+# 9
 technology = {
-	# Tech 14
-	year = 1583
+	year = 590
 	
-	enable = galleass
-	enable = brig
+	naval_morale			= 0.5
+	naval_maintenance		= 0.1
 }
 
+# 10
 technology = {
-	# Tech 15
-	year = 1596
+	year = 595
 	
-	naval_morale			=	0.4
-	naval_maintenance		= 	0.2	
-	range					=	50
-	global_colonial_growth  = 	15
-	
-	enable = galleon
-	enable = early_frigate
+	trade_range				= 100
+	range					= 100
+	global_colonial_growth	= 15
 }
 
+# 11
 technology = {
-	# Tech 16
-	year = 1609
+	year = 600
 	
-	trade_efficiency 		= 	0.1
-	trade_range				=	20
-
-	post_office = yes
-	naval_arsenal = yes
+	trade_efficiency 		= 0.05
 }
 
+# 12
 technology = {
-	# Tech 17
-	year = 1622
+	year = 605
 	
-	trade_efficiency 		= 	0.1
-	trade_range				=	20
-	range					=	50
-
-	enable = merchantman
-	enable = galiot
+	# building
 }
 
+# 13
 technology = {
-	# Tech 18
-	year = 1635
+	year = 610
 	
-	customs_house =	yes
-	naval_base = yes
-	
+	naval_morale			= 0.5
+	naval_maintenance		= 0.05
 }
 
+# 14
 technology = {
-	# Tech 19
-	year = 1648
+	year = 615
 	
-	naval_morale			=	0.5
-	naval_maintenance		= 	0.25	
-	range					=	50
-	
-	admiralty = yes
-	
-	enable = wargalleon
-	enable = frigate
+	trade_range				= 100
+	range					= 100
+	global_colonial_growth	= 15
 }
 
+# 15
 technology = {
-	# Tech 20
-	year = 1661
-	
-	refinery = yes
-	royal_palace = yes
+	year = 620
+
+	trade_efficiency 		= 0.05
 }
 
+# 16
 technology = {
-	# Tech 21
-	year = 1674
+	year = 625
 	
-	trade_efficiency 		= 	0.1
-	trade_range				=	20
-
-	enable = chebeck
+	# building
 }
 
+# 17
 technology = {
-	# Tech 22
-	year = 1687
+	year = 630
 	
-	naval_morale			=	0.5
-	naval_maintenance		= 	0.25
-	
-	allow_client_states = yes		
+	naval_morale			= 0.5
+	naval_maintenance		= 0.05
+}
 
+# 18
+technology = {
+	year = 635
+	
+	trade_range				= 100
+	range					= 100
+	global_colonial_growth	= 20
+}
+
+# 19
+technology = {
+	year = 640
+
+	trade_efficiency 		= 0.05
+}
+
+# 20
+technology = {
+	year = 645
+	
+	# building
+}
+
+# 21
+technology = {
+	year = 650
+	
+	naval_morale			= 0.5
+	naval_maintenance		= 0.05
+}
+
+# 22
+technology = {
+	year = 655
+	
+	trade_range				= 100
+	range					= 100
+	global_colonial_growth	= 20
+}
+
+# 23
+technology = {
+	year = 660
+	
+	trade_efficiency 		= 0.05
+}
+
+# 24
+technology = {
+	year = 665
+	
+	naval_morale			= 0.25
+	naval_maintenance		= 0.05
+}
+
+# 25
+technology = {
+	year = 670
+	
+	trade_range				= 200
+	range					= 200
+	global_colonial_growth	= 20
+}
+
+# 26
+technology = {
+	year = 675
+	
+	trade_efficiency 		= 0.05
+	
 	reduced_naval_attrition = yes
-	enable = twodecker
-	enable = trabakul
 }
 
+# 27
 technology = {
-	# Tech 23
-	year = 1700
+	year = 680
 	
-	global_colonial_growth  = 	25	
-	range					=	150
-	
-	enable = heavy_frigate
+	naval_morale			= 0.25
+	naval_maintenance		= 0.05
 }
 
+# 28
 technology = {
-	# Tech 24
-	year = 1715
+	year = 685
 	
-	trade_efficiency 		= 	0.1
-	trade_range				=	20
-	enable = archipelago_frigate
+	trade_range				= 200
+	range					= 200
+	global_colonial_growth	= 20
 }
 
+# 29
 technology = {
-	# Tech 25
-	year = 1730
+	year = 690
 	
-	naval_morale			=	0.5
-	naval_maintenance		= 	0.25
+	trade_efficiency 		= 0.05
 	
-	enable = threedecker
+	allow_client_states = yes	
 }
 
+# 30
 technology = {
-	# Tech 26
-	year = 1745
+	year = 695
 	
-	range					=	200
-	global_colonial_growth  = 	25
-	
-	enable = eastindiaman
-	enable = great_frigate
+	naval_morale			= 0.25
+	naval_maintenance		= 0.05
 }
 
+# 31
 technology = {
-	# Tech 27
-	year = 1760
+	year = 700
 	
-	naval_morale			=	0.5
-	naval_maintenance		= 	0.25
+	trade_range				= 200
+	range					= 200
+	global_colonial_growth	= 20
 }
 
+# 32
 technology = {
-	# Tech 28
-	year = 1775
+	year = 705
 	
-	trade_efficiency 		= 	0.1
-	trade_range				=	20
+	trade_efficiency 		= 0.1
 }
 
+# 33
 technology = {
-	# Tech 29
-	year = 1790
+	year = 710
 	
-	naval_morale			=	0.5
-	naval_maintenance		= 	0.25
+	naval_morale			= 0.25
+	naval_maintenance		= 0.05
 }
 
+# 34
 technology = {
-	# Tech 30
-	year = 1805
+	year = 715
 	
-	trade_efficiency 		= 	0.1
-	trade_range				=	20
+	trade_range				= 200
+	range					= 200
+	global_colonial_growth	= 20
 }
 
+# 35
 technology = {
-	# Tech 31
-	year = 1820
+	year = 720
 	
-	naval_morale			=	0.5
-	naval_maintenance		= 	0.25	
+	trade_efficiency 		= 0.1
 }
 
+# 36
 technology = {
-	# Tech 32
-	year = 1835
+	year = 725
 	
-	trade_efficiency 		= 	0.1
-	trade_range				=	20
-	global_colonial_growth  = 	50
+	naval_morale			= 0.5
+	naval_maintenance		= 0.05
+}
+
+# 37
+technology = {
+	year = 730
+	
+	trade_range				= 200
+	range					= 200
+	global_colonial_growth	= 20
+}
+
+# 38
+technology = {
+	year = 735
+	
+	trade_efficiency 		= 0.1
+}
+
+# 39
+technology = {
+	year = 740
+	
+	naval_morale			= 0.5
+	naval_maintenance		= 0.05
+}
+
+# 40
+technology = {
+	year = 745
+	
+	trade_range				= 200
+	range					= 200
+	global_colonial_growth	= 25
+}
+
+# 41
+technology = {
+	year = 750
+	
+	trade_efficiency 		= 0.1
+}
+
+# 42
+technology = {
+	year = 755
+	
+	naval_morale			= 1.0
+	naval_maintenance		= 0.05
+}
+
+# 43
+technology = {
+	year = 760
+	
+	trade_range				= 200
+	range					= 200
+	global_colonial_growth	= 25
+}
+
+# 44
+technology = {
+	year = 765
+	
+	trade_efficiency 		= 0.1
+}
+
+# 45
+technology = {
+	year = 770
+	
+	naval_morale			= 1.0
+	naval_maintenance		= 0.05
+}
+
+# 46
+technology = {
+	year = 775
+	
+	trade_range				= 300
+	range					= 300
+	global_colonial_growth	= 25
+}
+
+# 47
+technology = {
+	year = 780
+	
+	trade_efficiency 		= 0.1
+}
+
+# 48
+technology = {
+	year = 785
+	
+	naval_morale			= 1.0
+	naval_maintenance		= 0.05
+}
+
+# 49
+technology = {
+	year = 790
+	
+	trade_range				= 300
+	range					= 300
+	global_colonial_growth	= 25
+}
+
+# 50
+technology = {
+	year = 795
+	
+	
 }

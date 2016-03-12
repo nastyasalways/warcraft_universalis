@@ -1,0 +1,31 @@
+# 1859
+is_city = yes
+
+owner = E43
+controller = E43
+add_core = E43
+
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_bataari
+religion = religion_fire
+
+hre = no
+trade_goods = oil
+
+
+
+
+632.1.1 = {
+owner = E37
+controller = E37
+add_core = E37
+remove_core = E43
+culture = culture_shado_pan
+religion = religion_celestial
+}
+

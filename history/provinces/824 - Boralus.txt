@@ -1,0 +1,22 @@
+# 824 Boralus
+is_city = yes
+
+add_core = A14
+owner = A14
+controller = A14
+
+base_tax = 8
+base_manpower = 8
+base_production = 8
+ 
+culture = culture_kul_tiran
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = naval_supplies
+
+
+
+
+
+

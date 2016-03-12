@@ -1,12 +1,12 @@
 # Syndicate
-government 		= feudal_monarchy
+government 			= criminal_organisation
 mercantilism 		= 0.1
 technology_group 	= tech_human
 religion			= religion_church_of_the_light
 primary_culture 	= culture_alterac
 capital 			= 756
 
-617.1.1 = { 
+600.1.1 = { 
 monarch = { 
      name = "Aiden" 
      dynasty = "Perenolde" 
@@ -16,7 +16,7 @@ monarch = {
  	} 
  } 
  
- 622.1.1 = { 
+ 617.1.1 = { 
 monarch = { 
      name = "Aliden" 
      dynasty = "Perenolde" 
@@ -24,5 +24,4 @@ monarch = {
 		dip = 3
 		mil = 4 
  	} 
- 	government = noble_republic
  } 

@@ -1,0 +1,32 @@
+# 1662
+is_city = yes
+
+base_tax = 5
+base_manpower = 5
+base_production = 5
+
+
+culture = culture_moarg
+religion = religion_fel
+
+hre = no
+trade_goods = workshops
+
+
+
+
+# The Third War
+617.1.1 = {
+owner = B89
+controller = B89
+add_core =  B89
+}
+
+# Rise of the Qiraji
+622.1.1 = {
+owner = B92
+controller = B92
+add_core =  B92
+remove_core = B89
+}
+

@@ -1,0 +1,29 @@
+# 839 Brewnall Village
+is_city = yes
+
+add_core = A32
+owner = A32
+controller = A32
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+culture = culture_gnome
+religion = religion_tech
+
+hre = no
+trade_goods = ale
+
+
+
+
+# Rise of the Qiraji
+622.1.1 = {
+add_core = A29
+owner = A29
+controller = A29
+culture = culture_ironforge
+religion = religion_church_of_the_light
+base_manpower = 3
+}

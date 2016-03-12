@@ -1,0 +1,36 @@
+# 1818
+is_city = yes
+
+owner = F02
+controller = F02
+add_core = F02
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+culture = culture_golden_lotus
+religion = religion_celestial
+
+hre = no
+trade_goods = army_supplies
+
+
+
+
+632.1.1 = { 
+owner = E42
+controller = E42
+add_core = E42
+culture = culture_shao_tien
+religion = religion_titan
+}
+
+# Warlords of Draenor
+633.1.1 = { 
+owner = XXX
+controller = XXX
+religion = religion_old_gods
+}
+
+

@@ -1,0 +1,48 @@
+#1011 Havenshire
+is_city = yes 
+
+add_core = A08
+owner = A08
+controller = A08
+capital = "Havenshire"
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = grain
+
+
+
+
+# The Third War
+618.1.1 = { 
+add_claim = E52
+}
+
+# The Frozen Throne
+618.1.1 = { 
+add_core = E62
+owner = E62
+controller = E62
+remove_core = A08
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+add_core = A22
+add_core = F18
+owner = A22
+controller = A22
+religion = religion_scarlet_light 
+}
+
+626.1.1 = { 
+owner = XXX
+controller = XXX
+add_core = F18 
+}

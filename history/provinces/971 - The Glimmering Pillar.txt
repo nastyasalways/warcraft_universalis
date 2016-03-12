@@ -1,0 +1,21 @@
+# 971
+is_city = no
+
+owner = B52
+controller = B52
+add_core = B52
+
+base_tax = 5
+base_manpower = 5
+base_production = 5
+
+
+culture = culture_mistwhisper
+religion = religion_titan
+
+hre = no
+trade_goods = grain
+
+
+
+

@@ -1,0 +1,22 @@
+# 951
+is_city = no
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_icemist
+religion = religion_ancestral
+
+hre = no
+trade_goods = grain
+
+
+
+
+626.1.1 = { 
+owner = H07
+add_core = H07
+culture = culture_horde
+religion = religion_ancestral }

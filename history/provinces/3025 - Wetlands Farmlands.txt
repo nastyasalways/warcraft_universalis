@@ -1,0 +1,19 @@
+# 3025 Wetlands Farmlands
+is_city = yes
+
+base_tax = 2
+base_manpower = 2
+base_production = 3
+
+add_core = A29
+owner = A29
+controller = A29
+
+culture = culture_ironforge
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = grain
+
+
+

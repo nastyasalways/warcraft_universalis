@@ -1,7 +1,17 @@
 # Bloodspore
-government 		= despotic_monarchy
-mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+government 			= war_tribe
+mercantilism 		= 0.1 
+technology_group 	= tech_kobold
+religion			= religion_geomancy
+primary_culture 	= culture_bloodspore
+capital 			= 2122
+
+546.1.1 = { 
+	monarch = { 
+		name = "Gammothra the Tormentor" 
+		dynasty = "Bloodspore" 
+		adm = 1
+		dip = 1
+		mil = 5
+	} 
+} 

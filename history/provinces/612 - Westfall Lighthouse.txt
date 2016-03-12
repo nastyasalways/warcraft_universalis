@@ -1,0 +1,35 @@
+# 612
+is_city = yes
+add_core = A02
+owner = A02
+controller = A02
+
+base_tax = 2
+base_manpower = 1
+base_production = 2
+
+
+culture = culture_azerothian
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = naval_supplies
+
+
+
+
+# Fall of Stormwind
+597.1.1 = { owner = A43
+controller = A43
+add_core = A43
+culture = culture_twilights_hammer
+religion = religion_fel }
+
+# Beyond the Dark Portal
+600.1.1 = {owner = F11
+controller = F11
+add_core = F11
+remove_core = A43
+culture = culture_nerglish
+religion = religion_old_gods}
+

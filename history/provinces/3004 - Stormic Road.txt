@@ -1,0 +1,25 @@
+# 3004 Stormic Road
+is_city = yes
+
+base_tax = 2
+base_manpower = 1
+base_production = 1
+
+add_core = A16
+owner = A16
+controller = A16
+
+culture = culture_arathi
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = fish
+
+
+
+
+# Cataclysm
+631.1.1 = { 
+	owner = XXX
+	controller = XXX
+}

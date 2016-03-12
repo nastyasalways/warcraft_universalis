@@ -1,0 +1,31 @@
+# 1873
+is_city = yes
+
+owner = E44
+controller = E44
+add_core = E44
+
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_ordo
+religion = religion_fire
+
+hre = no
+trade_goods = oil
+
+
+
+
+632.1.1 = {
+owner = E45
+controller = E45
+add_core = E45
+remove_core = E44
+culture = culture_osul
+}
+
+

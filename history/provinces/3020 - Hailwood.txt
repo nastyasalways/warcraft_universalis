@@ -1,0 +1,19 @@
+# 3020 Hailwood
+is_city = yes
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+add_core = A12
+owner = A12
+controller = A12
+
+culture = culture_gilnean
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = lumber
+
+
+

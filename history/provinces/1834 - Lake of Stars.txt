@@ -1,0 +1,21 @@
+# 1834
+is_city = yes
+
+owner = E86
+controller = E86
+add_core = E86
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_mistblade
+religion = religion_voodoo
+
+hre = no
+trade_goods = fish
+
+
+
+

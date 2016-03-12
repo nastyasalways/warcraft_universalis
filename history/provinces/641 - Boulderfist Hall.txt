@@ -1,0 +1,34 @@
+# 641 Thandol Valley
+is_city = yes
+add_core = A65
+owner = A65
+controller = A65
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+capital = "Smolderthorn Hold"
+
+ 
+culture = culture_smolderthorn
+religion = religion_loa
+ 
+hre = no 
+trade_goods = iron
+
+
+
+ 
+
+# Beyond the Dark Portal
+600.1.1 = { owner = A51
+controller = A51
+add_core = A51
+remove_core = A65
+culture = culture_boulderfist
+religion = religion_geomancy
+capital = "Boulderfist Hall" }
+
+

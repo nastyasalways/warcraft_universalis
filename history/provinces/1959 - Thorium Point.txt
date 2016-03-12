@@ -1,0 +1,22 @@
+# 1959
+
+is_city = yes
+
+owner = E56
+controller = E56
+add_core = E56
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_dark_iron
+religion = religion_arcane
+
+hre = no
+trade_goods = thorium
+
+
+
+

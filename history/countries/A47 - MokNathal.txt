@@ -1,7 +1,17 @@
 # MokNathal
-government 		= despotic_monarchy
+government 			= mercantile_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_orc
-religion			= noreligion
-primary_culture 	= noculture
+primary_culture 	= culture_mok_nathal
+religion			= religion_ancestral
 capital 			= 1
+
+617.1.1 = { 
+monarch = { 
+		name = "Leoroxx" 
+		dynasty = "Mok'Nathal"  
+		adm = 3
+		dip = 3
+		mil = 3
+ 	} 
+ } 

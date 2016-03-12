@@ -1,0 +1,33 @@
+# 599
+is_city = yes
+
+owner = E72
+controller = E72
+add_core = E72
+capital = "Wintergarde Village"
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = fish
+
+
+
+
+# The Third War
+617.1.1 = { 
+base_tax = 5
+base_manpower = 5
+base_production = 5
+capital = "Naxxramas"
+add_core = E11
+controller = E11
+owner = E11
+culture = culture_scourge
+religion = religion_the_damned }

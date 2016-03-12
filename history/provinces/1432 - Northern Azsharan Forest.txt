@@ -1,0 +1,31 @@
+# 1432
+is_city = no
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+
+culture = culture_timbermaw
+religion = religion_ancestral
+
+hre = no
+trade_goods = grain
+
+
+
+
+# Rise of the Qiraji
+622.1.1 = { 
+	owner = A48
+	controller = A48
+	add_core = A48 
+	culture = culture_horde
+	religion = religion_ancestral
+}
+# Cataclysm
+631.1.1 = { 
+owner = A79
+add_core = A79
+controller = A79
+}

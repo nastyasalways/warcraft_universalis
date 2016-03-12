@@ -1,0 +1,15 @@
+# 1704
+is_city = no
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_ghost
+religion = religion_light_of_the_naaru
+hre = no
+trade_goods = artifacts
+
+
+

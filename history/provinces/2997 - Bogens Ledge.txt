@@ -1,0 +1,27 @@
+# 2997 Bogens Ledge
+is_city = yes
+
+base_tax = 1
+base_manpower = 2
+base_production = 1
+
+add_core = A64
+owner = A64
+controller = A64
+
+culture = culture_witherbark
+religion = religion_loa
+
+hre = no
+trade_goods = fur
+
+
+
+
+# Cataclysm
+631.1.1 = {
+owner = XXX
+controller = XXX
+add_core = A60 
+culture = culture_vilebranch
+}

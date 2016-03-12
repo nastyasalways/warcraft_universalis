@@ -1,0 +1,41 @@
+#1927 Scarlet Tower
+is_city = yes 
+
+add_core = A08
+owner = A08
+controller = A08
+
+base_tax = 1
+base_manpower = 2
+base_production = 1
+
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = army_supplies
+ 
+
+
+
+# The Frozen Throne
+618.1.1 = { 
+add_core = F16
+owner = F16 
+controller = F16
+remove_core = A08
+}
+
+# War of Lordaeron (TFT)
+620.8.1 = {
+controller = E52
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+add_core = A22
+remove_core = F16
+religion = religion_scarlet_light
+controller = A22
+owner = A22 
+}

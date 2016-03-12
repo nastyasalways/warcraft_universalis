@@ -1,7 +1,19 @@
 # Huojin
-government 		= despotic_monarchy
+government 			= militaristic_order
+government_rank 	= 1
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_pandaren
+religion			= religion_celestial
+primary_culture 	= culture_huojin
 capital 			= 1
+
+632.1.1 = { 
+
+monarch = { 
+     name = "Ji" 
+     dynasty = "Firepaw" 
+		adm = 3
+		dip = 3
+		mil = 4
+ 	} 
+ } 

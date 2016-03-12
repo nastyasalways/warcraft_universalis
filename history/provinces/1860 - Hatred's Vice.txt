@@ -1,0 +1,40 @@
+# 1860
+is_city = yes
+
+owner = E48
+controller = E48
+add_core = E48
+capital = "Fire Camp Palewind"
+
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_palewind
+religion = religion_fire
+
+hre = no
+trade_goods = oil
+
+
+
+
+632.1.1 = {
+owner = B84
+controller = B84
+add_core = B84
+remove_core = E48
+religion = religion_old_gods
+culture = culture_sha
+}
+
+# Warlords of Draenor
+633.1.1 = { 
+owner = XXX
+controller = XXX
+remove_core = B84
+culture = culture_mantid
+}
+

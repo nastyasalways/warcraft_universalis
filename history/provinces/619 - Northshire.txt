@@ -1,0 +1,37 @@
+# 619 Northshire
+is_city = yes
+
+add_core = A05
+owner = A05
+controller = A05
+
+base_tax = 5
+base_manpower = 4
+base_production = 3
+
+culture = culture_azerothian
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = grain
+
+
+
+
+# Fall of Stormwind
+597.1.1 = { 
+owner = A44
+controller = A44
+add_core = A44
+culture = culture_burning_blade
+religion = religion_fel 
+}
+
+# Beyond the Dark Portal
+600.1.1 = {
+owner = A01
+controller = A01
+remove_core = A44
+culture = culture_azerothian
+religion = religion_church_of_the_light 
+}

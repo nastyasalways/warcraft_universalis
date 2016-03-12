@@ -1,0 +1,21 @@
+# 1917
+is_city = yes
+
+owner = E93
+controller = E93
+add_core = E93
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_grummle
+religion = religion_celestial
+
+hre = no
+trade_goods = smugglers
+
+
+
+

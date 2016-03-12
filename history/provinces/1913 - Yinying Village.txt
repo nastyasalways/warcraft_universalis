@@ -1,0 +1,31 @@
+# 1913
+is_city = yes
+
+owner = E66
+controller = E66
+add_core = E66
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_white_tiger
+religion = religion_celestial
+
+hre = no
+trade_goods = fur
+
+
+
+
+632.1.1 = {
+owner = E90
+controller = E90
+add_core = E90
+culture = culture_yongqi
+religion = religion_fire
+trade_goods = oil
+}
+
+

@@ -1,0 +1,29 @@
+# 3002 Stromgarde Keep
+is_city = yes
+
+base_tax = 4
+base_manpower = 5
+base_production = 4
+
+add_core = A16
+owner = A16
+controller = A16
+
+culture = culture_arathi
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = army_supplies
+
+
+
+
+# Rise of the Qiraji
+622.1.1 = { 
+	owner = A26
+	controller = A26
+	add_core = A26
+	add_claim = A64
+	add_claim = A51 
+	culture = culture_alterac
+}

@@ -1,8 +1,9 @@
 # Dalaran
-government 		= magocracy_republic
+government 			= administrative_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_human
 religion			= religion_arcane
+secondary_religion = religion_church_of_the_light
 primary_culture 	= culture_dalaran
 capital 			= 863
 
@@ -16,25 +17,37 @@ monarch = {
  	} 
  } 
 
+618.1.1 = { 
+monarch = { 
+     name = "Ansirem"
+     dynasty = "Runeweaver" 
+		adm = 4
+		dip = 4
+		mil = 3
+ 	} 
+ } 
+
 622.1.1 = { 
 monarch = { 
      name = "Rhonin"
-     dynasty = "of Dalaran" 
+     dynasty = "Redhair" 
 		adm = 3
 		dip = 4
 		mil = 3
  	} 
  } 
 
-626.1.1 = { capital = 1 }
+626.1.1 = { 
+capital = 1 
+}
 
-631.1.1 = { 
+632.1.1 = { 
 monarch = { 
-     name = "Jaina"
-     dynasty = "Proudmoore" 
+    name = "Jaina"
+    dynasty = "Proudmoore" 
 		adm = 4
 		dip = 4
 		mil = 4
 		female = yes
- 	} 
- } 
+	} 
+} 

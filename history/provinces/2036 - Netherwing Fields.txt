@@ -1,0 +1,24 @@
+# 2036
+is_city = yes
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_netherwing
+religion = religion_arcane
+
+hre = no
+trade_goods = flying_mounts
+
+
+
+
+# The Third War
+617.1.1 = {
+owner = B05
+controller = B05
+add_core = B05
+}
+

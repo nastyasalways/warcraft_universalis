@@ -1,0 +1,17 @@
+# 314
+is_city = no
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+
+culture = noculture
+religion = noreligion
+
+hre = no
+trade_goods = grain
+
+
+
+

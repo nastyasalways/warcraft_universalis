@@ -1,0 +1,27 @@
+# 1918
+is_city = yes
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_grummle
+religion = religion_celestial
+
+hre = no
+trade_goods = fur
+
+
+
+
+632.1.1 = {
+owner = E89
+controller = E89
+add_core = E89
+culture = culture_ruqin
+religion = religion_fire
+trade_goods = oil
+}
+
+

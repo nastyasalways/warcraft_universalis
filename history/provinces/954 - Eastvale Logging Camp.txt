@@ -1,0 +1,40 @@
+# 954
+is_city = yes
+add_core = A01
+owner = A01
+controller = A01
+
+base_tax = 3
+base_manpower = 2
+base_production = 3
+
+
+culture = culture_azerothian
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = lumber
+
+
+
+
+# Fall of Stormwind
+597.1.1 = { owner = A45
+controller = A45
+add_core = A45
+culture = culture_dragonmaw
+religion = religion_fel }
+
+# Beyond the Dark Portal
+600.1.1 = {owner = XXX
+controller = XXX
+culture = culture_azerothian
+religion = religion_church_of_the_light }
+
+616.11.11 = {owner = XXX
+controller = XXX }
+
+# The Third War
+617.1.1 = { owner = A01
+controller = A01
+remove_core = A45 }

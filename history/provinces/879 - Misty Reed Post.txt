@@ -1,0 +1,31 @@
+# 879
+is_city = yes
+
+owner = A72
+controller = A72
+add_core = A72
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+
+culture = culture_hakkari
+religion = religion_hakkari
+
+hre = no
+trade_goods = army_supplies
+
+
+
+
+# Rise of the Qiraji
+622.1.1 = { 
+owner = A48
+controller = A48
+add_core = A48
+culture = culture_horde
+religion = religion_ancestral
+remove_core = A72
+}
+

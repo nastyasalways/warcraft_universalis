@@ -1,7 +1,7 @@
 # Searing Blade
-government 		= despotic_monarchy
+government 			= warband_gov
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_demonic
+religion			= religion_fel
+primary_culture 	= culture_searing_blade
 capital 			= 1

@@ -1,7 +1,27 @@
 # Moaki
-government 		= despotic_monarchy
+government 			= mercantile_tribe
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_tuskarr
+religion			= religion_ancestral
+primary_culture 	= culture_moa_ki
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Mumik" 
+     dynasty = "Moa'ki" 
+		adm = 3
+		dip = 3
+		mil = 2
+ 	} 
+ } 
+
+592.1.1 = { 
+monarch = { 
+     name = "Ko'nani" 
+     dynasty = "Moa'ki" 
+		adm = 3
+		dip = 3
+		mil = 2 
+ 	} 
+ } 

@@ -1,0 +1,52 @@
+# 2962 Pyrewood
+is_city = yes 
+
+add_core = A12
+owner = A12
+controller = A12
+
+base_tax = 2
+base_manpower = 2
+base_production = 3
+
+culture = culture_gilnean
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = cloth
+
+# Third War
+617.1.1 = {
+	owner = A08
+	controller = A08
+	add_core = A08
+	remove_core = A12
+}
+
+# The Frozen Throne
+618.1.1 = {
+	owner = A25
+	controller = A25
+	add_core = A25
+        remove_core = A08
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+	owner = F52
+	controller = F52
+	add_core = F52
+	add_core = E14
+}
+
+# Cataclysm
+631.1.1 = { 
+	owner = E14
+	controller = E14
+	culture = culture_forsaken
+	religion = religion_forgotten_shadow
+
+	base_tax = 1
+	base_manpower = 1
+	base_production = 1
+}

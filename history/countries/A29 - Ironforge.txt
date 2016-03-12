@@ -1,10 +1,10 @@
 # Ironforge
-government 		= constitutional_monarchy
+government 			= administrative_kingdom
 mercantilism 		= 0.1
-technology_group 	= tech_dwarf
+technology_group 	= tech_dwarven
 religion			= religion_church_of_the_light
-primary_culture 	= culture_bronzebeard
-capital 			= 1
+primary_culture 	= culture_ironforge
+capital 			= 941
 
 546.1.1 = { 
 monarch = { 
@@ -15,13 +15,22 @@ monarch = {
 		mil = 4
  	} 
  } 
- 
- 631.1.1 = { 
+
+631.1.1 = { 
 monarch = { 
-     name = "Dagran" 
-     dynasty = "Thaurissian" 
-		adm = 2
-		dip = 2
-		mil = 2
+     name = "Council of Three Hammers"  
+		adm = 3
+		dip = 3
+		mil = 4 
+           regent = yes
  	} 
- } 
+	heir = { 
+     name = "Dagran"  
+	 dynasty = "Bronzebeard-Thaurissan"  
+		birth_date = 629.1.1
+		adm = 3
+		dip = 3
+		mil = 4 
+ 	} 
+ }
+ 

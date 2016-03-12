@@ -1,0 +1,19 @@
+#806 Zul'Aman
+is_city = yes 
+
+add_core = A58
+owner = A58
+controller = A58
+
+base_tax = 8
+base_manpower = 8
+base_production = 8
+
+culture = culture_amani
+religion = religion_loa
+ 
+hre = no 
+trade_goods = artifacts
+
+
+ 

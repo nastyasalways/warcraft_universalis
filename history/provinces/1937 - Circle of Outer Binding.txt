@@ -1,0 +1,35 @@
+# 1937 Circle of Outer Binding
+
+is_city = yes
+add_core = A16
+owner = A16
+controller = A16
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+ 
+culture = culture_arathi
+religion = religion_church_of_the_light 
+ 
+hre = no 
+trade_goods = artifacts
+
+
+ 
+
+# The Third War
+617.1.1 = {
+owner = XXX
+controller = XXX
+}
+
+# The Frozen Throne
+618.1.1 = { 
+add_core = E28
+controller = E28
+owner = E28
+culture = culture_air
+religion = religion_air
+}

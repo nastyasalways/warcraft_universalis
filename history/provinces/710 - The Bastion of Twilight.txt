@@ -1,0 +1,38 @@
+# 710
+is_city = yes
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_n_zoth
+religion = religion_old_gods
+
+hre = no
+trade_goods = elementium
+
+
+
+
+# Cataclysm
+631.1.1 = { 
+owner = A43
+controller = A43
+add_core = A43
+culture = culture_twilight
+base_tax = 8
+base_manpower = 8
+base_production = 8
+}
+
+632.1.1 = { 
+owner = B83
+controller = B83
+add_core = B83
+remove_core = A43
+culture = culture_n_zoth
+base_tax = 6
+base_manpower = 6
+base_production = 6
+}

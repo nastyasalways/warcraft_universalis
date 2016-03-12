@@ -1,7 +1,18 @@
 # Kvaldir
-government 		= despotic_monarchy
+government 			= war_tribe
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_vrykul
+religion			= religion_ancestral
+primary_culture 	= culture_kvaldir
 capital 			= 1
+
+626.1.1 = { 
+monarch = { 
+     name = "Hrothgar" 
+	dynasty = "Kvaldir"
+		adm = 3
+		dip = 3
+		mil = 2 
+
+ 	} 
+ } 

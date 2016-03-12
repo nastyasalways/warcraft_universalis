@@ -1,7 +1,7 @@
 # Kingdom of a Thousand Maws
-government 		= despotic_monarchy
+government 			= cult_gov
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_old_god
+religion			= religion_old_gods
+primary_culture 	= culture_yogg_saron
 capital 			= 1

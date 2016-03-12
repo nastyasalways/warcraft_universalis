@@ -1,0 +1,63 @@
+# 2994 Dawning Square
+is_city = yes
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+add_core = A90
+owner = A90
+controller = A90
+
+culture = culture_high_elf
+religion = religion_arcane
+
+hre = no
+trade_goods = army_supplies
+
+
+
+
+# The Frozen Throne
+618.1.1 = {
+owner = F21
+controller = F21
+add_claim = A58
+add_core = F21
+culture = culture_scourge
+religion = religion_the_damned
+remove_core = A90 
+}
+
+
+622.1.1 = {
+remove_claim = A58
+}
+
+# The Burning Crusade
+625.1.1 = {
+owner = B92
+controller = B92
+add_core = B92
+culture = culture_doomguard
+religion = religion_fel
+}
+
+# Wrath of the Lich King
+626.1.1 = { 
+owner = A54
+controller = A54
+add_core = A54
+remove_core = B92
+culture = culture_blood_elf
+religion = religion_light_of_the_naaru
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = A91
+controller = A91
+add_core = A91
+remove_core = A54
+religion = religion_arcane
+}

@@ -1,7 +1,50 @@
 # Stratholme
-government 		= feudal_monarchy
+government			= administrative_kingdom
+government_rank		= 1
 mercantilism 		= 0.1
 technology_group 	= tech_human
 religion			= religion_church_of_the_light
 primary_culture 	= culture_lordaeron 
-capital 			= 1
+capital 			= 642
+
+546.1.1 = {
+	monarch = {
+		name = "Alexander" 
+		dynasty = "Rivendare" 
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+592.1.1 = { 
+	monarch = { 
+		name = "Alexander II" 
+		dynasty = "Rivendare" 
+		adm = 3
+		dip = 3
+		mil = 3
+ 	} 
+ }  
+
+617.1.1 = {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 0
+		mil = 0
+		dip = 1
+		regent = yes
+	}
+	heir = { 
+		name = "Aurius" 
+		dynasty = "Rivendare" 
+		birth_date = 600.1.1
+		adm = 3
+		dip = 3
+		mil = 4 
+ 	} 
+}
+
+618.1.1 = { # Fall of Stratholme
+	capital = 2975
+}

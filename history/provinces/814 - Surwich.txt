@@ -1,0 +1,56 @@
+# 814
+is_city = yes
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+
+culture = culture_gurubashi
+religion = religion_loa
+
+hre = no
+trade_goods = tropical_wood
+
+
+
+
+# First War
+592.1.1 = { 
+owner = A40
+controller = A40
+add_core = A40
+culture = culture_bleeding_hollow 
+religion = religion_fel 
+}
+
+# Beyond the Dark Portal
+600.1.1 = { 
+owner = XXX
+controller = XXX
+remove_core = A40
+}
+
+621.11.11 = { 
+owner = XXX
+controller = XXX
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+owner = B95
+controller = B95
+add_core = B95
+culture = culture_moarg
+religion = religion_fel
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = A12
+controller = A12
+add_core = A12
+culture = culture_gilnean_worgen
+religion = religion_druidic 
+}

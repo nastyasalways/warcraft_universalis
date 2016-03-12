@@ -1,0 +1,18 @@
+# 1833
+is_city = yes
+
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+
+culture = culture_bog_beast
+religion = religion_shadow
+
+hre = no
+trade_goods = ghost_iron
+
+
+
+

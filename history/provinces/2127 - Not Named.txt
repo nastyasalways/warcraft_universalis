@@ -1,0 +1,23 @@
+# 2127
+is_city = yes
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+culture = culture_revenant
+religion = religion_air
+
+hre = no
+trade_goods = grain
+
+
+
+
+
+626.1.1 = { 
+	owner = H07
+	add_core = H07
+	culture = culture_horde
+	religion = religion_ancestral 
+}

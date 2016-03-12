@@ -1,0 +1,19 @@
+# 3013 Coppertoon
+is_city = yes
+
+base_tax = 4
+base_manpower = 3
+base_production = 3
+
+add_core = A14
+owner = A14
+controller = A14
+
+culture = culture_kul_tiran
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = copper
+
+
+

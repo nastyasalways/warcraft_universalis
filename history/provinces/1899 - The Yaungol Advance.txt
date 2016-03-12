@@ -1,0 +1,28 @@
+# 1899
+is_city = yes
+
+base_tax = 3
+base_manpower = 2
+base_production = 3
+
+
+culture = culture_grummle
+religion = religion_celestial
+
+hre = no
+trade_goods = mounts
+
+
+
+
+632.1.1 = {
+owner = E43
+controller = E43
+add_core = E43
+base_manpower = 3
+culture = culture_bataari
+religion = religion_fire
+trade_goods = oil
+capital = "Fire Camp Bataar"
+}
+

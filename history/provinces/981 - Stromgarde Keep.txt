@@ -1,0 +1,31 @@
+# 981 Arathor Square
+is_city = yes
+
+add_core = A16
+owner = A16
+controller = A16
+
+base_tax = 4
+base_manpower = 3
+base_production = 3
+
+capital = "Stromgarde Marketplace"
+
+culture = culture_arathi
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = silk
+
+
+ 
+
+# Rise of the Qiraji
+622.1.1 = { 
+	owner = A64
+	controller = A64
+	add_claim = A26
+	add_core = A64
+	culture = culture_witherbark
+        religion = religion_loa
+}

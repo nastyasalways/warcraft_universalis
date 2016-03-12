@@ -1,0 +1,25 @@
+# 2042
+is_city = yes
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_horde
+religion = religion_fel
+
+hre = no
+trade_goods = artifacts
+
+
+
+
+# The Third War
+617.1.1 = {
+owner = B88
+controller = B88
+add_core =  B88
+}
+
+

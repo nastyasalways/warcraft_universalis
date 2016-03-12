@@ -1,0 +1,37 @@
+# 1988 Dreadmaul Rock
+is_city = yes
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+owner = E26
+controller = E26
+add_core = E26
+add_core = A30
+
+culture = culture_fire
+religion = religion_fire
+
+hre = no
+trade_goods = dark_iron
+
+
+
+
+# Fall of Stormwind
+597.1.1 = {
+owner = E98
+controller = E98
+add_core = E98
+add_core = E99
+culture = culture_firegut
+religion = religion_geomancy
+}
+
+# Beyond the Dark Portal
+600.1.1 = {
+owner = E99
+controller = E99
+remove_core = E98
+}

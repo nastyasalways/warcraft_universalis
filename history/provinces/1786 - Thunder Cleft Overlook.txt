@@ -1,0 +1,21 @@
+# 1786
+is_city = yes
+
+owner = E76
+controller = E76
+add_core = E76
+
+base_tax = 2
+base_manpower = 3
+base_production = 2
+
+
+culture = culture_glintrok
+religion = religion_voodoo
+
+hre = no
+trade_goods = fur
+
+
+
+

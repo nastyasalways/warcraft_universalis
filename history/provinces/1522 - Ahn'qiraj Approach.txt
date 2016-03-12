@@ -1,0 +1,20 @@
+# 1522 Ahn'qiraj Approach
+is_city = yes
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+owner = A98
+controller = A98
+add_core = A98
+
+culture = culture_silithid
+religion = religion_old_gods
+
+hre = no
+trade_goods = grain
+
+
+
+

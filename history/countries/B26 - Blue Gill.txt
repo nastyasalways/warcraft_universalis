@@ -1,7 +1,17 @@
 # Blue Gill
-government 		= despotic_monarchy
+government 			= war_tribe
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_depths
+religion			= religion_old_gods
+primary_culture 	= culture_nerglish
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Murkeye" 
+     dynasty = "Bluegill" 
+		adm = 3
+		dip = 4
+		mil = 3
+ 	} 
+ } 

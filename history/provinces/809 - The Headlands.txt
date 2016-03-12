@@ -1,0 +1,38 @@
+# 809 The Headlands
+is_city = yes
+
+add_core = A12
+owner = A12
+controller = A12
+
+base_tax = 3
+base_manpower = 2
+base_production = 3
+ 
+culture = culture_gilnean
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = fur
+
+
+
+
+# Cataclysm
+631.1.1 = { 
+controller = A48
+owner = A48
+add_core = A48
+culture = culture_horde
+religion = religion_ancestral
+
+}
+
+# Mists of Pandaria
+632.1.1 = { 
+controller = A12
+owner = A12
+remove_core = A48
+culture = culture_gilnean_worgen
+religion = religion_church_of_the_light
+}

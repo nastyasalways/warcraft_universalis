@@ -1,0 +1,21 @@
+# 1794
+is_city = yes
+
+owner = E84
+controller = E84
+add_core = E84
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_red_crane
+religion = religion_celestial
+
+hre = no
+trade_goods = grain_silo
+
+
+
+

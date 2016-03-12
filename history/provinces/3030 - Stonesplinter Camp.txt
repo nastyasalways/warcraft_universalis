@@ -1,0 +1,38 @@
+# 3030 Stonesplinter Camp
+is_city = yes
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+add_core = A29
+owner = A29
+controller = A29
+
+culture = culture_ironforge
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = grain
+
+
+
+
+# The Second War
+598.1.1 = { 
+owner = A40
+controller = A40
+add_core = A40
+culture = culture_bleeding_hollow 
+religion = religion_fel 
+}
+
+# Beyond the Dark Portal
+600.1.1 = {
+owner = E54
+controller = E54
+add_core = E54
+remove_core = A40
+culture = culture_trogg 
+religion = religion_geomancy
+}

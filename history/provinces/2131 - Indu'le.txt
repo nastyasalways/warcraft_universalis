@@ -1,0 +1,20 @@
+# 2131
+is_city = yes
+owner = B82
+controller = B82
+add_core = B82
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_moa_ki
+religion = religion_ancestral
+
+hre = no
+trade_goods = fish
+
+
+
+

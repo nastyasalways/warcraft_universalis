@@ -1,0 +1,21 @@
+# 1837
+is_city = yes
+
+owner = E85
+controller = E85
+add_core = E85
+
+base_tax = 3
+base_manpower = 4
+base_production = 3
+
+
+culture = culture_muckscale
+religion = religion_voodoo
+
+hre = no
+trade_goods = fish
+
+
+
+

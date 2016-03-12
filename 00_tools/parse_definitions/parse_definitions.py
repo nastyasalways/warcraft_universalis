@@ -34,6 +34,7 @@ with open( dropped_file ) as sourceFile:
 		if skip == True:	
 			string = line.split( ";" )
 			id = string[0]
+			print id
 			comment = string[5]
 			type = string[4]
 			

@@ -14,16 +14,14 @@
 # --------------------------------------------------------------
 
 # Restoration of recently broken PU
-cb_restore_personal_union = {
+cb_restore_personal_union = {	
+	valid_for_subject = no
 	
 	is_triggered_only = yes
 	months = 120
 	
 	prerequisites = {
-		OR = {
-			government = monarchy
-			government = dutch_republic
-		}
+		government = monarchy
 		is_revolution_target = no
 	}
 	
@@ -32,6 +30,7 @@ cb_restore_personal_union = {
 
 # Defected province
 cb_defection = {
+	valid_for_subject = no
 
 	is_triggered_only = yes
 	months = 12
@@ -41,6 +40,7 @@ cb_defection = {
 
 # Cancelled loan
 cb_loan_cancelled = {
+	valid_for_subject = no
 
 	is_triggered_only = yes
 	months = 12
@@ -50,6 +50,7 @@ cb_loan_cancelled = {
 
 # Hostile spy discovered
 cb_spy_discovered = {
+	valid_for_subject = no
 
 	is_triggered_only = yes
 	months = 12
@@ -59,6 +60,7 @@ cb_spy_discovered = {
 
 # Vassal that broke free
 cb_disloyal_vassal = {
+	valid_for_subject = no
 
 	is_triggered_only = yes
 	months = 120
@@ -68,6 +70,7 @@ cb_disloyal_vassal = {
 
 # A HRE prince has been annexed
 cb_hre_attacked = {
+	valid_for_subject = no
 
 	is_triggered_only = yes
 	months = 60
@@ -77,6 +80,7 @@ cb_hre_attacked = {
 
 # War of Honor
 cb_insult = {
+	valid_for_subject = no
 
 	is_triggered_only = yes
 	
@@ -87,6 +91,7 @@ cb_insult = {
 
 # Dishonored an alliance
 cb_dishonored_call = {
+	valid_for_subject = no
 
 	is_triggered_only = yes
 	months = 36
@@ -96,6 +101,7 @@ cb_dishonored_call = {
 
 # CB for vassalization missions
 cb_vassalize_mission = {
+	valid_for_subject = no
 	
 	is_triggered_only = yes
 	months = 120
@@ -105,6 +111,7 @@ cb_vassalize_mission = {
 
 # CB for fabricated claim on throne. (from events)
 cb_fabricated_claims = {
+	valid_for_subject = no
 	
 	is_triggered_only = yes
 	months = 12
@@ -114,6 +121,7 @@ cb_fabricated_claims = {
 
 # CB for Emperor against HRE members that refuse religious conformance
 cb_religious_conformance = {
+	valid_for_subject = no
 	
 	is_triggered_only = yes
 	months = 24
@@ -123,6 +131,7 @@ cb_religious_conformance = {
 
 # Friction along a border
 cb_border_war = {
+	valid_for_subject = no
 
 	is_triggered_only = yes
 	months = 12
@@ -132,6 +141,8 @@ cb_border_war = {
 
 # Trade War (from events and others)
 cb_trade_war_triggered = {
+	valid_for_subject = no
+
 	is_triggered_only = yes
 	months = 24
 
@@ -139,6 +150,8 @@ cb_trade_war_triggered = {
 }
 
 cb_trade_conflict = {
+	valid_for_subject = no
+
 	is_triggered_only = yes
 	months = 24
 
@@ -146,6 +159,8 @@ cb_trade_conflict = {
 }
 
 cb_annex = {
+	valid_for_subject = no
+
 	is_triggered_only = yes
 	months = 24
 
@@ -153,6 +168,8 @@ cb_annex = {
 }
 
 cb_change_government = {
+	valid_for_subject = no
+
 	is_triggered_only = yes
 	months = 120
 
@@ -161,27 +178,6 @@ cb_change_government = {
 
 # AUTOMATIC - Constantly in effect while 'prerequisites' is true
 # --------------------------------------------------------------
-
-# One OPM can try to humiliate another OPM.
-cb_humiliate = {
-	valid_for_subject = no
-	
-	prerequisites = {
-		has_dlc = "Conquest of Paradise"
-		government = native_council
-		NOT = {
-			truce_with = FROM
-			num_of_cities = 2
-			FROM = {
-				num_of_cities = 2
-			}
-		}
-		is_neighbor_of = FROM
-		is_revolution_target = no
-	}
-	
-	war_goal = humiliate	
-}
 
 # Temporary claim CB (mostly used by missions)
 cb_conquest = {
@@ -234,32 +230,6 @@ cb_colonial_independance_war = {
 	war_goal = defend_capital_independence
 }
 
-# Nationalism
-cb_nationalist = {
-	
-	prerequisites = {
-		dip_tech = 22
-		is_subject = no
-		culture_group_claim = FROM
-		is_revolution_target = no
-	}
-	
-	war_goal = take_province_nationalist
-}
-
-# Napoleonic era imperialism
-cb_imperial = {
-	valid_for_subject = no
-	
-	prerequisites = {
-		dip_tech = 22
-		is_subject = no
-		is_revolution_target = no
-	}
-	
-	war_goal = take_capital_imperial
-}
-
 # Colonialist CB
 cb_colonial = {
 	
@@ -288,7 +258,7 @@ cb_defender_of_the_faith = {
 	prerequisites = {
 		is_defender_of_faith = yes
 		is_neighbor_of = FROM
-		NOT = {	religion = FROM }
+		NOT = {	has_matching_religion = FROM }
 		cb_on_religious_enemies = yes
 		is_revolution_target = no
 		OR = {
@@ -309,8 +279,9 @@ cb_heretic = {
 		is_neighbor_of = FROM
 		cb_on_religious_enemies = yes
 		religion_group = from
-		NOT = { religion = from }
+		NOT = {	has_matching_religion = FROM }
 		OR = {
+			NOT = { has_dlc = "Art of War" }
 			hre_religion_treaty = no
 			capital_scope = { is_part_of_hre = no }
 			FROM = { capital_scope = { is_part_of_hre = no } }
@@ -467,4 +438,21 @@ cb_support_rebels = {
 	}
 	
 	war_goal = take_capital_support_rebels
+}
+
+# Force migration
+cb_force_migration = {
+
+	valid_for_subject = no
+	
+	prerequisites = {
+		has_dlc = "The Cossacks"
+		is_neighbor_of = FROM
+		is_subject = no
+		FROM = {
+			can_migrate = yes
+			is_subject = no
+		}
+	}	
+	war_goal = force_migration
 }

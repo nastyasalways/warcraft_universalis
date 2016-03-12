@@ -1,7 +1,24 @@
 # The Forsaken
-government 		= despotic_monarchy
+government 			= militaristic_kingdom
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+technology_group 	= tech_undead
+religion			= religion_forgotten_shadow
+primary_culture 	= culture_forsaken
+capital 			= 931
+
+
+618.1.1 = { 
+	monarch = { 
+		name = "Sylvannas" 
+		dynasty = "Windrunner" 
+		adm = 4
+		dip = 4
+		mil = 5
+        female = yes
+                
+	} 
+}
+
+620.6.1 = {
+capital = 543
+}

@@ -1,7 +1,17 @@
 # Bloodsail
-government 		= pirate_clan
+government 			= criminal_organisation
 mercantilism 		= 0.1
 technology_group 	= tech_human
 religion			= religion_church_of_the_light
 primary_culture 	= culture_kul_tiran
-capital 			= 1
+capital 			= 2165
+
+618.1.1 = {  
+monarch = {  
+      name = "Robert"  
+     dynasty = "Falrevere"  
+ 		adm = 3 
+		dip = 4
+		mil = 4 
+  	}  
+  }  

@@ -1,0 +1,22 @@
+# 1728
+is_city = yes
+
+owner = E91
+controller = E91
+add_core = E91
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_jade_serpent
+religion = religion_celestial
+
+
+hre = no
+trade_goods = fish
+
+
+
+

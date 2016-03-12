@@ -1,0 +1,59 @@
+# 702 Deep Elem Mine
+is_city = yes
+
+add_core = A12
+owner = A12
+controller = A12
+
+base_tax = 3
+base_manpower = 2
+base_production = 3
+ 
+culture = culture_gilnean
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = copper
+
+
+
+
+# The Third War
+617.1.1 = {
+add_core = A08
+owner = A08
+controller = A08
+remove_core = A12
+}
+
+# The Frozen Throne
+618.1.1 = {
+owner = A25
+controller = A25
+add_core = A25
+remove_core = A08
+}
+
+# Reconquest of Lordaeron (TFT)
+620.10.1 = {
+controller = E52
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+owner = A13
+controller = A13
+add_core = A13
+remove_core = A18
+culture = culture_gilnean_worgen
+religion = religion_shadow 
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = F53
+controller = F53
+add_core = F53
+remove_core = A13 
+religion = religion_church_of_the_light
+}

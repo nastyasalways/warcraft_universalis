@@ -1,0 +1,23 @@
+# 1613
+is_city = no
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_sporeling
+religion = religion_zangar
+
+hre = no
+trade_goods = glowcap
+
+617.1.1 = {
+owner = F62
+controller = F62
+add_core =  F62
+}
+
+
+
+

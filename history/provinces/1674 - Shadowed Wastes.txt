@@ -1,0 +1,31 @@
+# 1674 Invasion Point:Cataclysm
+is_city = yes
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_construct
+religion = religion_fel
+
+hre = no
+trade_goods = fel
+
+
+
+
+# The Third War
+617.1.1 = {
+owner = B89
+controller = B89
+add_core =  B89
+}
+
+# Rise of the Qiraji
+622.1.1 = {
+owner = B92
+controller = B92
+add_core =  B92
+remove_core = B89
+}

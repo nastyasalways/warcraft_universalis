@@ -1,5 +1,5 @@
 # Stormwind
-government 		= feudal_monarchy
+government 			= administrative_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_human 
 religion			= religion_church_of_the_light
@@ -7,56 +7,55 @@ primary_culture 	= culture_azerothian
 capital 			= 1
 
 546.1.1 = { 
-monarch = { 
-     name = "Adamant" 
-     dynasty = "Wyrnn" 
+	monarch = { 
+		name = "Adamant" 
+		dynasty = "Wyrnn" 
 		adm = 4
 		dip = 3
 		mil = 3 
  	} 
- } 
+} 
 
 592.1.1 = { 
-monarch = { 
-     name = "Llane" 
-     dynasty = "Wyrnn" 
+	monarch = { 
+		name = "Llane" 
+		dynasty = "Wyrnn" 
 		adm = 3
 		dip = 3
 		mil = 4 
  	} 
- } 
+} 
 
 598.1.1 = { 
-monarch = { 
-     name = "Varian" 
-     dynasty = "Wyrnn" 
+	monarch = { 
+		name = "Varian" 
+		dynasty = "Wyrnn" 
 		adm = 3
 		dip = 3
 		mil = 4 
  	}
  	capital = 991
- } 
+} 
  
- 617.1.1 { capital = 1 }
+617.1.1 = { capital = 1 }
  
- 622.1.1 = { 
-monarch = { 
-     name = "Anduin" 
-     dynasty = "Wyrnn" 
+622.1.1 = { 
+	monarch = { 
+		name = "Anduin" 
+		dynasty = "Wyrnn" 
 		adm = 2
 		dip = 3
 		mil = 1 
  	} 
- 	government 	= high_monarchy
- } 
+} 
  
- 626.1.1 = { 
-monarch = { 
-     name = "Varian" 
-     dynasty = "Wyrnn" 
+626.1.1 = { 
+	monarch = { 
+		name = "Varian" 
+		dynasty = "Wyrnn" 
 		adm = 3
 		dip = 3
 		mil = 4 
  	} 
- } 
+} 
  

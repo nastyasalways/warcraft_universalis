@@ -1,0 +1,27 @@
+# 885
+is_city = yes
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_nerglish
+religion = religion_old_gods
+
+hre = no
+trade_goods = fish
+
+
+
+
+# Cataclysm
+631.1.1 = { 
+owner = A80
+controller = A80
+add_core = A80
+culture = culture_steamwheedle
+religion = religion_tech
+trade_goods = workshops
+}
+

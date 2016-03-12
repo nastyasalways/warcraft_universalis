@@ -1,0 +1,20 @@
+# 698
+is_city = yes
+add_core = B04
+owner = B04
+controller = B04
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_green
+religion = religion_sect_of_dragons
+
+hre = no
+trade_goods = lumber
+
+
+
+

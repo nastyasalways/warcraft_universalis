@@ -1,0 +1,27 @@
+# 935
+is_city = yes
+owner = A77
+controller = A77
+add_core = A77
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_winterfang
+religion = religion_loa
+
+hre = no
+trade_goods = fish
+
+
+
+
+626.1.1 = { 
+add_core = F18
+owner = F18
+controller = F18
+remove_core = A77
+religion = religion_scarlet_light
+culture = culture_lordaeron }

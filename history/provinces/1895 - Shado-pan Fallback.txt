@@ -1,0 +1,21 @@
+# 1895
+is_city = yes
+
+owner = E37
+controller = E37
+add_core = E37
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_shado_pan
+religion = religion_celestial
+
+hre = no
+trade_goods = army_supplies
+
+
+
+

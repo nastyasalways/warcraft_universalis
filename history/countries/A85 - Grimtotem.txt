@@ -1,7 +1,28 @@
 # Grimtotem
-government 		= despotic_monarchy
+government 			= war_tribe
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+technology_group 	= tech_tauren
+religion			= religion_ancestral
+primary_culture 	= culture_grimtotem
+capital 			= 1583 #Not sure
+
+546.1.1 = { 
+	monarch = { 
+		name = "" 
+		dynasty = "Grimtotem" 
+		adm = 4
+		dip = 3
+		mil = 3 
+ 	} 
+} 
+
+617.1.1 = { 
+	monarch = { 
+		name = "Magatha" 
+		dynasty = "Grimtotem" 
+		adm = 4
+		dip = 4
+		mil = 5 
+		female = yes
+ 	} 
+} 

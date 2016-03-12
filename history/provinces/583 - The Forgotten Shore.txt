@@ -1,0 +1,40 @@
+# 583
+is_city = yes
+
+owner = E72
+controller = E72
+add_core = E72
+capital = "Wintergarde Village"
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = naval_supplies
+
+
+
+
+# The Third War
+617.1.1 = { 
+owner = F38
+controller = F38
+add_core = F38
+remove_core = E72
+culture = culture_lordaeron
+religion = religion_church_of_the_light }
+
+
+# The Frozen Throne
+618.1.1 = { 
+owner = B47
+controller = B47
+add_core = B47
+remove_core = F38
+culture = culture_bloodpaw
+religion = religion_ancestral }

@@ -1,0 +1,23 @@
+# 1650
+is_city = yes
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_boulderfist
+religion = religion_geomancy
+
+hre = no
+trade_goods = artifacts
+
+
+
+
+# The Third War
+617.1.1 = {
+owner = F50
+controller = F50
+add_core =  F50
+}

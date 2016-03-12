@@ -1,0 +1,34 @@
+# 1670
+is_city = yes
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_broken
+religion = religion_ancestral
+
+hre = no
+trade_goods = artifacts
+
+
+
+
+# The Third War
+617.1.1 = {
+owner = A57
+controller = A57
+add_core =  A57
+}
+
+# The Burning Crusade
+625.1.1 = {
+owner = A54
+controller = A54
+add_core =  A54
+culture = culture_shattrathi
+religion = religion_light_of_the_naaru
+}
+
+

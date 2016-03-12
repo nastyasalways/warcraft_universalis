@@ -1,0 +1,22 @@
+# 1647
+is_city = yes
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_bleeding_hollow
+religion = religion_ancestral
+
+hre = no
+trade_goods = artifacts
+
+625.1.1 = {
+owner = A50
+controller = A50
+add_core = A50
+culture = culture_horde
+}
+
+

@@ -1,0 +1,24 @@
+# 1656
+is_city = no
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_shattrathi
+religion = religion_light_of_the_naaru
+
+hre = no
+trade_goods = crypts
+
+
+
+
+# The Burning Crusade
+625.1.1 = {
+owner = A54
+controller = A54
+add_core =  A54
+}
+

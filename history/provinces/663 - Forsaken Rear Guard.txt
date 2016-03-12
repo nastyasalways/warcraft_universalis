@@ -1,0 +1,51 @@
+# 663 Forsaken Read Guard
+is_city = yes 
+
+add_core = A08
+owner = A08
+controller = A08
+capital = "Tiderun Field"
+
+base_tax = 2
+base_manpower = 2
+base_production = 3
+ 
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = grain
+
+
+
+
+# The Frozen Throne
+618.1.1 = { 
+owner = E52 
+controller = E52
+add_core = E52
+religion = religion_the_damned
+culture = culture_scourge 
+remove_core = A08
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+owner = B19
+controller = B19
+add_core = B19
+culture = culture_rothide
+religion = religion_the_damned
+capital = "The Dead Field" 
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = E14
+controller = E14
+add_core = E14
+remove_core = B19
+culture = culture_forsaken
+religion = religion_forgotten_shadow
+capital = "Forsaken Rear Guard" 
+}

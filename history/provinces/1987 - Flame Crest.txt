@@ -1,0 +1,43 @@
+# 1987 Flame Crest
+is_city = yes
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+owner = E26
+controller = E26
+add_core = E26
+add_core = A30
+
+culture = culture_fire
+religion = religion_fire
+
+hre = no
+trade_goods = army_supplies
+
+
+
+
+# Fall of Stormwind
+597.1.1 = { 
+owner = E98
+controller = E98
+add_core = E98
+culture = culture_blackrock
+religion = religion_fel 
+}
+
+# Beyond the Dark Portal
+600.1.1 = { 
+owner = XXX
+controller = XXX
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+owner = A48
+controller = A48
+add_core = A48
+religion = religion_ancestral 
+}

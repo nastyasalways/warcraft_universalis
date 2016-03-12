@@ -1,0 +1,29 @@
+# 2184
+is_city = yes
+
+owner = B29
+controller = B29
+add_core = B29
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+culture = culture_nerglish
+religion = religion_old_gods
+
+hre = no
+trade_goods = fish
+
+
+
+
+# Cataclysm
+631.1.1 = { 
+	owner = A80
+	controller = A80
+	add_core = A80
+	remove_core = B29
+	culture = culture_steamwheedle
+	religion = religion_tech
+}

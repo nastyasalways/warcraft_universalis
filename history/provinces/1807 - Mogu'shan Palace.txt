@@ -1,0 +1,27 @@
+# 1807
+is_city = yes
+
+owner = E42
+controller = E42
+add_core = E42
+
+base_tax = 6
+base_manpower = 6
+base_production = 6
+
+culture = culture_shao_tien
+religion = religion_titan
+
+hre = no
+trade_goods = artifacts
+
+
+
+
+# Warlords of Draenor
+633.1.1 = { owner = XXX
+controller = XXX
+religion = religion_old_gods
+}
+
+

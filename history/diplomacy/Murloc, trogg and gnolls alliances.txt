@@ -1,0 +1,53 @@
+############################
+### Khaz Modan Alliances ###
+############################
+### Bluegill
+# Bluegill - Mosshide
+alliance = {
+	first = B26
+	second = B13
+	start_date = 631.1.1
+	end_date = 632.1.1
+}
+
+# Bluegill - Tunnel Rat
+alliance = {
+	first = B26
+	second = E53
+	start_date = 631.1.1
+	end_date = 632.1.1
+}
+
+# Bluegill - Stonesplinter
+alliance = {
+	first = B26
+	second = E54
+	start_date = 631.1.1
+	end_date = 632.1.1
+}
+
+### Mosshide
+# Mosshide - Tunnel Rat
+alliance = {
+	first = B13
+	second = E53
+	start_date = 631.1.1
+	end_date = 632.1.1
+}
+
+# Mosshide - Stonesplinter
+alliance = {
+	first = B13
+	second = E54
+	start_date = 631.1.1
+	end_date = 632.1.1
+}
+
+### Tunnel Rat
+# Tunnel Rat - Stonesplinter
+alliance = {
+	first = E53
+	second = E54
+	start_date = 631.1.1
+	end_date = 632.1.1
+}

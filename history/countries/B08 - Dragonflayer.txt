@@ -1,7 +1,18 @@
 # Dragonflayer
-government 		= despotic_monarchy
+government 			= war_tribe
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+technology_group 	= tech_vrykul
+religion			= religion_the_damned
+primary_culture 	= culture_dragonflayer
+capital 		= 734
+
+626.1.1 = { 
+monarch = { 
+     name = "Ymiron" 
+	dynasty = "Dragonflayer"
+		adm = 2
+		dip = 2
+		mil = 4 
+
+ 	} 
+ } 

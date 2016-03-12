@@ -1,0 +1,20 @@
+# 1397
+is_city = no
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+owner = B21
+controller = B21
+add_core = B21
+
+culture = culture_gelkis
+religion = religion_ancestral
+
+hre = no
+trade_goods = grain
+
+
+
+

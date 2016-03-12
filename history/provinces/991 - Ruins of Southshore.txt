@@ -1,0 +1,59 @@
+# 991 Southshore
+is_city = yes
+
+add_core = A08
+owner = A08
+controller = A08
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = naval_supplies
+
+
+
+
+# Fall of Stormwind
+597.1.1 = { 
+owner = A01
+controller = A01
+add_core = A01
+culture = culture_azerothian 
+}
+
+# Beyond the Dark Portal
+600.1.1 = { 
+owner = A08
+controller = A08
+remove_core = A01
+culture = culture_lordaeron 
+}
+
+# The Frozen Throne
+618.1.1 = { 
+owner = A11
+controller = A11
+add_core = A11
+base_tax = 5
+base_manpower = 5
+base_production = 5
+remove_core = A08
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = E14
+controller = E14
+add_core = E14
+base_tax = 1
+base_manpower = 1
+base_production = 2
+capital = "Ruins of Southshore"
+culture = culture_forsaken
+religion = religion_forgotten_shadow 
+}

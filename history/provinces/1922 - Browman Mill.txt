@@ -1,0 +1,36 @@
+# 1922 Browman Mill
+is_city = yes
+add_core = A08
+owner = A08
+controller = A08
+
+base_tax = 1
+base_manpower = 2
+base_production = 2
+
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = lumber
+
+
+
+
+# The Frozen Throne
+618.1.1 = { 
+add_core = E52
+owner = E52
+controller = E52
+culture = culture_scourge
+religion = religion_the_damned 
+remove_core = A08
+}
+
+# Cataclysm
+631.1.1 = { 
+add_core = E12
+remove_core = E52
+owner = E12 
+controller = E12
+}

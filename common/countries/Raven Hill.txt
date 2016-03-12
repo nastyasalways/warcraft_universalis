@@ -1,0 +1,26 @@
+# Raven Hill
+
+graphical_culture = westerngfx
+
+color = { 136 187 219 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

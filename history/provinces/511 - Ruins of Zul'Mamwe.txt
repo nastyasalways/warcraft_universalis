@@ -1,0 +1,21 @@
+# 511
+is_city = yes
+
+owner = A69
+controller = A69
+add_core = A69
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_skullsplitter
+religion = religion_loa
+
+hre = no
+trade_goods = artifacts
+
+
+
+

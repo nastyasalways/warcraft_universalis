@@ -1,7 +1,29 @@
 # Palemane
-government 		= despotic_monarchy
+government 			= war_tribe
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_gnoll
+religion			= religion_ancestral
+primary_culture 	= culture_palemane
 capital 			= 1
+
+546.1.1 = { 
+	monarch = { 
+		name = "Whiteaxe" 
+		dynasty = "Palemane" 
+		adm = 3
+		dip = 3
+		mil = 3
+                
+	} 
+}
+
+600.1.1 = { 
+	monarch = { 
+		name = "Snagglespear" 
+		dynasty = "Palemane" 
+		adm = 3
+		dip = 3
+		mil = 3
+                
+	} 
+}

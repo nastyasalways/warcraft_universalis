@@ -1,0 +1,21 @@
+# 1737
+is_city = yes
+
+owner = E69
+controller = E69
+add_core = E69
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_forest_hozen
+religion = religion_celestial
+hre = no
+trade_goods = pirates
+
+
+
+
+

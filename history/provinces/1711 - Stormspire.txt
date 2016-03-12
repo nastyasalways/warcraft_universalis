@@ -1,0 +1,19 @@
+# 1711
+is_city = no
+
+base_tax = 5
+base_manpower = 4
+base_production = 5
+
+
+culture = culture_kareshi
+religion = religion_arcane
+
+hre = no
+trade_goods = grain
+
+617.1.1 = {
+owner = E18
+controller = E18
+add_core =  E18
+}

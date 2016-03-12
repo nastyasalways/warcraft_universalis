@@ -1,0 +1,17 @@
+# 1429
+is_city = no
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+
+culture = culture_ooze
+religion = religion_old_gods
+
+hre = no
+trade_goods = grain
+
+
+
+

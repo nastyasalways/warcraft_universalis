@@ -1,0 +1,21 @@
+# 1867
+is_city = yes
+
+owner = E64
+controller = E64
+add_core = E64
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_black_ox
+religion = religion_celestial
+
+hre = no
+trade_goods = artifacts
+
+
+
+

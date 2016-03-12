@@ -1,7 +1,27 @@
 # Deadtalker
-government 		= despotic_monarchy
+government 			= war_tribe
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_yaungol
+religion			= religion_shadow
+primary_culture 	= culture_deadtalker
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Urol" 
+     dynasty = "Deadtalker" 
+		adm = 3
+		dip = 3
+		mil = 3
+ 	} 
+ } 
+
+592.1.1 = { 
+monarch = { 
+     name = "Uruk" 
+     dynasty = "Deadtalker" 
+		adm = 3
+		dip = 3
+		mil = 3
+ 	} 
+ } 

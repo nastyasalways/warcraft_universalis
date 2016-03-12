@@ -1,7 +1,19 @@
 # Redridge
-government 		= despotic_monarchy
+government 			= war_tribe
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_gnoll
+religion			= religion_ancestral
+primary_culture 	= culture_redridge
 capital 			= 1
+
+
+546.1.1 = { 
+	monarch = { 
+		name = "Mazz" 
+		dynasty = "Redridge" 
+		adm = 3
+		dip = 3
+		mil = 3
+                
+	} 
+}

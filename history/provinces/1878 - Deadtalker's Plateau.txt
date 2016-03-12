@@ -1,0 +1,22 @@
+# 1878
+is_city = yes
+
+owner = E46
+controller = E46
+add_core = E46
+
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_deadtalker
+religion = religion_shadow
+
+hre = no
+trade_goods = oil
+
+
+
+

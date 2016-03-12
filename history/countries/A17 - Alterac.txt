@@ -1,10 +1,21 @@
 # Alterac
-government 		= feudal_monarchy
+government 			= administrative_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_human
 religion			= religion_church_of_the_light
 primary_culture 	= culture_alterac
 capital 			= 773
+
+546.1.1 = { 
+monarch = { 
+     name = "Alistair" 
+     dynasty = "Perenolde" 
+		adm = 2
+		dip = 2
+		mil = 3
+ 	} 
+ } 
+
 
 592.1.1 = { 
 monarch = { 

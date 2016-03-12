@@ -1,0 +1,31 @@
+#915 The Noxious Glade
+
+is_city = yes
+
+add_core = B12
+owner = B12
+controller = B12
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+culture = culture_blackpaw
+religion = religion_ancestral
+
+hre = no 
+trade_goods = lumber
+
+
+
+
+# The Third War
+617.1.1 = { add_core = E12
+controller = E12
+owner = E12
+remove_core = B12
+religion = religion_the_damned
+culture = culture_lordaeron }
+
+# Rise of the Qiraji
+622.1.1 = { culture = culture_cultist } 

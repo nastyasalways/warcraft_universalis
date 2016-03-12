@@ -1,0 +1,36 @@
+# 1801
+is_city = yes
+
+owner = E37
+controller = E37
+add_core = E37
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_jinyu
+religion = religion_celestial
+
+hre = no
+trade_goods = artifacts
+
+
+
+
+632.1.1 = {
+owner = B84
+controller = B84
+add_core = B84
+religion = religion_old_gods
+}
+
+# Warlords of Draenor
+633.1.1 = { 
+owner = XXX
+controller = XXX
+remove_core = B84
+remove_core = E37
+}
+

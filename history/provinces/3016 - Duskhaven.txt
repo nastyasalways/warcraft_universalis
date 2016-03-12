@@ -1,0 +1,37 @@
+# 3016 Duskhaven
+is_city = yes
+
+base_tax = 4
+base_manpower = 4
+base_production = 5
+
+add_core = A12
+owner = A12
+controller = A12
+
+culture = culture_gilnean
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = grain
+
+
+
+
+# Cataclysm
+631.1.1 = { 
+owner = E14
+controller = E14
+add_core = E14
+religion = religion_forgotten_shadow
+culture = culture_forsaken
+}
+
+# Mists of Pandaria
+632.1.1 = { 
+owner = XXX
+controller = XXX
+remove_core = E14
+culture = culture_gilnean_worgen
+religion = religion_church_of_the_light
+}

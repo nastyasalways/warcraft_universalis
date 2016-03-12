@@ -1,0 +1,27 @@
+# 546
+is_city = no
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+owner = B35
+controller = B35
+add_core = B35
+
+culture = culture_nerglish
+religion = religion_old_gods
+
+hre = no
+trade_goods = grain
+
+
+
+
+626.1.1 = { 
+add_core = H07
+controller = H07
+owner = H07
+culture = culture_forsaken
+religion = religion_forgotten_shadow 
+}

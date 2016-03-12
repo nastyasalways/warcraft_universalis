@@ -1,0 +1,39 @@
+# 581 Vermillion Forest
+is_city = yes
+
+add_core = B03
+owner = B03
+controller = B03
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_red
+religion = religion_sect_of_dragons
+
+hre = no
+trade_goods = flying_mounts
+
+
+
+
+# Cataclysm
+631.1.1 = { 
+owner = A99
+controller = A99
+add_core = A99
+remove_core = B03
+religion = religion_old_gods
+culture = culture_black
+}
+
+632.1.1 = { 
+owner = E27
+controller = E27
+add_core = E27
+remove_core = A99
+culture = culture_earth
+religion = religion_earth
+}

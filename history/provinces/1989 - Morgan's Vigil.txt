@@ -1,0 +1,42 @@
+# 1989 Morgans Vigil
+is_city = yes
+
+base_tax = 4
+base_manpower = 5
+base_production = 4
+
+owner = F61
+controller = F61
+add_core = E26
+add_core = A30
+add_core = F61
+
+culture = culture_azerothian
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = army_supplies
+
+# Fall of Stormwind
+597.1.1 = {
+	owner = E98
+	controller = E98
+	add_core = E98
+	culture = culture_blackrock
+	religion = religion_fel
+}
+
+# Beyond the Dark Portal
+600.1.1 = {
+	owner = F61
+	controller = F61
+	
+	culture = culture_azerothian
+	religion = religion_church_of_the_light
+	
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+	add_core = A41
+}

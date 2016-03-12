@@ -1,0 +1,25 @@
+# 817 Coldridge Pass
+is_city = yes
+
+add_core = A29
+owner = A29
+controller = A29
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+culture = culture_ironforge
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = fur
+
+# Rise of the Qiraji
+622.1.1 = {
+	owner = F24
+	controller = F24
+	add_core = F24
+	culture = culture_trogg
+	religion = religion_geomancy
+}

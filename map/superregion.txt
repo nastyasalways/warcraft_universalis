@@ -1,0 +1,31 @@
+# A region can only belong to one super region.
+
+
+eastern_kingdoms_superregion = {
+	eastern_kingdoms_region
+}
+
+kalimdor_superregion = {
+	kalimdor_region
+	exodar_region
+	darnassus_region
+}
+
+northrend_superregion = {
+	northrend_region
+}
+
+outland_superregion = {
+	outland_region
+}
+
+maelstrom_superregion = {
+	maelstrom_region
+}
+
+pandaria_superregion = {
+	pandaria_region
+}
+
+new_world_superregion ={
+}

@@ -1,17 +1,17 @@
 # Crushridge 
-government 		= warband 
+government 			= warband_gov 
 mercantilism 		= 0.1 
 technology_group 	= tech_ogre
-religion			= religion_ancestral 
+religion			= religion_geomancy
 primary_culture 	= culture_crushridge 
 capital 			= 518
 
-617.1.1 = { 
+618.1.1 = { 
 monarch = { 
      name = "Mug'Thol" 
      dynasty = "Crushridge" 
 		adm = 2
-		dip = 1
+		dip = 2
 		mil = 3
  	} 
  } 

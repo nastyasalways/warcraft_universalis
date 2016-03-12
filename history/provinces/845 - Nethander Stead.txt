@@ -1,0 +1,34 @@
+# 845 Nethander's Stead
+is_city = yes
+
+add_core = A08
+owner = A08
+controller = A08
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = grain
+
+
+
+
+# The Frozen Throne
+618.1.1 = { 
+owner = B14
+controller = B14
+add_core = B14
+culture = culture_mudsnout
+religion = religion_ancestral
+remove_core = A08
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+add_core = E09 
+}

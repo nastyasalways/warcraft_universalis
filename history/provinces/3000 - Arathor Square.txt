@@ -1,0 +1,29 @@
+# 3000 Tower Square
+is_city = yes
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+add_core = A16
+owner = A16
+controller = A16
+
+culture = culture_arathi
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = arcane
+
+
+
+
+# Rise of the Qiraji
+622.1.1 = { 
+	owner = A51
+	controller = A51
+	add_claim = A26
+	add_core = A51 
+        culture = culture_boulderfist
+        religion = religion_geomancy
+}

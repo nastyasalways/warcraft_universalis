@@ -1,7 +1,27 @@
 # Howling
-government 		= despotic_monarchy
+government 			= war_tribe
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+technology_group 	= tech_wolfvar
+religion			= religion_ancestral
+primary_culture 	= culture_howling
+capital 		= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Howling" 
+     dynasty = "Howling"
+		adm = 1
+		dip = 3
+		mil = 1
+ 	} 
+ } 
+
+592.1.1 = { 
+monarch = { 
+     name = "Howling"
+     dynasty = "Howling" 
+		adm = 2
+		dip = 4
+		mil = 2 
+ 	} 
+ } 

@@ -1,0 +1,29 @@
+# 926 
+is_city = yes 
+
+
+add_core = A64
+owner = A64
+controller = A64
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+ 
+culture = culture_witherbark
+religion = religion_loa
+ 
+hre = no 
+trade_goods = fur
+ 
+
+
+
+# Cataclysm
+631.1.1 = {
+owner = E14 
+controller = E14 
+add_core = E14
+culture = culture_forsaken 
+religion = religion_forgotten_shadow
+}

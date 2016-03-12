@@ -1,0 +1,22 @@
+# 2134
+is_city = yes
+
+base_tax = 2
+base_manpower = 3
+base_production = 2
+
+
+culture = culture_revenant
+religion = religion_air
+
+hre = no
+trade_goods = army_supplies
+
+
+
+
+626.1.1 = { 
+add_core = F18
+owner = F18
+culture = culture_lordaeron
+religion = religion_scarlet_light }

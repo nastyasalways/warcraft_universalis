@@ -1,0 +1,49 @@
+# 2975 Scarlet Bastion - part of Stratholme
+is_city = yes
+
+base_tax = 3
+base_manpower = 3
+base_production = 2
+
+add_core = A08
+owner = A08
+controller = A08
+
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = army_supplies
+
+
+
+
+# The Third War
+617.1.1 = { 
+add_core = E52
+}
+
+# The Frozen Throne
+618.1.1 = { 
+add_core = F17
+owner = F17
+controller = F17
+remove_core = A08
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+add_core = A22
+owner = A22
+controller = A22
+religion = religion_scarlet_light
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = F15 
+controller = F15
+add_core = F15
+religion = religion_fel
+culture = culture_forsaken 
+}

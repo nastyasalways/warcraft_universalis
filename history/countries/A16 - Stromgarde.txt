@@ -1,10 +1,10 @@
 # Stromgarde
-government 		= absolute_monarchy
+government 			= administrative_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_human
 religion			= religion_church_of_the_light
 primary_culture 	= culture_arathi
-capital 			= 981
+capital 			= 3002
 
 546.1.1 = { 
 monarch = { 
@@ -26,15 +26,16 @@ monarch = {
  	} 
  }
  
- 622.1.1 = { 
-monarch = { 
-     name = "Galen" 
-     dynasty = "Trollbane" 
+622.1.1 = { 
+	monarch = { 
+		name = "Galen" 
+		dynasty = "Trollbane" 
 		adm = 2
 		dip = 3
 		mil = 2 
  	} 
- }
+	capital = 673
+}
  
  631.1.1 = { 
 monarch = { 
@@ -46,5 +47,5 @@ monarch = {
 		female = yes
 		
  	} 
- 	government = military_dictat
+ 	government = regency_gov
  }

@@ -1,0 +1,46 @@
+# 536 Fallen Cliffs
+is_city = yes
+
+add_core = B13
+owner = B13
+controller = B13
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+culture = culture_mosshide
+religion = religion_ancestral
+
+hre = no
+trade_goods = fish
+
+
+
+
+# The Second War
+598.1.1 = { 
+owner = A40
+controller = A40
+add_core = A40
+culture = culture_bleeding_hollow 
+religion = religion_fel 
+}
+
+# Beyond the Dark Portal
+600.1.1 = { 
+owner = B13
+controller = B13
+remove_core = A40
+culture = culture_mosshide
+religion = religion_ancestral
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = A30 
+controller = A30
+add_core = A30
+culture = culture_dark_iron
+religion = religion_arcane 
+}

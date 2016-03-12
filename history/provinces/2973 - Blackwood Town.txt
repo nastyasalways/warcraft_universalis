@@ -1,0 +1,41 @@
+# 2973 Blackwood Town - Home of Garithos
+is_city = yes
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+add_core = A08
+owner = A08
+controller = A08
+
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = grain
+
+
+
+
+# The Third War
+618.1.1 = { 
+add_core = E52
+}
+
+# The Frozen Throne
+618.1.1 = { 
+add_core = A10
+owner = A10
+controller = A10
+remove_core = A08
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+add_core = E52
+owner = E52
+controller = E52
+culture = culture_scourge
+religion = religion_the_damned
+}

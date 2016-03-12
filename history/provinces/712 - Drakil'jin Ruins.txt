@@ -1,0 +1,30 @@
+# 712
+is_city = yes
+
+owner = B46
+controller = B46
+add_core = B46
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_redfang
+religion = religion_old_gods
+
+hre = no
+trade_goods = artifacts
+
+
+
+
+626.1.1 = { 
+owner = A76
+controller = A76
+add_core = A76
+remove_core = B46
+culture = culture_winterax
+religion = religion_loa 
+}
+

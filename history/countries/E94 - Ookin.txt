@@ -1,0 +1,18 @@
+# Grummle
+government 			= war_tribe
+mercantilism 		= 0.1 
+technology_group 	= tech_primitive
+religion			= religion_celestial
+primary_culture 	= culture_mountain_hozen
+capital 			= 1
+
+546.1.1 = { 
+	monarch = { 
+		name = "Scritch" 
+		dynasty = "Ookin" 
+		adm = 2
+		dip = 2
+		mil = 3
+	} 
+} 
+

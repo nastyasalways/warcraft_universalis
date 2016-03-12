@@ -1,0 +1,36 @@
+# 2164
+is_city = yes
+owner = A28
+controller = A28
+add_core = A28
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_wildhammer
+religion = religion_ancestral
+
+hre = no
+trade_goods = elementium
+
+
+
+
+# Cataclysm
+631.1.1 = { 
+owner = A43
+controller = A43
+add_core = A43
+religion = religion_old_gods
+culture = culture_twilight
+}
+
+632.1.1 = { 
+owner = E27
+controller = E27
+remove_core = A43
+culture = culture_earth
+religion = religion_earth
+}

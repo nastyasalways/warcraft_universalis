@@ -1,0 +1,17 @@
+# Black Ox Clan
+government 			= administrative_theocracy
+mercantilism 		= 0.1 
+technology_group 	= tech_pandaren
+religion			= religion_celestial
+primary_culture 	= culture_black_ox
+capital 			= 1
+
+546.1.1 = { 
+	monarch = { 
+		name = "Niuzao" 
+		dynasty = "the Black Ox" 
+		adm = 3
+		dip = 3
+		mil = 4
+	} 
+} 

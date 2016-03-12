@@ -1,0 +1,25 @@
+# 1382
+is_city = yes
+
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+
+culture = culture_kolkar
+religion = religion_ancestral
+
+hre = no
+trade_goods = grain
+
+
+
+
+# The Frozen Throne
+618.1.1 = { owner = A14
+controller = A14
+add_core = A14
+remove_core = B24
+culture = culture_kul_tiran
+religion = religion_church_of_the_light }

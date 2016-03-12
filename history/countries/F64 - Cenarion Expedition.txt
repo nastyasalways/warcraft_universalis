@@ -1,0 +1,18 @@
+government 				= expenditionary_force
+mercantilism 			= 0.1
+technology_group 		= tech_darnassian
+religion				= religion_druidic
+primary_culture 		= culture_cenarion
+add_accepted_culture 	= culture_sentinel
+capital 				= 1
+
+625.1.1 = {
+	monarch = {
+		name = "Ysiel" 
+		dynasty = "Windsinger" 
+		adm = 3
+		dip = 3
+		mil = 4
+                female = yes
+ 	}
+}

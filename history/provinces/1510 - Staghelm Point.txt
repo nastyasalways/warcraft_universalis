@@ -1,0 +1,25 @@
+# 1510 Staghelm Point
+is_city = yes
+
+base_tax = 2
+base_manpower = 3
+base_production = 2
+
+owner = H03
+controller = H03
+add_core = H03
+
+culture = culture_cenarion
+religion = religion_elune
+
+hre = no
+trade_goods = netherweave
+
+# Rise of the Qiraji
+622.1.1 = { 
+	owner = A43
+	controller = A43
+	add_core = A43
+	culture = culture_twilight
+	religion = religion_old_gods
+}

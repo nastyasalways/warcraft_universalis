@@ -1,0 +1,20 @@
+# Brown Orcs
+government 			= religious_tribe
+mercantilism 		= 0.1
+technology_group 	= tech_orc
+religion			= religion_ancestral
+primary_culture 	= culture_mag_har
+capital 			= 1
+
+
+546.1.1 = { 
+	monarch = { 
+		name = "Geyah" 
+		dynasty = "Frostwolf" 
+		adm = 4
+		dip = 4
+		mil = 1
+                female = yes  
+	} 
+}
+

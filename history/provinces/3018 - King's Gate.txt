@@ -1,0 +1,19 @@
+# 3018 King's Gate
+is_city = yes
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+add_core = A12
+owner = A12
+controller = A12
+
+culture = culture_gilnean
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = army_supplies
+
+
+

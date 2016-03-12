@@ -1,0 +1,27 @@
+# 1979
+is_city = yes
+
+owner = E57
+controller = E57
+add_core = E57
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_trogg
+religion = religion_geomancy
+
+hre = no
+trade_goods = army_supplies
+
+
+
+
+# Beyond the Dark Portal
+600.1.1 = { owner = F06
+controller = F06
+add_core = F06
+remove_core = E57
+culture = culture_dustbelcher }

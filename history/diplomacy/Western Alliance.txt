@@ -1,0 +1,26 @@
+########################
+### Western Alliance ###
+########################
+# Theramore - Nordrassil
+alliance = {
+	first = A23
+	second = H01
+	start_date = 618.1.1
+	end_date = 622.1.1
+}
+
+# Theramore - Bael Modan
+alliance = {
+	first = A23
+	second = F59
+	start_date = 618.1.1
+	end_date = 622.1.1
+}
+
+# Theramore - Kul Tiras
+alliance = {
+	first = A23
+	second = A14
+	start_date = 618.1.1
+	end_date = 622.1.1
+}

@@ -1,0 +1,38 @@
+# 978 Falthrien Academy
+is_city = yes
+
+add_core = A90
+owner = A90
+controller = A90
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+culture = culture_high_elf
+religion = religion_arcane
+
+hre = no
+trade_goods = arcane
+
+
+
+
+# The Frozen Throne
+618.1.1 = {
+owner = F54
+controller = F54
+add_core = F54
+religion = religion_church_of_the_light
+remove_core = A90
+}
+
+# The Burning Crusade
+625.1.1 = { 
+owner = B94
+controller = B94
+add_core = B94
+culture = culture_wretched
+religion = religion_arcane
+remove_core = F54
+}

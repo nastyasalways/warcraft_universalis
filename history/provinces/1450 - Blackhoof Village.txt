@@ -1,0 +1,16 @@
+# 1450 Blackhoof Village
+is_city = yes
+
+base_tax = 2
+base_manpower = 3
+base_production = 2
+
+owner = A85
+controller = A85
+add_core = A85
+
+culture = culture_grimtotem
+religion = religion_ancestral
+
+hre = no
+trade_goods = army_supplies

@@ -1,0 +1,21 @@
+# 1973
+is_city = no
+
+owner = E57
+controller = E57
+add_core = E57
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+
+culture = culture_trogg
+religion = religion_geomancy
+
+hre = no
+trade_goods = artifacts
+
+
+
+

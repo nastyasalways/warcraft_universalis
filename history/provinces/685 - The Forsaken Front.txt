@@ -1,0 +1,55 @@
+# 685 The Forsaken Front
+is_city = yes
+
+add_core = A12
+owner = A12
+controller = A12
+
+base_tax = 1
+base_manpower = 2
+base_production = 1
+
+culture = culture_gilnean
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = grain
+
+# Third War
+617.1.1 = {
+	owner = A08
+	controller = A08
+	add_core = A08
+	remove_core = A12
+}
+
+# The Frozen Throne
+618.1.1 = {
+	owner = A25
+	controller = A25
+	add_core = A25
+        remove_core = A08
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+	owner = F52
+	controller = F52
+	add_core = F52
+	add_core = E14
+}
+
+# Cataclysm
+631.1.1 = { 
+	owner = XXX
+	controller = XXX
+}
+
+# Mists of Pandaria
+632.1.1 = { 
+	owner = A11
+	controller = A11
+	add_core = A11
+	culture = culture_lordaeron_worgen
+	religion = religion_church_of_the_light 
+}

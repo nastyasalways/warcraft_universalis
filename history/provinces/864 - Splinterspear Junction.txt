@@ -1,0 +1,46 @@
+# 864
+is_city = yes
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_hakkari
+religion = religion_hakkari
+
+hre = no
+trade_goods = fur
+
+
+
+
+# First War
+592.1.1 = { 
+owner = A40
+controller = A40
+add_core = A40
+culture = culture_bleeding_hollow 
+religion = religion_fel 
+}
+
+# Beyond the Dark Portal
+600.1.1 = { 
+owner = XXX
+controller = XXX
+remove_core = A40 
+}
+
+621.11.11 = { 
+owner = XXX
+controller = XXX 
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+owner = A48
+controller = A48
+add_core = A48
+culture = culture_horde
+religion = religion_ancestral
+}

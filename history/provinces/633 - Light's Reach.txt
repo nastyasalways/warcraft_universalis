@@ -1,0 +1,21 @@
+# 633
+is_city = no
+
+owner = B50
+controller = B50
+add_core = B50
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_rageclaw
+religion = religion_ancestral
+
+hre = no
+trade_goods = grain
+
+
+
+

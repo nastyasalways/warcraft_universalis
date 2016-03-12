@@ -1,0 +1,38 @@
+# 1882
+is_city = yes
+
+owner = F03
+controller = F03
+add_core = F03
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+culture = culture_skumblade
+religion = religion_voodoo
+
+hre = no
+trade_goods = army_supplies
+
+
+
+
+632.1.1 = {
+owner = A78
+controller = A78
+add_core = A78
+remove_core = F03
+religion = religion_loa
+culture = culture_zandalari
+}
+
+# Warlords of Draenor
+633.1.1 = {
+owner = A91
+controller = A91
+add_core = A91
+religion = religion_light_of_the_sunwell
+culture = culture_blood_elf
+}
+

@@ -1,0 +1,44 @@
+# 1925 Calston Estane
+is_city = yes
+add_core = A08
+owner = A08
+controller = A08
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = grain
+
+
+
+
+# The Frozen Throne
+618.1.1 = { 
+add_core = E50
+add_core = E52
+owner = E50
+controller = E50
+culture = culture_crushridge
+religion = religion_geomancy
+remove_core = A08
+}
+
+# War of Lordaeron (TFT)
+620.6.1 = {
+controller = E52
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+add_core = E14
+remove_core = E50
+owner = E14
+controller = E14
+culture = culture_forsaken
+religion = religion_forgotten_shadow
+}

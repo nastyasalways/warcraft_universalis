@@ -1,0 +1,49 @@
+-- Format for overwriting define values:
+--
+-- NDefines.NDiplomacy.MAX_CLIENT_STATES = 20
+
+NDefines.NGame.START_DATE = "546.1.1"
+NDefines.NGame.END_DATE = "100000.1.1"
+NDefines.NGame.MAX_RANDOM_NEW_WORLD = "100000.1.1"
+
+NDefines.NReligion.ASPECT_ADD_COST = 100
+NDefines.NReligion.ASPECT_REMOVE_COST = 0
+NDefines.NReligion.MAX_UNLOCKED_ASPECTS = 3
+NDefines.NReligion.CHURCH_POWER_RATE_SCALE = 0.1
+
+NDefines.NReligion.KARMA_FOR_OFFENSIVE_WAR = 10
+NDefines.NReligion.KARMA_FOR_DEFENSIVE_WAR = -10
+NDefines.NReligion.KARMA_FOR_HONORING_CTA = 0
+NDefines.NReligion.KARMA_PER_RELEASED_PROVINCE = -1
+NDefines.NReligion.KARMA_PER_TAKEN_PROVINCE = 1
+NDefines.NReligion.KARMA_TOO_HIGH = 50
+NDefines.NReligion.KARMA_TOO_LOW = -50
+NDefines.NReligion.KARMA_JUST_RIGHT_HIGH = 25
+NDefines.NReligion.KARMA_JUST_RIGHT_LOW = -25
+NDefines.NReligion.KARMA_RESTORE_ON_RULER_DEATH = 0
+
+NDefines.NReligion.CHANGE_SECONDARY_PRESTIGE_HIT = -50
+
+NDefines.NCountry.CIRCUMNAVIGATION_PROVINCE_1 = 291
+NDefines.NCountry.CIRCUMNAVIGATION_PROVINCE_2 = 406
+NDefines.NCountry.CIRCUMNAVIGATION_PROVINCE_3 = 1
+NDefines.NCountry.CIRCUMNAVIGATION_PROVINCE_4 = 80
+NDefines.NCountry.CIRCUMNAVIGATION_PROVINCE_5 = 195
+NDefines.NCountry.CIRCUMNAVIGATION_PROVINCE_6 = 317
+
+NDefines.NCountry.HRE_RANK = 2							
+NDefines.NCountry.HRE_MAX_RANK = 3							
+NDefines.NCountry.HRE_MAX_RANK_ELECTOR = 3				
+NDefines.NCountry.SUBJECT_MAX_RANK = 2
+
+NDefines.NCountry.PS_DEMAND_NON_WARGOAL_PEACE_PRIMITIVES = 50
+NDefines.NEconomy.GOLD_MINE_SIZE_PRIMITIVES = 40
+
+NDefines.NMilitary.NOMAD_PLAINS_SHOCK_BONUS = 0
+NDefines.NMilitary.NOMAD_NON_PLAINS_SHOCK_PENALTY = 0
+
+NDefines.NFrontend.FRONTEND_POS_X = 4000.0
+NDefines.NFrontend.FRONTEND_LOOK_X = 4000.0
+NDefines.NFrontend.CAMERA_START_X = 4000.0
+NDefines.NFrontend.CAMERA_END_X = 4000.0
+NDefines.NFrontend.CAMERA_LOOKAT_X = 4000.0

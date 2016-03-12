@@ -1,0 +1,21 @@
+# 1280
+is_city = yes
+
+owner = E16
+controller = E16
+add_core = E16
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_brunnhilde
+religion = religion_titan
+
+hre = no
+trade_goods = grain
+
+
+
+

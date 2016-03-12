@@ -1,0 +1,19 @@
+# 1471
+is_city = no
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+
+culture = culture_razormane
+religion = religion_geomancy
+
+hre = no
+trade_goods = grain
+
+
+
+
+622.1.1 = { culture = culture_venture
+religion = religion_tech }

@@ -1,7 +1,18 @@
 # Knights of the Ebon Blade
-government 		= despotic_monarchy
+government 			= militaristic_order
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_scourge
+religion			= religion_shadow
+primary_culture 	= culture_death_knight
 capital 			= 1
+
+627.1.1 = {
+	monarch = {
+		name = "Darion"
+		dynasty = "Morgraine"
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+

@@ -1,0 +1,21 @@
+######################################################
+# Documentation
+# ----------------------------------------------------
+# All dates are in the King's Calender format
+######################################################
+
+bookmark =
+{
+	name = "RISE_OF_THE_QIRAJI_NAME"
+	desc = "RISE_OF_THE_QIRAJI_DESC"
+	date = 622.1.1
+country = A01
+country = A48
+country = A84
+country = E14
+country = A94
+country = A29
+country = A97
+country = A22
+country = A41
+}

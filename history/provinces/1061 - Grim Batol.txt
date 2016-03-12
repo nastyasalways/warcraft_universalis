@@ -1,0 +1,50 @@
+# 1061
+is_city = yes
+
+add_core = B03
+owner = B03
+controller = B03
+
+base_tax = 6
+base_manpower = 6
+base_production = 6
+
+culture = culture_red
+religion = religion_sect_of_dragons
+
+hre = no
+trade_goods = flying_mounts
+
+
+
+
+598.1.1 = { 
+owner = A45
+controller = A45
+add_core = A45
+culture = culture_dragonmaw
+religion = religion_fel 
+}
+
+# Beyond the Dark Portal
+600.1.1 = { 
+owner = B03
+controller = B03
+culture = culture_red
+religion = religion_sect_of_dragons 
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = A43
+controller = A43
+add_core = A43
+religion = religion_old_gods
+culture = culture_twilight
+}
+
+632.1.1 = { 
+owner = XXX
+controller = XXX
+remove_core = A43
+}

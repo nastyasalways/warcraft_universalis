@@ -1,0 +1,27 @@
+
+# 2068
+is_city = yes
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_jade_serpent
+religion = religion_celestial
+
+hre = no
+trade_goods = fish
+
+
+
+
+
+632.1.1 = { 
+owner = A01
+controller = A01
+add_core = A01
+culture = culture_azerothian
+religion = religion_church_of_the_light
+}
+

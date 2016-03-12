@@ -1,0 +1,43 @@
+# 561
+is_city = yes
+owner = F09
+controller = F09
+add_core = F09
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+culture = culture_jellyneck
+religion = religion_loa
+
+hre = no
+trade_goods = army_supplies
+
+
+
+
+# Beyond the Dark Portal
+600.1.1 = { 
+owner = F08
+controller = F08
+add_core = F08
+remove_core = F09
+culture = culture_bloodeye
+religion = religion_geomancy 
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = A43
+controller = A43
+add_core = A43
+religion = religion_old_gods
+}
+
+632.1.1 = { 
+owner = XXX
+controller = XXX
+remove_core = A43
+culture = culture_n_zoth
+}

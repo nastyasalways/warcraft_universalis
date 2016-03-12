@@ -1,0 +1,19 @@
+######################################################
+# Documentation
+# ----------------------------------------------------
+# All dates are in the King's Calender format
+######################################################
+
+bookmark =
+{
+	name = "THE_FROZEN_THRONE_NAME"
+	desc = "THE_FROZEN_THRONE_DESC"
+	date = 618.1.1
+country = A93
+country = A48
+country = B89
+country = F15
+country = E52
+country = E14
+country = A25
+}

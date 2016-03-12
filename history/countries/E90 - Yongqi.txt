@@ -1,0 +1,31 @@
+# Gai-Cho Tribe
+government 			= war_tribe
+mercantilism 		= 0.1
+technology_group 	= tech_yaungol
+religion			= religion_fire
+primary_culture 	= culture_yongqi
+capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Sho" 
+     dynasty = "Yongqi" 
+		adm = 3
+		dip = 3
+		mil = 3
+ 	} 
+ } 
+
+592.1.1 = { 
+monarch = { 
+     name = "Shonof" 
+     dynasty = "Yongqi" 
+		adm = 3
+		dip = 3
+		mil = 3
+ 	} 
+ } 
+
+
+
+ 

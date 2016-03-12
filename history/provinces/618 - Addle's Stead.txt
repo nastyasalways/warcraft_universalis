@@ -1,0 +1,66 @@
+# 618
+is_city = yes
+add_core = A03
+owner = A03
+controller = A03
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+culture = culture_azerothian
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = grain
+
+
+
+
+# Fall of Stormwind
+597.1.1 = { 
+owner = A43
+controller = A43
+add_core = A43
+culture = culture_twilights_hammer
+religion = religion_fel 
+}
+
+# Beyond the Dark Portal
+600.1.1 = {
+owner = XXX
+controller = XXX
+culture = culture_azerothian
+religion = religion_church_of_the_light
+remove_core = A43
+ }
+
+616.11.11 = {
+owner = XXX
+controller = XXX 
+}
+
+# The Third War
+617.1.1 = { 
+owner = A03
+controller = A03
+ 
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+owner = A07
+controller = A07
+add_core = A07 
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = F12
+controller = F12
+add_core = F12
+remove_core = A07
+culture = culture_ghost
+religion = religion_shadow 
+}
+

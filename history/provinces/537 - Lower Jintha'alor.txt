@@ -1,0 +1,37 @@
+# 537 Lower Jintha'alor
+is_city = yes 
+
+add_core = A60
+owner = A60
+controller = A60
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+ 
+culture = culture_vilebranch
+religion = religion_loa
+ 
+hre = no 
+trade_goods = iron
+ 
+
+
+
+# Rise of the Qiraji
+622.1.1 = { 
+	religion = religion_hakkari 
+}
+
+# Cataclysm
+631.1.1 = { 
+	add_core = A61 
+}
+
+# Mists of Pandaria
+632.1.1 = { 
+	owner = A61
+	controller = A61
+	culture = culture_revantusk
+	religion = religion_loa 
+}

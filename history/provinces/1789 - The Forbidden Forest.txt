@@ -1,0 +1,28 @@
+# 1789
+is_city = yes
+
+base_tax = 3
+base_manpower = 2
+base_production = 3
+
+
+culture = culture_riverblade
+religion = religion_voodoo
+
+
+hre = no
+trade_goods = tropical_wood
+
+
+
+
+632.1.1 = { 
+owner = A94
+controller = A94
+add_core = A94
+culture = culture_sentinel
+religion = religion_elune
+capital = "Sentinel Basecamp"
+}
+
+

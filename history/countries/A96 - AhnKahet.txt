@@ -1,7 +1,7 @@
 # AhnKahet
-government 		= despotic_monarchy
+government 			= militaristic_kingdom
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_aqir
+religion			= religion_old_gods
+primary_culture 	= culture_nerubian
 capital 			= 1

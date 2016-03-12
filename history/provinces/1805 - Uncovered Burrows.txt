@@ -1,0 +1,21 @@
+# 1805
+is_city = yes
+
+owner = E75
+controller = E75
+add_core = E75
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_twitcheel
+religion = religion_geomancy
+
+hre = no
+trade_goods = grain
+
+
+
+

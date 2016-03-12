@@ -1,0 +1,41 @@
+# 687
+is_city = yes
+add_core = A16
+owner = A16
+controller = A16
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+culture = culture_arathi
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = cloth
+
+
+
+ 
+
+
+# The Third War
+617.1.1 = { 
+owner = A35
+controller = A35
+add_core = A35
+culture = culture_warsong
+religion = religion_ancestral 
+}
+
+# The Frozen Throne
+618.1.1 = { 
+owner = XXX
+controller = XXX
+remove_core = A35
+culture = culture_arathi
+religion = religion_church_of_the_light 
+}
+
+
+

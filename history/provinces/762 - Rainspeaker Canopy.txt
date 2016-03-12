@@ -1,0 +1,21 @@
+# 762
+is_city = no
+
+owner = B53
+controller = B53
+add_core = B53
+
+base_tax = 5
+base_manpower = 5
+base_production = 5
+
+
+culture = culture_rainspeaker
+religion = religion_titan
+
+hre = no
+trade_goods = grain
+
+
+
+

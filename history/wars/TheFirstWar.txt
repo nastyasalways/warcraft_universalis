@@ -1,0 +1,30 @@
+name = "The First War"
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 1022 # Stormwind
+}
+
+592.1.1 = {
+	add_attacker = A41
+	add_attacker = A40
+        add_attacker = A43
+	add_attacker = B88
+        add_defender = A01
+	add_defender = A02
+	add_defender = A03
+        add_defender = A04
+	add_defender = A05
+}
+
+597.1.1 = {
+	rem_attacker = A41
+	rem_attacker = A40
+        rem_attacker = A43
+	rem_attacker = B88
+        rem_defender = A01
+	rem_defender = A02
+	rem_defender = A03
+        rem_defender = A04
+	rem_defender = A05
+}

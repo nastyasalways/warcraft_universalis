@@ -1,7 +1,18 @@
 # Mantid Empire
-government 		= despotic_monarchy
+government 			= militaristic_kingdom
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_mantid
+religion			= religion_old_gods
+primary_culture 	= culture_mantid
 capital 			= 1
+
+546.1.1 = { 
+	monarch = { 
+		name = "Shek'zeer " 
+		dynasty = "" 
+		adm = 5
+		dip = 3
+		mil = 4
+                female = yes
+	} 
+}

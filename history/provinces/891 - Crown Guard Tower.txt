@@ -1,0 +1,40 @@
+# 891 Crown Guard Tower
+is_city = yes
+add_core = A08
+owner = A08
+controller = A08
+
+base_tax = 2
+base_manpower = 2
+base_production = 1
+
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = army_supplies
+
+
+
+
+# The Third War
+617.1.1 = { 
+add_core = E52
+owner = E52
+controller = E52
+culture = culture_scourge
+religion = religion_the_damned 
+}
+
+618.1.1 = {
+remove_core = A08
+}
+# Cataclysm
+631.1.1 = { 
+add_core = F19
+remove_core = E52
+owner = F19
+controller = F19
+culture = culture_lordaeron
+religion = religion_argent_light 
+}

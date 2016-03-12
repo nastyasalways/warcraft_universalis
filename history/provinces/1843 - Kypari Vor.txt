@@ -1,0 +1,20 @@
+# 1843
+is_city = yes
+
+owner = E34
+controller = E34
+add_core = E34
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+hre = no
+trade_goods = kypari
+
+culture = culture_mantid
+religion = religion_old_gods
+
+
+
+

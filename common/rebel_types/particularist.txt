@@ -9,6 +9,7 @@ particularist_rebels = {
 	defection = none				# Will not defect
 	independence = none				# Does not strive for independence
 	gfx_type = culture_province
+	will_relocate = yes	
 
 	resilient = no					# Can retreat
 	reinforcing = yes				# Can reinforce
@@ -37,13 +38,7 @@ particularist_rebels = {
 				NOT = { num_of_cities = 5 }
 			}
 		}
-		
-		modifier = {
-			factor = 20.0
-			owner = { 
-				has_disaster = the_dacke_feud
-			}
-		}		
+			
 		modifier = {
 			factor = 0.2
 			is_core = owner
@@ -133,7 +128,7 @@ particularist_rebels = {
 	
  	# Province Scope
  	siege_won_trigger = {
- 		always = yes
+ 		NOT = { local_autonomy = 50 }
  	}
 	siege_won_effect = {
 		add_local_autonomy = 10	

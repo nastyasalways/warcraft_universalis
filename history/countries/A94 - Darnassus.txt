@@ -1,7 +1,24 @@
 # Darnassus
-government 		= despotic_monarchy
+government 			= administrative_theocracy
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_darnassian
+religion			= religion_elune
+primary_culture 	= culture_sentinel
+add_accepted_culture = culture_cenarion
 capital 			= 1
+
+622.1.1 = { 
+	government_rank	= 3
+	monarch =
+	{ 
+		name = "Tyrande" 
+			 
+		dynasty = "Whisperwind" 
+				
+		adm = 4		
+		dip = 2
+		mil = 4	
+           female = yes
+	} 
+add_accepted_culture = culture_highbourne
+} 

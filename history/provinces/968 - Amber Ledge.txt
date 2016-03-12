@@ -1,0 +1,30 @@
+# 968
+is_city = no
+
+owner = B03
+controller = B03
+add_core = B03
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_red
+religion = religion_sect_of_dragons
+
+hre = no
+trade_goods = grain
+
+
+
+
+626.1.1 = {
+	owner = A18
+	controller = A18
+	add_core = A18
+	remove_core = B03
+	culture = culture_dalaran
+	religion = religion_arcane
+
+}

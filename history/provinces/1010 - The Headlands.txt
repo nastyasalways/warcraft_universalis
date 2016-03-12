@@ -1,0 +1,87 @@
+# 1010 The Headlands
+
+is_city = yes
+add_core = A17
+owner = A17
+controller = A17
+
+base_tax = 2
+base_manpower = 2
+base_production = 3
+
+capital = "Gavin's Naze"
+
+culture = culture_alterac
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = fur
+
+
+ 
+
+
+# Beyond the Dark Portal
+600.1.1 = { 
+owner = A41
+controller = A41
+add_core = A41
+culture = culture_blackrock
+religion = religion_fel
+capital = "Blackrock Slave Camp" 
+}
+
+# The Frozen Throne
+618.1.1 = { 
+owner = E52
+controller = E52
+religion = religion_the_damned
+culture = culture_scourge
+add_core = E52
+remove_core = A41
+}
+
+# Reconquest of Lordaeron (TFT)
+618.2.1 = { 
+controller = A25
+}
+
+# Reconquest of Lordaeron (TFT)
+620.7.1 = { 
+controller = E52
+}
+
+# Reconquest of Lordaeron (TFT)
+620.8.1 = { 
+controller = A11
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+owner = A26
+controller = A26
+add_core = A26
+add_core = E14
+remove_core = E52
+culture = culture_alterac
+religion = religion_church_of_the_light
+capital = "Syndicate Overlook" 
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = A29
+controller = A29
+add_core = A29
+culture = culture_ironforge
+capital = "Stormpike Overlook" 
+}
+
+# Mists of Pandaria
+632.1.1 = { 
+owner = E14
+controller = E14
+religion = religion_forgotten_shadow
+culture = culture_forsaken
+capital = "Gavin's Naze" 
+}

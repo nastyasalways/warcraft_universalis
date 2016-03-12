@@ -1,0 +1,22 @@
+# Zangarmarsh Ogres
+government 			= warband_gov
+mercantilism 		= 0.1 
+technology_group 	= tech_ogre
+religion			= religion_geomancy
+primary_culture 	= culture_ango_rosh
+capital = 1
+
+
+
+617.1.1 = { 
+monarch =
+{ 
+name = "Gorefist" 
+     
+dynasty = "Angorosh" 
+		
+adm = 3		
+dip = 2	
+mil = 4 	} 
+ 
+} 

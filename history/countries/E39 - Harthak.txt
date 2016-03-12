@@ -1,7 +1,7 @@
 # Harthak
-government 		= despotic_monarchy
+government 			= warband_gov
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_mogu
+religion			= religion_titan
+primary_culture 	= culture_harthak
 capital 			= 1

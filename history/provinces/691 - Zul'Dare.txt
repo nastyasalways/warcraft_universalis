@@ -1,0 +1,19 @@
+# 691 Zul'Dare
+is_city = yes
+
+add_core = A63
+owner = A63
+controller = A63
+
+base_tax = 4
+base_manpower = 4
+base_production = 4 
+
+culture = culture_firetree
+religion = religion_loa
+ 
+hre = no 
+trade_goods = pirates
+
+
+

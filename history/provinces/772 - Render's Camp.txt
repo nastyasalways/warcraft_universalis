@@ -1,0 +1,49 @@
+# 772
+is_city = yes
+add_core = B17
+owner = B17
+controller = B17
+
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_redridge
+religion = religion_ancestral
+
+hre = no
+trade_goods = army_supplies
+
+
+
+
+# Fall of Stormwind
+597.1.1 = { 
+owner = E98
+controller = E98
+add_core = E98
+culture = culture_blackrock
+religion = religion_fel }
+
+
+# Beyond the Dark Portal
+600.1.1 = { 
+owner = XXX
+controller = XXX 
+}
+
+617.11.11 = {
+owner = XXX
+controller = XXX
+}
+
+# The Frozen Throne
+618.1.1 = { 
+owner = A41
+controller = A41
+add_core = A41
+culture = culture_blackrock
+religion = religion_fel 
+}

@@ -1,0 +1,20 @@
+# 1431
+is_city = yes
+
+owner = E05
+controller = E05
+add_core = E05
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+culture = culture_nazja
+religion = religion_old_gods
+
+hre = no
+trade_goods = grain
+
+
+
+

@@ -1,0 +1,24 @@
+# 1641
+is_city = no
+
+base_tax = 8
+base_manpower = 8
+base_production = 8
+
+
+culture = culture_shattrathi
+religion = religion_light_of_the_naaru
+
+hre = no
+trade_goods = artifacts
+
+
+
+
+# Rise of the Qiraji
+622.1.1 = {
+owner = A54
+controller = A54
+add_core =  A54
+}
+

@@ -1,0 +1,21 @@
+# 995
+is_city = yes
+
+owner = E74
+controller = E74
+add_core = E74
+
+base_tax = 10
+base_manpower = 10
+base_production = 10
+
+
+culture = culture_nerubian
+religion = religion_old_gods
+
+hre = no
+trade_goods = silk
+
+
+
+

@@ -1,0 +1,24 @@
+# 1672
+is_city = yes
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_fel_orc
+religion = religion_fel
+
+hre = no
+trade_goods = flying_mounts
+
+
+
+
+# The Third War
+617.1.1 = {
+owner = F48
+controller = F48
+add_core =  F48
+}
+

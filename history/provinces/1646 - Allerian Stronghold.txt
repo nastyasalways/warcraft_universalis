@@ -1,0 +1,26 @@
+# 1646
+is_city = yes
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_high_elf
+religion = religion_arcane
+
+hre = no
+trade_goods = arcane
+
+
+
+
+# The Third War
+617.1.1 = {
+owner = F14
+controller = F14
+add_core =  F14
+}
+
+
+

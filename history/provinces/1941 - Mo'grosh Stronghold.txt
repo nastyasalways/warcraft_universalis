@@ -1,0 +1,57 @@
+# 1941 Winterax Stronghold
+
+is_city = yes
+
+owner = A76
+controller = A76
+add_core = A76
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_winterax
+religion = religion_loa
+
+hre = no
+trade_goods = army_supplies
+
+
+
+
+# Fall of Stormwind
+597.1.1 = { 
+owner = XXX
+controller = XXX
+remove_core = A76 
+}
+
+597.11.11 = { 
+owner = XXX
+controller = XXX 
+}
+
+598.1.1 = { 
+owner = A40
+controller = A40
+add_core = A40
+add_core = F05
+culture = culture_mogrosh 
+religion = religion_geomancy 
+}
+
+# Beyond the Dark Portal
+600.1.1 = { 
+owner = F05
+controller = F05
+remove_core = A40 
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = A43
+controller = A43
+add_core = A43
+religion = religion_old_gods 
+}

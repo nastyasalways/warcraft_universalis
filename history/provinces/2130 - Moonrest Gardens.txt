@@ -1,0 +1,17 @@
+# 
+is_city = yes
+
+base_tax = 3
+base_manpower = 2
+base_production = 3
+
+
+culture = culture_ghost
+religion = religion_arcane
+
+hre = no
+trade_goods = arcane
+
+
+
+

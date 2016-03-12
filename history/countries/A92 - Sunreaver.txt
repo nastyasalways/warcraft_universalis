@@ -1,7 +1,7 @@
 # Sunreaver
-government 		= despotic_monarchy
+government 			= administrative_kingdom
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_thalassian
+religion			= religion_arcane
+primary_culture 	= culture_blood_elf
 capital 			= 1

@@ -1,0 +1,29 @@
+# 2995 Eastern Strand
+is_city = yes
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+add_core = A08
+owner = A08
+controller = A08
+
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = fish
+
+
+
+
+# The Frozen Throne
+618.1.1 = { 
+owner = E09
+controller = E09
+add_core = E09
+culture = culture_vashjari
+religion = religion_old_gods
+remove_core = A08
+}

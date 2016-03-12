@@ -1,0 +1,21 @@
+# Windyreed (Lost Ones)
+government 			= mercantile_tribe
+mercantilism 		= 0.1
+technology_group 	= tech_draenei
+religion			= religion_ancestral
+primary_culture 	= culture_lost_one
+capital 			= 1
+
+617.1.1 = { 
+monarch = { 
+     name = "Fitai" 
+     dynasty = "Windyreed" 
+		adm = 3
+		dip = 3
+		mil = 3
+ 	} 
+ } 
+
+
+
+ 

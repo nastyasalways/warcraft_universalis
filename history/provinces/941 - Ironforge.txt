@@ -1,0 +1,20 @@
+# 941
+is_city = yes
+add_core = A29
+owner = A29
+controller = A29
+
+base_tax = 8
+base_manpower = 8
+base_production = 8
+
+
+culture = culture_ironforge
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = iron
+
+
+
+

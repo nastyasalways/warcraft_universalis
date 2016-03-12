@@ -1,0 +1,22 @@
+# 2077
+is_city = yes
+
+owner = E68
+controller = E68
+add_core = E68
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_forest_hozen
+religion = religion_celestial
+
+hre = no
+trade_goods = fish
+
+
+
+
+

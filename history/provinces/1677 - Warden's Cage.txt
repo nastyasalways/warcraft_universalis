@@ -1,0 +1,48 @@
+# 1677
+is_city = yes
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_fel_orc
+religion = religion_fel
+
+hre = no
+trade_goods = army_supplies
+
+
+
+
+# The Third War
+617.1.1 = {
+owner = B89
+controller = B89
+add_core =  B89
+}
+
+# The Frozen Throne
+618.1.1 = {
+owner = B87
+controller = B87
+add_core = B87
+add_core =  E02
+remove_core = B89
+culture = culture_vashjari
+religion = religion_old_gods
+}
+
+# Rise of the Qiraji
+622.1.1 = {
+owner = A57
+controller = A57
+add_core =  A57
+remove_core = E02
+culture = culture_broken
+religion = religion_ancestral
+}
+
+
+
+

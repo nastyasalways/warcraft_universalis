@@ -1,0 +1,35 @@
+# 1936 Go'shek Farm
+is_city = yes
+
+add_core = A16
+owner = A16
+controller = A16
+
+base_tax = 2
+base_manpower = 2
+base_production = 3
+ 
+culture = culture_arathi
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = grain
+
+
+
+
+# The Third War
+617.1.1 = {
+owner = XXX
+controller = XXX
+culture = culture_horde
+religion = religion_ancestral
+}
+
+# Rise of the Qiraji
+622.1.1 = {
+owner = A48
+controller = A48
+add_core = A48
+capital = "Go'Shek Farm" 
+}

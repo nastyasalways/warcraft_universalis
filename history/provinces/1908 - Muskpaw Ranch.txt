@@ -1,0 +1,30 @@
+# 1908
+is_city = yes
+
+owner = E66
+controller = E66
+add_core = E66
+
+base_tax = 3
+base_manpower = 2
+base_production = 3
+
+
+culture = culture_white_tiger
+religion = religion_celestial
+
+hre = no
+trade_goods = mounts
+
+
+
+
+632.1.1 = {
+owner = E47
+controller = E47
+add_core = E47
+culture = culture_burilgi
+religion = religion_fire
+}
+
+

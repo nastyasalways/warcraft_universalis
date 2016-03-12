@@ -1,0 +1,24 @@
+# 1476
+is_city = no
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+
+culture = culture_galak
+religion = religion_ancestral
+
+hre = no
+trade_goods = grain
+
+
+
+
+618.1.1 = { 
+	owner = A89
+	controller = A89
+	add_core = A89
+	culture = culture_winterhoof
+	religion = religion_ancestral
+}

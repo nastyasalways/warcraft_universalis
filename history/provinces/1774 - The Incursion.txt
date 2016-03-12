@@ -1,0 +1,25 @@
+# 1774
+is_city = yes
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_dojani
+religion = religion_titan
+
+hre = no
+trade_goods = arcane
+
+
+
+
+632.1.1 = { 
+owner = A94
+controller = A94
+add_core = A94
+culture = culture_highbourne
+religion = religion_arcane
+}
+

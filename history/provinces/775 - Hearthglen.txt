@@ -1,0 +1,40 @@
+# 775 Hearthglen
+is_city = yes
+
+add_core = A08
+owner = A08
+controller = A08
+
+base_tax = 4
+base_manpower = 4
+base_production = 3
+
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = grain
+
+# The Frozen Throne
+618.1.1 = { 
+	owner = A09
+	controller = A09
+	add_core = A09
+        remove_core = A08
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+	owner = A22
+	controller = A22
+	add_core = A22
+	religion = religion_scarlet_light 
+}
+
+# Cataclysm
+631.1.1 = { 
+	owner = F19
+	controller = F19
+	add_core = F19
+	religion = religion_argent_light
+}

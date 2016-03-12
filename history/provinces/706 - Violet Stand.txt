@@ -1,0 +1,26 @@
+# 706
+is_city = yes
+
+base_tax = 2
+base_manpower = 3
+base_production = 2
+capital = "Western Shandaral Ruins"
+
+
+culture = culture_ghost
+religion = religion_arcane
+
+hre = no
+trade_goods = artifacts
+
+
+
+
+626.1.1 = {
+	capital = "Violet Stand" 
+	owner = A18
+	controller = A18
+	add_core = A18
+	culture = culture_dalaran
+	religion = religion_arcane
+}

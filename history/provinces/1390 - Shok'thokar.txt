@@ -1,0 +1,27 @@
+# 1390
+is_city = no
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+owner = B22
+controller = B22
+add_core = B22
+
+culture = culture_magram
+religion = religion_ancestral
+
+hre = no
+trade_goods = grain
+
+
+
+
+631.1.1 = { 
+	owner = B90
+	controller = B90
+	add_core = B90 
+	culture = culture_burning_blade
+	religion = religion_fel
+}

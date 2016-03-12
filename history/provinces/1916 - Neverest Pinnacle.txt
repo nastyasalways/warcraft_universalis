@@ -1,0 +1,17 @@
+# 1916
+is_city = yes
+
+base_tax = 2
+base_manpower = 1
+base_production = 2
+
+
+culture = culture_grummle
+religion = religion_celestial
+
+hre = no
+trade_goods = fur
+
+
+
+

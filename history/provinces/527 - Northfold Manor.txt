@@ -1,0 +1,28 @@
+# 527 Northfold Manor
+is_city = yes
+
+add_core = A16
+owner = A16
+controller = A16
+capital = "Northfold Manor"
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+culture = culture_arathi
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = grain
+ 
+
+ 
+
+# Rise of the Qiraji
+622.1.1 = {
+	owner = A26
+	controller = A26
+	add_core = A26
+	culture = culture_alterac
+}

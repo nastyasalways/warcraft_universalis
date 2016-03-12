@@ -1,0 +1,26 @@
+# 1591
+is_city = no
+
+base_tax = 7
+base_manpower = 7
+base_production = 7
+
+
+culture = culture_fel_orc
+religion = religion_fel
+
+hre = no
+trade_goods = army_supplies
+
+617.1.1 = { 
+owner = A36
+controller = A36
+add_core = A36
+}
+
+622.1.1 = { 
+owner = B89
+controller = B89
+add_core = B89
+trade_goods = fel
+}

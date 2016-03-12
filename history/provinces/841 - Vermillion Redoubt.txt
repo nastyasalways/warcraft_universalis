@@ -1,0 +1,21 @@
+# 841
+is_city = yes
+
+add_core = B03
+owner = B03
+controller = B03
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_red
+religion = religion_sect_of_dragons
+
+hre = no
+trade_goods = flying_mounts
+
+
+
+

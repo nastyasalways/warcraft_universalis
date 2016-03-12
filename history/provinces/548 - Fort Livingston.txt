@@ -1,0 +1,30 @@
+# 548
+is_city = yes
+
+owner = A69
+controller = A69
+add_core = A69
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+
+culture = culture_skullsplitter
+religion = religion_loa
+
+hre = no
+trade_goods = army_supplies
+
+
+
+
+# Cataclysm
+631.1.1 = { 
+owner = A01
+controller = A01
+add_core = A01
+culture = culture_azerothian
+religion = religion_church_of_the_light 
+}
+

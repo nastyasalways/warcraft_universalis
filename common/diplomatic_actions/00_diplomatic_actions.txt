@@ -1,6 +1,6 @@
 # INSTRUCTIONS:
 #
-# trigger				A diplomatic action can have any number of trigger blocks, each with its own
+# condition				A diplomatic action can have any number of condition blocks, each with its own
 #						tooltip, potential and allow section
 #
 # 	tooltip					Sets a custom text string similar to the hardcoded limits
@@ -63,7 +63,7 @@
 # support_heir
 
 royal_marriage = {
-	trigger = {
+	condition = {
 		tooltip = MARWAR
 		potential = {
 		}
@@ -74,7 +74,7 @@ royal_marriage = {
 }
 
 annexationaction = {
-	trigger = {
+	condition = {
 		tooltip = ANNEX_TOO_LOW
 		potential = {
 			FROM = {
@@ -90,7 +90,7 @@ annexationaction = {
 			}
 		}
 	}
-	#trigger = {
+	#condition = {
 	#	tooltip = ANNEXINVALID
 	#	potential = {
 	#		FROM = {
@@ -109,7 +109,7 @@ annexationaction = {
 }
 
 integrationaction = {
-	trigger = {
+	condition = {
 		tooltip = INTEGRATETOOLOWDESC
 		potential = {
 			senior_union_with = FROM
@@ -123,7 +123,7 @@ integrationaction = {
 			}
 		}
 	}
-	#trigger = {
+	#condition = {
 	#	tooltip = INTEGRATEINVALID
 	#	potential = {
 	#		senior_union_with = FROM
@@ -140,7 +140,7 @@ integrationaction = {
 }
 
 vassalaction = {
-	trigger = {
+	condition = {
 		tooltip = VASSALINVALID
 		potential = {
 		}
@@ -158,7 +158,7 @@ vassalaction = {
 }
 
 protectorateaction = {
-	trigger = {
+	condition = {
 		tooltip = HORDENOPROTECTORATE
 		potential = {
 		}
@@ -171,7 +171,7 @@ protectorateaction = {
 }
 
 ask_for_protection_action = {
-	trigger = {
+	condition = {
 		tooltip = HORDENOPROTECTORATE
 		potential = {
 		}
@@ -182,7 +182,7 @@ ask_for_protection_action = {
 }
 
 form_coalition = {
-	trigger = {
+	condition = {
 		tooltip = MINAGGRESSIVEEXPANSION
 		potential = {	
 		}
@@ -195,7 +195,7 @@ form_coalition = {
 				has_opinion_modifier = {
 					modifier = aggressive_expansion
 					who = FROM
-					value = -30
+					value = -50
 				}
 			}
 		}

@@ -1,0 +1,29 @@
+# 1861
+is_city = yes
+
+owner = E45
+controller = E45
+add_core = E45
+
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_osul
+religion = religion_fire
+
+hre = no
+trade_goods = oil
+
+
+
+
+632.1.1 = {
+owner = E37
+controller = E37
+add_core = E37
+culture = culture_shado_pan
+religion = religion_celestial
+}

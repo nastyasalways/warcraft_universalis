@@ -1,0 +1,48 @@
+# 1961
+is_city = yes
+
+owner = A30
+controller = A30
+add_core = A30
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_dark_iron
+religion = religion_fire
+
+hre = no
+trade_goods = thorium
+
+
+
+598.1.1 = { 
+owner = E98
+controller = E98
+add_core = E98
+culture = culture_blackrock
+religion = religion_fel 
+}
+
+# Beyond the Dark Portal
+600.1.1 = { 
+owner = XXX
+controller = XXX
+remove_core = E98
+culture = culture_dark_iron
+religion = religion_fire 
+}
+
+630.11.11 = { 
+owner = XXX
+controller = XXX
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = F25
+controller = F25
+add_core = F25
+religion = religion_arcane }

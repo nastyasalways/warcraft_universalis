@@ -1,7 +1,18 @@
 # Shao Tien
-government 		= despotic_monarchy
-mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+government 			= warband_gov
+mercantilism 		= 0.1 
+technology_group 	= tech_mogu
+religion			= religion_titan
+primary_culture 	= culture_shao_tien
 capital 			= 1
+
+546.1.1 = { 
+	monarch = { 
+		name = "Zhao-jin" 
+		dynasty = "the Bloodletter" 
+		adm = 4
+		dip = 4
+		mil = 4
+	} 
+} 
+

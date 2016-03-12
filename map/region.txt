@@ -1,319 +1,288 @@
-# A province can belong to several regions.
-
-
-
-# Old
-northern_america = { 
-}
-
-northeastern_america = { 
-}
-
-eastern_america = {
- 
-}
-
-western_america = {
- 
-}
-
-northwestern_america = {
-	
-}
-
-the_mississippi_region = {
-	
-}
-
-great_plains = {
-	
-}
-
-the_thirteen_colonies = {
- 
-}
-
-central_america = {
-	 
-}
-
-the_carribean = {
-	
-}
-
-the_spanish_main = {
-	
-}
-
-la_plata_region = {
-	 
-}
-
-brazil_region = {
-	
-}
-
-the_andes = {
-	
-}
-
-amazonas = {
-	 
-}
-
-spanish_region = {
-}
-
-iberian_peninsula = {
-}
-
-andalusia = {
-}
-
-italian_region = {
-}
-
-lombardia = {
-}
-
-two_sicilies = {
-}
-
-the_low_countries = {
-}
- 
-spanish_netherlands = {
-}
-
-german_region = {
-}
-
-western_balkans = {
-}
-
-eastern_balkans = {
-}
-
-croatian_region = {
-}
-
-serbian_region = {
-}
-
-greece_region = {
-}
-
-dacia = {
-}
-
-bulgarian_region = {
-}
-
-turkey = {
-}
-
-asia_minor = {
-}
-
-anatolia = {
-}
-
-wielkopolska = {
-}
-
-malopolska = {
-}
-
-the_baltics = {
-}
-
-lithuanian_region = {
-}
-
-belarus = {
-}
-
-hungarian_region = {
-}
-
-ukrainian_region = {
-}
-
-icelandic_region = {
-}
-
-shetland_and_faroarna = {
-}
-
-british_isles = {
-}
-
-great_britain_region = {
-}
-
-irish_region = {
-}
-
-highlands = {
-}
-
-lowlands = {
-}
-
-northumbria = {
-}
-
-mercia = {
-}
-
-welsh_region = {
-}
-
-essex = {
-}
-
-french_region = {
-}
-
-gallia = {
-}
-
-breton_region = {
-}
-
-aquitania = {
-}
-
-occitania = {
-}
-
-scandinavian_region = {
-}
-
-swedish_region = {
-}
-
-finnish_region = {
-}
-
-danish_region = {
-}
-
-norwegian_region = {
-}
-
-franconia = {
-}
-
-lotharingia = {
-}
-
-swabia = {
-}
-
-helvetia = {
-}
-
-austrian_region = {
-}
-
-bohemian_region = {
-}
-
-westphalian_region = {
-}
-
-russian_region = {
-}
-
-western_siberia = {
-}
-
-eastern_siberia = {
-}
-
-kaffa_and_azow = {
-}
-
-eastasian_trade_ports = {
-}
-
-mongolia = {
-}
-
-manchuria = {
-}
-
-korean_region = {
-}
-
-chinese_region = {
-}
-
-chinese_coast = {
-}
-
-japanese_region = {
-}
-
-new_zealand_region = {
-}
-
-australian_coast = {
-}
-
-indonesian_region = {
-}
-
-indian_coast = {
-}
-
-indian_region = {
-}
-
-persian_region = {
-}
-
-central_asia = {
-}
-
-middle_east = {
-}
-
-atlantic_ocean_islands = {
-}
-
-mascarene_islands = {
-}
-
-indian_ocean_islands = {
-}
-
-pacific_ocean_islands = {
-}
-
-spice_islands = {
-}
-
-
-
-east_asian_cot = {
-}
-
-west_african_coast = {
-}
-
-south_africa = {
-}
-
-central_africa = {
-}
-
-north_africa = {
-}
-
-kongo = {
-}
-
-funj_spawning_region = {
+# A province can belong to several areas.
+
+random_new_world_region = {
+	discover_if = {
+		always = no
+	}
+}
+
+# Warcraft
+# Eastern Kingdoms
+
+eastern_kingdoms_region = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_eastern_kingdoms
+		}
+	}
+	areas = {
+		area_isle_of_quel_danas
+		area_eversong_woods
+		area_ghostlands
+		area_eastern_plaguelands
+		area_western_plaguelands
+		area_tirisfal_glades
+		area_silverpine_forest
+		area_hillsbrad_foothills
+		area_gilneas
+		area_tol_barad
+		area_zul_dare
+		area_kul_tiras
+		area_arathi_highlands
+		area_the_hinterlands
+		area_wetlands
+		area_twilight_highlands
+		area_loch_modan
+		area_dun_morogh
+		area_badlands
+		area_searing_gorge
+		area_burning_steppes
+		area_redridge_mountains
+		area_elwynn_forest
+		area_swamp_of_sorrows
+		area_blasted_lands
+		area_deadwind_pass
+		area_duskwood
+		area_westfall
+		area_stranglethorn_vale
+		area_stormwind
+		area_zul_aman
+	}
+}
+
+kalimdor_region = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_kalimdor
+		}
+	}
+	discover_if = {
+		capital_scope = {
+			continent = continent_exodar
+		}
+	}
+	discover_if = {
+		capital_scope = {
+			continent = continent_darnassus
+		}
+	}
+	areas = {
+		area_moonglade
+		area_darkshore
+		area_winterspring
+		area_felwood
+		area_mount_hyjal
+		area_ashenvale
+		area_azshara
+		area_durotar
+		area_northern_barrens
+		area_stonetalon_mountains
+		area_desolace
+		area_mulgore
+		area_southern_barrens
+		area_dustwallow_marsh
+		area_thousand_needles
+		area_feralas
+		area_silithus
+		area_un_goro_crater
+		area_tanaris
+		area_uldum
+		area_ahn_qiraj
+	}
+}
+
+northrend_region = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_northrend
+		}
+	}
+	areas = {
+		area_borean_tundra
+		area_wintergrasp
+		area_dragonblight
+		area_sholazar_basin
+		area_icecrown
+		area_storm_peak
+		area_zul_drak
+		area_grizzly_hills
+		area_crystalsong
+		area_howling_fjord
+	}
+}
+
+exodar_region = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_kalimdor
+		}
+	}
+	discover_if = {
+		capital_scope = {
+			continent = continent_exodar
+		}
+	}
+	discover_if = {
+		capital_scope = {
+			continent = continent_darnassus
+		}
+	}
+	areas = {
+		area_bloodmyst_isle
+		area_azuremyst_isle
+	}
+}
+
+darnassus_region = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_kalimdor
+		}
+	}
+	discover_if = {
+		capital_scope = {
+			continent = continent_exodar
+		}
+	}
+	discover_if = {
+		capital_scope = {
+			continent = continent_darnassus
+		}
+	}
+	areas = {
+		area_teldrassil
+	}
+}
+
+outland_region = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_outland
+		}
+	}
+	areas = {
+		area_hellfire_peninsula
+		area_zangermarsh
+		area_terokkar_forest
+		area_nagrand
+		area_shadowmoon_valley
+		area_blades_edge_mountains
+		area_netherstorm
+	}
+}
+
+maelstrom_region = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_maelstrom
+		}
+	}
+	areas = {
+		area_the_lost_isles
+	}
+}
+
+pandaria_region = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_pandaria
+		}
+	}
+	areas = {
+		area_hidden_valley
+		area_isle_of_thunder
+		area_isle_of_giants
+		area_the_jade_forest
+		area_valley_of_the_four_winds
+		area_krasarang_wilds
+		area_dread_wastes
+		area_vale_of_eternal_blossoms
+		area_townlong_steppes
+		area_kun_lai_summit
+	}
+}
+
+# Seas
+eastern_ocean = {
+	areas = {
+		area_ek_east
+	}
+}
+
+western_ocean = {
+	areas = {
+		area_kalimdor_west
+	}
+}
+
+eastern_seas = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_eastern_kingdoms
+		}
+	}
+	areas = {
+		area_ek_south_coast
+		area_ek_central_coast
+		area_ek_north_coast
+	}
+}
+
+western_seas = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_kalimdor
+		}
+	}
+	discover_if = {
+		capital_scope = {
+			continent = continent_exodar
+		}
+	}
+	discover_if = {
+		capital_scope = {
+			continent = continent_darnassus
+		}
+	}
+	areas = {
+		area_kalimdor_south_coast
+		area_kalimdor_north_coast
+	}
+}
+
+northern_seas = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_northrend
+		}
+	}
+	areas = {
+		area_northrend_coast
+		area_kalimdor_north_east
+		area_ek_north_west
+	}
+}
+
+central_seas = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_maelstrom
+		}
+	}
+	areas = {
+		area_maelstrom_seas
+	}
+}
+
+southern_seas = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_pandaria
+		}
+	}
+	areas = {
+		area_pandaria_coast
+		area_kalimdor_south_east
+		area_ek_south_west
+	}
 }

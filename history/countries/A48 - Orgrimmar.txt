@@ -1,7 +1,44 @@
 # Orgrimmar
-government 		= despotic_monarchy
+government 			= warband_gov
 mercantilism 		= 0.1
 technology_group 	= tech_orc
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+religion			= religion_ancestral
+primary_culture 	= culture_horde
+capital 			= 1377
+
+
+617.1.1 = { 
+	monarch = { 
+		name = "Thrall" 
+		dynasty = "Durotan" 
+		adm = 4
+		dip = 5
+		mil = 3
+                
+	} 
+historical_friend = A61
+historical_friend = A35
+}
+
+618.1.1 = {
+historical_friend = A70
+}
+
+631.1.1 = {
+	monarch = { 
+		name = "Garrosh" 
+		dynasty = "Hellscream" 
+		adm = 4
+		dip = 3
+		mil = 4
+	} 
+}
+633.1.1 = {
+	monarch = { 
+		name = "Vol'jin" 
+		dynasty = "Darkspear" 
+		adm = 4
+		dip = 4
+		mil = 4
+	} 
+}

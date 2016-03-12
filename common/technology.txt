@@ -9,6 +9,10 @@
 groups = {
 	# Warcraft
 	# Standard
+	
+	#######################
+	# Has Units: Yes
+	#######################
 	tech_human = {
 		modifier = 0
 		start_level = 1
@@ -16,6 +20,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: Yes
+	#######################
 	tech_gnome = {
 		modifier = 0
 		start_level = 1
@@ -23,13 +30,9 @@ groups = {
 		trade_company = yes
 	}
 
-        tech_dwarf = {
-		modifier = 0
-		start_level = 1
-		cav_to_inf_ratio = 0.5
-		trade_company = yes
-	}
-
+	#######################
+	# Has Units: Yes
+	#######################
 	tech_darnassian = {
 		modifier = 0
 		start_level = 1
@@ -37,6 +40,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: Yes
+	#######################
 	tech_thalassian = {
 		modifier = 0
 		start_level = 1
@@ -44,13 +50,19 @@ groups = {
 		trade_company = yes
 	}
 	
-	tech_vrykul = {
+	#######################
+	# Has Units: Yes
+	#######################
+	tech_dwarven = {
 		modifier = 0
 		start_level = 1
 		cav_to_inf_ratio = 0.5
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: Yes
+	#######################
 	tech_orc = {
 		modifier = 0
 		start_level = 1
@@ -58,6 +70,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	########################
+	# Has Units: No
+	#######################
 	tech_ogre = {
 		modifier = 0
 		start_level = 1
@@ -65,6 +80,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: Yes
+	#######################
 	tech_draenei = {
 		modifier = 0
 		start_level = 1
@@ -72,6 +90,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: Yes
+	#######################
 	tech_troll = {
 		modifier = 0
 		start_level = 1
@@ -79,6 +100,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: Yes
+	#######################
 	tech_goblin = {
 		modifier = 0
 		start_level = 1
@@ -86,6 +110,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: Yes
+	#######################
 	tech_tauren = {
 		modifier = 0
 		start_level = 1
@@ -93,6 +120,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: Yes
+	#######################
 	tech_aqir = {
 		modifier = 0
 		start_level = 1
@@ -100,6 +130,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: Yes
+	#######################
 	tech_demonic = {
 		modifier = 0
 		start_level = 1
@@ -107,6 +140,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: No
+	#######################
 	tech_satyr = {
 		modifier = 0
 		start_level = 1
@@ -114,6 +150,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: Yes
+	#######################
 	tech_naga = {
 		modifier = 0
 		start_level = 1
@@ -121,6 +160,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: No
+	#######################
 	tech_depths = {
 		modifier = 0
 		start_level = 1
@@ -128,6 +170,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: Yes
+	#######################
 	tech_old_god = {
 		modifier = 0
 		start_level = 1
@@ -135,6 +180,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: Yes
+	#######################
 	tech_scourge = {
 		modifier = 0
 		start_level = 1
@@ -142,6 +190,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: Yes
+	#######################
 	tech_dragonkin = {
 		modifier = 0
 		start_level = 1
@@ -149,6 +200,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: Yes
+	#######################
 	tech_undead = {
 		modifier = 0
 		start_level = 1
@@ -156,6 +210,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: No
+	#######################
 	tech_gnoll = {
 		modifier = 0
 		start_level = 1
@@ -163,6 +220,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: No
+	#######################
 	tech_centaur = {
 		modifier = 0
 		start_level = 1
@@ -170,6 +230,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: No
+	#######################
 	tech_furbolg = {
 		modifier = 0
 		start_level = 1
@@ -177,6 +240,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: No
+	#######################
 	tech_wolfvar = {
 		modifier = 0
 		start_level = 1
@@ -184,6 +250,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: No
+	#######################
 	tech_gorloc = {
 		modifier = 0
 		start_level = 1
@@ -191,6 +260,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: No
+	#######################
 	tech_kobold = {
 		modifier = 0
 		start_level = 1
@@ -198,6 +270,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: No
+	#######################
 	tech_harpy = {
 		modifier = 0
 		start_level = 1
@@ -205,6 +280,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: No
+	#######################
 	tech_quillboar = {
 		modifier = 0
 		start_level = 1
@@ -212,6 +290,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: No
+	#######################
 	tech_titan = {
 		modifier = 0
 		start_level = 1
@@ -219,6 +300,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: Yes
+	#######################
 	tech_elemental = {
 		modifier = 0
 		start_level = 1
@@ -226,6 +310,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: No
+	#######################
 	tech_worgen = {
 		modifier = 0
 		start_level = 1
@@ -233,6 +320,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: No
+	#######################
 	tech_arrakoa = {
 		modifier = 0
 		start_level = 1
@@ -240,6 +330,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: No
+	#######################
 	tech_tuskarr = {
 		modifier = 0
 		start_level = 1
@@ -247,6 +340,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: Yes
+	#######################
 	tech_pandaren = {
 		modifier = 0
 		start_level = 1
@@ -254,6 +350,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: No
+	#######################
 	tech_mantid = {
 		modifier = 0
 		start_level = 1
@@ -261,6 +360,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: Yes
+	#######################
 	tech_mogu = {
 		modifier = 0
 		start_level = 1
@@ -268,6 +370,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: No
+	#######################
 	tech_yaungol = {
 		modifier = 0
 		start_level = 1
@@ -275,6 +380,9 @@ groups = {
 		trade_company = yes
 	}
 	
+	#######################
+	# Has Units: No
+	#######################
 	tech_ethereal = {
 		modifier = 0
 		start_level = 1
@@ -282,69 +390,26 @@ groups = {
 		trade_company = yes
 	}
 	
-	# Old
-	western = {
+	#######################
+	# Has Units: Yes
+	#######################
+	tech_primitive = {
 		modifier = 0
-		start_level = 3
+		start_level = 1
 		cav_to_inf_ratio = 0.5
 		trade_company = yes
 	}
-	eastern = {
-		modifier = 0.20
-		start_level = 3
-		cav_to_inf_ratio = 0.6
-	}
-	ottoman = {
-		modifier = 0.25
-		start_level = 3
-		cav_to_inf_ratio = 0.5
-	}
-	muslim = {
-		modifier = 0.40
-		start_level = 3
-		cav_to_inf_ratio = 0.8
-	}
-	indian = {
-		modifier = 0.5
-		start_level = 2
-		cav_to_inf_ratio = 0.5
-	}
-	chinese = {
-		modifier = 0.6
-		start_level = 2
-		cav_to_inf_ratio = 0.5
-	}
-	nomad_group = {
-		modifier = 0.75
-		start_level = 3
-		cav_to_inf_ratio = 1.0
-	}
-	sub_saharan = {
-		modifier = 0.6
-		start_level = 2
-		cav_to_inf_ratio = 0.5
-	}
-	north_american = {
-		modifier = 2.5
+	
+	#######################
+	# Has Units: Yes
+	# Need tech icon
+	#######################
+	tech_vrykul = {
+		modifier = 0
 		start_level = 1
 		cav_to_inf_ratio = 0.5
+		trade_company = yes
 	}
-	mesoamerican = {
-		modifier = 1.5
-		start_level = 1
-		cav_to_inf_ratio = 0.5
-	}
-	south_american = {
-		modifier = 2.5
-		start_level = 1
-		cav_to_inf_ratio = 0.5
-	}
-	andean = {
-		modifier = 1.5
-		start_level = 1
-		cav_to_inf_ratio = 0.5
-		valid_for_nation_designer = no
-	}	
 }
 
 tables = {

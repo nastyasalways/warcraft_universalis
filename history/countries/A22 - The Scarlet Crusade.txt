@@ -1,7 +1,68 @@
 # The Scarlet Crusade
-government 		= despotic_monarchy
+government 	        = militaristic_order
+government_rank 	= 2
 mercantilism 		= 0.1
 technology_group 	= tech_human
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+religion			= religion_church_of_the_light
+primary_culture 	= culture_lordaeron
+capital 			= 539
+
+622.1.1 = { 
+religion = religion_scarlet_light # Fall of Alexandros Mograine
+
+monarch = { 
+     name = "Saiden" 
+     dynasty = "Dathrohan" 
+		adm = 3
+		dip = 3
+		mil = 4
+ 	} 
+
+heir = { 
+     name = "Brigitte" 
+     dynasty = "Abbendis" 
+		adm = 4
+		dip = 3
+		mil = 5
+           female = yes
+           birth_date = 599.12.11
+ 	} 
+} 
+
+625.1.1 = {
+
+monarch = { 
+     name = "Brigitte" 
+     dynasty = "Abbendis" 
+		adm = 4
+		dip = 3
+		mil = 5
+           female = yes
+           birth_date = 599.12.11
+ 	} 
+
+heir = { 
+     name = "Sally" 
+     dynasty = "Whitemane" 
+		adm = 4
+		dip = 3
+		mil = 5
+           female = yes
+           birth_date = 604.8.11
+       }
+}
+
+626.1.1 = {
+government_rank = 1
+monarch = { 
+     name = "Sally" 
+     dynasty = "Whitemane" 
+		adm = 4
+		dip = 3
+		mil = 5
+           female = yes
+           birth_date = 604.8.11
+ 	} 
+}
+
+

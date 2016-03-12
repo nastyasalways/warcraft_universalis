@@ -1,0 +1,22 @@
+# Wolfcult
+government 			= cult_gov
+mercantilism 		= 0.1 
+technology_group 	= tech_worgen
+religion			= religion_shadow
+primary_culture 	= culture_wolfcult
+capital 			= 1
+
+618.1.1 = { 
+
+	monarch =
+	{ 
+		name = "Gutspill" 
+			 
+		dynasty = "Nightbane" 
+				
+		adm = 3		
+		dip = 3
+		mil = 4	
+	} 
+
+} 

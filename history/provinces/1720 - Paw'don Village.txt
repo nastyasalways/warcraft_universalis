@@ -1,0 +1,28 @@
+# 1720
+is_city = yes
+
+owner = E63
+controller = E63
+add_core = E63
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_jade_serpent
+religion = religion_celestial
+
+hre = no
+trade_goods = ale
+
+
+
+
+
+632.1.1 = { 
+owner = E36
+controller = E36
+add_core = E36
+remove_core = E63 
+}

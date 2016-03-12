@@ -1,0 +1,16 @@
+# 1518 Hive Regal
+is_city = yes
+
+base_tax = 6
+base_manpower = 7
+base_production = 6
+
+owner = A98
+controller = A98
+add_core = A98
+
+culture = culture_silithid
+religion = religion_old_gods
+
+hre = no
+trade_goods = grain

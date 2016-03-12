@@ -1,0 +1,40 @@
+# 1779
+is_city = yes
+
+owner = E65
+controller = E65
+add_core = E65
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_red_crane
+religion = religion_celestial
+
+hre = no
+trade_goods = artifacts
+
+
+
+
+632.1.1 = {
+owner = B84
+controller = B84
+add_core = B84
+religion = religion_old_gods
+culture = culture_sha
+}
+
+# Warlords of Draenor
+633.1.1 = { 
+owner = E37
+controller = E37
+add_core = E37
+add_core = A48
+remove_core = B84
+religion = religion_celestial
+culture = culture_red_crane
+}
+

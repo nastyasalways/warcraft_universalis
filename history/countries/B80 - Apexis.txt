@@ -1,7 +1,7 @@
 # Apexis
-government 		= despotic_monarchy
+government 			= administrative_kingdom
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_arrakoa
+religion			= religion_terokk
+primary_culture 	= culture_apexis
 capital 			= 1

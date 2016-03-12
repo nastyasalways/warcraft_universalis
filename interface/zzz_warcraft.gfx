@@ -3,14 +3,14 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_icon_religion"
 		texturefile = "gfx/interface/icon_religion.tga"
-		noOfFrames = 16
+		noOfFrames = 32
 		norefcount = yes
 	}
 	
 	spriteType = {
 		name = "GFX_icon_religion_small"
 		texturefile = "gfx/interface/icon_religion_small.tga"
-		noOfFrames = 16
+		noOfFrames = 32
 		loadType = "INGAME"
 	}
 	
@@ -18,13 +18,13 @@ spriteTypes = {
 		name = "GFX_religion_icon_strip"
 		texturefile = "gfx/interface/icon_religion_small.dds"
 		transparencecheck = yes
-		noOfFrames = 16
+		noOfFrames = 32
 	}
 	
 	spriteType = {
 		name = "GFX_province_view_religion"
 		texturefile = "gfx/interface/province_view_religion.tga"
-		noOfFrames = 16
+		noOfFrames = 32
 		loadType = "INGAME"
 		allwaystransparent = yes
 	}
@@ -33,12 +33,108 @@ spriteTypes = {
 		name = "GFX_tech_group_strip"
 		texturefile = "gfx/interface/tech_group_strip.dds"
 		transparencecheck = yes	
-		noOfFrames = 16
+		noOfFrames = 51
 	}	
 	
 	spriteType = {
 		name = "GFX_hindu_deities_strip"
 		texturefile = "gfx//interface//hindu_deities_strip.dds"
 		noOfFrames = 14
+	}
+	
+	spriteType = {
+		name = "GFX_resource_icon"
+		texturefile = "gfx//interface//resources.tga"
+		noOfFrames = 57
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_resource_icon_small"
+		texturefile = "gfx//interface//resources_small.dds"
+		noOfFrames = 57
+		loadType = "INGAME"
+	}	
+	
+	spriteType = {
+		name = "GFX_resource_icon_transparent"
+		texturefile = "gfx//interface//resources.tga"
+		noOfFrames = 57
+		loadType = "INGAME"
+		
+		allwaystransparent = yes
+	}
+	
+	# Estates
+	spriteType = {
+		name = "GFX_estates_icons"
+		texturefile = "gfx//interface//estates_icons.dds"
+		noOfFrames = 100
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_estates_interactions"
+		texturefile = "gfx//interface//estates_icons.dds"
+		noOfFrames = 100
+	}	
+	
+	spriteType = {
+		name = "GFX_estate_interactions"
+		texturefile = "gfx//interface//estate_interactions_strip.dds"
+		noOfFrames = 200
+		loadType = "INGAME"
+	}
+	
+	# Terrain
+	# Colony
+	# 332 x 84
+	spriteType = {
+		name = "GFX_colony_terrain_burnt_earth"
+		texturefile = "gfx/interface/colony_terrain_burnt_earth.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_colony_terrain_silvermoon"
+		texturefile = "gfx/interface/colony_terrain_silvermoon.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_colony_terrain_frozen_wastes"
+		texturefile = "gfx/interface/colony_terrain_frozen_wastes.dds"
+	}
+	
+	# Combat
+	# 388 x 80
+	spriteType = {
+		name = "GFX_combat_terrain_burnt_earth"	
+		texturefile = "gfx//interface//combat_terrain_burnt_earth.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_combat_terrain_silvermoon"	
+		texturefile = "gfx//interface//combat_terrain_silvermoon.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_combat_terrain_frozen_wastes"	
+		texturefile = "gfx//interface//combat_terrain_frozen_wastes.dds"
+	}
+	
+	#Resource icons
+	spriteType = {
+		name = "GFX_resource_icon"
+		texturefile = "gfx//interface//resources.tga"
+		noOfFrames = 57
+		loadType = "INGAME"
+		
+	}
+	spriteType = {
+		name = "GFX_resource_icon_transparent"
+		texturefile = "gfx//interface//resources.tga"
+		noOfFrames = 57
+		loadType = "INGAME"
+		
+		allwaystransparent = yes
 	}
 }

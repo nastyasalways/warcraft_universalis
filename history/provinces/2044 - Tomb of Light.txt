@@ -1,0 +1,24 @@
+# 2044
+is_city = no
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_kareshi
+religion = religion_arcane
+
+hre = no
+trade_goods = crypts
+
+
+
+
+# The Third War
+617.1.1 = {
+owner = E21
+controller = E21
+add_core =  E21
+}
+

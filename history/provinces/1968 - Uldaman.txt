@@ -1,0 +1,20 @@
+# 1968 Uldaman
+is_city = yes
+
+owner = E57
+controller = E57
+add_core = B74
+add_core = E57
+
+base_tax = 3
+base_manpower = 5
+base_production = 4
+
+culture = culture_trogg
+religion = religion_geomancy
+
+hre = no
+trade_goods = artifacts
+
+
+

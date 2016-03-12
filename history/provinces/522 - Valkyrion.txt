@@ -1,0 +1,25 @@
+# 522
+is_city = no
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+owner = E16
+controller = E16
+add_core = E16
+
+culture = culture_brunnhilde
+religion = religion_titan
+
+hre = no
+trade_goods = grain
+
+
+
+
+626.1.1 = { 
+add_core = E11
+controller = E11
+owner = E11
+religion = religion_the_damned }

@@ -1,0 +1,32 @@
+# 1037
+
+is_city = yes
+
+owner = E60
+controller = E60
+add_core = E60
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+
+culture = culture_nerglish
+religion = religion_water
+
+hre = no
+trade_goods = fish
+
+
+
+
+# Cataclysm
+631.1.1 = { 
+owner = F36
+controller = F36
+add_core = F36
+remove_core = E60
+culture = culture_nazja
+religion = religion_old_gods
+}

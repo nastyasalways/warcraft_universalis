@@ -1,0 +1,344 @@
+namespace = story
+
+# Credit to Master_Jinora for the event ideas
+
+# Balnazzar's Reveal
+country_event = {
+	id = story.1
+	title = story.1.title
+	desc = story.1.desc
+	picture = ASSASSINATION_eventPicture
+	
+	major = yes
+	
+	trigger = {
+		tag = A22 # Scarlet Crusade
+		OR = {
+			NOT = { stability = -2 }
+			dominant_culture = culture_forsaken
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = story.1.option.a
+		
+		change_tag = X01 # The Risen
+		change_government = scourge_gov
+		change_primary_culture = culture_forsaken
+		change_religion = religion_the_damned
+		every_owned_province = {
+			change_culture = culture_forsaken
+			change_religion = religion_the_damned
+		}
+		add_stability = 6
+		
+		if = {
+			limit = {	
+				1011 = {
+					NOT = { owned_by = ROOT }
+				}
+			}
+			1011 = {
+				cede_province = ROOT
+			}
+		}
+		
+		if = {
+			limit = {	
+				1028 = {
+					NOT = { owned_by = ROOT }
+				}
+			}
+			1028 = {
+				cede_province = ROOT
+			}
+		}
+		
+		
+		if = {
+			limit = {	
+				519 = {
+					NOT = { owned_by = ROOT }
+				}
+			}
+			519 = {
+				cede_province = ROOT
+			}
+		}
+		
+		if = {
+			limit = {	
+				539 = {
+					NOT = { owned_by = ROOT }
+				}
+			}
+			539 = {
+				cede_province = ROOT
+			}
+		}
+		
+		define_ruler = {
+			name = "Balnazzar"
+			dynasty = ""
+			ADM = 3
+			DIP = 1
+			MIL = 6
+			attach_leader = "Balnazzar"
+		}
+	}
+}
+
+# Insidious Happenings 
+country_event = {
+	id = story.2
+	title = story.2.title
+	desc = story.2.desc
+	picture = ANGRY_MOB_eventPicture
+	
+	trigger = {
+		tag = A22 # Scarlet Crusade
+		NOT = { stability = 0 }
+		any_owned_province = {
+			is_capital = no
+			NOT = { culture = culture_forsaken }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = story.2.option.a
+		
+		random_owned_province = {
+			limit = { is_capital = no }
+		
+			change_culture = culture_forsaken
+		}
+	}
+}
+
+# The True Horde Rises
+country_event = {
+	id = story.3
+	title = story.3.title
+	desc = story.3.desc
+	picture = ELECTION_REPUBLICAN_eventPicture
+	
+	is_triggered_only = yes
+	trigger = {
+		tag = A48
+		area_durotar = {
+			owned_by = ROOT
+		}
+		1456 = {
+			owned_by = ROOT
+		}
+		NOT = { 
+			has_opinion = {
+				who = A70 # Darkspear
+				value = 0
+			}
+		}
+		NOT = { 
+			has_opinion = {
+				who = E14 # The Forsaken
+				value = 0
+			}
+		}
+		NOT = { 
+			has_opinion = {
+				who = A91 # The Forsaken
+				value = 0
+			}
+		}
+		# Add Thunderbluff
+	}
+	
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = story.3.option.a
+		
+		set_country_flag = true_horde
+		
+		every_subject_country = {
+			ROOT = {
+				inherit = PREV
+			}
+		}
+		
+		add_adm_power = 500
+		add_dip_power = 500
+		add_mil_power = 500
+		
+		capital_scope = {
+			ROOT = {
+				infantry = PREV
+				infantry = PREV
+				infantry = PREV
+				infantry = PREV
+				infantry = PREV
+				infantry = PREV
+				infantry = PREV
+				infantry = PREV
+				infantry = PREV
+				infantry = PREV
+				cavalry = PREV
+				cavalry = PREV
+				cavalry = PREV
+				cavalry = PREV
+				cavalry = PREV
+				artillery = PREV
+				artillery = PREV
+				artillery = PREV
+				artillery = PREV
+				artillery = PREV
+			}
+		}
+		
+		random_owned_province = {
+			limit = { has_port = yes }
+		
+			ROOT = {
+				transport = PREV
+				transport = PREV
+				transport = PREV
+				transport = PREV
+				transport = PREV
+				transport = PREV
+				transport = PREV
+				transport = PREV
+				transport = PREV
+				transport = PREV
+				heavy_ship = PREV
+				heavy_ship = PREV
+				heavy_ship = PREV
+				heavy_ship = PREV
+				heavy_ship = PREV
+				heavy_ship = PREV
+				heavy_ship = PREV
+				heavy_ship = PREV
+				heavy_ship = PREV
+				light_ship = PREV
+				light_ship = PREV
+				light_ship = PREV
+				light_ship = PREV
+				light_ship = PREV
+				light_ship = PREV
+				light_ship = PREV
+				light_ship = PREV
+				light_ship = PREV
+				light_ship = PREV
+				
+			}
+		}
+		
+		add_stability = 6
+	}
+}
+
+country_event = {
+	id = story.4
+	title = story.1.title
+	desc = story.1.desc
+	picture = ELECTION_REPUBLICAN_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = story.1.option.a
+		
+	}
+}
+
+country_event = {
+	id = story.5
+	title = story.1.title
+	desc = story.1.desc
+	picture = ELECTION_REPUBLICAN_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = story.1.option.a
+		
+	}
+}
+
+country_event = {
+	id = story.6
+	title = story.1.title
+	desc = story.1.desc
+	picture = ELECTION_REPUBLICAN_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = story.1.option.a
+		
+	}
+}
+
+country_event = {
+	id = story.7
+	title = story.1.title
+	desc = story.1.desc
+	picture = ELECTION_REPUBLICAN_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = story.1.option.a
+		
+	}
+}
+
+country_event = {
+	id = story.8
+	title = story.1.title
+	desc = story.1.desc
+	picture = ELECTION_REPUBLICAN_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = story.1.option.a
+		
+	}
+}
+
+country_event = {
+	id = story.9
+	title = story.1.title
+	desc = story.1.desc
+	picture = ELECTION_REPUBLICAN_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = story.1.option.a
+		
+	}
+}
+
+country_event = {
+	id = story.10
+	title = story.1.title
+	desc = story.1.desc
+	picture = ELECTION_REPUBLICAN_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = story.1.option.a
+		
+	}
+}

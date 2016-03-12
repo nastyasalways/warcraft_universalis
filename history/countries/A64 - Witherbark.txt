@@ -1,10 +1,21 @@
 # Witherbark
-government 		= warband
+government 			= warband_gov
 mercantilism 		= 0.1
 technology_group 	= tech_troll
 religion			= religion_loa
+secondary_religion = religion_voodoo
 primary_culture 	= culture_witherbark
 capital 			= 942
+
+546.1.1 = {  
+monarch = {  
+      name = "Mai'jin"  
+     dynasty = "Witherbark"  
+ 		adm = 3
+		dip = 3
+		mil = 3 
+  	}  
+  }  
 
 592.1.1 = {  
 monarch = {  
@@ -15,5 +26,7 @@ monarch = {
 		mil = 3 
   	}  
   }  
-  
-  631.1.1 = { capital = 623 }
+
+600.1.1 = {
+historical_friend = A51
+}

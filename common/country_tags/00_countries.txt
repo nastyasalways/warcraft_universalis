@@ -20,7 +20,6 @@
 # Warlords of Draenor
 #	633 KC
 
-
 # Special countries..
 REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"
@@ -51,15 +50,39 @@ A21 = "countries/Wastewander.txt"
 A22 = "countries/The Scarlet Crusade.txt"
 A23 = "countries/Theramore.txt"
 A24 = "countries/The Argent Dawn.txt"
-A25 = "countries/Refuge Point.txt"
+A25 = "countries/Lordaeron Remnants.txt"
 A26 = "countries/Syndicate.txt"
 A27 = "countries/Ravenholdt.txt"
+E59 = "countries/Karazhan.txt"
+E61 = "countries/Tirisfal.txt"
+E62 = "countries/Tyr's Hand.txt"
+E72 = "countries/Wintergarde.txt"
+F04 = "countries/Tol Barad.txt"
+F14 = "countries/Sons of Lothar.txt"
+F16 = "countries/Blackthorn.txt"
+F17 = "countries/Silver Hand.txt"
+F18 = "countries/Scarlet Onslaught.txt"
+F19 = "countries/Argent Crusade.txt"
+F27 = "countries/Elwynn Bandits.txt"
+F28 = "countries/Kurzen.txt"
+F38 = "countries/Valgarde.txt"
+F39 = "countries/Nedreck.txt"
+F40 = "countries/Bloodhill Bandits.txt"
+F52 = "countries/Pyrewood.txt"
+F55 = "countries/Lordaeron Survivors.txt"
+H06 = "countries/Alliance Vanguard.txt"
+F58 = "countries/Theramore Deserters.txt"
+F61 = "countries/Morgans Forces.txt"
 
 # Dwarven
 A28 = "countries/Wildhammer.txt"
 A29 = "countries/Ironforge.txt"
 A30 = "countries/Dark Iron.txt"
 A31 = "countries/Frostborn.txt"
+E56 = "countries/Thorium Brotherhood.txt"
+F25 = "countries/Iron Summit.txt"
+F29 = "countries/Nesingwary.txt"
+F59 = "countries/Bael Modan.txt"
 
 # Gnomish
 A32 = "countries/Gnomeregan.txt"
@@ -81,20 +104,54 @@ A45 = "countries/Dragonmaw.txt"
 A46 = "countries/Frostwolf.txt"
 A47 = "countries/MokNathal.txt"
 A48 = "countries/Orgrimmar.txt"
+A50 = "countries/Thrallmar.txt"
+E98 = "countries/Black Tooth Grin.txt"
+F26 = "countries/Ironmarch.txt"
+F48 = "countries/Fel Dragonmaw.txt"
+H07 = "countries/Horde Expedition.txt"
+F72 = "countries/Mag'har.txt"
+F85 = "countries/Earthen Ring.txt"
 
 # Ogre
 A49 = "countries/Bladespire.txt"
-A50 = "countries/Angorosh.txt"
 A51 = "countries/Boulderfist.txt"
 A52 = "countries/Gordunni.txt"
-A53 = "countries/Ogrila.txt"
+A53 = "countries/Bloodmaul.txt"
 E50 = "countries/Crushridge.txt"
+E96 = "countries/Dreadmaul.txt"
+E97 = "countries/Splinterfist.txt"
+E99 = "countries/Firegut.txt"
+F01 = "countries/Stonespire.txt"
+F05 = "countries/Mo'grosh.txt"
+F06 = "countries/Dustbelcher.txt"
+F07 = "countries/Deadwind.txt"
+F08 = "countries/Bloodeye.txt"
+F31 = "countries/Mosh'Ogg.txt"
+F50 = "countries/Outland Boulderfist.txt"
+H05 = "countries/Dunemaul.txt" 
+F57 = "countries/Stonemaul.txt"
+F60 = "countries/Stagecoach.txt"
+F69 = "countries/Ango'rosh.txt"
+F76 = "countries/Ogrila.txt"
+F77 = "countries/Gronn.txt"
+F83 = "countries/Warmaul.txt"
 
 # Draenei
 A54 = "countries/Shattrath.txt"
 A55 = "countries/Karabor.txt"
 A56 = "countries/Exodar.txt"
 A57 = "countries/Ashtoungue Deathsworn.txt"
+F34 = "countries/Harborage.txt"
+F35 = "countries/Fallow Sanctuary.txt"
+F49 = "countries/Auchenai.txt"
+F65 = "countries/Umbrafen.txt"
+F66 = "countries/Feralfen.txt"
+F67 = "countries/Daggerfen.txt"
+F68 = "countries/Kurenai.txt"
+F74 = "countries/Dreghood.txt"
+F75 = "countries/Wrekt.txt"
+F84 = "countries/Murkblood.txt"
+F86 = "countries/Windyreed.txt"
 
 # Forest Troll
 A58 = "countries/Amani.txt"
@@ -105,6 +162,7 @@ A62 = "countries/Mossflayer.txt"
 A63 = "countries/Firetree.txt"
 A64 = "countries/Witherbark.txt"
 A65 = "countries/Smolderthorn.txt"
+E55 = "countries/Shadowglen.txt"
 
 # Jungle Troll
 A66 = "countries/Gurubashi.txt"
@@ -114,9 +172,12 @@ A69 = "countries/Skullsplitter.txt"
 A70 = "countries/Darkspear.txt"
 A71 = "countries/Atalai.txt"
 A72 = "countries/Hakkari.txt"
+E58 = "countries/Zanzil.txt"
+F09 = "countries/Jellyneck.txt"
+F63 = "countries/Zabra'jin.txt"
 
 # Sand Troll
-A73 = "countries/Sandfury.txt"
+A73 = "countries/Sandfury.txt"	# tech_troll
 
 # Frost Troll
 A74 = "countries/Drakkari.txt"
@@ -127,38 +188,51 @@ A77 = "countries/Winterfang.txt"
 # Zandalari Troll
 A78 = "countries/Zandalar.txt"
 
+# Dark Troll
+F47 = "countries/Shadowtooth.txt"
+
 # Goblin
 A79 = "countries/Bilgewater.txt"
 A80 = "countries/Steamwheedle.txt"
 A81 = "countries/Venture Company.txt"
-A82 = "countries/Copperpinch.txt"
+A82 = "countries/Gilblin.txt"
 A83 = "countries/Blackwater.txt"
+F81 = "countries/BOOM.txt"
 
 # Tauren
-A84 = "countries/Bloodhoof.txt"
-A85 = "countries/Grimtotem.txt"
-A86 = "countries/Runetotem.txt"
-A87 = "countries/Mistrunner.txt"
-A88 = "countries/Dawnstrider.txt"
-A89 = "countries/Winterhoof.txt"
+A84 = "countries/Bloodhoof.txt" # tech_tauren
+A85 = "countries/Grimtotem.txt" # tech_tauren
+A86 = "countries/Runetotem.txt" # tech_tauren
+A87 = "countries/Mistrunner.txt" # tech_tauren
+A88 = "countries/Dawnstrider.txt" 
+A89 = "countries/Winterhoof.txt" # tech_tauren
 
 # High Elf
 A90 = "countries/QuelThalas.txt"
 E49 = "countries/Highvale.txt"
+F20 = "countries/Quellithian.txt"
+F54 = "countries/QuelThalas Remnants.txt"
+F56 = "countries/Southvale.txt"
 
 # Blood Elf
 A91 = "countries/Silvermoon.txt"
-A92 = "countries/Sunreaver.txt"
+A92 = "countries/Sunreaver.txt" # tech_thalassian
 A93 = "countries/Sunfury.txt"
 
 # Night Elf
 A94 = "countries/Darnassus.txt"
-A95 = "countries/Nighthaven.txt"
+A95 = "countries/Cenarion Circle.txt" # tech_darnassian
+H01 = "countries/Nordrassil.txt"
+H02 = "countries/Moonglade.txt"
+H03 = "countries/Cenarion Hold.txt"
+F64 = "countries/Cenarion Expedition.txt"
+
 
 # Aqir
-A96 = "countries/AhnKahet.txt"
-A97 = "countries/AhnQiraj.txt"
-A98 = "countries/Silithid.txt"
+A96 = "countries/AhnKahet.txt" # tech_aqir
+A97 = "countries/AhnQiraj.txt" # tech_aqir
+A98 = "countries/Silithid.txt" # tech_aqir
+E74 = "countries/AzjolNerub.txt"
 
 # Dragonkin
 A99 = "countries/Black Dragonflight.txt"
@@ -168,7 +242,8 @@ B03 = "countries/Red Dragonflight.txt"
 B04 = "countries/Green Dragonflight.txt"
 B05 = "countries/Netherwing Dragonflight.txt"
 B06 = "countries/Twilight Dragonflight.txt"
-B07 = "countries/Infinite Dragonflight.txt"
+B07 = "countries/Infinite Dragonflight.txt" # tech_dragonkin
+F78 = "countries/Wyrmcult.txt"
 
 # Vrykul
 B08 = "countries/Dragonflayer.txt"
@@ -185,16 +260,19 @@ B13 = "countries/Mosshide.txt"
 B14 = "countries/Mudsnout.txt"
 B15 = "countries/Riverpaw.txt"
 B16 = "countries/Shadowhide.txt"
-B17 = "countries/Redridge.txt"
+B17 = "countries/Redridge Gnolls.txt"
 B18 = "countries/Palemane.txt"
 B19 = "countries/Rothide.txt"
+F10 = "countries/Woodpaw.txt"
+F41 = "countries/Savage Hill.txt"
 
 # Centaur
-B20 = "countries/Galak.txt"
-B21 = "countries/Gelkis.txt"
-B22 = "countries/Magram.txt"
-B23 = "countries/Mauraudine.txt"
-B24 = "countries/Kolkar.txt"
+B20 = "countries/Galak.txt" # tech_centaur
+B21 = "countries/Gelkis.txt" # tech_centaur
+B22 = "countries/Magram.txt" # tech_centaur 
+B23 = "countries/Mauraudine.txt" # tech_centaur
+B24 = "countries/Kolkar.txt" # tech_centaur
+H04 = "countries/Western Galak.txt" # tech_centaur # AKA: Warcraft's 3 Mulgore Centaur Marauders
 
 # Depths
 B25 = "countries/Vile Fin.txt"
@@ -202,24 +280,28 @@ B26 = "countries/Blue Gill.txt"
 B27 = "countries/Grimscale.txt"
 B28 = "countries/Saltscale.txt"
 B29 = "countries/Marshfin.txt"
-B30 = "countries/Greymist.txt"
-B31 = "countries/Siltfin.txt"
-B32 = "countries/Mirefin.txt"
-B33 = "countries/Winterfin.txt"
+B30 = "countries/Greymist.txt" # tech_depths
+B31 = "countries/Siltfin.txt" # tech_depths
+B32 = "countries/Mirefin.txt" # tech_depths
+B33 = "countries/Winterfin.txt" # tech_depths
 B34 = "countries/Chillmere.txt"
 B35 = "countries/White Shark.txt"
-B36 = "countries/Tidewalker.txt"
-B37 = "countries/Makaru.txt"
-B38 = "countries/Bogstrok.txt"
+B36 = "countries/Tidewalker.txt" # tech_depths
+B37 = "countries/Makaru.txt" # tech_depths
+B38 = "countries/Bogstrok.txt" # tech_depths
 E51 = "countries/Torn Fin.txt"
+E60 = "Countries/Rockpool.txt"
+F11 = "Countries/Redgill.txt"
+F22 = "countries/Greengill.txt"
+F30 = "countries/Murkgill.txt"
 
 # Furbolg
-B39 = "countries/Gnarlpine.txt"
-B40 = "countries/Deadwood.txt"
-B41 = "countries/Blackwood.txt"
-B42 = "countries/Timbermaw.txt"
+B39 = "countries/Gnarlpine.txt" # tech_furbolg
+B40 = "countries/Deadwood.txt" # tech_furbolg
+B41 = "countries/Blackwood.txt" # tech_furbolg
+B42 = "countries/Timbermaw.txt" 
 B43 = "countries/Stillpine.txt"
-B44 = "countries/Winterfall.txt"
+B44 = "countries/Winterfall.txt" # tech_furbolg
 B45 = "countries/Frostpaw.txt"
 B46 = "countries/Redfang.txt"
 
@@ -228,7 +310,7 @@ B47 = "countries/Bloodpaw.txt"
 B48 = "countries/Frenzyheart.txt"
 B49 = "countries/Howling.txt"
 B50 = "countries/Rageclaw.txt"
-B51 = "countries/Snowfall.txt"
+B51 = "countries/Snowfall.txt" # tech_wolfvar
 
 # Gorloc
 B52 = "countries/Mistwhisper.txt"
@@ -237,39 +319,42 @@ B54 = "countries/Mosswalker.txt"
 B55 = "countries/Sparktouched.txt"
 
 # Kobold
-B56 = "countries/Drywhisker.txt"
-B57 = "countries/Gravelsnout.txt"
+B56 = "countries/Drywhisker.txt" # tech_kobold
+B57 = "countries/Gravelsnout.txt" # tech_kobold
 B58 = "countries/Goldtooth.txt"
-B59 = "countries/Whitewhisker.txt"
+B59 = "countries/Whitewhisker.txt" # tech_kobold
 B60 = "countries/Bloodspore.txt"
-B61 = "countries/Magmoth.txt"
-B62 = "countries/Shalerhorn.txt"
+B61 = "countries/Magmoth.txt" # tech_kobold
+B62 = "countries/Shalerhorn.txt" # tech_kobold
+E53 = "countries/Tunnel Rat.txt" # tech_kobold
 
 # Harpy
-B63 = "countries/Bloodfury.txt"
+B63 = "countries/Bloodfury.txt" # tech_harpy
 B64 = "countries/Coldwind.txt"
 B65 = "countries/Frostfeather.txt"
 B66 = "countries/Dustwind.txt"
-B67 = "countries/Screeching.txt"
+B67 = "countries/Screeching.txt" # tech_harpy
 
 # Quillboar
-B68 = "countries/Bristleback.txt"
-B69 = "countries/Razormane.txt"
-B70 = "countries/Razorfen.txt"
-B71 = "countries/Swinegart.txt"
+B68 = "countries/Bristleback.txt" # tech_quillboar
+B69 = "countries/Razormane.txt" 
+B70 = "countries/Razorfen.txt" # tech_quillboar
+B71 = "countries/Swinegart.txt" # tech_quillboar
 
 # Titan
-B72 = "countries/Tolvir.txt"
-B73 = "countries/Ulduar.txt"
+B72 = "countries/Tolvir.txt" # tech_titan
+B73 = "countries/Ulduar.txt" 
 B74 = "countries/Uldaman.txt"
-B75 = "countries/Maraudon.txt"
+B75 = "countries/Maraudon.txt" # tech_titan
 B76 = "countries/ThorModan.txt"
 
 # Arrakoa
-B77 = "countries/Skettis.txt"
-B78 = "countries/Sethikk.txt"
-B79 = "countries/Exiles.txt"
-B80 = "countries/Apexis.txt"
+B77 = "countries/Skettis.txt" # tech_arrakoa
+B78 = "countries/Sethikk.txt" # tech_arrakoa
+B79 = "countries/Exiles.txt" # tech_arrakoa
+B80 = "countries/Apexis.txt" # tech_arrakoa
+F73 = "countries/Haal'esh.txt"
+F79 = "countries/Grishna.txt"
 
 # Tuskarr
 B81 = "countries/Kaluak.txt"
@@ -277,20 +362,24 @@ B82 = "countries/Moaki.txt"
 
 # Old God
 B83 = "countries/Faceless.txt"
-B84 = "countries/The Twilights Hammer.txt"
-B85 = "countries/The Dark Below.txt"
-B86 = "countries/Kingdom of a Thousand Maws.txt"
+B84 = "countries/The Sha.txt"
+B85 = "countries/Dark Conclave.txt"
+B86 = "countries/Kingdom of a Thousand Maws.txt" # tech_old_god
 
 # Demonic
 B87 = "countries/Illidari.txt"
 B88 = "countries/Shadow Council.txt"
-B89 = "countries/Argus Wake.txt"
+B89 = "countries/Fel Horde.txt"
 B90 = "countries/Burning Blade.txt"
 B91 = "countries/Searing Blade.txt"
 B92 = "countries/The Burning Legion.txt"
 B93 = "countries/Cult of the Dark Strand.txt"
 B94 = "countries/Wretched.txt"
 B95 = "countries/Felsworn.txt"
+F15 = "countries/Dreadlord.txt"
+F13 = "countries/Shadowsworn.txt"
+F37 = "countries/Disciples of Hate.txt"
+F82 = "countries/Hounds of Culuthas.txt"
 
 # Satyr
 B96 = "countries/Jadefire.txt"
@@ -298,6 +387,7 @@ B97 = "countries/Axxarian.txt"
 B98 = "countries/Blackheart.txt"
 B99 = "countries/Hatefury.txt"
 E01 = "countries/Legashi.txt"
+F43 = "countries/Nazzivus.txt"
 
 # Naga
 E02 = "countries/Coilskar.txt"
@@ -309,15 +399,21 @@ E07 = "countries/Strashaz.txt"
 E08 = "countries/Riplash.txt"
 E09 = "countries/Daggerspine.txt"
 E10 = "countries/Blackfathom.txt"
+F23 = "countries/Darkspine.txt"
+F32 = "countries/Naga Explorers.txt"
+F36 = "countries/Bloodwash.txt"
 
 # Scourge
 E11 = "countries/The Scourge.txt"
 E12 = "countries/Cult of the Damned.txt"
 E13 = "countries/Knights of the Ebon Blade.txt"
 E52 = "countries/The Scourge of Lordaeron.txt"
+F21 = "countries/Deatholme.txt"
 
 # Undead
 E14 = "countries/The Forsaken.txt"
+F12 = "countries/Raven Hill.txt"
+X01 = "countries/The Risen.txt"
 
 # Ethereal
 E18 = "countries/The Consortium.txt"
@@ -326,6 +422,7 @@ E20 = "countries/Razaani.txt"
 E21 = "countries/Shaffar.txt"
 E22 = "countries/Viraani.txt"
 E23 = "countries/Zaxxis.txt"
+F80 = "countries/Ethereum.txt"
 
 # Elemental
 E24 = "countries/Abyssal Maw.txt"
@@ -337,8 +434,9 @@ E28 = "countries/Skywall.txt"
 # Worgen
 E29 = "countries/Wolfcult.txt"
 E30 = "countries/Silverbrook.txt"
-E31 = "countries/Solstice.txt"
+E31 = "countries/Nightbane.txt"
 E32 = "countries/White Pine.txt"
+F53 = "countries/Bloodfang.txt"
 
 # Mantid
 E33 = "countries/Klaxxivess.txt"
@@ -348,6 +446,16 @@ E34 = "countries/Mantid Empire.txt"
 E35 = "countries/Huojin.txt"
 E36 = "countries/Tushui.txt"
 E37 = "countries/Shado Pan.txt"
+E63 = "countries/Jade Serpent.txt"
+E64 = "countries/Black Ox.txt"
+E65 = "countries/Red Crane.txt"
+E66 = "countries/White Tiger.txt"
+E84 = "countries/Tillers.txt"
+E91 = "countries/Anglers.txt"
+F02 = "countries/Golden Lotus.txt"
+F45 = "countries/Forest Heart.txt"
+F46 = "countries/Cloud Serpent.txt"
+
 
 # Mogu
 E38 = "countries/Gurthan.txt"
@@ -355,6 +463,9 @@ E39 = "countries/Harthak.txt"
 E40 = "countries/Kargesh.txt"
 E41 = "countries/Mogu Shan.txt"
 E42 = "countries/Shao Tien.txt"
+E67 = "countries/Gormali.txt"
+E81 = "countries/Dojani.txt"
+E92 = "countries/Shan'ze.txt"
 
 # Yaungol
 E43 = "countries/Bataari.txt"
@@ -363,6 +474,62 @@ E45 = "countries/Osul.txt"
 E46 = "countries/Deadtalker.txt"
 E47 = "countries/Burilgi.txt"
 E48 = "countries/Palewind.txt"
+E88 = "countries/Gai-Cho.txt"
+E89 = "countries/Ruqin.txt"
+E90 = "countries/Yongqi.txt"
+
+# Trogg
+E54 = "countries/Stonesplinter.txt"
+E57 = "countries/Stonevault.txt"
+F24 = "countries/Rockjaw.txt"
+
+# Hozen
+E68 = "countries/Grookin.txt"
+E69 = "countries/Oona.txt"
+E94 = "countries/Ookin.txt"
+
+# Jinyu
+E70 = "countries/Pearlfin.txt"
+E82 = "countries/Fallsong.txt"
+E95 = "countries/Inkgill.txt"
+
+# Saurok
+E71 = "countries/Slitherscale.txt"
+E76 = "countries/Glintrok.txt"
+E80 = "countries/Darkhatched.txt"
+E83 = "countries/Riverblade.txt"
+E85 = "countries/Muckscale.txt"
+E86 = "countries/Mistblade.txt"
+F03 = "countries/Skumblade.txt"
+
+# Taunka
+E73 = "countries/Icemist.txt"
+
+# Virmen
+E75 = "countries/Twitcheel.txt"
+
+# Dyrad
+E77 = "countries/The Unbound.txt"
+E79 = "countries/Sisterhood of Winter.txt"
+
+# Giant
+E78 = "countries/Crystalvice.txt"
+F33 = "countries/Coaststrider.txt"
+F42 = "countries/Sons of Hodir.txt"
+F44 = "countries/Arkkoroc.txt"
+F70 = "countries/Colossi.txt"
+
+# Sprite
+E87 = "countries/Rikkitun.txt"
+
+# Grummle
+E93 = "countries/Grummle.txt"
+
+# Zangar
+F51 = "countries/Zangar Giants.txt"
+F62 = "countries/Sporeggar.txt"
+F71 = "countries/Sporelok.txt"
+
 
 # Formables
 #Arak

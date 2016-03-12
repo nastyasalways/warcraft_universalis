@@ -1,0 +1,24 @@
+# Dreadlord Insurgents/Loyalists
+
+government 			= scourge_gov
+mercantilism 		= 0.1 
+technology_group 	= tech_scourge
+religion			= religion_fel
+primary_culture 	= culture_scourge
+capital = 962
+
+618.1.1 = { 
+	monarch =
+	{ 
+		name = "Balnazzar" 
+		dynasty = "the Nathrezim" 	
+		adm = 3
+		dip = 4	
+		mil = 3	
+	}  
+} 
+
+627.1.1 = {
+	technology_group = tech_undead
+	primary_culture = culture_forsaken
+}

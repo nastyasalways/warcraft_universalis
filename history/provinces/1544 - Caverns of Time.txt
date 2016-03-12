@@ -1,0 +1,16 @@
+# 1544 Caverns of Time
+is_city = yes
+
+base_tax = 6
+base_manpower = 6
+base_production = 6
+
+owner = B02
+controller = B02
+add_core = B02
+
+culture = culture_bronze
+religion = religion_sect_of_dragons
+
+hre = no
+trade_goods = artifacts

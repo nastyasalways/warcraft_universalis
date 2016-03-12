@@ -40,7 +40,7 @@ ai_handicap = {
 	idea_cost = -0.25
 	interest = -2
 	improve_relation_modifier = 0.5
-	build_power_cost = -0.2
+	development_cost = -0.2
 	build_cost = -0.25
 	ae_impact = -0.25
 }
@@ -52,27 +52,33 @@ ai_handicap = {
 
 city = {
 	local_tax_modifier = 0.25
-	trade_goods_size = 0.1
-	fort_level = 1
+	allowed_num_of_buildings = 2
+	
+	garrison_growth = 0.05
 }
 
-# handled with autonomy instead
+port = {
+}
+
 overseas = {
-	#local_tax_modifier = -0.75
-	#local_production_efficiency = -1.0
-	#garrison_growth = -0.10
-	#local_manpower_modifier = -0.75
-	#regiment_recruit_speed = 1.0
-	#ship_recruit_speed = 1.0	
+}
+
+overseas_port = {
 }
 
 coastal = {
 	supply_limit_modifier = 0.5
-	province_trade_power_value = 1.5
+	province_trade_power_modifier = 0.25
+}
+
+seat_in_parliament = {
+	local_manpower_modifier = 0.1
+	local_tax_modifier = 0.1
+	local_production_efficiency = 0.1
+	local_autonomy = -0.01
 }
 
 non_coastal = {
-	province_trade_power_value = 1.0
 }
 
 coastal_sea = {
@@ -83,6 +89,8 @@ tropical = {
 	supply_limit_modifier = -0.3
 	local_hostile_attrition = 2
 	
+	local_development_cost = 0.15
+
 	picture = "climate_tropical"
 }
 
@@ -91,6 +99,9 @@ arctic = {
 	supply_limit_modifier = -0.4
 	local_hostile_attrition = 1
 	
+	allowed_num_of_buildings = -1
+	local_development_cost = 0.5
+
 	picture = "climate_arctic"
 }
 
@@ -98,6 +109,8 @@ arid = {
 	local_colonial_growth = -10
 	supply_limit_modifier = -0.2
 	local_hostile_attrition = 1
+	
+	local_development_cost = 0.15
 	
 	picture = "climate_arid"
 }
@@ -108,13 +121,11 @@ sea_zone = {
 
 land_province = {
 	max_attrition = 5						#Maximum Attrition is 5
-	garrison_growth = 0.1					#10% base growth
 	local_manpower_modifier = 0.25			#25% of manpower.
 }
 
 mild_winter = {
 	local_hostile_attrition = 1
-	max_attrition = 1
 	supply_limit_modifier = -0.1
 	
 	picture = "winter_mild"
@@ -122,30 +133,23 @@ mild_winter = {
 
 normal_winter = {
 	local_hostile_attrition = 2
-	max_attrition = 2
 	supply_limit_modifier = -0.2
 	
 	picture = "winter_normal"
 }
 
 severe_winter = {
-	local_hostile_attrition = 5
-	max_attrition = 5
+	local_hostile_attrition = 3
 	supply_limit_modifier = -0.3
 	
 	picture = "winter_severe"
 }
 
-blockaded_base = {
+blockaded = {
 	regiment_recruit_speed = 0.2
-	ship_recruit_speed = 0.2
-}
-
-#these are scaled with the current values, so late game blockades will be just as efficient..
-blockaded_scaled = {
-	local_tax_modifier = -0.75				
-	trade_goods_size = -0.5
-	province_trade_power_modifier = -1
+	ship_recruit_speed = 0.2				
+	trade_goods_size_modifier = -0.5
+	province_trade_power_modifier = -0.75
 }
 
 no_adjacent_controlled = {
@@ -153,42 +157,64 @@ no_adjacent_controlled = {
 }
 
 provincial_tax_income = {
-	local_missionary_strength = -0.005	# penalty for each tax-income
-	supply_limit_modifier = 0.1				#10% weight for each tax-income
-	local_spy_defence = 0.01				#1% for each tax income.
-	regiment_recruit_speed = -0.01			#1% shorter time to build troops for each cash.
-	ship_recruit_speed = -0.01		
-	trade_goods_size = 0.2
 }
 
+provincial_production_size = {
+	trade_goods_size = 0.2
+	ship_recruit_speed = -0.01		
+}
+
+manpower = {
+	garrison_growth = 0.01					#1% increase from manpower.
+	regiment_recruit_speed = -0.01
+	
+}
+
+# Caps at 600
+horde_development = {
+	horde_unity = -3
+}
+
+development = {
+	allowed_num_of_buildings = 0.1
+	supply_limit_modifier = 0.02
+	local_missionary_strength = -0.001
+	land_forcelimit	= 0.1			# special case, affected by autonomy
+	naval_forcelimit = 0.1			# special case, affected by autonomy & set to 0 by code if not port
+	province_trade_power_value = 0.2
+}
+
+development_scaled = {
+	local_development_cost = 0.03
+}
 
 capital_city = {
-	local_manpower_modifier = 0.1			#10% bonus on manpower.
-	tax_income = 2							#Extra income bonus
-	garrison_growth = 0.1					#10% bonus on garrison growth
+	fort_level = 1
 }
 
 # Multiplied in provinces of same religion.
 patriarch_authority_local = {
-	local_unrest = -3
-	local_manpower_modifier = 0.33
-	local_tax_modifier = -0.33
+	
 }
 
 #for the country
 patriarch_authority_global = {
-	global_missionary_strength = 0.02
+	global_missionary_strength = 0.03
+	infantry_power = 0.1
+	cavalry_power = 0.1
 }
 
 colony_level = {
-	local_colonist_placement_chance = 0.04	#4% chance for each level.  (up to 40% bonus)
+	local_colonist_placement_chance = 0.01	#1% chance for each level.  (up to 10% bonus)
 	local_tax_modifier = 0.02
-	trade_goods_size = 0.01
 }
 
+native_assimilation = {
+	trade_goods_size = 0.05
+}
 
 native_aggressiveness = {
-	local_colonist_placement_chance = -0.005
+	#local_colonist_placement_chance = -0.005
 }
 
 native_presence = {
@@ -201,7 +227,6 @@ core = {
 }
 
 non_core = {
-	#no current effects.
 }
 
 march_bonus = {
@@ -209,6 +234,7 @@ march_bonus = {
 	land_forcelimit_modifier = 0.30
 	naval_forcelimit_modifier = 0.30
 	defensiveness = 0.2
+	fort_maintenance_modifier = -0.20
 	manpower_recovery_speed = 0.20
 }
 
@@ -233,19 +259,19 @@ non_accepted_culture_republic = {
 }
 
 occupied = {
-	local_tax_modifier = -0.25
-	trade_goods_size = -0.25
+	local_tax_modifier = -0.5
+	trade_goods_size_modifier = -0.5
 	province_trade_power_modifier = -0.5
+	local_manpower_modifier = -0.5
 }
 
 under_siege = {
-	trade_goods_size = -0.25
+	trade_goods_size_modifier = -0.25
 	province_trade_power_modifier = -0.25
 }
 
 looted = {
-	trade_goods_size = -0.25
-	max_attrition = 5						#Maximum Attrition is increased by 5
+	trade_goods_size_modifier = -0.25
 	local_tax_modifier = -0.25				#25% less tax income.
 	regiment_recruit_speed = 0.3
 	ship_recruit_speed = 0.3
@@ -253,7 +279,7 @@ looted = {
 }
 
 scorched_earth = {
-	trade_goods_size = -0.33
+	trade_goods_size_modifier = -0.33
 	local_tax_modifier = -0.5				# 50% less tax income.
 	local_defensiveness = 0.25
 	supply_limit_modifier = -0.5			# 50% lower supply limits.
@@ -269,12 +295,10 @@ tolerance = {
 intolerance = {
 	local_unrest = -1.25
 	local_tax_modifier = 0.1
-	trade_goods_size = 0.10
-
+	trade_goods_size_modifier = 0.10
 }
 
 unrest = {
-	local_spy_defence = -0.01				#reduce defence by 1%
 	regiment_recruit_speed = 0.1			#10% longer time to build troops for each rr
 	ship_recruit_speed = 0.1
 }
@@ -287,24 +311,24 @@ harsh_treatment = {
 	local_unrest = -10
 }
 
-local_autonomy = {
+local_autonomy_multiplicative = {
 	local_manpower_modifier = -1.0
 	local_tax_modifier = -1.0
 	local_production_efficiency = -1.0
+}
+
+local_autonomy = {
 	province_trade_power_modifier = -0.5
-	regiment_recruit_speed = 1.0
-	ship_recruit_speed = 1.0	
+	regiment_recruit_speed = 0.5
+	ship_recruit_speed = 0.5
 }
 
 
 
 recent_uprising = {
-	local_unrest = -20
+	local_unrest = -100
 }
 
-manpower = {
-	garrison_growth = 0.01					#1% increase from manpower.
-}
 
 friendly_regiments = {
 	local_unrest = -1.0				#-1% for each friendly regiment in the province.
@@ -329,7 +353,7 @@ in_trade_company = {
 	naval_forcelimit = 0.5
 	local_manpower_modifier = -1
 	local_tax_modifier = -0.50
-	local_missionary_strength = -0.02
+	local_missionary_strength = -1
 }
 
 
@@ -348,20 +372,19 @@ base_values = {
 	navy_tradition_decay = 0.05				#lose 5% yearly
 	prestige_decay = 0.05					#lose 5% prestige each year
 	tolerance_own = 3
+	diplomatic_upkeep = 4
 	tolerance_heathen = -3
 	tolerance_heretic = -2
 	mercenary_cost = 0.5
 	global_missionary_strength = 0.02
-	global_manpower = 1.0
-	land_forcelimit	= 3
-	naval_forcelimit = 2
-	diplomatic_upkeep = 4
+	global_manpower = 10.0
 	advisor_pool = 3
 	colonist_placement_chance = 0.05
 	free_leader_pool = 1
 	republican_tradition = 0.01
 	monthly_fervor_increase = 1
 	vassal_income = 0.10
+	horde_unity = -2
 }
 
 # AI 'cheats' that compensate for flaws in its long-term decision making, removing these may severely cripple the AI
@@ -373,6 +396,7 @@ ai_nation = {
 war_taxes = {
 	land_maintenance_modifier = -0.20
 	naval_maintenance_modifier = -0.20
+	possible_mercenaries = 0.05
 }
 
 stability = {
@@ -383,10 +407,10 @@ stability = {
 positive_stability = {
 	global_unrest = -1					#-1% revolt risk each step
 	global_tax_modifier = 0.05				
-	global_trade_goods_size = 0.01
 	global_missionary_strength = 0.005
 	stability_cost_modifier = 0.50
 	monthly_fervor_increase = 1
+	devotion = 0.5
 }
 
 negative_stability = {
@@ -394,7 +418,7 @@ negative_stability = {
 	legitimacy = 1
 	interest = -1	
 	migration_cooldown = 0.1
-
+	devotion = 1
 	caravan_power = 0.05
 				
 }
@@ -418,7 +442,7 @@ inflation = {
 	transport_cost = 0.01					#1% for each inflation step
 	advisor_cost = 0.01						#1% for each inflation step
 	mercenary_cost = 0.01					#1% for each inflation step
-
+	fort_maintenance_modifier = 0.01		#1% for each inflation step
 }
 
 bankruptcy = {
@@ -450,12 +474,12 @@ call_for_peace = {
 
 war_exhaustion = {
 	global_unrest = 1
-	global_regiment_recruit_speed = 0.1
-	global_ship_recruit_speed = 0.1
+	global_regiment_recruit_speed = 0.02
+	global_ship_recruit_speed = 0.02
 	core_creation = 0.03
 	manpower_recovery_speed = -0.01
 	siege_ability = -0.01
-	global_trade_goods_size = -0.02
+	global_trade_goods_size_modifier = -0.02
 }
 
 doom = {
@@ -474,7 +498,6 @@ regency_council = {
 }
 
 trade_efficiency = {
-	global_trade_power = 0.5			#0.5 for each 1% of TE
 }
 
 production_efficiency = {
@@ -505,26 +528,23 @@ navy_tradition = {
 }
 
 positive_piety = {
-	land_morale = 0.10
+	land_morale = 0.15
 	global_missionary_strength = 0.03
-	defensiveness = 0.20
 }
 
 #For convenience, its multiplied by negative piety in code.
 negative_piety = {
 	technology_cost = -0.1
-	global_manpower_modifier = 0.20
-	global_tax_modifier = 0.20
 }
 
 defender_of_faith = {
 	land_morale = 0.05
 	naval_morale = 0.05
-	technology_cost = 0.05
 	war_exhaustion = -0.025					#quicker recovery
 	papal_influence = 1
 	prestige = 1							#1% extra prestige yearly
 	missionaries = 1
+	devotion = 0.5
 
 }
 
@@ -533,16 +553,26 @@ emperor = {
 	advisor_pool = 1
 	diplomatic_upkeep = 1
 	free_leader_pool = 1
+	prestige = 1
 }
 
-states_in_hre = {							#bonuses for each state with capital in HRE.. as emperor
+states_in_hre = {							#bonuses for each non-free city with capital in HRE.. as emperor
 	land_forcelimit	= 0.5					#each state increases forcelimit by 0.5
-	global_manpower = 0.05					#each gives 0.5 MP to the emperor.
-	prestige = 0.05
+	global_manpower = 0.5					#each gives 0.5 MP to the emperor.
+}
+
+free_cities_in_hre = {							#bonuses for each free city in the HRE.. as emperor
+	global_tax_income = 2				
+	global_manpower = 1	
+	land_forcelimit	= 0.5
+}
+
+free_city_in_hre = {
+	global_tax_income = 3
+	diplomatic_reputation = 1
 }
 
 member_in_hre = {				
-	prestige = 0.2
 	diplomatic_reputation = 1
 }
 
@@ -563,21 +593,46 @@ num_of_provinces = {
 
 # Multiplied by current Legitimacy - 50
 legitimacy = {
-	global_unrest = -6
+	global_unrest = -4
 	tolerance_own = 2
 	tolerance_heathen = 2
 	tolerance_heretic = 2
 	diplomatic_reputation = 2
 	vassal_income = 0.1
-
 }
+
+#Multiplied by current Horde Unity - 50
+horde_unity = {
+	global_unrest = -4
+	discipline = 0.10
+}
+
+
+# Multiplied by current Devotion - 50
+devotion = {
+	papal_influence = 2
+	church_power_modifier = 0.25
+	prestige = 2
+	global_tax_modifier = 0.50
+}
+
+
+recovery_motivation = {
+	global_tax_modifier = 0.5
+	defensiveness = 0.25
+	manpower_recovery_speed = 0.5
+	army_tradition = 1
+	navy_tradition = 1
+	global_unrest = -5
+	interest = -2
+	horde_unity = 10
+}
+
 
 luck = {
 	global_trade_power = 0.1
 	colonist_placement_chance = 0.05
 	global_missionary_strength = 0.01
-	leader_land_fire = 1
-	leader_land_shock = 1
 	spy_offence = 0.05
 	stability_cost_modifier = -0.10
 	defensiveness = 0.1
@@ -586,12 +641,12 @@ luck = {
 	heir_chance = 0.25
 	global_unrest = -1
 	legitimacy = 1
-	republican_tradition = 0.01
+	republican_tradition = 0.005
 	interest = -1
 	mercenary_cost = -0.25
-	manpower_recovery_speed = 0.33
 	improve_relation_modifier = 0.25
 	monthly_fervor_increase = 1
+	church_power_modifier = 0.25
 	ae_impact = -0.25
 }
 
@@ -618,10 +673,14 @@ prestige = {
 
 }
 
+no_debate_in_parliament = {
+	legitimacy = -0.5
+	republican_tradition = -0.005
+}
 
 
 republican_tradition = {
-	global_unrest = -3
+	global_unrest = -2
 }
 
 inverse_republican_tradition = {
@@ -646,7 +705,9 @@ religious_unity = {
 
 inverse_religious_unity = {
 	stability_cost_modifier = 1.0		#more expensive to recover stability
-	global_unrest = 2
+	global_unrest = 3
+	church_power_modifier = -1
+	devotion = -1
 }
 
 total_occupation = {
@@ -663,12 +724,12 @@ uncontested_cores = {
 
 
 production_leader = {
-	trade_goods_size = 0.10
+	trade_goods_size_modifier = 0.10
 }
 
 
 bonus_from_merchant_republics = {
-	trade_goods_size = 1.0
+	trade_goods_size_modifier = 1.0
 }
 
 
@@ -680,7 +741,6 @@ western_influences = {
 federation_leader = {
 	diplomatic_reputation = 1
 	land_morale = 0.1
-	naval_morale = 0.1
 }
 
 in_protectorate = {
@@ -695,10 +755,11 @@ liberty_desire = {
 power_projection = {
 	defensiveness = 0.1
 	global_trade_power = 0.2
+	prestige = 0.5
 	land_morale = 0.1
 	naval_morale = 0.1
-	legitimacy = 1
-	republican_tradition = 0.005
+	legitimacy = 0.5
+	republican_tradition = 0.002
 }
 
 power_projection_25 = {
@@ -716,7 +777,82 @@ trade_company_dominant = {
 large_colonial_nation = {
 	merchants = 1
 	global_trade_power = 0.05
+	naval_forcelimit = 10
 }
+
+march_subject = {
+	land_forcelimit = 2
+}
+
+vassal_subject = {
+	land_forcelimit = 1
+}
+
+protecorate_subject = {
+}
+
+union_subject = {
+}
+
+indep_nation = {
+	global_tax_income = 12
+	land_forcelimit	= 6
+	naval_forcelimit = 12
+}
+
+subject_nation = {
+	global_tax_income = 6
+	land_forcelimit	= 3
+	naval_forcelimit = 6
+}
+
+vassal_nation = {
+	development_cost = 0.5
+}
+
+primitive_nation = {
+	development_cost = 0.5
+}
+
+#scales to amount of up-to-date forts compared to total development
+maintained_forts = {
+	army_tradition = 1
+}
+
+gov_rank_1 = {
+}
+
+gov_rank_2 = {
+	diplomats = 1
+}
+
+gov_rank_3 = {
+	diplomats = 1
+	free_leader_pool = 1
+}
+
+# for mod support...
+gov_rank_4 = {
+}
+
+gov_rank_5 = {
+}
+
+gov_rank_6 = {
+}
+
+gov_rank_7 = {
+}
+
+gov_rank_8 = {
+}
+
+gov_rank_9 = {
+}
+
+gov_rank_10 = {
+}
+
 
 # For autonomy mechanics
 autonomy_increased = {
@@ -752,7 +888,9 @@ spies_infiltrated = {
 discontent_sowed = {
 	global_unrest = 3
 	legitimacy = -1
-	republican_tradition = -0.01
+	republican_tradition = -0.005
+	devotion = -1
+	horde_unity = -1
 }
 
 
@@ -790,3 +928,86 @@ custom_setup = {
 	colonists = 1
 	global_tax_income = 20
 }
+
+########################################
+# Subject Interactions (the on/off ones)
+########################################
+
+embargo_rivals = {
+}
+
+scutage = {
+}
+
+subsidize_armies = {
+}
+
+support_loyalists = {
+}
+
+send_officers = {
+	discipline = 0.05
+	land_morale = 0.2
+}
+
+divert_trade = {
+}
+
+########################################
+# Karma
+########################################
+
+karma_just_right =
+{
+	
+}
+
+karma_too_high =
+{
+	discipline = 0.05
+	diplomatic_reputation = -1
+}
+
+karma_too_low =
+{
+	diplomatic_reputation = 1
+	discipline = -0.05
+}
+
+########################################
+# Bear
+########################################
+
+invasion_nation = {
+	discipline = 0.5
+	manpower_recovery_speed = 1
+	global_tax_income = 600
+	land_forcelimit	= 100
+	naval_forcelimit = 100
+	global_manpower = 100.0
+	core_creation = -0.75
+	global_unrest = -10
+	land_attrition = -0.5
+}
+
+
+########################################
+# Native policy
+########################################
+
+native_policy_coexist =
+{
+	native_uprising_chance = -1.0
+}
+
+native_policy_trade =
+{
+	native_assimilation = 0.5
+	native_uprising_chance = -0.5	
+}
+
+native_policy_hostile =
+{
+	global_colonial_growth = 20
+}
+

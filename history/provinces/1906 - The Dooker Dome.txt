@@ -1,0 +1,21 @@
+# 1906
+is_city = yes
+
+owner = E94
+controller = E94
+add_core = E94
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_mountain_hozen
+religion = religion_celestial
+
+hre = no
+trade_goods = warbeasts
+
+
+
+

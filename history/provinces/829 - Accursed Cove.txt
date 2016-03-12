@@ -1,0 +1,24 @@
+# 829
+is_city = no
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+
+culture = culture_kalu_ak
+religion = religion_ancestral
+
+
+hre = no
+trade_goods = grain
+
+
+
+
+626.1.1 = { 
+owner = B11
+controller = B11
+add_core = B11
+culture = culture_kvaldir
+religion = religion_ancestral }

@@ -1,0 +1,26 @@
+# Deatholme aka Scourge of Quel'thalas
+
+graphical_culture = westerngfx
+
+color = { 229 253 102 }
+
+monarch_names = {
+
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}
+

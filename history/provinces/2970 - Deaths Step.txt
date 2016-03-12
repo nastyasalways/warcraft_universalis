@@ -1,0 +1,39 @@
+# 2970 Deaths Step
+is_city = yes
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+add_core = A08
+owner = A08
+controller = A08
+
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = grain
+
+
+
+
+# The Third War
+617.1.1 = { 
+add_core = E12
+owner = E12
+controller = E12
+culture = culture_cultist
+religion = religion_the_damned 
+}
+
+# The Frozen Throne
+618.1.1 = { 
+controller = F15
+remove_core = A08
+}
+
+# War of Lordaeron (TFT)
+620.6.1 = { 
+controller = E12
+}

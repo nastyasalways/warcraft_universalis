@@ -1,0 +1,57 @@
+# 2957 Forsaken Bulwark
+is_city = yes
+add_core = A08
+owner = A08
+controller = A08
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = army_supplies
+
+
+
+ 
+# The Third War
+617.1.1 = {
+add_core = E52
+owner = E52
+controller = E52
+culture = culture_scourge
+religion = religion_the_damned
+}
+
+# The Frozen Throne
+618.1.1 = {
+add_core = F15
+owner = F15
+controller = F15
+religion = religion_fel
+remove_core = A08
+}
+
+# War of Lordaeron (TFT)
+620.4.1 = { 
+controller = E14
+}
+
+# War of Lordaeron (TFT)
+620.5.1 = {
+add_core = E14
+remove_core = F15
+owner = E14
+culture = culture_forsaken
+religion = religion_forgotten_shadow
+base_manpower = 3
+}
+
+# Cataclysm
+631.1.1 = {
+base_tax = 3
+base_production = 3
+}

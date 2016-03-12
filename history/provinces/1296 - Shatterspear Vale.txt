@@ -1,0 +1,30 @@
+# 1296 Shatterspear Vale
+is_city = yes
+
+owner = H01
+controller = H01
+add_core = H01
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+culture = culture_sentinel
+religion = religion_elune
+
+hre = no
+trade_goods = warbeasts
+
+# Rise of the Qiraji
+622.1.1 = {
+	owner = A68
+	controller = A68
+	add_core = A68
+	remove_core = H01
+	religion = religion_loa
+	culture = culture_shatterspear
+	
+	base_tax = 5
+	base_manpower = 6
+	base_production = 5
+}

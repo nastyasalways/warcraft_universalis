@@ -1,0 +1,20 @@
+# 1388
+is_city = yes
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+owner = B99
+controller = B99
+add_core = B99
+
+culture = culture_hatefury
+religion = religion_fel
+
+hre = no
+trade_goods = grain
+
+
+
+

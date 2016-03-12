@@ -1,0 +1,17 @@
+# Gormali Clan
+government 			= warband_gov
+mercantilism 		= 0.1 
+technology_group 	= tech_mogu
+religion			= religion_titan
+primary_culture 	= culture_gormali
+capital 			= 1
+
+546.1.1 = { 
+	monarch = { 
+		name = "Gormal" 
+		dynasty = "Gormali" 
+		adm = 3
+		dip = 3
+		mil = 3
+	} 
+} 

@@ -1,0 +1,25 @@
+# 920
+is_city = yes
+
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_gurubashi
+religion = religion_loa
+
+hre = no
+trade_goods = artifacts
+
+
+
+
+# The Third War
+617.1.1 = { 
+owner = E58
+controller = E58
+add_core = E58 
+religion = religion_voodoo
+}

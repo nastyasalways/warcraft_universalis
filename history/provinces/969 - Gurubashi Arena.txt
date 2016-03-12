@@ -1,0 +1,28 @@
+# 969
+is_city = yes
+owner = B28
+controller= B28
+add_core = B28
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+culture = culture_nerglish
+religion = religion_old_gods
+
+hre = no
+trade_goods = artifacts
+
+
+
+
+# The Frozen Throne
+618.1.1 = { 
+owner = A15
+controller = A15
+add_core = A15
+culture = culture_kul_tiran
+religion = religion_church_of_the_light 
+}
+

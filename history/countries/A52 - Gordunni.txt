@@ -1,7 +1,7 @@
 # Gordunni
-government 		= despotic_monarchy
+government 			= warband_gov
 mercantilism 		= 0.1
 technology_group 	= tech_ogre
-religion			= noreligion
-primary_culture 	= noculture
+religion			= religion_shadow
+primary_culture 	= culture_gordunni
 capital 			= 1

@@ -1,0 +1,38 @@
+# 2963 Olsen's Farthing
+is_city = yes 
+
+add_core = A08
+owner = A08
+controller = A08
+
+base_tax = 2
+base_manpower = 1
+base_production = 3
+ 
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = grain
+
+
+
+
+# The Frozen Throne
+618.1.1 = {
+owner = E52 
+controller = E52
+add_core = E52
+religion = religion_the_damned
+culture = culture_scourge
+remove_core = A08
+}
+
+# Cataclysm
+631.1.1 = { 
+owner = F53
+controller = F53
+add_core = F53
+religion = religion_church_of_the_light
+culture = culture_gilnean_worgen
+}

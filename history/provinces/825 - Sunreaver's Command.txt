@@ -1,0 +1,21 @@
+# 825
+is_city = yes
+
+owner = E77
+controller = E77
+add_core = E77
+
+base_tax = 2
+base_manpower = 3
+base_production = 2
+
+
+culture = culture_crystal_nymph
+religion = religion_arcane
+
+hre = no
+trade_goods = arcane
+
+
+
+

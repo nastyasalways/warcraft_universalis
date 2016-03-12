@@ -1,0 +1,16 @@
+# 3053 Helms Camp
+is_city = yes
+
+base_tax = 2
+base_manpower = 3
+base_production = 2
+
+add_core = A29
+owner = A29
+controller = A29
+ 
+culture = culture_ironforge
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = fish

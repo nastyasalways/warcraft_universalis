@@ -1,0 +1,21 @@
+# 1278
+is_city = yes
+
+owner = F41
+controller = F41
+add_core = F41
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+
+culture = culture_savage_hill
+religion = religion_ancestral
+
+hre = no
+trade_goods = grain
+
+
+
+

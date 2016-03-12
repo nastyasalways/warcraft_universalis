@@ -1,0 +1,16 @@
+# 1511 Valor's Rest
+is_city = yes
+
+base_tax = 3
+base_manpower = 4
+base_production = 3
+
+owner = H03
+controller = H03
+add_core = H03
+
+culture = culture_cenarion
+religion = religion_elune
+
+hre = no
+trade_goods = army_supplies

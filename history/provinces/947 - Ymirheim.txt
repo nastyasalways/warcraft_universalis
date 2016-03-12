@@ -1,0 +1,22 @@
+# 947
+is_city = no
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+
+culture = culture_ymirheim
+religion = religion_titan
+
+hre = no
+trade_goods = grain
+
+
+
+
+626.1.1 = { 
+owner = E15
+controller = E15
+add_core = E15
+religion = religion_the_damned }

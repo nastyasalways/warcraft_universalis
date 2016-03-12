@@ -1,0 +1,18 @@
+# Iron Summit
+
+government 			= dictatorship_gov
+mercantilism 		= 0.1
+technology_group 	= tech_dwarven
+religion			= religion_arcane
+primary_culture 	= culture_dark_iron
+capital 			= 1
+
+546.1.1 = {  
+monarch = {  
+      name = ""  
+     dynasty = "Rendan"  
+ 		adm = 4 
+		dip = 3
+		mil = 3 
+  	}  
+  }  

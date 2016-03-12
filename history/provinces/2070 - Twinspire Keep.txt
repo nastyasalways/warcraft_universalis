@@ -1,0 +1,39 @@
+# 2070
+is_city = yes
+
+owner = E67
+controller = E67
+add_core = E67
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_gormali
+religion = religion_titan
+
+hre = no
+trade_goods = army_supplies
+
+
+
+
+
+632.1.1 = { 
+owner = A48
+controller = A48
+add_core = A48
+add_core = E14
+culture = culture_horde
+religion = religion_ancestral
+}
+
+# Warlords of Draenor
+633.1.1 = { 
+owner = XXX
+controller = XXX
+remove_core = A48
+remove_core = E14
+}
+

@@ -1,0 +1,39 @@
+# 1986
+is_city = no
+
+owner = E26
+controller = E26
+add_core = E26
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+culture = culture_fire
+religion = religion_fire
+
+hre = no
+trade_goods = artifacts
+
+
+
+
+# Fall of Stormwind
+597.1.1 = { 
+owner = XXX
+controller = XXX
+remove_core = E26 
+}
+
+# Beyond the Dark Portal
+600.1.1 = {
+add_core = A65
+owner = A65
+controller = A65
+culture = culture_smolderthorn
+religion = religion_loa
+capital = "Zeb'Tazz"
+base_tax = 3
+base_manpower = 3
+base_production = 3
+}

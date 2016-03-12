@@ -1,0 +1,216 @@
+#############################
+### Alliance of Stormwind ###
+#############################
+### Stormwind
+# Stormwind - Stromgarde
+alliance = {
+	first = A01
+	second = A16
+	start_date = 618.1.1
+	end_date = 640.1.1
+}
+
+# Stormwind - Ironforge
+alliance = {
+	first = A01
+	second = A29
+	start_date = 618.1.1
+	end_date = 640.1.1
+}
+
+# Stormwind - Gnomeregan
+alliance = {
+	first = A01
+	second = A32
+	start_date = 618.1.1
+	end_date = 640.1.1
+}
+
+# Stormwind - Kul Tiras
+alliance = {
+	first = A01
+	second = A14
+	start_date = 622.1.1 # Becouse of Kul Tiras war with Horde
+	end_date = 640.1.1
+}
+
+# Stormwind - Wildhammer
+alliance = {
+	first = A01
+	second = A28
+	start_date = 631.1.1
+	end_date = 640.1.1
+}
+
+# Stormwind - Quel'Danil
+alliance = {
+	first = A01
+	second = E49
+	start_date = 631.1.1
+	end_date = 640.1.1
+}
+
+# Stormwind - Exodar
+alliance = {
+	first = A01
+	second = A56
+	start_date = 625.1.1
+	end_date = 640.1.1
+}
+
+### Stromgarde ##################################
+# Stromgarde - Ironforge
+alliance = {
+	first = A16
+	second = A29
+	start_date = 618.1.1
+	end_date = 640.1.1
+}
+
+# Stromgarde - Gnomeregan
+alliance = {
+	first = A16
+	second = A32
+	start_date = 618.1.1
+	end_date = 640.1.1
+}
+
+# Stromgarde - Kul Tiras
+alliance = {
+	first = A16
+	second = A14
+	start_date = 622.1.1 # Becouse of Kul Tiras war with Horde
+	end_date = 640.1.1
+}
+
+# Stromgarde - Wildhammer
+alliance = {
+	first = A16
+	second = A28
+	start_date = 631.1.1
+	end_date = 640.1.1
+}
+
+# Stromgarde - Quel'Danil
+alliance = {
+	first = A16
+	second = E49
+	start_date = 631.1.1
+	end_date = 640.1.1
+}
+
+# Stromgarde - Exodar
+alliance = {
+	first = A16
+	second = A56
+	start_date = 625.1.1
+	end_date = 640.1.1
+}
+
+### Ironforge ###################################
+# Ironforge - Gnomeregan
+alliance = {
+	first = A29
+	second = A32
+	start_date = 618.1.1
+	end_date = 640.1.1
+}
+
+# Ironforge - Kul Tiras
+alliance = {
+	first = A29
+	second = A14
+	start_date = 622.1.1 # Becouse of Kul Tiras war with Horde
+	end_date = 640.1.1
+}
+
+# Ironforge - Wildhammer
+alliance = {
+	first = A29
+	second = A28
+	start_date = 631.1.1
+	end_date = 640.1.1
+}
+
+# Ironforge - Quel'Danil
+alliance = {
+	first = A29
+	second = E49
+	start_date = 631.1.1
+	end_date = 640.1.1
+}
+
+# Ironforge - Exodar
+alliance = {
+	first = A29
+	second = A56
+	start_date = 625.1.1
+	end_date = 640.1.1
+}
+
+### Gnomeregan ##################################
+# Gnomeregan - Kul Tiras
+alliance = {
+	first = A32
+	second = A14
+	start_date = 622.1.1 # Becouse of Kul Tiras war with Horde
+	end_date = 640.1.1
+}
+
+# Gnomeregan - Wildhammer
+alliance = {
+	first = A32
+	second = A28
+	start_date = 631.1.1
+	end_date = 640.1.1
+}
+
+# Gnomeregan - Quel'Danil
+alliance = {
+	first = A32
+	second = E49
+	start_date = 631.1.1
+	end_date = 640.1.1
+}
+
+# Gnomeregan - Exodar
+alliance = {
+	first = A32
+	second = A56
+	start_date = 625.1.1
+	end_date = 640.1.1
+}
+
+### Kul Tiras Alliances #########################
+# Kul Tiras - Wildhammer
+alliance = {
+	first = A14
+	second = A28
+	start_date = 631.1.1
+	end_date = 640.1.1
+}
+
+# Kul Tiras - Quel'Danil
+alliance = {
+	first = A14
+	second = E49
+	start_date = 631.1.1
+	end_date = 640.1.1
+}
+
+# Kul Tiras - Exodar
+alliance = {
+	first = A14
+	second = A56
+	start_date = 625.1.1
+	end_date = 640.1.1
+}
+
+### Quel'Danil Alliances ########################
+# Quel'Danil - Exodar
+alliance = {
+	first = E49
+	second = A56
+	start_date = 625.1.1
+	end_date = 640.1.1
+}

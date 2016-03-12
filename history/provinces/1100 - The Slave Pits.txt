@@ -1,0 +1,20 @@
+# 1100
+is_city = no
+
+owner = A79
+controller = A79
+add_core = A79
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_bilgewater
+religion = religion_tech
+hre = no
+trade_goods = grain
+
+
+
+

@@ -1,0 +1,23 @@
+# 1052
+is_city = no
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_kalu_ak
+religion = religion_ancestral
+
+hre = no
+trade_goods = grain
+
+
+
+
+626.1.1 = { 
+owner = H06
+add_core = H06
+culture = culture_azerothian
+religion = religion_church_of_the_light 
+}

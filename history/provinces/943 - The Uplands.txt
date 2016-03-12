@@ -1,0 +1,25 @@
+# 943 The Uplands
+is_city = yes
+add_core = A17
+owner = A17
+controller = A17
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+culture = culture_alterac
+religion = religion_church_of_the_light
+ 
+hre = no 
+trade_goods = grain
+
+
+ 
+
+# Beyond the Dark Portal
+600.1.1 = { 
+owner = A26
+controller = A26
+add_core = A26
+}

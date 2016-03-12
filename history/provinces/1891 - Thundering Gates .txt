@@ -1,0 +1,29 @@
+# 1891
+is_city = yes
+
+owner = E92
+controller = E92
+add_core = E92
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_shan_ze
+religion = religion_titan
+
+hre = no
+trade_goods = army_supplies
+
+
+
+
+632.1.1 = {
+owner = A78
+controller = A78
+add_core = A78
+religion = religion_loa
+culture = culture_zandalari
+}
+

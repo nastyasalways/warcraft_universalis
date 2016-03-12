@@ -1,0 +1,56 @@
+# 669
+is_city = yes
+add_core = B16
+owner = B16
+controller = B16
+
+
+base_tax = 2
+base_manpower = 3
+base_production = 2
+
+
+culture = culture_shadowhide
+religion = religion_ancestral
+
+hre = no
+trade_goods = army_supplies
+
+
+
+
+# Fall of Stormwind
+597.1.1 = { owner = E98
+controller = E98
+add_core = E98
+culture = culture_blackrock
+religion = religion_fel }
+
+# Beyond the Dark Portal
+600.1.1 = { owner = XXX
+controller = XXX }
+
+616.11.11 = {
+owner = XXX
+controller = XXX
+}
+
+# The Third War
+617.1.1 = {
+owner = F11
+controller = F11
+add_core = F11
+remove_core = E98
+culture = culture_nerglish
+religion = religion_old_gods
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+owner = A41
+controller = A41
+add_core = A41
+remove_core = F11
+culture = culture_blackrock
+religion = religion_fel 
+}

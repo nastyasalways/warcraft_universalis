@@ -1,0 +1,31 @@
+# 1269
+is_city = no
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+
+culture = culture_nerubian
+religion = religion_old_gods
+
+hre = no
+trade_goods = grain
+
+
+
+
+
+610.1.1 = { 
+add_core = E11
+owner = E11
+culture = culture_scourge
+religion = religion_the_damned }
+
+626.1.1 = { 
+owner = E13
+controller = E13
+add_core = E13
+religion = religion_shadow
+culture = culture_death_knight 
+}

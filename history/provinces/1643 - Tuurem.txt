@@ -1,0 +1,23 @@
+# 1643
+is_city = no
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_lost_one
+religion = religion_ancestral
+
+hre = no
+trade_goods = artifacts
+
+617.1.1 = {
+owner = F75
+controller = F75
+add_core =  F75
+culture = culture_broken
+religion = religion_shadow
+}
+
+

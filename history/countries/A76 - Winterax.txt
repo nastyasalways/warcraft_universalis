@@ -1,7 +1,28 @@
 # Winterax
-government 		= despotic_monarchy
+government 			= warband_gov
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_troll
+religion			= religion_loa
+secondary_religion = religion_voodoo
+primary_culture 	= culture_winterax
 capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Drakuru" 
+     dynasty = "Winterax" 
+		adm = 3
+		dip = 4
+		mil = 3
+ 	} 
+ } 
+
+592.1.1 = { 
+monarch = { 
+     name = "Korrak" 
+     dynasty = "the Bloodrager" 
+		adm = 3
+		dip = 2
+		mil = 4
+ 	} 
+ } 

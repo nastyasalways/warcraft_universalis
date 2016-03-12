@@ -1,7 +1,7 @@
 # Viraani
-government 		= despotic_monarchy
+government 			= mercantile_republic
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_ethereal
+religion			= religion_arcane
+primary_culture 	= culture_viraani
 capital 			= 1

@@ -1,7 +1,18 @@
 # Jotunheim
-government 		= despotic_monarchy
+government 			= militaristic_kingdom
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
-capital 			= 1
+technology_group 	= tech_vrykul
+religion			= religion_the_damned
+primary_culture 	= culture_ymirheim
+capital 			= 734
+
+626.1.1 = { 
+monarch = { 
+     name = "Balargarde" 
+	dynasty = "Jotunheim"
+		adm = 2
+		dip = 2
+		mil = 4 
+
+ 	} 
+ } 

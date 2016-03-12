@@ -1,0 +1,22 @@
+# 2075
+is_city = yes
+
+owner = E63
+controller = E63
+add_core = E63
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+
+culture = culture_jade_serpent
+religion = religion_celestial
+
+hre = no
+trade_goods = stone
+
+
+
+
+

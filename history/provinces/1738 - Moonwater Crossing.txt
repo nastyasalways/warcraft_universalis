@@ -1,0 +1,22 @@
+# 1738
+is_city = yes
+
+owner = E70
+controller = E70
+add_core = E70
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+
+culture = culture_jinyu
+religion = religion_celestial
+
+hre = no
+trade_goods = fish
+
+
+
+
+

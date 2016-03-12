@@ -1,0 +1,37 @@
+# 634
+is_city = yes
+
+owner = E72
+add_core = E72
+controller = E72
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = crypts
+
+
+
+
+610.1.1 = { 
+owner = E11
+controller = E11
+add_core = E11
+remove_core = E72
+culture = culture_scourge
+religion = religion_the_damned
+}
+
+626.1.1 = { 
+owner = H06
+controller = H06
+add_core = H06
+culture = culture_azerothian
+religion = religion_church_of_the_light 
+}

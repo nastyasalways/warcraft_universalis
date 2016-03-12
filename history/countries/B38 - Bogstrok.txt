@@ -1,7 +1,7 @@
 # Bogstrok
-government 		= despotic_monarchy
+government 			= war_tribe
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_depths
+religion			= religion_water
+primary_culture 	= culture_water
 capital 			= 1

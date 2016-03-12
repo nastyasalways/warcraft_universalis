@@ -1,0 +1,29 @@
+# 1795
+is_city = yes
+
+owner = E84
+controller = E84
+add_core = E84
+
+base_tax = 4
+base_manpower = 3
+base_production = 4
+
+
+culture = culture_red_crane
+religion = religion_celestial
+
+hre = no
+trade_goods = grain
+
+
+
+
+632.1.1 = {
+owner = E75
+controller = E75
+add_core = E75
+culture = culture_springtail
+religion = religion_geomancy
+}
+

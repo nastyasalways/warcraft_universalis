@@ -1,0 +1,28 @@
+# 3005 Arathi Strand
+is_city = yes
+
+base_tax = 2
+base_manpower = 3
+base_production = 3
+
+add_core = A16
+owner = A16
+controller = A16
+
+culture = culture_arathi
+religion = religion_church_of_the_light
+
+hre = no
+trade_goods = grain
+
+
+
+
+# The Second War
+598.1.1 = {
+	owner = A29
+	controller = A29
+	add_core = A29
+	remove_core = A16
+	culture = culture_ironforge
+}

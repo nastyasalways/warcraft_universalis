@@ -1,0 +1,36 @@
+# 938 Deadmans Crossing
+is_city = yes
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+owner = E59
+controller = E59
+add_core = E59
+
+culture = culture_azerothian
+religion = religion_arcane
+
+hre = no
+trade_goods = runecloth
+
+# First War
+592.1.1 = {
+	owner = A40
+	controller = A40
+	add_core = A40
+	remove_core = E59
+	
+	culture = culture_bleeding_hollow 
+	religion = religion_fel
+}
+
+# Beyond the Dark Portal
+600.1.1 = {
+	owner = XXX
+	controller = XXX
+	remove_core = A40
+	culture = culture_deadwind
+	religion = religion_geomancy
+}

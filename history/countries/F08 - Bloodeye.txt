@@ -1,0 +1,21 @@
+# Dreadmaul
+government 			= warband_gov
+mercantilism 		= 0.1 
+technology_group 	= tech_ogre
+religion			= religion_geomancy
+primary_culture 	= culture_bloodeye
+capital 			= 1
+
+598.1.1 = { 
+	monarch = { 
+		name = "Mag'gol" 
+		dynasty = "Bloodeye" 
+		adm = 3
+		dip = 3
+		mil = 4
+	} 
+} 
+
+631.1.1 = {
+	religion = religion_old_gods 
+} 

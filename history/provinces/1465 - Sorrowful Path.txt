@@ -1,0 +1,42 @@
+# 1465 Sorrowful Path
+is_city = no
+
+base_tax = 1
+base_manpower = 1
+base_production = 1
+
+culture = noculture
+religion = noreligion
+
+hre = no
+trade_goods = grain
+
+# Beyond the Dark Portal
+600.1.1 = { 
+owner = F57
+controller = F57
+add_core = F57
+culture = culture_crushridge
+religion = religion_geomancy 
+base_tax = 3
+base_manpower = 2
+base_production = 2
+}
+
+# The Frozen Throne
+618.1.1 = { 
+controller = A23
+owner = A23
+add_core = A23
+culture = culture_kul_tiran
+religion = religion_church_of_the_light
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+controller = XXX
+owner = XXX
+base_tax = 2
+base_manpower = 1
+base_production = 1
+}

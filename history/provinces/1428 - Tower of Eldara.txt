@@ -1,0 +1,19 @@
+# 1428
+is_city = no
+
+owner = F44
+controller = F44
+add_core = F44
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
+
+culture = culture_nazja
+religion = religion_old_gods
+hre = no
+trade_goods = grain
+
+
+
+

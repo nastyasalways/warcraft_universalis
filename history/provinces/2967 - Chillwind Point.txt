@@ -1,0 +1,37 @@
+# 2967 Chillwind Point
+is_city = yes
+
+base_tax = 1
+base_manpower = 2
+base_production = 1
+
+owner = A63
+controller = A63
+add_core = A63
+
+culture = culture_firetree
+religion = religion_loa
+
+hre = no
+trade_goods = grain
+
+
+
+
+# The Frozen Throne
+618.1.1 = { 
+owner = E52
+controller = E52
+add_core = E52
+remove_core = A63
+religion = religion_fel
+culture = culture_scourge
+religion = religion_the_damned
+}
+
+# Rise of the Qiraji
+622.1.1 = { 
+owner = XXX
+controller = XXX
+remove_core = E52
+}

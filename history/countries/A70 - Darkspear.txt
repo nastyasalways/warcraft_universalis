@@ -1,7 +1,40 @@
 # Darkspear
-government 		= despotic_monarchy
+government 			= warband_gov
 mercantilism 		= 0.1
-technology_group 	= western
-religion			= noreligion
-primary_culture 	= noculture
+technology_group 	= tech_troll
+religion			= religion_loa
+secondary_religion = religion_voodoo
+primary_culture 	= culture_darkspear
 capital 			= 1
+
+
+546.1.1 = {  
+monarch = {  
+      name = "Bwon'jin"  
+     dynasty = "Darkspear"  
+ 		adm = 3 
+		dip = 4 
+		mil = 3 
+  	}  
+  }  
+
+592.1.1 = {  
+monarch = {  
+      name = "Senj'in"  
+     dynasty = "Darkspear"  
+ 		adm = 3 
+		dip = 5 
+		mil = 3 
+  	}  
+  }  
+
+618.1.1 = {  
+monarch = {  
+      name = "Vol'Jin"  
+     dynasty = "Darkspear"  
+ 		adm = 4 
+		dip = 4 
+		mil = 4  
+  	} 
+historical_friend = A48 
+  }  

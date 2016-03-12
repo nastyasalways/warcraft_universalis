@@ -1,0 +1,27 @@
+# 781
+is_city = yes
+
+owner = E74
+controller = E74
+add_core = E74
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+
+culture = culture_nerubian
+religion = religion_old_gods
+
+hre = no
+trade_goods = silk
+
+
+
+
+626.1.1 = { 
+owner = H07
+controller = H07
+add_core = H07
+culture = culture_horde
+religion = religion_ancestral }

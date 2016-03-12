@@ -1,0 +1,17 @@
+# 946
+is_city = yes
+
+base_tax = 3
+base_manpower = 2
+base_production = 3
+
+
+culture = culture_blue
+religion = religion_sect_of_dragons
+
+hre = no
+trade_goods = grain
+
+
+
+

@@ -1,0 +1,33 @@
+# 1983 Blackrock Stronghold
+is_city = yes
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+owner = A30
+controller = A30
+add_core = A30
+
+culture = culture_dark_iron
+religion = religion_fire
+
+hre = no
+trade_goods = army_supplies
+
+
+
+
+# Fall of Stormwind
+597.1.1 = {
+owner = A41
+controller = A41
+add_core = A41
+culture = culture_blackrock
+religion = religion_fel
+}
+
+# Beyond the Dark Portal
+600.1.1 = {
+add_core = A65
+}

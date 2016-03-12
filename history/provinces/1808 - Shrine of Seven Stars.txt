@@ -1,0 +1,28 @@
+# 1808
+is_city = yes
+
+owner = F02
+controller = F02
+add_core = F02
+
+base_tax = 4
+base_manpower = 4
+base_production = 4
+
+culture = culture_golden_lotus
+religion = religion_celestial
+
+hre = no
+trade_goods = artifacts
+
+
+
+
+632.1.1 = { 
+owner = E36
+controller = E36
+add_core = E36
+remove_core = F02
+culture = culture_tuskui 
+}
+
