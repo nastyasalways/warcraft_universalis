@@ -12,6 +12,17 @@ country_event = {
 		tag = A12 #Country is Gilneas
 		owns = 914
 		exists = A08 #Lordaeron exists
+		
+		NOT = {
+			914 = {
+				OR = {
+					has_building = fort_15th
+					has_building = fort_16th
+					has_building = fort_17th
+					has_building = fort_18th
+				}
+			}
+		}
 	}
 	
 	mean_time_to_happen = {
@@ -27,6 +38,7 @@ country_event = {
 				NOT = { area = area_gilneas }
 			}
 			cede_province = A08
+			add_core = A08
 			remove_core = A12
 		}
 		
