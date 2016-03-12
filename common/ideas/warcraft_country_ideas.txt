@@ -81,11 +81,11 @@ depths_ideas = {
 
 gilnean_ideas = {
 	start = {
-		
+		advisor_cost = -0.1
 	}
 
 	bonus = {
-		
+		advisor_pool = 1
 	}
 	
 	trigger = {
@@ -94,25 +94,27 @@ gilnean_ideas = {
 	free = yes		#wibe added at load.
 	
 	gilnean_ideas_1 = {
-	
+		prestige = 1
 	}
 	gilnean_ideas_2 = {
-	
+		heavy_ship_power = 0.25
+		naval_attrition = -0.25
 	}
 	gilnean_ideas_3 = {
-	
+		production_efficiency = 0.1
 	}
 	gilnean_ideas_4 = {
-	
+		defensiveness = 0.25
 	}
 	gilnean_ideas_5 = {
-	
+		globaal_tax_modifier = 0.1
 	}
 	gilnean_ideas_6 = {
-	
+		development_cost = -0.1
+		build_cost = -0.1
 	}
 	gilnean_ideas_7 = {
-	
+		fort_maintenance_modifier = -0.5
 	}
 }
 
@@ -676,11 +678,11 @@ forest_troll_ideas = {
 	}
 	free = yes		#wibe added at load.
 	
-	forest_troll_berserkers { infantry_power = 0.1
-	
+	forest_troll_berserkers = { 
+		infantry_power = 0.1
 	}
-	forest_troll_empire = { core_creation = -0.15
-	
+	forest_troll_empire = { 
+		core_creation = -0.15
 	}
 	
 	forest_troll_lumber_mills = { production_efficiency = 0.1
