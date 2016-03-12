@@ -107,7 +107,7 @@ gilnean_ideas = {
 		defensiveness = 0.25
 	}
 	gilnean_ideas_5 = {
-		globaal_tax_modifier = 0.1
+		global_tax_modifier = 0.1
 	}
 	gilnean_ideas_6 = {
 		development_cost = -0.1
