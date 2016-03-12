@@ -56,6 +56,7 @@ technology = {
 	enable = goblin_deforester_cav
 	
 	# tech_thalassian
+	enable = bloodelf_arcane_golem
 	enable = bloodelf_guardsmen
 	enable = bloodelf_militia
 	enable = bloodelf_enforcer
