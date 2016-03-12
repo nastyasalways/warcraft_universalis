@@ -369,7 +369,7 @@ NCountry = {
 	CONVERSION_COOLDOWN = 120,						-- months before you can convert again.
 	CONVERSION_COOLDOWN_SECONDARY = 120,			-- months before you can convert secondary religion again.
 	
-	IDEA_TO_TECH = -0.04,			-- percentage on tech reduction per idea.
+	IDEA_TO_TECH = -0.02,			-- percentage on tech reduction per idea.
 	TECH_TIME_COST = 0.3,			-- tech grow with 20% cost over time.
 	TECH_AHEAD_OF_TIME = 0.1,		-- per year ahead.
 	
