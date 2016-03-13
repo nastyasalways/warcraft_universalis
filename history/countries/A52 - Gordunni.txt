@@ -2,6 +2,19 @@
 government 			= warband_gov
 mercantilism 		= 0.1
 technology_group 	= tech_ogre
-religion			= religion_shadow
+religion			= religion_geomancy
 primary_culture 	= culture_gordunni
-capital 			= 1
+capital 			= 1490
+
+600.1.1 = { 
+monarch =
+{ 
+name = "" 
+     
+dynasty = "Gorduk" 
+		
+adm = 3		
+dip = 3	
+mil = 4 	} 
+ 
+} 

@@ -5,17 +5,17 @@ base_tax = 1
 base_manpower = 1
 base_production = 1
 
-owner = B20
-controller = B20
-add_core = B20
-
-culture = culture_galak
+culture = culture_wildmane
 religion = religion_ancestral
 
 
 hre = no
-trade_goods = grain
+trade_goods = fur
 
-
-
+618.1.1 = {
+owner = B20
+controller = B20
+add_core = B20
+culture = culture_galak
+}
 

@@ -1,22 +1,29 @@
 # 1579
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
-culture = culture_galak
+culture = culture_wildmane
 religion = religion_ancestral
 
 hre = no
-trade_goods = grain
+trade_goods = gold
 
-
-
+618.1.1 = {
+owner = B20
+controller = B20
+add_core = B20
+culture = culture_galak
+capital = "Splithoof Crag"
+}
 
 # Cataclysm
 631.1.1 = { owner = A19
 controller = A19
 add_core = A19
 religion = religion_church_of_the_light
-culture = culture_kul_tiran}
+culture = culture_kul_tiran
+capital = "The Admiral's Den"
+}

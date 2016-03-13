@@ -3,5 +3,5 @@ government 			= militaristic_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_naga
 religion			= religion_old_gods
-primary_culture 	= culture_stormscale
+primary_culture 	= culture_aszuna
 capital 			= 1

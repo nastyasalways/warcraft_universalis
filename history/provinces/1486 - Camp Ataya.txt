@@ -1,17 +1,24 @@
 # 1486
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = A86
+controller = A86
+add_core = A86
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
+culture = culture_runetotem
+religion = religion_ancestral
 
 hre = no
-trade_goods = grain
+trade_goods = fur
 
-
-
+622.1.1 = {
+owner = F88
+controller = F88
+add_core = F88
+}
 

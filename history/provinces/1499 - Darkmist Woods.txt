@@ -1,27 +1,29 @@
-owner = H01
-controller = H01
-add_core = H01
-is_city = yes
+#1499 High Wilderness
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+native_size = 10
+native_ferocity = 10
+native_hostileness = 10
 
-culture = culture_sentinel
-religion = religion_elune
+is_city = no
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+culture = culture_yeti
+religion = religion_druidic
 
 hre = no
-trade_goods = grain
+trade_goods = fur
 
-
-
-
-622.1.1 = {
-	remove_core = H01
-	owner = XXX
-	controller = XXX
-	is_city = no
-	native_size = 10
-	native_ferocity = 10
-	native_hostileness = 10
+631.1.1 = {
+owner = F57
+controller = F57
+add_core = F57
+add_core = A94
+add_core = F89
+culture = culture_stonemaul
+religion = religion_geomancy
+capital = "Stonemaul Hold"
 }
+

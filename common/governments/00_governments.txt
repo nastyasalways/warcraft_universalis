@@ -615,8 +615,8 @@ scourge_gov = {
 }
 
 #	Expeditionary Force		: Expeditionary Force
-#	expenditionary_force
-expenditionary_force = {
+#	expeditionary_force
+expeditionary_force = {
 	nomad = yes
 	monarchy = yes
 	
