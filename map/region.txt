@@ -9,16 +9,18 @@ random_new_world_region = {
 # Warcraft
 # Eastern Kingdoms
 
-eastern_kingdoms_region = {
+lordaeron_region = {
 	discover_if = {
 		capital_scope = {
 			continent = continent_eastern_kingdoms
 		}
 	}
+	
 	areas = {
 		area_isle_of_quel_danas
 		area_eversong_woods
 		area_ghostlands
+		area_zul_aman
 		area_eastern_plaguelands
 		area_western_plaguelands
 		area_tirisfal_glades
@@ -30,12 +32,34 @@ eastern_kingdoms_region = {
 		area_kul_tiras
 		area_arathi_highlands
 		area_the_hinterlands
+	}
+}
+
+khaz_modan_region = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_eastern_kingdoms
+		}
+	}
+	
+	areas = {
 		area_wetlands
 		area_twilight_highlands
 		area_loch_modan
 		area_dun_morogh
 		area_badlands
 		area_searing_gorge
+	}
+}
+
+azeroth_region = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_eastern_kingdoms
+		}
+	}
+	
+	areas = {
 		area_burning_steppes
 		area_redridge_mountains
 		area_elwynn_forest
@@ -46,7 +70,6 @@ eastern_kingdoms_region = {
 		area_westfall
 		area_stranglethorn_vale
 		area_stormwind
-		area_zul_aman
 	}
 }
 
@@ -54,16 +77,6 @@ kalimdor_region = {
 	discover_if = {
 		capital_scope = {
 			continent = continent_kalimdor
-		}
-	}
-	discover_if = {
-		capital_scope = {
-			continent = continent_exodar
-		}
-	}
-	discover_if = {
-		capital_scope = {
-			continent = continent_darnassus
 		}
 	}
 	areas = {
@@ -117,16 +130,6 @@ exodar_region = {
 			continent = continent_kalimdor
 		}
 	}
-	discover_if = {
-		capital_scope = {
-			continent = continent_exodar
-		}
-	}
-	discover_if = {
-		capital_scope = {
-			continent = continent_darnassus
-		}
-	}
 	areas = {
 		area_bloodmyst_isle
 		area_azuremyst_isle
@@ -137,16 +140,6 @@ darnassus_region = {
 	discover_if = {
 		capital_scope = {
 			continent = continent_kalimdor
-		}
-	}
-	discover_if = {
-		capital_scope = {
-			continent = continent_exodar
-		}
-	}
-	discover_if = {
-		capital_scope = {
-			continent = continent_darnassus
 		}
 	}
 	areas = {
@@ -232,16 +225,6 @@ western_seas = {
 	discover_if = {
 		capital_scope = {
 			continent = continent_kalimdor
-		}
-	}
-	discover_if = {
-		capital_scope = {
-			continent = continent_exodar
-		}
-	}
-	discover_if = {
-		capital_scope = {
-			continent = continent_darnassus
 		}
 	}
 	areas = {

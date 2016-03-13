@@ -356,7 +356,7 @@ vassal_abandoned = {
 	min = -200
 }
 
-they_force_vassalized_us = [
+they_force_vassalized_us = {
 	opinion = -100
 	yearly_decay = 2
 }
