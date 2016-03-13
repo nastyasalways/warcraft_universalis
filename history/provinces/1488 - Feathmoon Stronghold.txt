@@ -1,27 +1,28 @@
-owner = H01
-controller = H01
-add_core = H01
-is_city = yes
+# 1488 - The Forgotten Shore
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+is_city = no
 
-culture = culture_sentinel
-religion = religion_elune
+owner = F89
+controller = F89
+add_core = F89
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+culture = culture_sea_giant
+religion = religion_titan
 
 hre = no
-trade_goods = grain
+trade_goods = fish
 
-
-
-
-622.1.1 = {
-	remove_core = H01
-	owner = XXX
-	controller = XXX
-	is_city = no
-	native_size = 10
-	native_ferocity = 10
-	native_hostileness = 10
+631.1.1 = {
+add_core = A94
+owner = A94
+controller = A94
+is_city = yes
+culture = culture_sentinel
+religion = religion_elune
+trade_goods = naval_supplies
+capital = "Feathermoon Stronghold"
 }

@@ -1,17 +1,37 @@
 # 1442
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = A87
+controller = A87
+add_core = A87
+
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
 
-culture = noculture
-religion = noreligion
+culture = culture_mistrunner
+religion = religion_druidic
 
 hre = no
-trade_goods = grain
+trade_goods = fur
 
+618.1.1 = {
+owner = xxx
+controller = xxx
+culture = culture_bristleback
+religion = religion_geomancy
+}
 
-
-
+631.1.1 = {
+owner = F88
+controller = F88
+add_core = F88
+culture = culture_mistrunner
+religion = religion_ancestral
+capital = "Camp Una'fe"
+base_tax = 2
+base_manpower = 2
+base_production = 2
+trade_goods = army_supplies
+}

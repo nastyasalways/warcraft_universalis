@@ -1,7 +1,0 @@
-# Swinegart
-government 			= war_tribe
-mercantilism 		= 0.1
-technology_group 	= tech_quillboar
-religion			= religion_geomancy
-primary_culture 	= culture_swinegart
-capital 			= 1

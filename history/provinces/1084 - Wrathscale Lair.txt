@@ -10,11 +10,11 @@ base_manpower = 3
 base_production = 3
 
 
-culture = culture_nazja
+culture = culture_wrathscale
 religion = religion_old_gods
 
 hre = no
-trade_goods = grain
+trade_goods = fish
 
 
 

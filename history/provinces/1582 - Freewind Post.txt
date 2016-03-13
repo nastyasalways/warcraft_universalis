@@ -1,22 +1,32 @@
 # 1582
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 4
+base_manpower = 4
+base_production = 4
 
-culture = culture_bloodhoof
+add_core = E23
+owner = E23
+controller = E23
+
+culture = culture_wildmane
 religion = religion_ancestral
 
 hre = no
-trade_goods = grain
+trade_goods = flying_mounts
 
+622.1.1 = {
+add_core = F88
+owner = F88
+controller = F88
+}
 
-
-
-618.1.1 = { 
-	owner = A85
-	controller = A85
-	add_core = A85
-	culture = culture_grimtotem
+631.1.1 = { 
+owner = A85
+controller = A85
+add_core = A85
+culture = culture_grimtotem
+base_tax = 3
+base_manpower = 3
+base_production = 3
 }

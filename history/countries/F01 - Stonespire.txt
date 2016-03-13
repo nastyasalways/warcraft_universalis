@@ -1,18 +1,18 @@
-# Dreadmaul
-government 			= warband_gov
+# Stonespire Tauren
+government 			= mercantile_tribe
 mercantilism 		= 0.1 
-technology_group 	= tech_ogre
-religion			= religion_geomancy
+technology_group 	= tech_tauren
+religion			= religion_ancestral
 primary_culture 	= culture_stonespire
 capital 			= 1
 
-597.1.1 = { 
+546.1.1 = { 
 	monarch = { 
-		name = "Omokk" 
+		name = "" 
 		dynasty = "Stonespire" 
 		adm = 3
 		dip = 3
-		mil = 4
+		mil = 2
 	} 
 } 
 

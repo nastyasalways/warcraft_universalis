@@ -2,7 +2,7 @@
 government 			= war_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_goblin
-religion			= religion_divine
+religion			= religion_water
 primary_culture 	= culture_gilblin
 capital 			= 1
 

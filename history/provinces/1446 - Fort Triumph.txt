@@ -1,16 +1,29 @@
-# 1446
+# 1446 Southern Barrens
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
 
-culture = noculture
-religion = noreligion
+culture = culture_razormane
+religion = religion_geomancy
 
 hre = no
-trade_goods = grain
+trade_goods = fur
+
+631.1.1 = {
+owner = A23
+controller = A23
+add_core = A23
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+capital = "Fort Triumph"
+base_tax = 4
+base_manpower = 4
+base_production = 4
+}
+
 
 
 
