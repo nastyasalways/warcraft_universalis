@@ -19,6 +19,7 @@ technology = {
 	land_morale 		= 2.0
 
 	enable = trebuchet
+	fort_15th = yes
 }
 
 # 1
@@ -255,6 +256,8 @@ technology = {
 	year = 595
 	
 	# Buildings
+	
+	fort_16th = yes
 }
 
 # 11
@@ -387,6 +390,8 @@ technology = {
 	enable = insectoid_protector
 	enable = naga_guard
 	enable = naga_stalker
+	
+	fort_17th = yes
 }
 
 # 16
@@ -605,6 +610,8 @@ technology = {
 	enable = insectoid_reaver
 	enable = naga_myrmidons
 	enable = naga_serpent
+	
+	fort_18th = yes
 }
 
 # 31
