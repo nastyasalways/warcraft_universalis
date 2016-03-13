@@ -2,7 +2,9 @@
 
 
 eastern_kingdoms_superregion = {
-	eastern_kingdoms_region
+	azeroth_region
+	lordaeron_region
+	khaz_modan_region
 }
 
 kalimdor_superregion = {
