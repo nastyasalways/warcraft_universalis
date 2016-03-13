@@ -1,0 +1,3 @@
+faction_member = {
+	diplomatic_upkeep = 4
+}

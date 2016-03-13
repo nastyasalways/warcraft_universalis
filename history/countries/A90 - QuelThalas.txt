@@ -6,6 +6,7 @@ religion			= religion_arcane
 secondary_religion = religion_church_of_the_light
 primary_culture 	= culture_high_elf
 capital 			= 660
+historical_friend = A08
 
 546.1.1 = {
 	monarch = {

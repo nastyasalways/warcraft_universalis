@@ -369,14 +369,14 @@ NCountry = {
 	CONVERSION_COOLDOWN = 120,						-- months before you can convert again.
 	CONVERSION_COOLDOWN_SECONDARY = 120,			-- months before you can convert secondary religion again.
 	
-	IDEA_TO_TECH = -0.04,			-- percentage on tech reduction per idea.
+	IDEA_TO_TECH = -0.02,			-- percentage on tech reduction per idea.
 	TECH_TIME_COST = 0.3,			-- tech grow with 20% cost over time.
 	TECH_AHEAD_OF_TIME = 0.1,		-- per year ahead.
 	
 	PS_BUY_IDEA = 200,
 	PS_BUY_NATIVE_ADVANCEMENT = 500,
 	PS_BUY_RELIGIOUS_REFORM = 0,
-	PS_ADVANCE_TECH = 300,
+	PS_ADVANCE_TECH = 400,
 	PS_BOOST_STABILITY = 100,
 	PS_BUY_GENERAL = 50,
 	PS_BUY_ADMIRAL = 50,
