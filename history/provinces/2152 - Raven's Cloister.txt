@@ -27,15 +27,6 @@ culture = culture_burning_blade
 religion = religion_fel 
 }
 
-# Fall of Stormwind
-597.1.1 = { 
-owner = A44
-controller = A44
-add_core = A44
-culture = culture_burning_blade
-religion = religion_fel 
-}
-
 # Beyond the Dark Portal
 600.1.1 = {
 owner = XXX
