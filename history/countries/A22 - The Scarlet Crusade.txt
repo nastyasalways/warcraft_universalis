@@ -53,15 +53,15 @@ heir = {
 }
 
 626.1.1 = {
-government_rank = 1
-monarch = { 
-     name = "Sally" 
-     dynasty = "Whitemane" 
+	government_rank = 1
+	monarch = { 
+		name = "Sally" 
+		dynasty = "Whitemane" 
 		adm = 4
 		dip = 3
 		mil = 5
-           female = yes
-           birth_date = 604.8.11
+        female = yes
+        birth_date = 604.8.11
  	} 
 }
 

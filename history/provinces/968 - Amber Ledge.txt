@@ -26,5 +26,4 @@ trade_goods = grain
 	remove_core = B03
 	culture = culture_dalaran
 	religion = religion_arcane
-
 }
