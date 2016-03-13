@@ -4,11 +4,11 @@
 
 azerothian_ideas = {
 	start = {
-		
+		diplomatic_upkeep = 2
 	}
 
 	bonus = {
-		
+		advisor_pool = 1
 	}
 	
 	trigger = {
@@ -17,25 +17,28 @@ azerothian_ideas = {
 	free = yes		#wibe added at load.
 	
 	azerothian_ideas_1 = {
-	
+		global_tax_modifier = 0.1
 	}
 	azerothian_ideas_2 = {
-	
+		global_manpower_modifier = 0.1
 	}
 	azerothian_ideas_3 = {
-	
+		cavalry_cost = -0.10
+		cavalry_power = 0.1
 	}
 	azerothian_ideas_4 = {
-	
+		build_cost = -0.25
 	}
 	azerothian_ideas_5 = {
-	
+		technology_cost = -0.05
+		idea_cost = -0.1
 	}
 	azerothian_ideas_6 = {
-	
+		accepted_culture_threshold = -0.25
+		tolerance_heathen = 1
 	}
 	azerothian_ideas_7 = {
-	
+		global_unrest = -1
 	}
 }
 
@@ -78,11 +81,11 @@ depths_ideas = {
 
 gilnean_ideas = {
 	start = {
-		
+		advisor_cost = -0.1
 	}
 
 	bonus = {
-		
+		advisor_pool = 1
 	}
 	
 	trigger = {
@@ -91,35 +94,37 @@ gilnean_ideas = {
 	free = yes		#wibe added at load.
 	
 	gilnean_ideas_1 = {
-	
+		prestige = 1
 	}
 	gilnean_ideas_2 = {
-	
+		heavy_ship_power = 0.25
+		naval_attrition = -0.25
 	}
 	gilnean_ideas_3 = {
-	
+		production_efficiency = 0.1
 	}
 	gilnean_ideas_4 = {
-	
+		defensiveness = 0.25
 	}
 	gilnean_ideas_5 = {
-	
+		global_tax_modifier = 0.1
 	}
 	gilnean_ideas_6 = {
-	
+		development_cost = -0.1
+		build_cost = -0.1
 	}
 	gilnean_ideas_7 = {
-	
+		fort_maintenance_modifier = -0.5
 	}
 }
 
 arathi_ideas = {
 	start = {
-		
+		diplomatic_upkeep = 1
 	}
 
 	bonus = {
-		
+		diplomatic_reputation = 1
 	}
 	
 	trigger = {
@@ -128,25 +133,25 @@ arathi_ideas = {
 	free = yes		#wibe added at load.
 	
 	arathi_ideas_1 = {
-	
+		discipline = 0.05
 	}
 	arathi_ideas_2 = {
-	
+		global_autonomy = -0.05
 	}
 	arathi_ideas_3 = {
-	
+		infantry_cost = -0.1
 	}
 	arathi_ideas_4 = {
-	
+		leader_land_fire = 1
 	}
 	arathi_ideas_5 = {
-	
+		defensiveness = 0.1
 	}
 	arathi_ideas_6 = {
-	
+		global_tax_modifier = 0.1
 	}
 	arathi_ideas_7 = {
-	
+		legitimacy = 1
 	}
 }
 
@@ -673,11 +678,11 @@ forest_troll_ideas = {
 	}
 	free = yes		#wibe added at load.
 	
-	forest_troll_berserkers { infantry_power = 0.1
-	
+	forest_troll_berserkers = { 
+		infantry_power = 0.1
 	}
-	forest_troll_empire = { core_creation = -0.15
-	
+	forest_troll_empire = { 
+		core_creation = -0.15
 	}
 	
 	forest_troll_lumber_mills = { production_efficiency = 0.1
@@ -970,11 +975,11 @@ tauren_ideas = {
 
 thalassian_ideas = {
 	start = {
-		
+		legitimacy = 1
 	}
 
 	bonus = {
-		
+		technology_cost = -0.05
 	}
 	
 	trigger = {
@@ -983,25 +988,26 @@ thalassian_ideas = {
 	free = yes		#wibe added at load.
 	
 	thalassian_ideas_1 = {
-	
+		development_cost = -0.1
 	}
 	thalassian_ideas_2 = {
-	
+		defensiveness = 0.1
 	}
 	thalassian_ideas_3 = {
-	
+		infantry_power = 0.1
+		hostile_attrition = 1
 	}
 	thalassian_ideas_4 = {
-	
+		army_tradition_decay = -0.02
 	}
 	thalassian_ideas_5 = {
-	
+		tolerance_own = 1
 	}
 	thalassian_ideas_6 = {
-	
+		prestige = 1
 	}
 	thalassian_ideas_7 = {
-	
+		land_morale = 0.1
 	}
 }
 
@@ -1081,11 +1087,12 @@ demonic_ideas = {
 
 satyr_ideas = {
 	start = {
-		
+		prestige_decay = 0.01
+		diplomatic_reputation = -1
 	}
 
 	bonus = {
-		
+		cavalry_power = 0.1
 	}
 	
 	trigger = {
@@ -1094,25 +1101,27 @@ satyr_ideas = {
 	free = yes		#wibe added at load.
 	
 	satyr_ideas_1 = {
-	
+		culture_conversion_cost = -0.25
 	}
 	satyr_ideas_2 = {
-	
+		enemy_core_creation = 0.25
 	}
 	satyr_ideas_3 = {
-	
+		hostile_attrition = 1
 	}
 	satyr_ideas_4 = {
-	
+		discipline = 0.05
 	}
 	satyr_ideas_5 = {
-	
+		spy_offence = 0.25
 	}
 	satyr_ideas_6 = {
-	
+		tolerance_own = 2
+		tolerance_heretic = -2
+		tolerance_heathen = -2
 	}
 	satyr_ideas_7 = {
-	
+		artillery_power = 0.1
 	}
 }
 

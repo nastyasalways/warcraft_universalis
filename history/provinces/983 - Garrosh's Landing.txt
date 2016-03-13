@@ -16,8 +16,9 @@ trade_goods = grain
 
 
 626.1.1 = { 
-owner = B10
-controller = B10
-add_core = B10
-culture = culture_kvaldir
-religion = religion_ancestral }
+	owner = B10
+	controller = B10
+	add_core = B10
+	culture = culture_kvaldir
+	religion = religion_ancestral 
+}

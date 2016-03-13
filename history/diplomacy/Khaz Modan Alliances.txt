@@ -14,5 +14,5 @@ alliance = {
 	first = A30
 	second = E26
 	start_date = 546.1.1
-	end_date = 640.1.1
+	end_date = 632.1.1
 }

@@ -1,8 +1,8 @@
-estate_merchants =
+estate_magisters =
 {
 	icon = 1
 	
-	color = { 0 150 150 }
+	color = { 200 50 50 }
 	
 	# Is estate kept in control of province on conquest?
 	keep_on_conquest = no
@@ -16,7 +16,7 @@ estate_merchants =
 	
 	# If true, country will get estate
 	trigger = {
-		always = yes
+		technology_group = tech_thalassian
 	}
 	
 	# If true, province can be granted to estate

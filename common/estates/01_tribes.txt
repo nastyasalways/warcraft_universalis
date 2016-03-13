@@ -17,7 +17,14 @@ estate_tribes =
 	
 	# If true, country will get estate
 	trigger = {
-		always = yes
+		OR = {
+			technology_group = tech_depths
+			technology_group = tech_gnoll
+			technology_group = tech_centaur
+			technology_group = tech_furbolg
+			technology_group = tech_wolfvar
+			technology_group = tech_quillboar
+		}
 	}
 	
 	# If true, province can be granted to estate

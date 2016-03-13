@@ -42,11 +42,19 @@ alliance = {
 	end_date = 640.1.1
 }
 
-# Stormwind - Quel'Lorien
+# Stormwind - Quel'Danil
 alliance = {
 	first = A01
 	second = E49
 	start_date = 631.1.1
+	end_date = 640.1.1
+}
+
+# Stormwind - Exodar
+alliance = {
+	first = A01
+	second = A56
+	start_date = 625.1.1
 	end_date = 640.1.1
 }
 
@@ -83,11 +91,19 @@ alliance = {
 	end_date = 640.1.1
 }
 
-# Stromgarde - Quel'Lorien
+# Stromgarde - Quel'Danil
 alliance = {
 	first = A16
 	second = E49
 	start_date = 631.1.1
+	end_date = 640.1.1
+}
+
+# Stromgarde - Exodar
+alliance = {
+	first = A16
+	second = A56
+	start_date = 625.1.1
 	end_date = 640.1.1
 }
 
@@ -116,11 +132,19 @@ alliance = {
 	end_date = 640.1.1
 }
 
-# Ironforge - Quel'Lorien
+# Ironforge - Quel'Danil
 alliance = {
 	first = A29
 	second = E49
 	start_date = 631.1.1
+	end_date = 640.1.1
+}
+
+# Ironforge - Exodar
+alliance = {
+	first = A29
+	second = A56
+	start_date = 625.1.1
 	end_date = 640.1.1
 }
 
@@ -141,11 +165,19 @@ alliance = {
 	end_date = 640.1.1
 }
 
-# Gnomeregan - Quel'Lorien
+# Gnomeregan - Quel'Danil
 alliance = {
 	first = A32
 	second = E49
 	start_date = 631.1.1
+	end_date = 640.1.1
+}
+
+# Gnomeregan - Exodar
+alliance = {
+	first = A32
+	second = A56
+	start_date = 625.1.1
 	end_date = 640.1.1
 }
 
@@ -158,10 +190,27 @@ alliance = {
 	end_date = 640.1.1
 }
 
-# Kul Tiras - Quel'Lorien
+# Kul Tiras - Quel'Danil
 alliance = {
 	first = A14
 	second = E49
 	start_date = 631.1.1
+	end_date = 640.1.1
+}
+
+# Kul Tiras - Exodar
+alliance = {
+	first = A14
+	second = A56
+	start_date = 625.1.1
+	end_date = 640.1.1
+}
+
+### Quel'Danil Alliances ########################
+# Quel'Danil - Exodar
+alliance = {
+	first = E49
+	second = A56
+	start_date = 625.1.1
 	end_date = 640.1.1
 }
