@@ -1,5 +1,5 @@
 # Darkspear Outland Colony
-government 			= expenditionary_force
+government 			= expeditionary_force
 mercantilism 		= 0.1 
 technology_group 	= tech_troll
 religion			= religion_loa

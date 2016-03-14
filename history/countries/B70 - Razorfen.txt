@@ -36,7 +36,3 @@ capital 			= 1
 		female = yes
 	} 
 } 
-
-625.1.1 = { 
-	religion = religion_the_damned
-} 

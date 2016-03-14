@@ -206,6 +206,8 @@ A86 = "countries/Runetotem.txt" # tech_tauren
 A87 = "countries/Mistrunner.txt" # tech_tauren
 A88 = "countries/Dawnstrider.txt" 
 A89 = "countries/Winterhoof.txt" # tech_tauren
+F88 = "countries/Thunder Bluff.txt" # tech_tauren
+E23 = "countries/Wildmane.txt"
 
 # High Elf
 A90 = "countries/QuelThalas.txt"
@@ -334,12 +336,13 @@ B64 = "countries/Coldwind.txt"
 B65 = "countries/Frostfeather.txt"
 B66 = "countries/Dustwind.txt"
 B67 = "countries/Screeching.txt" # tech_harpy
+F87 = "countries/Northspring.txt"
 
 # Quillboar
 B68 = "countries/Bristleback.txt" # tech_quillboar
 B69 = "countries/Razormane.txt" 
 B70 = "countries/Razorfen.txt" # tech_quillboar
-B71 = "countries/Swinegart.txt" # tech_quillboar
+B71 = "countries/Death's Head.txt" # tech_quillboar
 
 # Titan
 B72 = "countries/Tolvir.txt" # tech_titan
@@ -388,6 +391,7 @@ B98 = "countries/Blackheart.txt"
 B99 = "countries/Hatefury.txt"
 E01 = "countries/Legashi.txt"
 F43 = "countries/Nazzivus.txt"
+F90 = "countries/Wildspawn.txt"
 
 # Naga
 E02 = "countries/Coilskar.txt"
@@ -421,7 +425,6 @@ E19 = "countries/Bashir.txt"
 E20 = "countries/Razaani.txt"
 E21 = "countries/Shaffar.txt"
 E22 = "countries/Viraani.txt"
-E23 = "countries/Zaxxis.txt"
 F80 = "countries/Ethereum.txt"
 
 # Elemental
@@ -518,6 +521,7 @@ F33 = "countries/Coaststrider.txt"
 F42 = "countries/Sons of Hodir.txt"
 F44 = "countries/Arkkoroc.txt"
 F70 = "countries/Colossi.txt"
+F89 = "countries/Deepstrider.txt"
 
 # Sprite
 E87 = "countries/Rikkitun.txt"

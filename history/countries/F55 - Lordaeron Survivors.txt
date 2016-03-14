@@ -1,5 +1,5 @@
 # Lordaeron
-government			= expenditionary_force
+government			= expeditionary_force
 government_rank		= 1
 mercantilism 		= 0.1
 technology_group 	= tech_human

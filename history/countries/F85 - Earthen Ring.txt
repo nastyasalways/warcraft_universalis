@@ -3,7 +3,7 @@ government 			= religious_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_tauren
 religion			= religion_ancestral
-primary_culture 	= culture_runetotem
+primary_culture 	= culture_skychaser
 capital 			= 1
 
 
@@ -19,7 +19,7 @@ capital 			= 1
 
 622.1.1 = {
 primary_culture 	= culture_horde
-add_accepted_culture 	= culture_runetotem
+add_accepted_culture 	= culture_skychaser
 add_accepted_culture 	= culture_darkspear
 technology_group 	= tech_orc
 }

@@ -21,7 +21,7 @@ capital 			= 1
 617.1.1 = { 
 primary_culture = culture_twilight
 religion = religion_old_gods
-government = twilight_cabal
+government = cult_gov
 technology_group = tech_old_god
 }
 

@@ -1,5 +1,6 @@
 # Theramore Deserters
 government 			= dictatorship_gov
+government_rank = 1
 mercantilism 		= 0.1 
 technology_group 	= tech_human
 religion			= religion_church_of_the_light
