@@ -1,6 +1,6 @@
 # Thorium Brotherhood
 
-government 			= expenditionary_force
+government 			= expeditionary_force
 mercantilism 		= 0.1
 technology_group 	= tech_dwarven
 religion			= religion_arcane

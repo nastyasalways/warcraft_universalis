@@ -5,3 +5,13 @@ technology_group 	= tech_naga
 religion			= religion_old_gods
 primary_culture 	= culture_hatecrest
 capital 			= 1
+
+618.1.1 = { 
+	monarch = { 
+		name = "Skessesh" 
+		dynasty = "Hatecrest" 
+		adm = 3
+		dip = 3
+		mil = 4
+	} 
+} 

@@ -5,7 +5,7 @@ technology_group 	= tech_naga
 religion			= religion_old_gods
 capital 			= 1
 
-primary_culture = culture_nazja
+primary_culture = culture_wrathscale
 
 546.1.1 = { 
 	monarch =

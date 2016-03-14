@@ -1,9 +1,9 @@
 # 1458
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 5
+base_manpower = 5
+base_production = 5
 
 
 owner = B70
@@ -15,11 +15,14 @@ religion = religion_geomancy
 
 
 hre = no
-trade_goods = grain
+trade_goods = crypts
 
 
 
 
-625.1.1 = {
+622.1.1 = {
 religion = religion_the_damned
+owner = B71
+controller = B71
+add_core = B71
 }

@@ -1,7 +1,7 @@
-# Runetotem
+# Wildmane Tribe
 government 			= mercantile_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_tauren
 religion			= religion_ancestral
-primary_culture 	= culture_runetotem
+primary_culture 	= culture_wildmane
 capital 			= 1

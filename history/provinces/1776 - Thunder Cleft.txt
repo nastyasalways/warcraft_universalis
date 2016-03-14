@@ -19,7 +19,7 @@ trade_goods = fish
 owner = A88
 controller = A88
 add_core = A88
-culture = culture_dawnchaser
+culture = culture_dawnstrider
 religion = religion_ancestral
 }
 

@@ -1,0 +1,21 @@
+# Deepstrider Tribe (Sea Giants of Western Kalimdor)
+government 			= war_tribe
+mercantilism 		= 0.1
+technology_group 	= tech_titan
+religion			= religion_titan
+primary_culture 	= culture_sea_giant
+capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "Brinegnash" 
+     dynasty = "Deepstrider" 
+		adm = 3
+		dip = 2
+		mil = 4
+ 	} 
+ } 
+
+
+
+ 

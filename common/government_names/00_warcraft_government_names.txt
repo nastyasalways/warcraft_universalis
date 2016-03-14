@@ -737,11 +737,11 @@ gov_scourge = {
 	}
 }
 
-gov_expenditionary_force = {
+gov_expeditionary_force = {
 	rank = {
-		1 = EXPENDITIONARY_FORCE
-		2 = EXPENDITIONARY_FORCE
-		3 = EXPENDITIONARY_FORCE
+		1 = EXPEDITIONARY_FORCE
+		2 = EXPEDITIONARY_FORCE
+		3 = EXPEDITIONARY_FORCE
 	}
 	
 	ruler_male = {
@@ -757,7 +757,7 @@ gov_expenditionary_force = {
 	}
 	
 	trigger = {
-		government = expenditionary_force
+		government = expeditionary_force
 	}
 }
 

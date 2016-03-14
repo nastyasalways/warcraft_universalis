@@ -1,8 +1,8 @@
-# Swinegart
+# Mulgore
 
 graphical_culture = westerngfx
 
-color = { 215 33 116 }
+color = { 136 145 13 }
 
 monarch_names = {
 

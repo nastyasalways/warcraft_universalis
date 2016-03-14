@@ -1,20 +1,44 @@
-# 1447
+# 1447 Field of Giants
 is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = B68
+controller = B68
+add_core = B68
 
-owner = B69
-controller = B69
-add_core = B69
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
-culture = culture_razormane
+culture = culture_bristleback
 religion = religion_geomancy
 
 hre = no
-trade_goods = grain
+trade_goods = fur
 
+618.1.1 = {
+owner = xxx
+controller = xxx
+}
 
+622.1.1 = {
+owner = A98
+controller = A98
+add_core = A98
+culture = culture_silithid
+religion = religion_old_gods
+}
+
+631.1.1 = {
+owner = A48
+controller = A48
+add_core = A48
+culture = culture_horde
+religion = religion_ancestral
+capital = "Desolation Hold"
+base_tax = 4
+base_manpower = 4
+base_production = 4
+trade_goods = army_supplies
+}
 
 

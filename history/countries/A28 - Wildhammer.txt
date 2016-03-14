@@ -1,5 +1,6 @@
 # Wildhammer
 government 			= administrative_kingdom
+government_rank = 1
 mercantilism 		= 0.1
 technology_group 	= tech_dwarven
 religion			= religion_ancestral

@@ -1,7 +1,7 @@
 government 				= religious_tribe
 mercantilism 			= 0.1
 technology_group 		= tech_darnassian
-religion				= religion_elune
+religion				= religion_druidic
 primary_culture 		= culture_cenarion
 add_accepted_culture 	= culture_sentinel
 capital 				= 1513

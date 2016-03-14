@@ -13,7 +13,19 @@ culture = culture_grimtotem
 religion = religion_ancestral
 
 hre = no
-trade_goods = grain
+trade_goods = artifacts
+
+622.1.1 = {
+add_core = F88
+owner = F88
+controller = F88
+}
+
+622.1.1 = {
+base_tax = 3
+base_manpower = 3
+base_production = 3
+}
 
 
 

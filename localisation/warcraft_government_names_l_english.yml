@@ -36,10 +36,10 @@ l_english:
  warband_gov_desc: "A horde of like-minded folk hell-bent on conquest."
  scourge_gov: "Scourge"
  scourge_gov_desc: "The indominable horde of undead."
- expenditionary_force: "Expenditionary Force"
- expenditionary_force_desc: "A exploration force send out to secure a region."
+ expeditionary_force: "Expeditionary Force"
+ expeditionary_force_desc: "A exploration force sent out to secure a region."
  religious_tribe: "Religious Tribe"
- religious_tribe_desc: "A tribe with religious focuses."
+ religious_tribe_desc: "A tribe with a religious focus."
  mercantile_tribe: "Mercantile Tribe"
  mercantile_tribe_desc: "A trading tribe."
  war_tribe: "War Tribe"
@@ -112,7 +112,7 @@ l_english:
  HORDE: "Horde"
  TRUE_HORDE: "True Horde"
  
- EXPENDITIONARY_FORCE: "Expenditionary Force"
+ EXPEDITIONARY_FORCE: "Expeditionary Force"
  ALLIANCE_VANGUARD: "Alliance Vanguard"
  
  CRIMINAL_GANG: "Criminal Gang"

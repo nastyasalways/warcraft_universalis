@@ -1,22 +1,21 @@
-# 1464
+# 1464 Southern Gold Road Blackthorn Ridge
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 3
+base_manpower = 3
+base_production =3
 
-culture = culture_razormane
+culture = culture_razorfen
 religion = religion_geomancy
 
 hre = no
-trade_goods = grain
-
+trade_goods = fur
 
 
 
 622.1.1 = {
 
-owner = B69
-controller = B69
-add_core = B69
+owner = B70
+controller = B70
+add_core = B70
 }

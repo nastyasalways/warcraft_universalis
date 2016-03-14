@@ -1,16 +1,54 @@
 # 1439
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 4
+base_manpower = 4
+base_production = 4
 
 
-culture = noculture
-religion = noreligion
+culture = culture_razormane
+religion = religion_geomancy
 
 hre = no
-trade_goods = grain
+trade_goods = fish
+
+# Horde Landing
+617.1.1 = {
+owner = A48
+controller = A48
+add_core = A48
+culture = culture_horde
+religion = religion_ancestral
+capital = "Horde Landing Site"
+}
+
+618.1.1 = {
+owner = xxx
+controller = xxx
+remove_core = A48
+culture = culture_razormane
+religion = religion_geomancy
+}
+
+622.1.1 = {
+owner = A23
+controller = A23
+add_core = A23
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+capital = "Northwatch Hold"
+base_tax = 5
+base_manpower = 5
+base_production = 5
+}
+
+# Damaged after being razed and rebuilt
+632.1.1 = { 
+	base_tax = 4
+	base_manpower = 4
+	base_production = 4
+}
+
 
 
 
