@@ -27,3 +27,21 @@ monarch = {
  	} 
  } 
 
+597.1.1 = {
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+} 
+}
+
+598.1.1 = {
+remove_country_modifier = alliance_member
+add_country_modifier = {
+    name = horde_member
+    duration = -1
+} 
+}
+
+600.1.1 = {
+remove_country_modifier = horde_member
+}

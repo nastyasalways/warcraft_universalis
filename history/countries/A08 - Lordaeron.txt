@@ -27,7 +27,24 @@ monarch = {
  	} 
  } 
  
- 
+597.1.1 = {
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+}
+add_country_modifier = {
+name = alliance_head
+duration = -1
+}
+}
+
 617.1.1 = {
 	add_accepted_culture = culture_gilnean
 }
+
+618.1.1 = {
+remove_country_modifier = alliance_member
+remove_country_modifier = alliance_head
+}
+
+

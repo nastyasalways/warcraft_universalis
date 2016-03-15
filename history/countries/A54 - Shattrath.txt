@@ -37,4 +37,8 @@ monarch = {
 		mil = 3
 	}  
 add_accepted_culture = culture_blood_elf
+add_country_modifier = {
+    name = neutral_member
+    duration = -1
+}
 } 

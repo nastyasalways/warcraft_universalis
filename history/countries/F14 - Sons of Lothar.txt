@@ -1,4 +1,4 @@
-# Hillsbrad
+# Draenor Alliance Expedition
 government 			= expeditionary_force
 government_rank 	= 1
 mercantilism 		= 0.1
@@ -19,7 +19,11 @@ capital 			= 1
 		adm = 4
 		dip = 4
 		mil = 5 
- 	} 
+ 	}
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+} 
 } 
 
 631.1.1 = { 

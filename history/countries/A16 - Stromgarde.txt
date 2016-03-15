@@ -1,5 +1,5 @@
 # Stromgarde
-government 			= administrative_kingdom
+government 			= militaristic_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_human
 religion			= religion_church_of_the_light
@@ -26,6 +26,17 @@ monarch = {
  	} 
  }
  
+597.1.1 = {
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+} 
+}
+
+605.1.1 = {
+remove_country_modifier = alliance_member
+}
+
 622.1.1 = { 
 	monarch = { 
 		name = "Galen" 
@@ -35,6 +46,10 @@ monarch = {
 		mil = 2 
  	} 
 	capital = 673
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+} 
 }
  
  631.1.1 = { 

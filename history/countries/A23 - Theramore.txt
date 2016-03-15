@@ -1,5 +1,5 @@
 # Theramore
-government 			= administrative_kingdom
+government 			= expeditionary_force
 government_rank = 1
 mercantilism 		= 0.1
 technology_group 	= tech_human
@@ -18,6 +18,14 @@ monarch = {
 		mil = 1
 	female = yes
  	}
+add_country_modifier = {
+name = alliance_member
+duration = -1
+}
+}
+
+618.1.1 = {
+government = administrative_kingdom
 }
 
 632.1.1 = {

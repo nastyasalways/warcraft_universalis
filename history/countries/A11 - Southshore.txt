@@ -59,6 +59,13 @@ monarch = {
  	government = administrative_republic
 } 
 
+618.1.1 = {
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+} 
+}
+
 631.1.1 = {
 	primary_culture = culture_lordaeron_worgen
 	technology_group = tech_worgen 

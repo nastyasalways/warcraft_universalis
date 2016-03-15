@@ -17,12 +17,27 @@ capital 			= 1
 	} 
 }
 
+618.1.1 = {
+add_country_modifier = {
+    name = horde_member
+    duration = -1
+}
+}
+
 622.1.1 = {
 primary_culture 	= culture_horde
 add_accepted_culture 	= culture_skychaser
 add_accepted_culture 	= culture_darkspear
 technology_group 	= tech_orc
 }
+
+625.1.1 = {
+add_country_modifier = {
+    name = neutral_member
+    duration = -1
+}
+add_accepted_culture = culture_broken
+} 
 
 627.1.1 = { 
 	monarch = { 

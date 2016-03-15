@@ -27,6 +27,13 @@ capital 			= 3036
  	} 
 }
 
+598.1.1 = {
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+}
+}
+
 631.1.1 = {
 	capital = 1140
 }

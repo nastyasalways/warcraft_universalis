@@ -18,3 +18,9 @@ capital 			= 1
 	} 
 }
 
+625.1.1 = {
+add_country_modifier = {
+    name = horde_member
+    duration = -1
+}
+}

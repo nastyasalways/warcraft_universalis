@@ -25,6 +25,10 @@ capital 			= 660
 		mil = 5
 	}
 government			= regency_gov
+add_country_modifier = {
+    name = horde_member
+    duration = -1
+}
 }
 
 626.1.1 = {

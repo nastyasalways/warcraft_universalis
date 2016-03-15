@@ -23,6 +23,11 @@ name = "Corki"
  } 
 }
 
-
+625.1.1 = {
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+}
+}
 
  

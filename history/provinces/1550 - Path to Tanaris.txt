@@ -5,18 +5,13 @@ base_tax = 2
 base_manpower = 1
 base_production = 2
 
-owner = A73
-controller = A73
-add_core = A73
-
 culture = culture_sandfury
 religion = religion_loa
 
 hre = no
 trade_goods = smugglers
 
-622.1.1 = { owner = xxx
-controller = xxx 
+622.1.1 = {
 religion = air
 culture = culture_screeching
 }

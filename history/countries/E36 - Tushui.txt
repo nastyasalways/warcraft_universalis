@@ -16,5 +16,9 @@ monarch = {
 		dip = 4
 		mil = 3
                 female = yes
- 	} 
+ 	}
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+}
  } 

@@ -25,4 +25,11 @@ capital 			= 1
 		dip = 3
 		mil = 3
 	} 
+}
+
+631.1.1 = {
+add_country_modifier = {
+    name = horde_member
+    duration = -1
+} 
 } 

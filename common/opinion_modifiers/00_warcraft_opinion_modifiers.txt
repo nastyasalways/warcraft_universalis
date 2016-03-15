@@ -1,0 +1,13 @@
+#FIXED STATE
+
+alliance_organization = {
+	opinion = 25
+}
+
+horde_organization = {
+	opinion = 25
+}
+
+neutral_organization = {
+	opinion = 15
+}
