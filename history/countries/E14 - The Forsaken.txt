@@ -22,3 +22,10 @@ capital 			= 931
 620.6.1 = {
 capital = 543
 }
+
+622.1.1 = {
+add_country_modifier = {
+    name = horde_member
+    duration = -1
+}
+}

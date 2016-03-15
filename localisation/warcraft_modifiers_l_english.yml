@@ -1,0 +1,8 @@
+l_english:
+ # Alliance/Horde
+ alliance_member: "Alliance"
+ horde_member: "Horde"
+ alliance_head: "Supreme Allied Commander"
+ horde_head: "Warchief"
+ # Neutral
+ neutral_member: "Neutral Organization"

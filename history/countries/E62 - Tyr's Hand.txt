@@ -27,3 +27,10 @@ monarch = {
 		mil = 4
  	} 
  }  
+
+618.1.1 = {
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+} 
+}

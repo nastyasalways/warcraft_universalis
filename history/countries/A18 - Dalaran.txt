@@ -17,6 +17,13 @@ monarch = {
  	} 
  } 
 
+597.1.1 = {
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+}
+} 
+
 618.1.1 = { 
 monarch = { 
      name = "Ansirem"
@@ -27,7 +34,7 @@ monarch = {
  	} 
  } 
 
-622.1.1 = { 
+626.1.1 = { 
 monarch = { 
      name = "Rhonin"
      dynasty = "Redhair" 
@@ -35,11 +42,13 @@ monarch = {
 		dip = 4
 		mil = 3
  	} 
- } 
-
-626.1.1 = { 
-capital = 1 
-}
+capital = 1
+remove_country_modifier = alliance_member
+add_country_modifier = {
+    name = neutral_member
+    duration = -1
+} 
+} 
 
 632.1.1 = { 
 	monarch = { 
@@ -49,5 +58,11 @@ capital = 1
 		dip = 4
 		mil = 4
 		female = yes
-	} 
-} 
+	}
+add_country_modifier = {
+    name = alliance_member
+    duration = -1 
+}
+remove_country_modifier = neutral_organization
+}
+ 

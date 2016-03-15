@@ -45,5 +45,9 @@ capital 			= 2007
 		mil = 4
  	}	
 	government = dictatorship_gov
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+} 
 }
  

@@ -23,5 +23,9 @@ monarch = {
 		adm = 3
 		dip = 3
 		mil = 4
- 	} 
+ 	}
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+} 
 } 

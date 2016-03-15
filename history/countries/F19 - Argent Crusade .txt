@@ -15,6 +15,10 @@ monarch = {
 	        adm = 3
 		dip = 4
 		mil = 4
- 	} 
+ 	}
+add_country_modifier = {
+    name = neutral_member
+    duration = -1
+} 
  } 
 

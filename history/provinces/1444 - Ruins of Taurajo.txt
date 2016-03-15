@@ -12,6 +12,8 @@ add_core = F85
 culture = culture_skychaser
 religion = religion_ancestral
 
+capital = "Camp Taurajo"
+
 hre = no
 trade_goods = fur
 
@@ -24,7 +26,6 @@ culture = culture_bloodhoof
 base_tax = 3
 base_manpower = 3
 base_production = 3
-capital = "Camp Taurajo"
 }
 
 

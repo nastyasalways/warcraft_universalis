@@ -16,6 +16,13 @@ monarch = {
 		mil = 5
  	} 
  } 
+
+598.1.1 = {
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+}
+}
  
  617.1.1 = { 
 monarch = { 
@@ -26,3 +33,14 @@ monarch = {
 		mil = 4
  	} 
  } 
+
+618.1.1 = {
+remove_country_modifier = alliance_member
+}
+
+631.1.1 = {
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+}
+}
