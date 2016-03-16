@@ -1,0 +1,26 @@
+country_event = {
+	id = firstwar.1
+	title = firstwar.1.title
+	desc = firstwar.1.desc
+	
+	fire_only_once = yes
+	
+	trigger = {
+		year = 592
+		culture_group = culture_group_orc
+		capital_scope = {
+			region = azeroth_region
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		add_country_modifier = {
+			name = blood_of_mannaroth
+			duration = -1
+		}
+	}
+}

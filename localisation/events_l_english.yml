@@ -38,6 +38,10 @@ l_english:
  story.8.desc: ""
  story.8.option.a: ""
  
+ #First War
+ firstwar.1.title: "Orcs Raze Grand Hamlet"
+ firstwar.1.desc: "Pouring forth from the Deadwind Pass, orcs ravage Grand Hamlet and raze it to the ground."
+ 
  #Gilneas
  gilneas.1.title: "Build the Wall!"
  gilneas.1.desc: "We should build a wall to forever remove our nation from other people's troubles."
