@@ -39,8 +39,13 @@ l_english:
  story.8.option.a: ""
  
  #First War
- firstwar.1.title: "Orcs Raze Grand Hamlet"
- firstwar.1.desc: "Pouring forth from the Deadwind Pass, orcs ravage Grand Hamlet and raze it to the ground."
+ firstwar.1.title: ""
+ firstwar.1.desc: ""
+ firstwar.1.option.a: "Drink it!"
+ firstwar.1.option.b: "It is tainted. We will not drink."
+ firstwar.2.title: "Orcs Raze Grand Hamlet"
+ firstwar.2.desc: "Pouring forth from the Deadwind Pass, orcs ravage Grand Hamlet and raze it to the ground."
+ firstwar.2.option.a: "Horror!"
  
  #Gilneas
  gilneas.1.title: "Build the Wall!"

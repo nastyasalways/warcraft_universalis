@@ -3,14 +3,11 @@ country_event = {
 	title = firstwar.1.title
 	desc = firstwar.1.desc
 	
-	fire_only_once = yes
+	#fire_only_once = yes
 	
 	trigger = {
 		year = 592
 		culture_group = culture_group_orc
-		capital_scope = {
-			region = azeroth_region
-		}
 	}
 	
 	mean_time_to_happen = {
@@ -18,9 +15,66 @@ country_event = {
 	}
 	
 	option = {
+		name = firstwar.1.option.a
 		add_country_modifier = {
 			name = blood_of_mannaroth
 			duration = -1
+		}
+		
+		ai_chance = { 
+			factor = 100 
+			
+			modifier = {
+				factor = 0
+				tag = A46
+			}
+		}
+	}
+	
+	option = {
+		name = firstwar.1.option.b
+	}
+}
+
+country_event = {
+	id = firstwar.2
+	title = firstwar.2.title
+	desc = firstwar.2.desc
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = A03 #Darkshire
+		year = 592
+		is_at_war = yes
+		#exists = 
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = firstwar.2.option.a
+		1021 = {
+		if = {
+				limit = { base_tax = 4 }
+				add_base_tax = -3
+			}
+			
+			if = {
+				limit = { base_prouction = 4 }
+				add_base_prouction = -3
+			}
+			
+			if = {
+				limit = { base_manpower = 4 }
+				add_base_manpower = -3
+			}
+			create_colony = 500
+			add_colonysize = -1000
+			change_controller = NAT
+			cede_province = NAT
 		}
 	}
 }
