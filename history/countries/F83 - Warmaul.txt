@@ -4,7 +4,7 @@ mercantilism 		= 0.1
 technology_group 	= tech_ogre
 religion			= religion_earth
 primary_culture 	= culture_warmaul
-capital = 1
+capital = 1621
 
 
 

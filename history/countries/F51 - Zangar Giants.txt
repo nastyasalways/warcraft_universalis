@@ -4,7 +4,7 @@ mercantilism 		= 0.1
 technology_group 	= tech_elemental
 religion			= religion_zangar
 primary_culture 	= culture_fungal_giant
-capital = 1
+capital = 1614
 
 
 
