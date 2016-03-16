@@ -5,6 +5,10 @@ technology_group 	= tech_human
 religion			= religion_church_of_the_light
 primary_culture 	= culture_azerothian
 capital 			= 1
+historical_friend = A02
+historical_friend = A03
+historical_friend = A04
+historical_friend = A05
 
 546.1.1 = { 
 	monarch = { 
