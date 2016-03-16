@@ -4,7 +4,7 @@ mercantilism 		= 0.1
 technology_group 	= tech_depths
 religion			= religion_old_gods
 primary_culture 	= culture_nerglish
-capital 			= 1
+capital 			= 521
 
 618.1.1 = { 
 	monarch = { 
