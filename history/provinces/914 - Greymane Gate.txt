@@ -17,7 +17,7 @@ trade_goods = army_supplies
 
 
 617.1.1 = {
-	add_building = forth_18th
+	add_building = fort_18th
 }
 
 # The Frozen Throne
