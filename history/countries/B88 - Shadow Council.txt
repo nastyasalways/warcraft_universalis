@@ -4,7 +4,7 @@ mercantilism 		= 0.1
 technology_group 	= tech_orc
 religion			= religion_fel
 primary_culture 	= culture_horde
-capital 			= 1
+capital 			= 1649
 
 
 546.1.1 = { 
