@@ -1,8 +1,8 @@
 # 1462 Bridge to Theramore
 is_city = no
 
-controller = XXX
-owner = XXX
+#controller = XXX
+#owner = XXX
 
 base_tax = 1
 base_manpower = 1
