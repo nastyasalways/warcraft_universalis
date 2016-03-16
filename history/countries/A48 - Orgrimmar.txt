@@ -18,10 +18,15 @@ capital 			= 1377
 	} 
 historical_friend = A61
 historical_friend = A35
-}
-
-618.1.1 = {
 historical_friend = A70
+add_country_modifier = {
+    name = horde_member
+    duration = -1
+}
+add_country_modifier = {
+    name = horde_head
+    duration = -1
+}
 }
 
 631.1.1 = {

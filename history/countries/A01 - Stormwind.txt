@@ -26,8 +26,12 @@ capital 			= 1
  	} 
 } 
 
-598.1.1 = { 
-	monarch = { 
+597.1.1 = {
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+}
+    monarch = { 
 		name = "Varian" 
 		dynasty = "Wyrnn" 
 		adm = 3
@@ -35,8 +39,8 @@ capital 			= 1
 		mil = 4 
  	}
  	capital = 991
-} 
- 
+}
+
 617.1.1 = { capital = 1 }
  
 622.1.1 = { 
@@ -47,6 +51,10 @@ capital 			= 1
 		dip = 3
 		mil = 1 
  	} 
+add_country_modifier = {
+name = alliance_head
+duration = -1
+}
 } 
  
 626.1.1 = { 

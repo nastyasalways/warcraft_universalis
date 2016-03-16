@@ -21,4 +21,8 @@ capital 			= 1
            female = yes
 	} 
 add_accepted_culture = culture_highbourne
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+} 
 } 

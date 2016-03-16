@@ -1,10 +1,11 @@
 # Lordaeron
-government 			= administrative_kingdom
-government_rank 	= 2
+government 			= expeditionary_force
+government_rank 	= 1
 mercantilism 		= 0.1
 technology_group 	= tech_human
 religion			= religion_church_of_the_light
 primary_culture 	= culture_lordaeron
+add_accepted_culture = culture_ironforge
 capital 			= 1
 
 617.1.1 = { 
@@ -15,7 +16,11 @@ capital 			= 1
 		adm = 4
 		dip = 4	
 		mil = 5
-	}  
+	}
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+}   
 } 
 
 618.1.1 = { 

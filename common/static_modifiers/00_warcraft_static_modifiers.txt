@@ -1,0 +1,43 @@
+# All global modifiers are here. They are applied from certain game-features.
+#
+# Effects are fully scriptable here.
+
+# These names can NOT be removed or changes, as the code uses them....
+
+########################################
+# Horde/Alliance
+########################################
+
+horde_member =
+{
+#every_country = {
+#limit = {
+#has_country_modifier = horde_member
+#			}
+#			add_opinion = { who = ROOT modifier = opinion_declined_independent_state_support }
+#		}
+}
+
+alliance_member =
+{
+	
+}
+
+alliance_head =
+{
+
+}
+
+horde_head =
+{
+
+}
+
+########################################
+# Filthy Neutrals
+########################################
+
+neutral_member =
+{
+
+}

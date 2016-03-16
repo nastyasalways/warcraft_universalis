@@ -50,8 +50,20 @@ monarch = {
  		adm = 4 
 		dip = 5 
 		mil = 3 
+  	}
+heir = {  
+      name = "Torntusk"  
+     dynasty = "Revantusk"  
+ 		adm = 2 
+		dip = 3 
+		mil = 5  
+		female = yes 
   	}  
-  }  
+add_country_modifier = {
+    name = horde_member
+    duration = -1
+}  
+}  
 
 633.1.1 = { 
 capital = 537 

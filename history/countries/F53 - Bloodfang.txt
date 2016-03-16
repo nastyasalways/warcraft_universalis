@@ -1,5 +1,5 @@
 # Bloodfang Pack
-government 			= warband_gov_gov
+government 			= warband__gov
 government_rank 	= 1
 mercantilism 		= 0.1 
 technology_group 	= tech_worgen
@@ -17,4 +17,8 @@ capital = 1
 			dip = 1
 			mil = 4
 	}
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+}
 }

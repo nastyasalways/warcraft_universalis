@@ -102,7 +102,8 @@
  
  
  # Continents
- continent_eastern_kingdoms: "Eastern Kingdoms"
+ # Prehaps "Continent" could be renamed "World"?
+ continent_eastern_kingdoms: "Azeroth"
  continent_kalimdor: "Kalimdor"
  continent_northrend: "Northrend"
  continent_exodar: "Exodar"
@@ -121,6 +122,9 @@
  
  # Regions
  eastern_kingdoms_region: "Eastern Kingdoms"
+ lordaeron_region: "Lordaeron"
+ azeroth_region: "Azeroth"
+ khaz_modan_region: "Khaz Modan"
  kalimdor_region: "Kalimdor"
  northrend_region: "Northrend"
  exodar_region: "Exodar"
@@ -219,7 +223,6 @@
  area_vale_of_eternal_blossoms: "Vale of Eternal Blossoms"
  area_townlong_steppes: "Townlong Steppes"
  area_kun_lai_summit: "Kun-lai Summit"
- 
  area_zul_aman: "Zul'Aman"
  
  # Bookmarks

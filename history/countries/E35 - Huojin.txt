@@ -16,4 +16,8 @@ monarch = {
 		dip = 3
 		mil = 4
  	} 
+add_country_modifier = {
+    name = horde_member
+    duration = -1
+}
  } 

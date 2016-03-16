@@ -17,6 +17,14 @@ monarch = {
 		dip = 2
 		mil = 5 
  	}
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+}
+add_country_modifier = {
+name = alliance_head
+duration = -1
+}
 }
 
 618.5.1 = { 
@@ -28,6 +36,8 @@ monarch = {
 		dip = 4
 		mil = 2
  	}
+remove_country_modifier = alliance_head
+remove_country_modifier = alliance_member
 }
 
 620.1.1 = { 
@@ -39,6 +49,14 @@ monarch = {
 		dip = 2
 		mil = 5 
  	}
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+}
+add_country_modifier = {
+name = alliance_head
+duration = -1
+}
 }
 
 620.5.1 = { 
@@ -50,4 +68,7 @@ monarch = {
 		mil = 3
         regent = yes
  	}
-} 
+remove_country_modifier = alliance_member
+remove_country_modifier = alliance_head
+}
+ 

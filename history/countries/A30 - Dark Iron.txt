@@ -23,4 +23,8 @@ monarch = {
  
 631.1.1 = { 
 	religion = religion_arcane
+add_country_modifier = {
+    name = alliance_member
+    duration = -1
+} 
 }

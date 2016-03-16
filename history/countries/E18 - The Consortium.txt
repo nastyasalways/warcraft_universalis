@@ -5,3 +5,10 @@ technology_group 	= tech_ethereal
 religion			= religion_arcane
 primary_culture 	= culture_kareshi
 capital 			= 1
+
+625.1.1 = {
+add_country_modifier = {
+    name = neutral_member
+    duration = -1
+} 
+}
