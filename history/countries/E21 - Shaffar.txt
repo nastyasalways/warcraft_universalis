@@ -3,8 +3,8 @@ government 			= criminal_organisation
 mercantilism 		= 0.1
 technology_group 	= tech_ethereal
 religion			= religion_arcane
-primary_culture 	= culture_kareshi
-capital 			= 1
+primary_culture 	= culture_kaeshi
+capital 			= 2044
 
 546.1.1 = { 
 monarch = { 

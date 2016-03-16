@@ -5,7 +5,7 @@ technology_group 	= tech_troll
 religion			= religion_loa
 secondary_religion = religion_voodoo
 primary_culture 	= culture_darkspear
-capital 			= 1385
+capital 			= 1384
 
 
 546.1.1 = {  
