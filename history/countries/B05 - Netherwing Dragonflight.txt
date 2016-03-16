@@ -4,7 +4,7 @@ mercantilism 		= 0.1
 technology_group 	= tech_dragonkin
 religion			= religion_arcane
 primary_culture 	= culture_netherwing
-capital 			= 1
+capital 			= 1617
 
 617.1.1 = { 
 	monarch = { 
