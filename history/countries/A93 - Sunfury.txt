@@ -4,7 +4,7 @@ mercantilism 		= 0.1
 technology_group 	= tech_thalassian
 religion			= religion_arcane
 primary_culture 	= culture_blood_elf
-capital 			= 1
+capital 			= 1717
 
 618.1.1 = {
 	monarch = {

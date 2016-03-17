@@ -7,7 +7,7 @@ religion			= religion_fel
 primary_culture 	= culture_pit_lord
 add_accepted_culture = culture_fel_orc
 add_accepted_culture = culture_moarg
-capital 			= 1
+capital 			= 1591
 
 617.1.1 = { 
 	monarch = { 

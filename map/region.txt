@@ -155,7 +155,7 @@ outland_region = {
 	}
 	areas = {
 		area_hellfire_peninsula
-		area_zangermarsh
+		area_zangarmarsh
 		area_terokkar_forest
 		area_nagrand
 		area_shadowmoon_valley

@@ -47,3 +47,7 @@ NDefines.NFrontend.FRONTEND_LOOK_X = 4000.0
 NDefines.NFrontend.CAMERA_START_X = 4000.0
 NDefines.NFrontend.CAMERA_END_X = 4000.0
 NDefines.NFrontend.CAMERA_LOOKAT_X = 4000.0
+
+NDefines.NCountry.PS_BUY_IDEA = 200
+NDefines.NCountry.PS_ADVANCE_TECH = 400
+NDefines.NCountry.MAX_CROWN_COLONIES = 0

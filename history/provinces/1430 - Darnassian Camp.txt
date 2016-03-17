@@ -10,31 +10,30 @@ base_tax = 4
 base_manpower = 4
 base_production = 4
 
-
 culture = culture_legashi
 religion = religion_fel
 
 hre = no
 trade_goods = army_supplies
 
-
-
-
 # The Burning Crusade
 625.1.1 = { 
-owner = A93
-controller = A93
-add_core = A93
-culture = culture_blood_elf
-religion = religion_fel
+	owner = A93
+	controller = A93
+	add_core = A93
+	base_tax = 1
+	base_manpower = 1
+	base_production = 1
+	culture = culture_blood_elf
+	religion = religion_fel
 }
 
 # Cataclysm
 631.1.1 = { 
-owner = A94
-controller = A94
-add_core = A94
-remove_core = A93
-culture = culture_sentinel
-religion = religion_elune 
+	owner = A94
+	controller = A94
+	add_core = A94
+	remove_core = A93
+	culture = culture_highbourne
+	religion = religion_elune 
 }

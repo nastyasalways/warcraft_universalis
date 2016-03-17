@@ -4,7 +4,7 @@ mercantilism 		= 0.1
 technology_group 	= tech_ogre
 religion			= religion_geomancy
 primary_culture 	= culture_ango_rosh
-capital = 1
+capital = 2066
 
 
 
