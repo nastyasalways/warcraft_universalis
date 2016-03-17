@@ -1,8 +1,8 @@
-# Razaani
+# Aerie Peak Wildhammer
 
 graphical_culture = westerngfx
 
-color = { 190 146 25 }
+color = { 40 240 40 }
 
 monarch_names = {
 

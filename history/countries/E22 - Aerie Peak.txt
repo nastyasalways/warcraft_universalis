@@ -1,5 +1,5 @@
-# Wildhammer
-government 			= war_tribe
+# Hinterlands Wildhammer Branch
+government 			= administrative_kingdom
 government_rank = 1
 mercantilism 		= 0.1
 technology_group 	= tech_dwarven
@@ -15,7 +15,8 @@ monarch = {
 		dip = 2
 		mil = 5
  	} 
-historical_friend = E22
+historical_friend = A28
+historical_rival = A61
  } 
 
 598.1.1 = {

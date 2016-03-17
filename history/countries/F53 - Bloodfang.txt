@@ -1,5 +1,5 @@
 # Bloodfang Pack
-government 			= warband__gov
+government 			= warband_gov
 government_rank 	= 1
 mercantilism 		= 0.1 
 technology_group 	= tech_worgen

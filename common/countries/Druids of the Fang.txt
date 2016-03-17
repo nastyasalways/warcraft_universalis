@@ -1,8 +1,8 @@
-# Viraani
+# Druids of the Fang
 
 graphical_culture = westerngfx
 
-color = { 110 16 240 }
+color = { 190 246 25 }
 
 monarch_names = {
 

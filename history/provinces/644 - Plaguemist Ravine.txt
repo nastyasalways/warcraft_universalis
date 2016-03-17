@@ -5,9 +5,9 @@ base_tax = 1
 base_manpower = 1
 base_production = 1
 
-owner = A28
-controller = A28
-add_core = A28
+owner = E22
+controller = E22
+add_core = E22
 
 culture = culture_wildhammer
 religion = religion_ancestral
@@ -20,7 +20,7 @@ trade_goods = smugglers
 add_core = E49
 owner = E49  
 controller = E49
-remove_core = A28 
+remove_core = E22
 religion = religion_church_of_the_light
 culture = culture_high_elf
 }

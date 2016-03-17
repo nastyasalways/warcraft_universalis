@@ -1,4 +1,4 @@
-# Ethereum
+# Fray Island
 
 graphical_culture = westerngfx
 

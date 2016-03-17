@@ -1,4 +1,4 @@
-# 1421
+# 1421 Grol'dom Farm
 is_city = no
 
 base_tax = 1
@@ -10,15 +10,24 @@ culture = culture_razormane
 religion = religion_geomancy
 
 hre = no
-trade_goods = grain
-
-
-
+trade_goods = fur
 
 618.1.1 = { 
-	owner = A48
-	controller = A48
-	add_core = A48 
-	culture = culture_horde
-	religion = religion_ancestral
+	owner = B69
+	controller = B69
+	add_core = B69
+capital = "Razormane Outpost"
+}
+
+622.1.1 = { 
+owner = A48
+controller = A48
+add_core = A48 
+culture = culture_horde
+religion = religion_ancestral
+base_tax = 2
+base_manpower = 2
+base_production = 2
+capital = "Grol'dom Farm"
+trade_goods = grain
 }

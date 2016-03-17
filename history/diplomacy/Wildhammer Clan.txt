@@ -1,0 +1,10 @@
+########################################################
+### Union Between Highlands and Hinterlands Branches ###
+########################################################
+# Aerie Peak - Wildhammer
+union = {
+	first = E22
+	second = A28
+	start_date = 546.1.1
+	end_date = 650.1.1
+}

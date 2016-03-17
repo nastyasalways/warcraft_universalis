@@ -1,7 +1,0 @@
-# Viraani
-government 			= mercantile_republic
-mercantilism 		= 0.1
-technology_group 	= tech_ethereal
-religion			= religion_arcane
-primary_culture 	= culture_viraani
-capital 			= 1

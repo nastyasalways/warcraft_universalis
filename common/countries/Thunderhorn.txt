@@ -1,8 +1,8 @@
-# Bashir
+# Thunderlord
 
 graphical_culture = westerngfx
 
-color = { 242 218 0 }
+color = { 15 170 0 }
 
 monarch_names = {
 
