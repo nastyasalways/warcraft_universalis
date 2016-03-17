@@ -4,7 +4,7 @@ mercantilism 		= 0.1
 technology_group 	= tech_demonic
 religion			= religion_fel
 primary_culture 	= culture_illidari
-capital 			= 1
+capital 			= 1663
 
 617.1.1 = { 
 	monarch = { 

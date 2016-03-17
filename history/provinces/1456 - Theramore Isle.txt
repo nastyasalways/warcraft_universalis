@@ -5,8 +5,8 @@ base_tax = 1
 base_manpower = 1
 base_production = 1
 
-controller = XXX
-owner = XXX
+#controller = XXX
+#owner = XXX
 
 culture = noculture
 religion = noreligion

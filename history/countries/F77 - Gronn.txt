@@ -6,7 +6,7 @@ religion			= religion_geomancy
 primary_culture 	= culture_gronn
 add_accepted_culture    = culture_bladespire
 add_accepted_culture    = culture_bloodmaul
-capital = 1
+capital = 1695
 
 
 

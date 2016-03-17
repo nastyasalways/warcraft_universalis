@@ -1,0 +1,44 @@
+country_decisions = {
+
+	# Form Westfall A02
+	decision_form_westfall = {
+		potential = {
+			NOT = { exists = A02 }
+			NOT = { tag = A02 }
+			
+			OR = {
+				culture_group = culture_group_human
+			}
+			
+			any_owned_province = {
+				area = area_westfall
+			}
+		}
+		
+		allow = {
+			is_at_war = no
+			is_subject = no
+			is_nomad = no
+		}
+		
+		effect = {
+			area_westfall = {
+				add_core = A02
+			}
+			
+			every_owned_province = {
+				limit = {
+					is_core = A02
+				}
+				
+				cede_province = A02
+			}
+			
+			vassalize = A02
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

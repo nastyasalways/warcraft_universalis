@@ -44,11 +44,11 @@ azerothian_ideas = {
 
 depths_ideas = {
 	start = {
-		
+		naval_maintenance_modifier = -0.2
 	}
 
 	bonus = {
-		
+		blockade_efficiency = 0.33
 	}
 	
 	trigger = {
@@ -57,25 +57,26 @@ depths_ideas = {
 	free = yes		#wibe added at load.
 	
 	depths_ideas_1 = {
-	
+		global_tax_modifier = 0.05
+		production_efficiency = 0.05
 	}
 	depths_ideas_2 = {
-	
+		missionaries = 1
 	}
 	depths_ideas_3 = {
-	
+		manpower_recovery_speed = 0.15
 	}
 	depths_ideas_4 = {
-	
+		discipline = 0.05
 	}
 	depths_ideas_5 = {
-	
+		leader_naval_maneuver = 1
 	}
 	depths_ideas_6 = {
-	
+		religious_unity = 0.15
 	}
 	depths_ideas_7 = {
-	
+		stability_cost_modifier = -0.15
 	}
 }
 
@@ -502,11 +503,11 @@ redeemed_orc_ideas = {
 
 outland_orc_ideas = {
 	start = {
-		
+		global_tax_modifier = 0.1
 	}
 
 	bonus = {
-		
+		reinforce_speed = 0.15
 	}
 	
 	trigger = {
@@ -530,25 +531,25 @@ outland_orc_ideas = {
 	free = yes		#wibe added at load.
 	
 	outland_orc_ideas_1 = {
-	
+		global_manpower_modifier = 0.2
 	}
 	outland_orc_ideas_2 = {
-	
+		infantry_cost = 0.1
 	}
 	outland_orc_ideas_3 = {
-	
+		discipline = 0.05
 	}
 	outland_orc_ideas_4 = {
-	
+		core_creation = -0.1
 	}
 	outland_orc_ideas_5 = {
-	
+		production_efficiency = 0.05
 	}
 	outland_orc_ideas_6 = {
-	
+		stability_cost_modifier = -0.1
 	}
 	outland_orc_ideas_7 = {
-	
+		land_morale = 0.1
 	}
 }
 
@@ -1321,11 +1322,11 @@ gnoll_ideas = {
 
 centaur_ideas = {
 	start = {
-		
+		cavalry_cost = -0.3
 	}
 
 	bonus = {
-		
+		land_attrition = -0.1
 	}
 	
 	trigger = {
@@ -1334,25 +1335,25 @@ centaur_ideas = {
 	free = yes		#wibe added at load.
 	
 	centaur_ideas_1 = {
-	
+		infantry_cost = -0.2
 	}
 	centaur_ideas_2 = {
-	
+		prestige = 1
 	}
 	centaur_ideas_3 = {
-	
+		cavalry_power = 0.33
 	}
 	centaur_ideas_4 = {
-	
+		global_tax_modifier = 0.05
 	}
 	centaur_ideas_5 = {
-	
+		fabricate_claims_time = -0.25
 	}
 	centaur_ideas_6 = {
-	
+		leader_land_shock = 1
 	}
 	centaur_ideas_7 = {
-	
+		global_spy_defence = 0.5
 	}
 }
 
@@ -1627,9 +1628,52 @@ titan_ideas = {
 	}
 }
 
+wildhammer_ideas = {
+	start = {
+		leader_land_maneuver = 1
+	}
+	
+	bonus = {
+		diplomatic_reputation = 2
+	}
+	
+	trigger = {
+		primary_culture = culture_wildhammer
+	}
+	free = yes
+	
+	wildhammer_ideas_1 = {
+		cavalry_power = 0.33
+	}
+	
+	wildhammer_ideas_2 = {
+		trade_efficiency = 0.1
+	}
+	
+	wildhammer_ideas_3 = {
+		siege_ability = 0.1
+	}
+	
+	wildhammer_ideas_4 = {
+		global_unrest = -1
+	}
+	
+	wildhammer_ideas_5 = {
+		production_efficiency = 0.1
+	}
+	
+	wildhammer_ideas_6 = {
+		prestige_decay = -0.02
+	}
+	
+	wildhammer_ideas_7 = {
+		envoy_travel_time = -0.4
+	}
+}
+
 dwarven_ideas = {
 	start = {
-		
+		defensiveness = 0.33
 	}
 
 	bonus = {
@@ -1639,7 +1683,6 @@ dwarven_ideas = {
 	trigger = {
 		OR = {
 			primary_culture = culture_ironforge
-			primary_culture = culture_wildhammer
 			primary_culture = culture_dark_iron
 			primary_culture = culture_iron
 			primary_culture = culture_frostborn
@@ -1648,25 +1691,26 @@ dwarven_ideas = {
 	free = yes		#wibe added at load.
 	
 	dwarven_ideas_1 = {
-	
+		discipline = 0.05
 	}
 	dwarven_ideas_2 = {
-	
+		global_trade_goods_size_modifier = 0.05
+		global_tax_modifier = 0.05
 	}
 	dwarven_ideas_3 = {
-	
+		infantry_power = 0.1
 	}
 	dwarven_ideas_4 = {
-	
+		artillery_power = 0.1
 	}
 	dwarven_ideas_5 = {
-	
+		leader_land_fire = 1
 	}
 	dwarven_ideas_6 = {
-	
+		global_regiment_cost = -0.2
 	}
 	dwarven_ideas_7 = {
-	
+		hostile_attrition = 1
 	}
 }
 

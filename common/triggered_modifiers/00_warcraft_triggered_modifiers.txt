@@ -1,0 +1,11 @@
+scourge_mindlessness = {
+	potential = {
+		primary_culture = culture_scourge
+	}
+	
+	trigger = {
+		primary_culture = culture_scourge
+	}
+	
+	tolerance_own = 100
+}

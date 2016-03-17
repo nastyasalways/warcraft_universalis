@@ -1,3 +1,13 @@
 faction_member = {
 	diplomatic_upkeep = 4
 }
+
+blood_of_mannaroth = {
+	discipline = 0.1
+	infantry_power = 0.1
+	manpower_recovery_speed = 0.5
+	adm_tech_cost_modifier = 0.25
+	dip_tech_cost_modifier = 0.25
+	mil_tech_cost_modifier = -0.1
+	land_forcelimit_modifier = 0.25
+}
