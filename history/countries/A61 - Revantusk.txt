@@ -15,7 +15,8 @@ monarch = {
  		adm = 3 
 		dip = 4 
 		mil = 3 
-  	}  
+  	}
+historical_rival = E22  
   }  
 
 592.1.1 = {  

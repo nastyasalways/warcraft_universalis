@@ -17,8 +17,9 @@ hre = no
 trade_goods = fur
 
 618.1.1 = {
-owner = xxx
-controller = xxx
+owner = B68
+controller = B68
+add_core = B68
 culture = culture_bristleback
 religion = religion_geomancy
 }
@@ -30,8 +31,5 @@ add_core = F88
 culture = culture_mistrunner
 religion = religion_ancestral
 capital = "Camp Una'fe"
-base_tax = 2
-base_manpower = 2
-base_production = 2
 trade_goods = army_supplies
 }

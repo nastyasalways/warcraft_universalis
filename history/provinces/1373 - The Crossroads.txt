@@ -16,13 +16,29 @@ religion = religion_ancestral
 hre = no
 trade_goods = grain
 
+617.1.1 = {
+owner = A89
+controller = A89
+add_core = A89
+culture = culture_winterhoof
+remove_core = A84
+}
 
+618.1.1 = {
+owner = xxx
+controller = xxx
+culture = culture_razormane
+religion = religion_geomancy
+remove_core = A89
+}
 
-
-618.1.1 = { 
-	owner = A48
-	controller = A48
-	add_core = A48 
-	culture = culture_horde
-	religion = religion_ancestral
+622.1.1 = { 
+owner = A48
+controller = A48
+add_core = A48 
+base_tax = 4
+base_manpower = 4
+base_production = 4
+culture = culture_horde
+religion = religion_ancestral
 }

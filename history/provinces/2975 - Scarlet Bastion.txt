@@ -41,9 +41,9 @@ religion = religion_scarlet_light
 
 # Cataclysm
 631.1.1 = { 
-owner = F15 
-controller = F15
-add_core = F15
+owner = X01
+controller = X01
+add_core = X01
 religion = religion_fel
 culture = culture_forsaken 
 }

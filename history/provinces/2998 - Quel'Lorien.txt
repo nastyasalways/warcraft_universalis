@@ -37,4 +37,6 @@ base_production = 3
 631.1.1 = {
 culture = culture_karaborian
 religion = religion_light_of_the_naaru
+# War in the Hinterlands
+add_claim = A61
 }

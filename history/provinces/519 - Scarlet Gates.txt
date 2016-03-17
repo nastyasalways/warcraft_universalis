@@ -39,16 +39,26 @@ controller = A22
 religion = religion_scarlet_light 
 }
 
+# Fall of the Scarlet Enclave
+625.1.1 = { 
+owner = F18
+controller = F18
+add_core = F18
+remove_core = A22 
+}
+
 # Wrath of the Lich King
 626.1.1 = { 
-add_core = F18 
+owner = A22
+controller = A22
+add_core = A22
 }
 
 # Cataclysm
 631.1.1 = { 
-owner = F15
-controller = F15
-add_core = F15
+owner = X01
+controller = X01
+add_core = X01
 religion = religion_fel
 culture = culture_forsaken
 }

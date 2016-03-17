@@ -1,6 +1,17 @@
-government 			= militaristic_kingdom
+government 			= militaristic_order
 mercantilism 		= 0.1
 technology_group 	= tech_undead
-religion			= religion_forgotten_shadow
+religion			= religion_fel
 primary_culture 	= culture_forsaken
 capital 			= 931
+
+631.1.1 = { 
+	monarch =
+	{ 
+		name = "Balnazzar" 
+		dynasty = "the Nathrezim" 	
+		adm = 3
+		dip = 4	
+		mil = 3	
+	}  
+} 

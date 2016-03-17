@@ -5,7 +5,7 @@
 # Highvale - Wildhammer
 alliance = {
 	first = E49
-	second = A28
+	second = E22
 	start_date = 618.1.1
 	end_date = 640.1.1
 }

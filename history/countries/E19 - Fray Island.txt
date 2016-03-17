@@ -1,0 +1,18 @@
+# Fray Island Highlander Reference
+government 			= war_tribe
+government_rank = 1
+mercantilism 		= 0.1
+technology_group 	= tech_human
+religion			= religion_church_of_the_light
+primary_culture 	= culture_arathi
+capital 			= 1
+
+622.1.1 = {
+monarch = { 
+     name = "Klannoc" 
+     dynasty = "Mcleod" 
+		adm = 2
+		dip = 2
+		mil = 5 
+ 	}
+}

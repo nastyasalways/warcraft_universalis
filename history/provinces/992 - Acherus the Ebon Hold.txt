@@ -40,11 +40,15 @@ controller = A22
 religion = religion_scarlet_light 
 }
 
-626.1.1 = { 
+625.1.1 = { 
 owner = E13
 controller = E13
 add_core = E13
 add_core = F18
-religion = religion_shadow
+religion = religion_the_damned
 culture = culture_death_knight 
+}
+
+626.1.1 = {
+religion = religion_shadow
 }

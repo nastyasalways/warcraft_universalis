@@ -13,17 +13,42 @@ culture = culture_winterhoof
 religion = religion_ancestral
 
 hre = no
-trade_goods = grain
+trade_goods = fur
 
-
-
+617.1.1 = {
+owner = A84
+controller = A84
+add_core = A84
+culture = culture_bloodhoof
+remove_core = A89
+}
 
 618.1.1 = {
-	remove_core = A89
+	remove_core = A84
 	owner = XXX
 	controller = XXX
 	is_city = no
 	native_size = 10
 	native_ferocity = 10
-	native_hostileness = 10
+	native_hostileness = 10 
+        culture = culture_kolkar
 }
+
+622.1.1 = {
+owner = H04
+controller = H04
+add_core = H04
+}
+
+631.1.1 = {
+owner = A23
+controller = A23
+add_core = A23
+culture = culture_lordaeron
+religion = religion_church_of_the_light
+capital = "Teegan's Expedition"
+}
+
+
+
+
