@@ -1,0 +1,17 @@
+# Druids of the fang
+government 			= cult_gov
+mercantilism 		= 0.1
+technology_group 	= tech_darnassian
+religion			= religion_druidic
+primary_culture 	= culture_cenarion
+capital 			= 1
+
+622.1.1 = {
+	monarch = {
+		name = "" 
+		dynasty = "Serpentis" 
+		adm = 3
+		dip = 3
+		mil = 3
+ 	}
+}

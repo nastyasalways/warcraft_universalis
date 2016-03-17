@@ -31,3 +31,8 @@ culture = culture_high_elf
 base_tax = 4
 base_production = 4
 }
+
+# War in the Hinterlands
+631.1.1 = {
+add_claim = A61
+}

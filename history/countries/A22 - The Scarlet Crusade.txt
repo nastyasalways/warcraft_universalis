@@ -31,22 +31,12 @@ heir = {
 
 625.1.1 = {
 
-monarch = { 
-     name = "Brigitte" 
-     dynasty = "Abbendis" 
-		adm = 4
-		dip = 3
-		mil = 5
-           female = yes
-           birth_date = 599.12.11
- 	} 
-
 heir = { 
      name = "Sally" 
      dynasty = "Whitemane" 
 		adm = 4
 		dip = 3
-		mil = 5
+		mil = 3
            female = yes
            birth_date = 604.8.11
        }
@@ -59,7 +49,7 @@ heir = {
 		dynasty = "Whitemane" 
 		adm = 4
 		dip = 3
-		mil = 5
+		mil = 3
         female = yes
         birth_date = 604.8.11
  	} 

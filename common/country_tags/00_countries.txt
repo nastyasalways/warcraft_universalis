@@ -73,6 +73,7 @@ F55 = "countries/Lordaeron Survivors.txt"
 H06 = "countries/Alliance Vanguard.txt"
 F58 = "countries/Theramore Deserters.txt"
 F61 = "countries/Morgans Forces.txt"
+E19 = "countries/Fray Island.txt"
 
 # Dwarven
 A28 = "countries/Wildhammer.txt"
@@ -83,6 +84,7 @@ E56 = "countries/Thorium Brotherhood.txt"
 F25 = "countries/Iron Summit.txt"
 F29 = "countries/Nesingwary.txt"
 F59 = "countries/Bael Modan.txt"
+E22 = "countries/Aerie Peak.txt"
 
 # Gnomish
 A32 = "countries/Gnomeregan.txt"
@@ -208,6 +210,7 @@ A88 = "countries/Dawnstrider.txt"
 A89 = "countries/Winterhoof.txt" # tech_tauren
 F88 = "countries/Thunder Bluff.txt" # tech_tauren
 E23 = "countries/Wildmane.txt"
+F91 = "countries/Thunderhorn.txt"
 
 # High Elf
 A90 = "countries/QuelThalas.txt"
@@ -228,6 +231,7 @@ H01 = "countries/Nordrassil.txt"
 H02 = "countries/Moonglade.txt"
 H03 = "countries/Cenarion Hold.txt"
 F64 = "countries/Cenarion Expedition.txt"
+E20 = "countries/Druids of the Fang.txt"
 
 
 # Aqir
@@ -274,7 +278,7 @@ B21 = "countries/Gelkis.txt" # tech_centaur
 B22 = "countries/Magram.txt" # tech_centaur 
 B23 = "countries/Mauraudine.txt" # tech_centaur
 B24 = "countries/Kolkar.txt" # tech_centaur
-H04 = "countries/Western Galak.txt" # tech_centaur # AKA: Warcraft's 3 Mulgore Centaur Marauders
+H04 = "countries/Western Galak.txt" # tech_centaur # AKA: Warcraft's 3 Centaur Marauders
 
 # Depths
 B25 = "countries/Vile Fin.txt"
@@ -289,7 +293,7 @@ B33 = "countries/Winterfin.txt" # tech_depths
 B34 = "countries/Chillmere.txt"
 B35 = "countries/White Shark.txt"
 B36 = "countries/Tidewalker.txt" # tech_depths
-B37 = "countries/Makaru.txt" # tech_depths
+B37 = "countries/Makraru.txt" # tech_depths
 B38 = "countries/Bogstrok.txt" # tech_depths
 E51 = "countries/Torn Fin.txt"
 E60 = "Countries/Rockpool.txt"
@@ -421,10 +425,7 @@ X01 = "countries/The Risen.txt"
 
 # Ethereal
 E18 = "countries/The Consortium.txt"
-E19 = "countries/Bashir.txt"
-E20 = "countries/Razaani.txt"
 E21 = "countries/Shaffar.txt"
-E22 = "countries/Viraani.txt"
 F80 = "countries/Ethereum.txt"
 
 # Elemental

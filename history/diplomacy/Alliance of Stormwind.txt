@@ -31,13 +31,13 @@ alliance = {
 	first = A01
 	second = A14
 	start_date = 622.1.1 # Becouse of Kul Tiras war with Horde
-	end_date = 640.1.1
+	end_date = 631.1.1   # Kul Tiras Falls Silent
 }
 
 # Stormwind - Wildhammer
 alliance = {
 	first = A01
-	second = A28
+	second = E22
 	start_date = 631.1.1
 	end_date = 640.1.1
 }
@@ -80,13 +80,13 @@ alliance = {
 	first = A16
 	second = A14
 	start_date = 622.1.1 # Becouse of Kul Tiras war with Horde
-	end_date = 640.1.1
+	end_date = 631.1.1   # Kul Tiras Falls Silent
 }
 
 # Stromgarde - Wildhammer
 alliance = {
 	first = A16
-	second = A28
+	second = E22
 	start_date = 631.1.1
 	end_date = 640.1.1
 }
@@ -121,13 +121,13 @@ alliance = {
 	first = A29
 	second = A14
 	start_date = 622.1.1 # Becouse of Kul Tiras war with Horde
-	end_date = 640.1.1
+	end_date = 631.1.1   # Kul Tiras Falls Silent
 }
 
 # Ironforge - Wildhammer
 alliance = {
 	first = A29
-	second = A28
+	second = E22
 	start_date = 631.1.1
 	end_date = 640.1.1
 }
@@ -154,13 +154,13 @@ alliance = {
 	first = A32
 	second = A14
 	start_date = 622.1.1 # Becouse of Kul Tiras war with Horde
-	end_date = 640.1.1
+	end_date = 631.1.1   # Kul Tiras Falls Silent
 }
 
 # Gnomeregan - Wildhammer
 alliance = {
 	first = A32
-	second = A28
+	second = E22
 	start_date = 631.1.1
 	end_date = 640.1.1
 }
@@ -183,29 +183,29 @@ alliance = {
 
 ### Kul Tiras Alliances #########################
 # Kul Tiras - Wildhammer
-alliance = {
-	first = A14
-	second = A28
-	start_date = 631.1.1
-	end_date = 640.1.1
-}
-
+#alliance = {
+#	first = A14
+#	second = E22
+#	start_date = 631.1.1
+#	end_date = 640.1.1
+#}
+#
 # Kul Tiras - Quel'Danil
-alliance = {
-	first = A14
-	second = E49
-	start_date = 631.1.1
-	end_date = 640.1.1
-}
-
+#alliance = {
+#	first = A14
+#	second = E49
+#	start_date = 631.1.1
+#	end_date = 640.1.1
+#}
+#
 # Kul Tiras - Exodar
 alliance = {
 	first = A14
 	second = A56
 	start_date = 625.1.1
-	end_date = 640.1.1
-}
-
+	end_date = 631.1.1 # Kul Tiras Falls Silent
+#}
+#
 ### Quel'Danil Alliances ########################
 # Quel'Danil - Exodar
 alliance = {

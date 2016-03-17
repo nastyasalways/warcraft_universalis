@@ -1,5 +1,5 @@
-#Western Kolkar
-government 			= warband_gov_gov
+#Kolkar Mauraders
+government 			= warband_gov
 mercantilism 		= 0.1
 technology_group 	= tech_centaur
 religion			= religion_ancestral
@@ -9,7 +9,7 @@ capital 			= 1
 546.1.1 = { 
 monarch = { 
      name = "Tem'ujin" 
-     dynasty = "Galak" 
+     dynasty = "Kolkar" 
 		adm = 2
 		dip = 1
 		mil = 4
@@ -19,7 +19,7 @@ monarch = {
 592.1.1 = { 
 monarch = { 
      name = "Bloodhoof" 
-     dynasty = "Galak" 
+     dynasty = "Kolkar" 
 		adm = 3
 		dip = 1
 		mil = 4

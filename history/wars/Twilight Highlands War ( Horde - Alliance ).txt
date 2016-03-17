@@ -1,26 +1,26 @@
 name = "Hinterlands War"
 war_goal = {
-	type = take_claim
-	casus_belli = cb_conquest
-	province = 2998 # Quel'Lorian
+	type = take_core
+	casus_belli = cb_core
+	province = 1125 # Stormfeather Outpost
 }
 
 # Attack on High Elf Lodge and Stormfeather Outpost
 631.1.1 = {
+	add_attacker = A61
 	add_attacker = E14
-        add_attacker = A61
-        add_defender = E49
 	add_defender = E22
+	add_defender = E49
 }
 
 # Failed attack on Quel'Danil
 632.1.1 = {
 	rem_attacker = E14
 	rem_defender = E49
-        rem_attacker = A61
-	rem_defender = E22
 }
 
 # End of open war between Horde and Alliance
-#633.1.1 = {
-#}
+633.1.1 = {
+	rem_attacker = A61
+	rem_defender = E22
+}

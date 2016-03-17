@@ -2162,7 +2162,19 @@ culture_group_depths = {
 		
 		
 		
-	culture_mak_ra = {
+	culture_makrura = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+	culture_bogstrok = {
 		male_names = {
 			
 		}

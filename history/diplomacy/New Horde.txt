@@ -116,3 +116,19 @@ alliance = {
 	start_date = 631.1.1
 	end_date = 650.5.1
 }
+
+# Raventusk - Silvermoon
+alliance = {
+	first = A61
+	second = A91
+	start_date = 631.1.1
+	end_date = 650.5.1
+}
+
+# Raventusk - Thunder Bluff
+alliance = {
+	first = A61
+	second = F88
+	start_date = 631.1.1
+	end_date = 650.5.1
+}

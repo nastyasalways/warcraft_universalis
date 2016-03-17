@@ -29,10 +29,10 @@ country_event = {
 		change_tag = X01 # The Risen
 		change_government = scourge_gov
 		change_primary_culture = culture_forsaken
-		change_religion = religion_the_damned
+		change_religion = religion_fel
 		every_owned_province = {
 			change_culture = culture_forsaken
-			change_religion = religion_the_damned
+			change_religion = religion_fel
 		}
 		add_stability = 6
 		
