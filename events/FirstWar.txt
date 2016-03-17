@@ -8,6 +8,7 @@ country_event = {
 	trigger = {
 		year = 592
 		culture_group = culture_group_orc
+		NOT = { has_country_modifier = blood_of_mannaroth }
 	}
 	
 	mean_time_to_happen = {
@@ -38,7 +39,7 @@ country_event = {
 
 country_event = {
 	id = firstwar.2
-	title = firstwar.2.title
+	title = firstwar.2.title #Orcs Raze Grand Hamlet/Darkshire
 	desc = firstwar.2.desc
 	
 	fire_only_once = yes
@@ -47,7 +48,7 @@ country_event = {
 		tag = A03 #Darkshire
 		year = 592
 		is_at_war = yes
-		#exists = 
+		exists = A41
 	}
 	
 	mean_time_to_happen = {
@@ -57,24 +58,172 @@ country_event = {
 	option = {
 		name = firstwar.2.option.a
 		1021 = {
-		if = {
+			if = {
 				limit = { base_tax = 4 }
 				add_base_tax = -3
 			}
 			
 			if = {
 				limit = { base_prouction = 4 }
-				add_base_prouction = -3
+				add_base_production = -3
 			}
 			
 			if = {
 				limit = { base_manpower = 4 }
 				add_base_manpower = -3
 			}
-			create_colony = 500
-			add_colonysize = -1000
+		}
+		
+		hidden_effect = {
+			1021 = {
+				create_colony = 500
+				add_colonysize = -1000
+			}
+		}
+		
+		1021 = {
 			change_controller = NAT
 			cede_province = NAT
 		}
+	}
+}
+
+country_event = {
+	id = firstwar.3
+	title = firstwar.3.title #Orc Raid
+	desc = firstwar.3.desc
+	
+	trigger = {
+		primary_culture = culture_azerothian
+		year = 592
+		exists = A41 #Blackrock
+		
+		OR = {
+			any_owned_province = { base_tax = 2 }
+			any_owned_province = { base_production = 2 }
+			any_owned_province = { base_manpower = 2 }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 6
+	}
+	
+	option = {
+		name = firstwar.3.option.a #Horror
+		
+		random_owned_province = {
+			limit = { 
+				OR = {
+					base_tax = 2
+					base_production = 2
+					base_manpower = 2
+				}
+				
+				OR = {
+					area = area_elwynn_forest
+					area = area_duskwood
+					area = area_westfall
+				}
+			}
+		
+			if = {
+				limit = { base_tax = 2 }
+				add_base_tax = -1
+			}
+			
+			if = {
+				limit = { base_production = 2 }
+				add_base_production = -1
+			}
+			
+			if = {
+				limit = { base_manpower = 2 }
+				add_base_manpower = -1
+			}
+		}
+		
+		hidden_effect = {
+			random_country = {
+				limit = { 
+					culture_group = culture_group_orc
+					exists = yes
+					capital_scope = { continent = continent_eastern_kingdoms }
+					is_at_war = yes
+				}
+				
+				country_event = {
+					id = firstwar.5
+					days = 1
+				}
+			}
+		}
+	}
+}
+
+country_event = {
+	id = firstwar.4
+	title = firstwar.4.title #Reinforcements from Draenor
+	desc = firstwar.4.desc
+	
+	trigger = {
+		culture_group = culture_group_orc
+		year = 592
+		exists = A41 #Blackrock
+		exists = A01 #Stormwind
+		capital_scope = {
+			continent = continent_eastern_kingdoms
+		}
+		is_at_war = yes
+		OR = {
+			controls = 1035 #The Dark Portal
+			any_ally = { controls = 1035 }
+			any_subject_country = { controls = 1035 }
+			overlord = { controls = 1035 }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = firstwar.4.option.a #Accept
+		
+		capital_scope = {
+			infantry = ROOT
+		}
+		
+		add_manpower = 1
+	}
+}
+
+country_event = {
+	id = firstwar.5
+	title = firstwar.5.title #Successful Raid
+	desc = firstwar.5.desc
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = firstwar.5.option.a
+		add_treasury = 25
+	}
+}
+
+country_event = {
+	id = firstwar.6
+	title = firstwar.6.title #Fall of Darkshire
+	desc = firstwar.6.desc
+	
+	trigger = {
+		controls = 637 #Raven Hill
+		tag = A41 #Blackrock
+	}
+	
+	mean_time_to_happen = { days = 1 }
+	
+	option = {
+		inherit = A03
 	}
 }

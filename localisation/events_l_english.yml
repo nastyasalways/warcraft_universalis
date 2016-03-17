@@ -39,13 +39,24 @@ l_english:
  story.8.option.a: ""
  
  #First War
- firstwar.1.title: ""
- firstwar.1.desc: ""
+ firstwar.1.title: "Blood of Mannaroth"
+ firstwar.1.desc: "Should we drink the blood of Mannaroth?"
  firstwar.1.option.a: "Drink it!"
  firstwar.1.option.b: "It is tainted. We will not drink."
  firstwar.2.title: "Orcs Raze Grand Hamlet"
  firstwar.2.desc: "Pouring forth from the Deadwind Pass, orcs ravage Grand Hamlet and raze it to the ground."
  firstwar.2.option.a: "Horror!"
+ firstwar.3.title: "Orc Raid!"
+ firstwar.3.desc: "Orc have raided one of our provinces. We must fight back!"
+ firstwar.3.option.a: "Horror!"
+ firstwar.4.title: "Reinforcements from Draenor"
+ firstwar.4.desc: "More clansmen have come from Draenor to aid us in our struggle. We will conquer these lands!"
+ firstwar.4.option.a: "Go forth to victory!"
+ firstwar.5.title: "Successful Raid"
+ firstwar.5.desc: "One of our raids on one of the human settlements has been successful, and we have taken the spoils back to you, Chieftain."
+ firstwar.5.option.a: "Go with honor."
+ firstwar.6.title: "Fall of Darkshire"
+ firstwar.6.desc: "Raven Hill has fallen and Grand Hamlet has been burnt down. We have conquered this land."
  
  #Gilneas
  gilneas.1.title: "Build the Wall!"
