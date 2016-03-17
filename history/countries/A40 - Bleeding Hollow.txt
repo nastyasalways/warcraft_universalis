@@ -19,6 +19,12 @@ capital 			= 1588
 religion = religion_fel
 }
 
+592.1.1 = {
+	historical_friend = A41
+	historical_friend = A43
+	historical_friend = B88
+}
+
 617.1.1 = { 
 	monarch = { 
 		name = "Grillok" 

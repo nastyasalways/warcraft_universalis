@@ -18,6 +18,12 @@ capital 			= 1649
 	} 
 }
 
+592.1.1 = {
+	historical_friend = A40
+	historical_friend = A41
+	historical_friend = A43
+}
+
 597.1.1 = { 
 	monarch = { 
 		name = "Vorpil" 

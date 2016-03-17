@@ -28,7 +28,10 @@ capital 			= 1
 		dip = 3
 		mil = 4
 	}
-religion = religion_fel  
+	religion = religion_fel
+	historical_friend = A40
+	historical_friend = A43
+	historical_friend = B88
 }
 
 597.1.1 = { 
