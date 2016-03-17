@@ -1638,8 +1638,9 @@ wildhammer_ideas = {
 	}
 	
 	trigger = {
-		primary_culture = wildhammer
+		primary_culture = culture_wildhammer
 	}
+	free = yes
 	
 	wildhammer_ideas_1 = {
 		cavalry_power = 0.33
