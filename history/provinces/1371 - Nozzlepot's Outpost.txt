@@ -18,4 +18,5 @@ controller = A79
 add_core = A79
 culture = culture_bilgewater
 religion = religion_tech
+capital = Nozzlepot's Outpost
 }

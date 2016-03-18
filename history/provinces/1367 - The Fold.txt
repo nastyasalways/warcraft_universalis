@@ -1,27 +1,33 @@
-owner = H01
-controller = H01
-add_core = H01
 is_city = yes
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
-culture = culture_sentinel
-religion = religion_elune
+
+culture = culture_bloodfury
+religion = religion_air
 
 hre = no
-trade_goods = grain
+trade_goods = fur
 
-
-
+native_size = 10
+native_ferocity = 10
+native_hostileness = 10
 
 622.1.1 = {
-	remove_core = H01
-	owner = XXX
-	controller = XXX
-	is_city = no
-	native_size = 10
-	native_ferocity = 10
-	native_hostileness = 10
+owner = A81
+controller = A81
+add_core = A81
+culture = culture_venture
+religion = religion_tech
+}
+
+631.1.1 = {
+owner = A48
+controller = A48
+add_core = A48
+culture = culture_horde
+religion = religion_ancestral
+trade_goods = army_supplies
 }
