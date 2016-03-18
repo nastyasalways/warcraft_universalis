@@ -1313,6 +1313,7 @@ gnoll_ideas = {
 	#Only the Strong Lead
 	gnoll_ideas_6 = {
 	heir_chance = 0.5
+	leader_land_shock = 1
 	}
 	#The Weak are Food
 	gnoll_ideas_7 = {

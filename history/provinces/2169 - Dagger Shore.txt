@@ -15,22 +15,14 @@ hre = no
 trade_goods = fur
 
 
-
-
-# The Third War
-617.1.1 = { 
-	owner = XXX
-	controller = XXX
-	culture = culture_azerothian
-	religion = religion_church_of_the_light
-	remove_core = B18 
-}
-
 # The Frozen Throne
 618.1.1 = { 
 	owner = A07
 	controller = A07 
-	add_core = A07 
+	add_core = A07
+        culture = culture_azerothian
+	religion = religion_church_of_the_light
+	remove_core = B18  
 }
 
 # The Burning Crusade

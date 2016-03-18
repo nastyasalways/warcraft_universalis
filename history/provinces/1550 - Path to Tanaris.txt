@@ -12,7 +12,7 @@ hre = no
 trade_goods = smugglers
 
 622.1.1 = {
-religion = air
+religion = religion_air
 culture = culture_screeching
 }
 

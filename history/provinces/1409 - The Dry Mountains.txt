@@ -1,17 +1,23 @@
-# 1409
+# 1409 The Dry Hills
+
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+owner = F92
+controller = F92
+add_core = F92
+
+is_city = no
+
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
+culture = culture_witchwing
+religion = religion_air
 
 hre = no
-trade_goods = grain
-
+trade_goods = lumber
 
 
 
