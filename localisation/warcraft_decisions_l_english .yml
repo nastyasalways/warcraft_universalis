@@ -1,0 +1,14 @@
+l_english:
+ # Faction Decisions
+ join_the_alliance_title: "Join the Alliance"
+ join_the_alliance_desc: "Since we are on good terms with the Alliance, we been offered the opportunity to join."
+ leave_the_alliance_title: "Leave the Alliance"
+ leave_the_alliance_desc: "It's no longer in our best interest to remain in the Alliance."
+ join_the_horde_title: "Join the Horde"
+ join_the_horde_desc: "Since we are on good terms with them, we been invited to take the blood oath to the Horde."
+ leave_the_horde_title: "Abandon the Horde"
+ leave_the_horde_desc: "It's no longer in our best interest to remain in the Horde."
+ join_neutral_title: "Embrace Neutrality"
+ join_neutral_desc: "We are on good terms with the Alliance and the Horde, and we can keep things this way by adopting an official neutral stance between the two parties."
+ leave_the_horde_title: "Abandon Neutrality"
+ leave_the_horde_desc: "'At least with enemies you know where they stand, but with neutrals? Who knows!' Let that be said of us no longer!"

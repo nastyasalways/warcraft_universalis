@@ -18,5 +18,10 @@ trade_goods = grain
 626.1.1 = { 
 add_core = F18
 owner = F18
+controller = F18
 culture = culture_lordaeron
-religion = religion_shadow }
+religion = religion_shadow
+base_tax = 3
+base_manpower = 4
+base_production = 3
+}

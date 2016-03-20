@@ -3,27 +3,38 @@ government 			= war_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_harpy
 religion			= religion_air
-primary_culture 	= culture_bloodfury
+primary_culture 	= culture_witchwing
 capital 			= 1
 
 546.1.1 = { 
 monarch = { 
-     name = "Tearer" 
-     dynasty = "Bloodfury" 
+     name = "" 
+     dynasty = "Bloodfeather" 
 		adm = 3
 		dip = 3
-		mil = 3
+		mil = 4
  	        female = yes
           }       
  } 
 
 617.1.1 = { 
 monarch = { 
-     name = "Ripper" 
-     dynasty = "Bloodfury" 
+     name = "" 
+     dynasty = "Bloodfeather" 
 		adm = 3
 		dip = 3
-		mil = 3
+		mil = 4
+ 	        female = yes
+          }       
+ } 
+
+622.1.1 = { 
+monarch = { 
+     name = "Serana" 
+     dynasty = "Bloodfeather" 
+		adm = 3
+		dip = 3
+		mil = 4
                 female = yes
  	} 
  } 

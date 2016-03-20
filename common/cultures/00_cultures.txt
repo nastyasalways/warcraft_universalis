@@ -3166,6 +3166,17 @@ culture_group_harpy = {
 			
 		}
 	}
+	culture_witchwind = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
 }
 
 culture_group_quillboar = {

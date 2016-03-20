@@ -24,4 +24,8 @@ owner = F18
 controller = F18
 remove_core = A77
 religion = religion_scarlet_light
-culture = culture_lordaeron }
+culture = culture_lordaeron
+base_tax = 4
+base_manpower = 5
+base_production = 4
+}

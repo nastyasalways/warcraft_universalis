@@ -211,6 +211,7 @@ A89 = "countries/Winterhoof.txt" # tech_tauren
 F88 = "countries/Thunder Bluff.txt" # tech_tauren
 E23 = "countries/Wildmane.txt"
 F91 = "countries/Thunderhorn.txt"
+F93 = "countries/Cliffwalker.txt"
 
 # High Elf
 A90 = "countries/QuelThalas.txt"
@@ -341,6 +342,7 @@ B65 = "countries/Frostfeather.txt"
 B66 = "countries/Dustwind.txt"
 B67 = "countries/Screeching.txt" # tech_harpy
 F87 = "countries/Northspring.txt"
+F92 = "countries/Witchwing.txt"
 
 # Quillboar
 B68 = "countries/Bristleback.txt" # tech_quillboar

@@ -1,27 +1,34 @@
-owner = H01
-controller = H01
-add_core = H01
+# 1361 - Windshear Crag
 is_city = yes
 
 base_tax = 1
 base_manpower = 1
 base_production = 1
 
-culture = culture_sentinel
-religion = religion_elune
+culture = culture_bloodfury
+religion = religion_air
 
 hre = no
-trade_goods = grain
+trade_goods = flying_mounts
 
-
-
+native_size = 10
+native_ferocity = 10
+native_hostileness = 10
 
 622.1.1 = {
-	remove_core = H01
-	owner = XXX
-	controller = XXX
-	is_city = no
-	native_size = 10
-	native_ferocity = 10
-	native_hostileness = 10
+owner = A81
+controller = A81
+add_core = A81
+culture = culture_venture
+religion = religion_tech
+base_tax = 3
+base_producion = 3
+base_manpower = 2
+capital = "Venture Co. Logging Camp"
+}
+
+631.1.1 = {
+base_tax = 2
+base_producion = 2
+base_manpower = 1
 }
