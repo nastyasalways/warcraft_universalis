@@ -1,3 +1,4 @@
+# Windshear Pass
 base_tax = 2
 base_manpower = 1
 base_production = 2
@@ -21,6 +22,7 @@ religion = religion_tech
 base_tax = 3
 base_manpower = 2
 base_production = 3
+capital = "Venture Co. Headquarters"
 }
 
 631.1.1 = {
@@ -30,4 +32,6 @@ add_core = A94
 culture = culture_highbourne
 religion = religion_arcane
 trade_goods = army_supplies
+base_manpower = 3
+capital = "Windshear Hold"
 }

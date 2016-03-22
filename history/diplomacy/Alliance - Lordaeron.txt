@@ -1,13 +1,17 @@
 #############################
 ### Alliance of Lordaeron ###
 #############################
+
+### Designed to revert to regional Alliances after the Second War, handled by the "RegionalAlliance" decisions
+## See archive for old version of these alliances.
+
 ###Lordaeron
 # Lordaeron - Quel'Thalas
 alliance = {
 	first = A08
 	second = A90
-	start_date = 597.1.1
-	end_date = 617.1.1
+	start_date = 598.1.1
+	end_date = 605.1.1
 }
 
 # Lordaeron - Dalaran
@@ -15,7 +19,7 @@ alliance = {
 	first = A08
 	second = A18
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Lordaeron - Gilneas
@@ -23,7 +27,7 @@ alliance = {
 	first = A08
 	second = A12
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Lordaeron - Alterac
@@ -31,7 +35,7 @@ alliance = {
 	first = A08
 	second = A17
 	start_date = 597.1.1
-	end_date = 600.1.1
+	end_date = 598.1.1
 }
 
 # Lordaeron - Stromgarde
@@ -39,7 +43,7 @@ alliance = {
 	first = A08
 	second = A16
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Lordaeron - Stormwind
@@ -47,7 +51,7 @@ alliance = {
 	first = A08
 	second = A01
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Lordaeron - Ironforge
@@ -55,7 +59,7 @@ alliance = {
 	first = A08
 	second = A29
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Lordaeron - Gnomeregan
@@ -63,7 +67,7 @@ alliance = {
 	first = A08
 	second = A32
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Lordaeron - Wildhammer
@@ -71,7 +75,7 @@ alliance = {
 	first = A08
 	second = E22
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Lordaeron - Kul Tiras
@@ -79,7 +83,7 @@ alliance = {
 	first = A08
 	second = A14
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 ### Quel'Thalas
@@ -88,7 +92,7 @@ alliance = {
 	first = A90
 	second = A18
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Quel'Thalas - Gilneas
@@ -96,7 +100,7 @@ alliance = {
 	first = A90
 	second = A12
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Quel'Thalas - Alterac
@@ -104,7 +108,7 @@ alliance = {
 	first = A90
 	second = A17
 	start_date = 597.1.1
-	end_date = 600.1.1
+	end_date = 598.1.1
 }
 
 # Quel'Thalas - Stromgarde
@@ -112,7 +116,7 @@ alliance = {
 	first = A90
 	second = A16
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Quel'Thalas - Stormwind
@@ -120,7 +124,7 @@ alliance = {
 	first = A90
 	second = A01
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Quel'Thalas - Ironforge
@@ -128,7 +132,7 @@ alliance = {
 	first = A90
 	second = A29
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Quel'Thalas - Gnomeregan
@@ -136,7 +140,7 @@ alliance = {
 	first = A90
 	second = A32
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Quel'Thalas - Wildhammer
@@ -144,7 +148,7 @@ alliance = {
 	first = A90
 	second = E22
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Quel'Thalas - Kul Tiras
@@ -152,7 +156,7 @@ alliance = {
 	first = A90
 	second = A14
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 ### Dalaran
@@ -161,7 +165,7 @@ alliance = {
 	first = A18
 	second = A12
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Dalaran - Alterac
@@ -169,7 +173,7 @@ alliance = {
 	first = A18
 	second = A17
 	start_date = 597.1.1
-	end_date = 600.1.1
+	end_date = 598.1.1
 }
 
 # Dalaran - Stromgarde
@@ -177,7 +181,7 @@ alliance = {
 	first = A18
 	second = A16
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Dalaran - Stormwind
@@ -185,7 +189,7 @@ alliance = {
 	first = A18
 	second = A01
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Dalaran - Ironforge
@@ -193,7 +197,7 @@ alliance = {
 	first = A18
 	second = A29
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Dalaran - Gnomeregan
@@ -201,7 +205,7 @@ alliance = {
 	first = A18
 	second = A32
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Dalaran - Wildhammer
@@ -209,7 +213,7 @@ alliance = {
 	first = A18
 	second = E22
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Dalaran - Kul Tiras
@@ -217,7 +221,7 @@ alliance = {
 	first = A18
 	second = A14
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 ### Gilneas
@@ -226,7 +230,7 @@ alliance = {
 	first = A12
 	second = A17
 	start_date = 597.1.1
-	end_date = 600.1.1
+	end_date = 598.1.1
 }
 
 # Gilneas - Stromgarde
@@ -234,7 +238,7 @@ alliance = {
 	first = A12
 	second = A16
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Gilneas - Stormwind
@@ -242,7 +246,7 @@ alliance = {
 	first = A12
 	second = A01
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Gilneas - Ironforge
@@ -250,7 +254,7 @@ alliance = {
 	first = A12
 	second = A29
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Gilneas - Gnomeregan
@@ -258,7 +262,7 @@ alliance = {
 	first = A12
 	second = A32
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Gilneas - Wildhammer
@@ -266,7 +270,7 @@ alliance = {
 	first = A12
 	second = E22
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Gilneas - Kul Tiras
@@ -274,7 +278,7 @@ alliance = {
 	first = A12
 	second = A14
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 ### Alterac
@@ -283,7 +287,7 @@ alliance = {
 	first = A17
 	second = A16
 	start_date = 597.1.1
-	end_date = 600.1.1
+	end_date = 598.1.1
 }
 
 # Alterac - Stormwind
@@ -291,7 +295,7 @@ alliance = {
 	first = A17
 	second = A01
 	start_date = 597.1.1
-	end_date = 600.1.1
+	end_date = 598.1.1
 }
 
 # Alterac - Ironforge
@@ -299,7 +303,7 @@ alliance = {
 	first = A17
 	second = A29
 	start_date = 597.1.1
-	end_date = 600.1.1
+	end_date = 598.1.1
 }
 
 # Alterac - Gnomeregan
@@ -307,7 +311,7 @@ alliance = {
 	first = A17
 	second = A32
 	start_date = 597.1.1
-	end_date = 600.1.1
+	end_date = 598.1.1
 }
 
 # Alterac - Wildhammer
@@ -315,7 +319,7 @@ alliance = {
 	first = A17
 	second = E22
 	start_date = 597.1.1
-	end_date = 600.1.1
+	end_date = 598.1.1
 }
 
 # Alterac - Kul Tiras
@@ -323,7 +327,7 @@ alliance = {
 	first = A17
 	second = A14
 	start_date = 597.1.1
-	end_date = 600.1.1
+	end_date = 598.1.1
 }
 
 ### Stromgarde
@@ -332,7 +336,7 @@ alliance = {
 	first = A16
 	second = A01
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Stromgarde - Ironforge
@@ -340,7 +344,7 @@ alliance = {
 	first = A16
 	second = A29
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Stromgarde - Gnomeregan
@@ -348,7 +352,7 @@ alliance = {
 	first = A16
 	second = A32
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Stromgarde - Wildhammer
@@ -356,7 +360,7 @@ alliance = {
 	first = A16
 	second = E22
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Stromgarde - Kul Tiras
@@ -364,7 +368,7 @@ alliance = {
 	first = A16
 	second = A14
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 ### Stormwind
@@ -373,7 +377,7 @@ alliance = {
 	first = A01
 	second = A29
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Stormwind - Gnomeregan
@@ -381,7 +385,7 @@ alliance = {
 	first = A01
 	second = A32
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Stormwind - Wildhammer
@@ -389,7 +393,7 @@ alliance = {
 	first = A01
 	second = E22
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Stormwind - Kul Tiras
@@ -397,7 +401,7 @@ alliance = {
 	first = A01
 	second = A14
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 ### Ironforge
@@ -406,7 +410,7 @@ alliance = {
 	first = A29
 	second = A32
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Ironforge - Wildhammer
@@ -414,7 +418,7 @@ alliance = {
 	first = A29
 	second = E22
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Ironforge - Kul Tiras
@@ -422,7 +426,7 @@ alliance = {
 	first = A29
 	second = A14
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 ### Gnomeregan
@@ -431,7 +435,7 @@ alliance = {
 	first = A32
 	second = E22
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 # Gnomeregan - Kul Tiras
@@ -439,7 +443,7 @@ alliance = {
 	first = A32
 	second = A14
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }
 
 ### Wildhammer
@@ -448,5 +452,5 @@ alliance = {
 	first = E22
 	second = A14
 	start_date = 597.1.1
-	end_date = 617.1.1
+	end_date = 605.1.1
 }

@@ -1,16 +1,30 @@
 # A region can only belong to one super region.
 
 
-eastern_kingdoms_superregion = {
+azeroth_superregion = {
 	azeroth_region
+}
+
+lordaeron_superregion = {
 	lordaeron_region
+}
+
+khaz_modan_superregion = {
 	khaz_modan_region
 }
 
-kalimdor_superregion = {
-	kalimdor_region
+north_kalimdor_superregion = {
+	north_kalimdor_region
 	exodar_region
 	darnassus_region
+}
+
+central_kalimdor_superregion = {
+	central_kalimdor_region
+}
+
+south_kalimdor_superregion = {
+	south_kalimdor_region
 }
 
 northrend_superregion = {
