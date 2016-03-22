@@ -3,7 +3,7 @@ government 			= militaristic_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_naga
 religion			= religion_old_gods
-primary_culture 	= culture_hatecrest
+primary_culture 	= culture_zoram
 capital 			= 1
 
 618.1.1 = { 

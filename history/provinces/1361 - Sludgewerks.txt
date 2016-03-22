@@ -24,11 +24,6 @@ religion = religion_tech
 base_tax = 3
 base_producion = 3
 base_manpower = 2
-capital = "Venture Co. Logging Camp"
-}
-
-631.1.1 = {
-base_tax = 2
-base_producion = 2
-base_manpower = 1
+capital = "Venture Co. Water Wheel"
+trade_goods = lumber
 }

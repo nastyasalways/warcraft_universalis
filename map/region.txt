@@ -73,7 +73,7 @@ azeroth_region = {
 	}
 }
 
-kalimdor_region = {
+north_kalimdor_region = {
 	discover_if = {
 		capital_scope = {
 			continent = continent_kalimdor
@@ -87,6 +87,16 @@ kalimdor_region = {
 		area_mount_hyjal
 		area_ashenvale
 		area_azshara
+	}
+}
+
+central_kalimdor_region = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_kalimdor
+		}
+	}
+	areas = {
 		area_durotar
 		area_northern_barrens
 		area_stonetalon_mountains
@@ -94,6 +104,16 @@ kalimdor_region = {
 		area_mulgore
 		area_southern_barrens
 		area_dustwallow_marsh
+	}
+}
+
+south_kalimdor_region = {
+	discover_if = {
+		capital_scope = {
+			continent = continent_kalimdor
+		}
+	}
+	areas = {
 		area_thousand_needles
 		area_feralas
 		area_silithus

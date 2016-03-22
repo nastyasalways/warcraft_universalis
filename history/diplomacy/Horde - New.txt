@@ -1,0 +1,56 @@
+#####################
+### The New Horde ###
+#####################
+
+### Designed to be regional alliances only, handled by the "RegionalHorde" decisions, with some exceptions
+## See archive for old version of these alliances.
+# May make Warchief allied with Major Horde Members
+
+### Invasion of Kalimdor/Founding of Durotar
+# Orgrimmar - Darkspear
+alliance = {
+	first = A48
+	second = A70
+	start_date = 617.1.1
+	end_date = 650.5.1
+}
+# Orgrimmar - Warsong
+alliance = {
+	first = A48
+	second = A70
+	start_date = 617.1.1
+	end_date = 622.1.1
+}
+# Orgrimmar - Stonemaul  #The Ogres talk only to orcs, rest is weak (in their opinion)
+alliance = {
+	first = A48
+	second = F57
+	start_date = 618.1.1
+	end_date = 650.5.1
+}
+
+
+### Pre-Horde Revantusk
+# Forsaken - Revantusk
+alliance = {
+	first = E14
+	second = A61
+	start_date = 622.1.1
+	end_date = 650.5.1
+}
+# Orgrimmar - Revantusk
+alliance = {
+	first = A48
+	second = A61
+	start_date = 618.1.1
+	end_date = 631.1.1
+}
+
+### Shatterspear
+# Orgrimmar - Shatterspear
+alliance = {
+	first = A48
+	second = A68
+	start_date = 631.1.1
+	end_date = 650.5.1
+}

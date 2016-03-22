@@ -1,3 +1,7 @@
+#  By Blanchard33
+# These decisions relate to joining and leaving the Alliance, Horde, or becoming a Neutral Organization.
+# Planned to be updated eventually with more limits, negative opinion modifiers for leaving factions and whatever comes to mind.
+
 country_decisions = {
 
 join_the_alliance = {
@@ -34,9 +38,7 @@ leave_the_alliance = {
 		has_country_modifier = alliance_member
 		}
 		allow = {
-		 ROOT = {
 	     has_country_modifier = alliance_member
-         }
 		}
 		effect = { 
 				remove_country_modifier = alliance_member
@@ -80,9 +82,7 @@ leave_the_horde = {
 		has_country_modifier = horde_member
 		}
 		allow = {
-		 ROOT = {
 	     has_country_modifier = horde_member
-         }
 		}
 		effect = { 
 				remove_country_modifier = horde_member
@@ -125,9 +125,7 @@ leave_neutral = {
 		has_country_modifier = neutral_member
 		}
 		allow = {
-		 ROOT = {
 	     has_country_modifier = neutral_member
-         }
 		}
 		effect = { 
 				remove_country_modifier = neutral_member

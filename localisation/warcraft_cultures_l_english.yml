@@ -150,7 +150,7 @@ l_english:
  culture_sayaad: "Sayaad"
  culture_illidari: "Illidari"
  culture_felsworn: "Felsworn"
- culture_legion_cultist: "Legion Cultist"
+ culture_legion_cultist: "Fel Cultist"
  culture_fel_orc: "Fel Orc"
  culture_felblood_elf: "Felblood Elf"
  
@@ -162,6 +162,7 @@ l_english:
  culture_legashi: "Legashi"
  culture_crystal_satyr: "Crystal Satyr"
  culture_wildspawn: "Wildspawn"
+ culture_xavian: "Xavian"
  
  culture_group_naga: "Naga"
  culture_nazja: "Nazja"
@@ -171,10 +172,12 @@ l_english:
  culture_hatecrest: "Hatecrest"
  
  culture_group_depths: "Depths"
- culture_makrura: "Makrura"
- culture_bogstrok: "Bogstrok"
  culture_nerglish: "Murloc"
  culture_jinyu: "Jinyu"
+ 
+ culture_group_lobstrok: "Lobstrok"
+ culture_makrura: "Makrura"
+ culture_bogstrok: "Bogstrok"
  
  culture_group_old_god: "Old God"
  culture_yogg_saron: "Yogg'Saron"
@@ -185,7 +188,7 @@ l_english:
  culture_group_scourge: "Scourge"
  culture_scourge: "Scourge"
  culture_death_knight: "Death Knight"
- culture_cultist: "Scourge Cultist"
+ culture_cultist: "Necromantic Cultist"
  
  culture_group_dragonkin: "Dragon"
  culture_black: "Black Dragonflight"
@@ -230,6 +233,9 @@ l_english:
  culture_winterfall: "Winterfall"
  culture_frostpaw: "Frostpaw"
  culture_redfang: "Redfang"
+ culture_thistlefur: "Thistlefur"
+ culture_foulweald: "Foulweald"
+ culture_bloodtooth: "Bloodtooth"
  
  culture_group_wolfvar: "Wolvar"
  culture_bloodpaw: "Bloodpaw"

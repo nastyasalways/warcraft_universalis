@@ -30,7 +30,7 @@ add_core = A94
 owner = E06
 controller = E06
 religion = religion_old_gods
-culture = culture_hatecrest
+culture = culture_zoram
 trade_goods = artifacts
 capital = "Ruins of Feathermoon"
 }

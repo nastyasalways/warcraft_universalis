@@ -102,8 +102,7 @@
  
  
  # Continents
- # Prehaps "Continent" could be renamed "World"?
- continent_eastern_kingdoms: "Azeroth"
+ continent_eastern_kingdoms: "Eastern Kingdoms"
  continent_kalimdor: "Kalimdor"
  continent_northrend: "Northrend"
  continent_exodar: "Exodar"
@@ -114,6 +113,12 @@
   
  # Superregions
  eastern_kingdoms_superregion: "Eastern Kingdoms"
+ lordaeron_superregion: "Lordaeron"
+ azeroth_superregion: "Azeroth"
+ khaz_modan_superregion: "Khaz Modan"
+ north_kalimdor_superregion: "Northern Kalimdor"
+ central_kalimdor_superregion: "Central Kalimdor"
+ south_kalimdor_superregion: "Southern Kalimdor"
  kalimdor_superregion: "Kalimdor"
  northrend_superregion: "Northrend"
  outland_superregion: "Outland"
@@ -126,6 +131,9 @@
  azeroth_region: "Azeroth"
  khaz_modan_region: "Khaz Modan"
  kalimdor_region: "Kalimdor"
+ north_kalimdor_region: "Northern Kalimdor"
+ central_kalimdor_region: "Central Kalimdor"
+ south_kalimdor_region: "Southern Kalimdor"
  northrend_region: "Northrend"
  exodar_region: "Exodar"
  darnassus_region: "Darnassus"
@@ -157,7 +165,7 @@
  area_arathi_highlands: "Arathi Highlands"
  area_the_hinterlands: "The Hinterlands"
  area_wetlands: "Wetlands"
- area_twilight_highlands: "Twilight Highlands"
+ area_twilight_highlands: "Northeron Highlands"
  area_loch_modan: "Loch Modan"
  area_dun_morogh: "Dun Morogh"
  area_badlands: "Badlands"
@@ -1035,6 +1043,16 @@
  F92_ADJ: "Witchwing"
  F93: "Cliffwalker"
  F93_ADJ: "Cliffwalker"
+ F94: "Thistlefur"
+ F94_ADJ: "Thistlefur"
+ F95: "Foulweald"
+ F95_ADJ: "Foulweald"
+ F96: "Bloodtooth"
+ F96_ADJ: "Bloodtooth"
+ F97: "Xavian"
+ F97_ADJ: "Xavian"
+ F98: "Mannoroc Lashers"
+ F98_ADJ: "Mannoroc"
  
  
  

@@ -1,4 +1,4 @@
-# 1364
+# 1364 Windshear Cliffs
 is_city = no
 
 base_tax = 2
@@ -9,7 +9,7 @@ culture = culture_bloodfury
 religion = religion_air
 
 hre = no
-trade_goods = lumber
+trade_goods = iron
 
 native_size = 10
 native_ferocity = 10
@@ -19,11 +19,12 @@ native_hostileness = 10
 owner = A81
 controller = A81
 add_core = A81
-culture = culture_venture
-religion = religion_tech
+culture = culture_lordaeron
+religion = religion_church_of_the_light
 base_tax = 3
 base_manpower = 2
 base_production = 3
+capital = "Windshear Mine"
 }
 
 631.1.1 = {
@@ -32,8 +33,8 @@ controller = A48
 add_core = A48
 culture = culture_horde
 religion = religion_ancestral
-trade_goods = army_supplies
 base_manpower = 3
+capital = "Krom'gar Fortress"
 }
 
 

@@ -1,14 +1,14 @@
-# Shadowglen
+# Bloodtooth Furbolg
 
 graphical_culture = westerngfx
 
-color = { 48 80 27 }
+color = { 221 161 121 }
 
 monarch_names = {
 
 }
 
-leader_names = {""
+leader_names = {
 
 }
 

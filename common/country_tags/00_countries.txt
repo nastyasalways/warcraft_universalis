@@ -311,6 +311,9 @@ B43 = "countries/Stillpine.txt"
 B44 = "countries/Winterfall.txt" # tech_furbolg
 B45 = "countries/Frostpaw.txt"
 B46 = "countries/Redfang.txt"
+F94 = "countries/Thistlefur.txt"
+F95 = "countries/Foulweald.txt"
+F96 = "countries/Bloodtooth.txt"
 
 # Wolvar
 B47 = "countries/Bloodpaw.txt"
@@ -389,6 +392,7 @@ F15 = "countries/Dreadlord.txt"
 F13 = "countries/Shadowsworn.txt"
 F37 = "countries/Disciples of Hate.txt"
 F82 = "countries/Hounds of Culuthas.txt"
+F98 = "countries/Mannoroc Conclave.txt"
 
 # Satyr
 B96 = "countries/Jadefire.txt"
@@ -398,6 +402,7 @@ B99 = "countries/Hatefury.txt"
 E01 = "countries/Legashi.txt"
 F43 = "countries/Nazzivus.txt"
 F90 = "countries/Wildspawn.txt"
+F97 = "countries/Xavian.txt"
 
 # Naga
 E02 = "countries/Coilskar.txt"

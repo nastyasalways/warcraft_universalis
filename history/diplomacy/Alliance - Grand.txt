@@ -1,0 +1,9 @@
+#############################
+### Alliance of Stormwind ###
+#############################
+
+### Designed to be regional alliances only, handled by the "RegionalAlliance" decisions, with some exceptions
+## See archive for old version of these alliances.
+# May make High King allied with Major Alliance Members
+
+### Stormwind

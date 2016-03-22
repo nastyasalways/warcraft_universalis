@@ -19,12 +19,13 @@ native_hostileness = 10
 owner = A81
 controller = A81
 add_core = A81
-culture = culture_venture
-religion = religion_tech
+culture = culture_palemane
+religion = religion_ancestral
 base_tax = 3
 base_manpower = 3
 base_production = 3
-trade_goods = oil
+trade_goods = lumber
+capital = "Venture Co. Sawmill"
 }
 
 631.1.1 = {
