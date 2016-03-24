@@ -43,38 +43,38 @@ lordaeron_horde = {
 }
 
 khaz_modan_horde = {
-	    major = yes
-		potential = {
+	major = yes
+	potential = {
         has_country_modifier = horde_member
 		capital_scope = { superregion = khaz_modan_superregion }
 		any_known_country = {
-		has_country_modifier = horde_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = khaz_modan_superregion }
-		ai = yes
+			has_country_modifier = horde_member
+			NOT = { alliance_with = ROOT }
+			capital_scope = { superregion = khaz_modan_superregion }
+			ai = yes
 		}
-		}
-		allow = {
+	}
+	allow = {
 		any_known_country = {
-		has_country_modifier = horde_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = khaz_modan_superregion }
+			has_country_modifier = horde_member
+			NOT = { alliance_with = ROOT }
+			capital_scope = { superregion = khaz_modan_superregion }
 		}
-		}
-		effect = {
+	}
+	effect = {
         every_known_country = {
-		limit = {
-		has_country_modifier = horde_member
-        NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = khaz_modan_superregion }
-		ai = yes
+			limit = {
+				has_country_modifier = horde_member
+				NOT = { alliance_with = ROOT }
+				capital_scope = { superregion = khaz_modan_superregion }
+				ai = yes
+			}
+			create_alliance = ROOT
 		}
-		create_alliance = ROOT
-		}
-		}		
-		ai_will_do = {
-			factor = 1
-		}
+	}		
+	ai_will_do = {
+		factor = 1
+	}
 }
 
 azeroth_horde = {
@@ -148,17 +148,17 @@ north_kalimdor_horde = {
 }
 
 central_kalimdor_horde = {
-	    major = yes
-		potential = {
+	major = yes
+	potential = {
         has_country_modifier = horde_member
 		capital_scope = { superregion = central_kalimdor_superregion }
 		any_known_country = {
-		has_country_modifier = horde_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = central_kalimdor_superregion }
-		ai = yes
+			has_country_modifier = horde_member
+			NOT = { alliance_with = ROOT }
+			capital_scope = { superregion = central_kalimdor_superregion }
+			ai = yes
 		}
-		}
+	}
 		allow = {
 		any_known_country = {
 		has_country_modifier = horde_member
@@ -183,17 +183,17 @@ central_kalimdor_horde = {
 }
 
 south_kalimdor_horde = {
-	    major = yes
-		potential = {
+	major = yes
+	potential = {
         has_country_modifier = horde_member
 		capital_scope = { superregion = south_kalimdor_superregion }
 		any_known_country = {
-		has_country_modifier = horde_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = south_kalimdor_superregion }
-		ai = yes
+			has_country_modifier = horde_member
+			NOT = { alliance_with = ROOT }
+			capital_scope = { superregion = south_kalimdor_superregion }
+			ai = yes
 		}
-		}
+	}
 		allow = {
 		any_known_country = {
 		has_country_modifier = horde_member
@@ -218,7 +218,7 @@ south_kalimdor_horde = {
 }
 
 northrend_horde = {
-	    major = yes
+	major = yes
 		potential = {
         has_country_modifier = horde_member
 		capital_scope = { superregion = northrend_superregion }
@@ -253,7 +253,7 @@ northrend_horde = {
 }
 
 outland_horde = {
-	    major = yes
+	major = yes
 		potential = {
         has_country_modifier = horde_member
 		capital_scope = { superregion = outland_superregion }
@@ -288,38 +288,38 @@ outland_horde = {
 }
 
 pandaria_horde = {
-	    major = yes
-		potential = {
+	major = yes
+	potential = {
         has_country_modifier = horde_member
 		capital_scope = { superregion = pandaria_superregion }
 		any_known_country = {
-		has_country_modifier = horde_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = pandaria_superregion }
-		ai = yes
+			has_country_modifier = horde_member
+			NOT = { alliance_with = ROOT }
+			capital_scope = { superregion = pandaria_superregion }
+			ai = yes
 		}
-		}
-		allow = {
+	}
+	allow = {
 		any_known_country = {
-		has_country_modifier = horde_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = pandaria_superregion }
+			has_country_modifier = horde_member
+			NOT = { alliance_with = ROOT }
+			capital_scope = { superregion = pandaria_superregion }
 		}
-		}
-		effect = {
+	}
+	effect = {
         every_known_country = {
-		limit = {
-		has_country_modifier = horde_member
-        NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = pandaria_superregion }
-		ai = yes
-		}
+			limit = {
+				has_country_modifier = horde_member
+				NOT = { alliance_with = ROOT }
+				capital_scope = { superregion = pandaria_superregion }
+				ai = yes
+			}
 		create_alliance = ROOT
 		}
-		}		
-		ai_will_do = {
-			factor = 1
-		}
+	}		
+	ai_will_do = {
+		factor = 1
+	}
 }
 
 }
