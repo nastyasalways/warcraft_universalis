@@ -38,7 +38,8 @@ owner = B19
 controller = B19
 add_core = B19
 culture = culture_rothide
-religion = religion_the_damned 
+religion = religion_the_damned
+capital = "The Decrepit Fields" 
 }
 
 # Cataclysm

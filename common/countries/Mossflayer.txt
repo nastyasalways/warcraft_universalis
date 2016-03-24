@@ -9,10 +9,10 @@ monarch_names = {
 }
 
 leader_names = {
-
+""
 }
 
-ship_names = {
+ship_names = { Mossflayer Zul'jin Amani Zul Nalorakk Warbear Elfbane Waverider Lynx Dragonhawk Hexcannon Shadra
 
 }
 
