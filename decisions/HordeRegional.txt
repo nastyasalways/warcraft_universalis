@@ -8,38 +8,38 @@
 country_decisions = {
 
 lordaeron_horde = {
-	    major = yes
-		potential = {
+	major = yes
+	potential = {
         has_country_modifier = horde_member
 		capital_scope = { superregion = lordaeron_superregion }
 		any_known_country = {
-		has_country_modifier = horde_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = lordaeron_superregion }
-		ai = yes
+			has_country_modifier = horde_member
+			NOT = { alliance_with = ROOT }
+			capital_scope = { superregion = lordaeron_superregion }
+			ai = yes
 		}
-		}
-		allow = {
+	}
+	allow = {
 		any_known_country = {
-		has_country_modifier = horde_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = lordaeron_superregion }
+			has_country_modifier = horde_member
+			NOT = { alliance_with = ROOT }
+			capital_scope = { superregion = lordaeron_superregion }
 		}
-		}
-		effect = {
+	}
+	effect = {
         every_known_country = {
-		limit = {
-		has_country_modifier = horde_member
-        NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = lordaeron_superregion }
-		ai = yes
+			limit = {
+				has_country_modifier = horde_member
+				NOT = { alliance_with = ROOT }
+				capital_scope = { superregion = lordaeron_superregion }
+			ai = yes
+			}
+			create_alliance = ROOT
 		}
-		create_alliance = ROOT
-		}
-		}		
-		ai_will_do = {
-			factor = 1
-		}
+	}		
+	ai_will_do = {
+		factor = 1
+	}
 }
 
 khaz_modan_horde = {
