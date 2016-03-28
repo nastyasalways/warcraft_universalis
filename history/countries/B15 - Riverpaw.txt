@@ -4,7 +4,7 @@ mercantilism 		= 0.1
 technology_group 	= tech_gnoll
 religion			= religion_ancestral
 primary_culture 	= culture_riverpaw
-capital 			= 1
+capital 			= 533
 
 546.1.1 = { 
 	monarch = { 
