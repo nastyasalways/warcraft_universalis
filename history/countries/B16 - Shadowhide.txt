@@ -4,7 +4,7 @@ mercantilism 		= 0.1
 technology_group 	= tech_gnoll
 religion			= religion_ancestral
 primary_culture 	= culture_shadowhide
-capital 			= 1
+capital 			= 2197
 
 
 546.1.1 = { 

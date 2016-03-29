@@ -7,6 +7,7 @@ country_event = {
 	
 	trigger = {
 		year = 592
+		NOT = { year = 600 }
 		culture_group = culture_group_orc
 		NOT = { has_country_modifier = blood_of_mannaroth }
 	}
