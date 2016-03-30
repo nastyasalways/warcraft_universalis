@@ -4,4 +4,32 @@ mercantilism 		= 0.1
 technology_group 	= tech_furbolg
 religion			= religion_ancestral
 primary_culture 	= culture_blackwood
-capital 			= 1
+capital 			= 1301
+
+546.1.1 = { 
+monarch = { 
+     name = "" 
+     dynasty = "Blackwood" 
+		adm = 3
+		dip = 3
+		mil = 2
+ 	} 
+ } 
+
+600.1.1 = { 
+monarch = { 
+     name = "" 
+      dynasty = "Brownpaw" 
+		adm = 3
+		dip = 3
+		mil = 3 
+ 	}
+}
+
+618.1.1 = {
+religion = religion_fel
+}
+
+625.1.1 = { 
+religion = religion_ancestral
+}

@@ -1,37 +1,55 @@
-# 1295 Shatterspear War Camp
-is_city = yes
-
-owner = H01
-controller = H01
-add_core = H01
+# 1295 Shatterspear War Camp/Tower of Althalaxx
+is_city = no
+native_size = 10
+native_ferocity = 10
+native_hostileness = 10
 
 base_tax = 2
 base_manpower = 2
 base_production = 2
 
-culture = culture_sentinel
-religion = religion_elune
+culture = culture_ghost
+religion = religion_arcane
 
 hre = no
-trade_goods = grain
+trade_goods = artifacts
 
 # Rise of the Qiraji
 622.1.1 = {
-	owner = XXX
-	controller = XXX
-	remove_core = H01
+owner = B93
+controller = B93
+add_core = B93
+religion = religion_fel
+culture = culture_legion_cultist
+trade_goods = fel
 }
 
 # Cataclysm
 631.1.1 = {
-	owner = A68
-	controller = A68
-	add_core = A68
+owner = A68
+controller = A68
+add_core = A68
 
-	religion = religion_loa
-	culture = culture_shatterspear
+religion = religion_loa
+culture = culture_shatterspear
 	
-	base_tax = 4
-	base_manpower = 5
-	base_production = 4
+base_tax = 3
+base_manpower = 3
+base_production = 3
+remove_core = B93
+trade_goods = army_supplies
+         
+}
+
+632.1.1 = {
+owner = A94
+controller = A94
+add_core = A94
+
+religion = religion_elune
+culture = culture_sentinel
+	
+base_tax = 2
+base_manpower = 2
+base_production = 2        
 }

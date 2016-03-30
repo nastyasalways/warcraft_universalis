@@ -32,6 +32,7 @@ add_core = A94
 culture = culture_sentinel
 religion = religion_elune
 capital = "Thalanaar"
+trade_goods = moonwell
 }
 
 631.1.1 = {

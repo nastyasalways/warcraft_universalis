@@ -25,6 +25,7 @@ add_core = F64
 remove_core = F51
 religion = religion_druidic
 culture = culture_cenarion
+trade_goods = moonwell
 }
 
 

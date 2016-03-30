@@ -219,6 +219,7 @@ E49 = "countries/Highvale.txt"
 F20 = "countries/Quellithian.txt"
 F54 = "countries/QuelThalas Remnants.txt"
 F56 = "countries/Southvale.txt"
+B94 = "countries/Wretched.txt"
 
 # Blood Elf
 A91 = "countries/Silvermoon.txt"
@@ -314,6 +315,7 @@ B46 = "countries/Redfang.txt"
 F94 = "countries/Thistlefur.txt"
 F95 = "countries/Foulweald.txt"
 F96 = "countries/Bloodtooth.txt"
+G01 = "countries/Barkskin.txt"
 
 # Wolvar
 B47 = "countries/Bloodpaw.txt"
@@ -346,6 +348,7 @@ B66 = "countries/Dustwind.txt"
 B67 = "countries/Screeching.txt" # tech_harpy
 F87 = "countries/Northspring.txt"
 F92 = "countries/Witchwing.txt"
+F99 = "countries/Wormwing.txt"
 
 # Quillboar
 B68 = "countries/Bristleback.txt" # tech_quillboar
@@ -386,13 +389,13 @@ B90 = "countries/Burning Blade.txt"
 B91 = "countries/Searing Blade.txt"
 B92 = "countries/The Burning Legion.txt"
 B93 = "countries/Cult of the Dark Strand.txt"
-B94 = "countries/Wretched.txt"
 B95 = "countries/Felsworn.txt"
 F15 = "countries/Dreadlord.txt"
 F13 = "countries/Shadowsworn.txt"
 F37 = "countries/Disciples of Hate.txt"
 F82 = "countries/Hounds of Culuthas.txt"
 F98 = "countries/Mannoroc Conclave.txt"
+G02 = "countries/Darkwhisper.txt"
 
 # Satyr
 B96 = "countries/Jadefire.txt"
@@ -441,6 +444,7 @@ E25 = "countries/Hydraxian Waterlords.txt"
 E26 = "countries/Firelands.txt"
 E27 = "countries/Deepholm.txt"
 E28 = "countries/Skywall.txt"
+G04 = "countries/Bloodvenom.txt"
 
 # Worgen
 E29 = "countries/Wolfcult.txt"
@@ -530,6 +534,7 @@ F42 = "countries/Sons of Hodir.txt"
 F44 = "countries/Arkkoroc.txt"
 F70 = "countries/Colossi.txt"
 F89 = "countries/Deepstrider.txt"
+G03 = "countries/Frostmaul.txt"
 
 # Sprite
 E87 = "countries/Rikkitun.txt"

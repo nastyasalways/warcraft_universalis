@@ -1,15 +1,15 @@
-# Deadwood
+# Barksin Hyjal Furbolgs
 government 			= war_tribe
 mercantilism 		= 0.1
 technology_group 	= tech_furbolg
-religion			= religion_ancestral
-primary_culture 	= culture_deadwood
-capital 			= 1
+religion			= religion_druidic
+primary_culture 	= culture_barkskin
+capital 			= 1335
 
 546.1.1 = { 
 monarch = { 
      name = "" 
-     dynasty = "Deadwood" 
+     dynasty = "Barkskin" 
 		adm = 3
 		dip = 3
 		mil = 2
@@ -19,14 +19,9 @@ monarch = {
 600.1.1 = { 
 monarch = { 
      name = "" 
-      dynasty = "Bloodmaw" 
+      dynasty = "Barkskin" 
 		adm = 3
 		dip = 3
-		mil = 4 
+		mil = 3 
  	}
-}
-
-618.1.1 = {
-religion = religion_fel
-government = war_tribe
 }
