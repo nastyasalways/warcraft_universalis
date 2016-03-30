@@ -1,0 +1,31 @@
+# Frostmaul Tribe (Frost Giants)
+government 			= war_tribe
+mercantilism 		= 0.1
+technology_group 	= tech_titan
+religion			= religion_titan
+primary_culture 	= culture_frost_giant
+capital 			= 1
+
+546.1.1 = { 
+monarch = { 
+     name = "" 
+     dynasty = "Frostmaul" 
+		adm = 3
+		dip = 2
+		mil = 3
+ 	} 
+ } 
+
+600.1.1 = { 
+monarch = { 
+     name = "Frostilicus" 
+     dynasty = "Frostmaul" 
+		adm = 3
+		dip = 2
+		mil = 3
+ 	} 
+ } 
+
+
+
+ 

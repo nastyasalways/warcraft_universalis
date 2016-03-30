@@ -40,7 +40,7 @@ add_core = A23
 base_tax = 2
 base_manpower = 2
 base_production = 2
-culture_lordaeron
+culture = culture_lordaeron
 }
 
 

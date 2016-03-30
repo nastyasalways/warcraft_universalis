@@ -11,7 +11,7 @@ culture = culture_forest_nymph
 religion = religion_druidic
 
 hre = no
-trade_goods = ashenvale_lumber
+trade_goods = moonwell
 
 
 

@@ -1,17 +1,18 @@
-owner = H01
-controller = H01
-add_core = H01
+# Barrow Dens, Location of Horde Base/Dark Trolls/Barkskin Furbolgs
+owner = G01
+controller = G01
+add_core = G01
 is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
-culture = culture_sentinel
-religion = religion_elune
+culture = culture_barkskin
+religion = religion_druidic
 
 hre = no
-trade_goods = grain
+trade_goods = fur
 
 
 

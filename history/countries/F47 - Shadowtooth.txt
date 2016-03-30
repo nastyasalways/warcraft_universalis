@@ -6,7 +6,7 @@ technology_group 	= tech_troll
 religion			= religion_druidic
 secondary_religion = religion_voodoo
 primary_culture 	= culture_shadowtooth
-capital 			= 1
+capital 			= 1342
 
 546.1.1 = { 
 

@@ -1,27 +1,14 @@
-owner = H01
-controller = H01
-add_core = H01
+owner = B42
+controller = B42
+add_core = B42
 is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 5
+base_manpower = 5
+base_production = 5
 
-culture = culture_sentinel
-religion = religion_elune
+culture = culture_timbermaw
+religion = religion_ancestral
 
 hre = no
-trade_goods = grain
-
-
-
-
-622.1.1 = {
-	remove_core = H01
-	owner = XXX
-	controller = XXX
-	is_city = no
-	native_size = 10
-	native_ferocity = 10
-	native_hostileness = 10
-}
+trade_goods = lumber

@@ -1,4 +1,4 @@
-# Nordrassil
+# Nordrassil/Sentinels
 government 				= administrative_theocracy
 mercantilism 			= 0.1
 technology_group 		= tech_darnassian

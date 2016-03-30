@@ -26,11 +26,19 @@ controller = A94
 add_core = A94
 }
 
+622.1.1 = {
+remove_core = H01
+owner = A94
+controller = A94
+add_core = A94
+}
+
+
 631.1.1 = {
 owner = E06
 controller = E06
 religion = religion_old_gods
-culture = culture_zoram
+culture = culture_azsuna
 trade_goods = artifacts
 capital = "Ruins of Feathermoon"
 }

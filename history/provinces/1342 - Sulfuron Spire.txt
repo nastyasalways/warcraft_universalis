@@ -1,27 +1,26 @@
-owner = H01
-controller = H01
-add_core = H01
+#Dark Troll Dens
+owner = F47
+controller = F47
+add_core = F47
 is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
-culture = culture_sentinel
-religion = religion_elune
+culture = culture_shadowtooth
+religion = religion_druidic
 
 hre = no
-trade_goods = grain
+trade_goods = ashenvale_lumber
 
-
-
-
-622.1.1 = {
-	remove_core = H01
-	owner = XXX
-	controller = XXX
-	is_city = no
-	native_size = 10
-	native_ferocity = 10
-	native_hostileness = 10
+631.1.1 = {
+culture = culture_fire
+religion = religion_fire
+owner = E26
+controller = E26
+add_core = E26
+base_tax = 6
+base_manpower = 6
+base_production = 6
 }
