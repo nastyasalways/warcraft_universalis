@@ -74,6 +74,7 @@ H06 = "countries/Alliance Vanguard.txt"
 F58 = "countries/Theramore Deserters.txt"
 F61 = "countries/Morgans Forces.txt"
 E19 = "countries/Fray Island.txt"
+G06 = "countries/Northwatch.txt"
 
 # Dwarven
 A28 = "countries/Wildhammer.txt"
@@ -349,6 +350,7 @@ B67 = "countries/Screeching.txt" # tech_harpy
 F87 = "countries/Northspring.txt"
 F92 = "countries/Witchwing.txt"
 F99 = "countries/Wormwing.txt"
+G05 = "countries/Windfury.txt"
 
 # Quillboar
 B68 = "countries/Bristleback.txt" # tech_quillboar

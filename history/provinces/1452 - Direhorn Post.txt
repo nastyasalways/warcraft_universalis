@@ -1,4 +1,4 @@
-# 1452 Direhorn Post
+# 1452 Direhorn Post/ The Quagmire
 is_city = yes
 
 base_tax = 3
@@ -14,3 +14,10 @@ religion = religion_ancestral
 
 hre = no
 trade_goods = cloth
+
+632.1.1 = { 
+religion = religion_water
+culture = culture_makrura
+owner = xxx
+controller = xxx 
+}

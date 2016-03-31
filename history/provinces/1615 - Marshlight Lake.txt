@@ -24,10 +24,19 @@ controller = xxx
 }
 
 622.1.1 = {
+owner = B38
+controller = B38
+add_core = B38
+remove_core = B89
+culture = culture_bogstrok
+religion = religion_water
+trade_goods = fish
+}
+
+625.1.1 = {
 owner = E02
 controller = E02
 add_core = E02
-remove_core = B89
 culture = culture_vashjari
 religion = religion_old_gods
 trade_goods = workshops

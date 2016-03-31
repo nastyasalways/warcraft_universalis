@@ -6,12 +6,22 @@ base_manpower = 1
 base_production = 1
 
 
-culture = noculture
-religion = noreligion
+culture = culture_makrura
+religion = religion_water
 
 hre = no
-trade_goods = grain
+trade_goods = fish
 
-
+618.1.1 = { 
+controller = A80
+owner = A80
+add_core = A80
+culture = culture_steamwheedle
+religion = religion_tech
+base_tax = 3
+base_manpower = 3
+base_production = 3
+is_city = yes
+}
 
 

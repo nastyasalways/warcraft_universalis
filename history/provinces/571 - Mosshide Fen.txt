@@ -34,11 +34,11 @@ trade_goods = fish
 }
 
 # Cataclysm
-631.1.1 = { 
-	owner = A29
-	controller = A29
-	add_core = A29
-	remove_core = B13
-	culture = culture_ironforge 
-	religion = religion_church_of_the_light
-}
+#631.1.1 = { 
+#	owner = A29
+#	controller = A29
+#	add_core = A29
+#	remove_core = B13
+#	culture = culture_ironforge 
+#	religion = religion_church_of_the_light
+#}
