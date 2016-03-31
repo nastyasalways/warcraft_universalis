@@ -1,23 +1,31 @@
 # 1477
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
-culture = culture_dawnstrider
-religion = religion_ancestral
+culture = culture_bristleback
+religion = religion_geomancy
 
 hre = no
-trade_goods = grain
+trade_goods = fur
 
-
-
+native_size = 10
+native_ferocity = 10
+native_hostileness = 10
 
 618.1.1 = { 
-	owner = A89
-	controller = A89
-	add_core = A89
-	culture = culture_winterhoof
+	owner = A84
+	controller = A84
+	add_core = A84
+        add_core = A88
+	culture = culture_dawnstrider
 	religion = religion_ancestral
+}
+
+622.1.1 = { 
+	owner = F88
+	controller = F88
+	add_core = F88
 }

@@ -1,8 +1,8 @@
-# Theramore
+# Northwatch
 
 graphical_culture = westerngfx
 
-color = { 163 194 255 }
+color = { 214 205 186 }
 
 monarch_names = {
 	"Harry" = 20

@@ -6,13 +6,13 @@ base_manpower = 1
 base_production = 1
 
 culture = culture_earthen
-religion = religion_earth
+religion = religion_titanic
 
 hre = no
 trade_goods = fossils
 
 # The Frozen Throne
-618.1.1 = { 
+622.1.1 = { 
 	controller = F59
 	owner = F59
 	add_core = F59

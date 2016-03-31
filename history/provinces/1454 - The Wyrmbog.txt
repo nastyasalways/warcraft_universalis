@@ -13,4 +13,4 @@ culture = culture_black
 religion = religion_old_gods
 
 hre = no
-trade_goods = grain
+trade_goods = flying_mounts

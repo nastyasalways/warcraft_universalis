@@ -5,15 +5,29 @@ base_tax = 1
 base_manpower = 1
 base_production = 1
 
-culture = culture_bloodhoof
+culture = culture_galak
 religion = religion_ancestral
 
 hre = no
-trade_goods = grain
+trade_goods = mounts
+
+native_size = 10
+native_ferocity = 10
+native_hostileness = 10
 
 # The Frozen Throne
 618.1.1 = { 
-	owner = A84
-	controller = A84
-	add_core = A84
+owner = A84
+controller = A84
+add_core = A84
+culture = culture_bloodhoof
+base_tax = 3
+base_manpower = 3
+base_production = 3
+}
+
+622.1.1 = { 
+owner = F88
+controller = F88
+add_core = F88
 }

@@ -5,11 +5,8 @@ base_tax = 1
 base_manpower = 1
 base_production = 1
 
-controller = XXX
-owner = XXX
-
-culture = noculture
-religion = noreligion
+culture = culture_nerglish
+religion = religion_water
 
 hre = no
 trade_goods = lumber
@@ -38,4 +35,22 @@ trade_goods = lumber
 	add_core = A07
 	owner = A07
 	controller = A07 
+}
+
+623.1.1 = { 
+religion = religion_old_gods
+culture = culture_nazja
+	add_core = E07
+	owner = E07
+	controller = E07 
+	remove_core = A07
+}
+
+631.1.1 = { 
+owner = xxx
+controller = xxx 
+}
+
+632.1.1 = {
+remove_core = A23
 }

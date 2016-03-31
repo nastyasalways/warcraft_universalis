@@ -1,13 +1,16 @@
 # 1609
-is_city = no
+is_city = yes
+
+owner = B38
+controller = B38
+add_core = B38
 
 base_tax = 4
-base_manpower = 4
+base_manpower = 3
 base_production = 4
 
-
-culture = culture_lost_one
-religion = religion_ancestral
+culture = culture_bogstrok
+religion = religion_water
 
 hre = no
 trade_goods = warbeasts
@@ -19,6 +22,7 @@ base_production = 6
 owner = E02
 controller = E02
 add_core = E02
+remove_core = B38
 culture = culture_vashjari
 religion = religion_old_gods
 trade_goods = workshops

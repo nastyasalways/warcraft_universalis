@@ -1,23 +1,42 @@
-# 1484
+# 1484 The Rolling Plains
 is_city = no
 
 base_tax = 1
 base_manpower = 1
-base_production = 1
+base_production = 2
 
-culture = culture_winterhoof
+culture = culture_galak
 religion = religion_ancestral
 
 hre = no
-trade_goods = grain
+trade_goods = fur
 
-
-
+native_size = 10
+native_ferocity = 10
+native_hostileness = 10
 
 618.1.1 = { 
 	owner = A89
 	controller = A89
 	add_core = A89
 	culture = culture_winterhoof
-	religion = religion_ancestral
+}
+
+622.1.1 = {
+owner = H04
+controller = H04
+add_core = H04
+culture = culture_kolkar
+}
+
+631.1.1 = {
+owner = B68
+controller = B68
+add_core = B68
+remove_core = H04
+culture = culture_bristleback
+religion = religion_geomancy
+base_tax = 3
+base_manpower = 4
+base_production = 3
 }

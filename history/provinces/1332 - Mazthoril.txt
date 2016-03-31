@@ -22,5 +22,5 @@ trade_goods = flying_mounts
 	native_ferocity = 10
 	native_hostileness = 10
 culture = culture_eredar
-religion = fel
+religion = religion_fel
 }
