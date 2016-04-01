@@ -1,4 +1,4 @@
-# Ashenvale Demons
+# Ashenvale Legion Demons/Underblade
 government 			= cult_gov
 mercantilism 		= 0.1 
 technology_group 	= tech_demonic

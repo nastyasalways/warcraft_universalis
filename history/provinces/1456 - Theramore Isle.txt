@@ -5,11 +5,8 @@ base_tax = 1
 base_manpower = 1
 base_production = 1
 
-#controller = XXX
-#owner = XXX
-
-culture = noculture
-religion = noreligion
+culture = culture_makrura
+religion = religion_water
 
 hre = no
 trade_goods = fish
@@ -32,15 +29,14 @@ trade_goods = fish
 
 # Mists of Pandaria
 632.1.1 = { 
-	owner = A48
-	controller = A48
-	add_core = A48 
+	owner = xxx
+	controller = xxx
 
 	base_tax = 1
 	base_manpower = 1
 	base_production = 1
 
 	capital = "Ruins of Theramore"
-	culture = culture_horde
-	religion = religion_ancestral
+	trade_goods = arcane
+        remove_core = A23
 }

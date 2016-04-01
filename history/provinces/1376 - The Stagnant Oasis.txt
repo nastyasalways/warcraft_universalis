@@ -43,10 +43,13 @@ controller = A19
 add_core = A19
 religion = religion_church_of_the_light
 culture = culture_kul_tiran
-capital = "Pirate Camps"}
+capital = "Pirate Camps"
+}
 
-631.1.1 = { owner = A23
-controller = A23
-add_core = A23
+631.1.1 = { 
+owner = G06
+controller = G06
+add_core = G06
 culture = culture_lordaeron
-capital = "Northwatch Blockade Camps" }
+capital = "Northwatch Blockade Camp"
+}

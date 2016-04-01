@@ -9,7 +9,7 @@ culture = culture_forest_nymph
 religion = religion_druidic
 
 hre = no
-trade_goods = flying_mounts
+trade_goods = moonwell
 
 
 

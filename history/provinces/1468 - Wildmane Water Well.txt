@@ -5,9 +5,9 @@ base_tax = 2
 base_manpower = 2
 base_production = 3
 
-owner = H04
-controller = H04
-add_core = H04
+owner = B20
+controller = B20
+add_core = B20
 
 culture = culture_galak
 religion = religion_ancestral
@@ -16,9 +16,29 @@ hre = no
 trade_goods = grain
 
 618.1.1 = { 
-	owner = A87
-	controller = A87
-	add_core = A87
-	culture = culture_mistrunner
-	religion = religion_druidic
+	owner = E23
+	controller = E23
+	add_core = E23
+	culture = culture_wildmane
+}
+
+622.1.1 = { 
+owner = A81
+controller = A81
+add_core = A81
+add_core = F88
+culture = culture_venture
+religion = religion_tech
+base_tax = 2
+base_manpower = 1
+base_production = 3
+}
+
+631.1.1 = { 
+owner = A85
+controller = A85
+add_core = A85
+culture = culture_grimtotem
+religion = religion_ancestral
+remove_core = A81
 }

@@ -1,8 +1,8 @@
 # 1351 Ashenvale Verge
 is_city = no
-native_size = 10
-native_ferocity = 10
-native_hostileness = 10
+owner = F47
+controller = F47
+add_core = F47
 
 base_tax = 1
 base_manpower = 1

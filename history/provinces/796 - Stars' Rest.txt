@@ -14,8 +14,7 @@ culture = culture_frost_nymph
 religion = religion_druidic
 
 hre = no
-trade_goods = artifacts
-
+trade_goods = moonwell
 
 
 

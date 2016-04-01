@@ -236,6 +236,7 @@ l_english:
  culture_thistlefur: "Thistlefur"
  culture_foulweald: "Foulweald"
  culture_bloodtooth: "Bloodtooth"
+ culture_barkskin: "Barkskin"
  
  culture_group_wolfvar: "Wolvar"
  culture_bloodpaw: "Bloodpaw"
@@ -267,7 +268,9 @@ l_english:
  culture_dustwind: "Dustwind"
  culture_screeching: "Screeching"
  culture_northspring: "Northspring"
- culture_witchwind: "Witchwind"
+ culture_witchwing: "Witchwing"
+ culture_wormwing: "Wormwing"
+ culture_windfury: "Windfury"
  
  culture_group_quillboar: "Quillboar"
  culture_bristleback: "Bristleback"
@@ -295,6 +298,7 @@ l_english:
  culture_ooze: "Ooze"
  culture_treant: "Treant"
  culture_construct: "Construct"
+ culture_ascendant: "Elemental Ascendant"
  
  culture_group_worgen: "Worgen"
  culture_wolfcult: "Wolfcult"

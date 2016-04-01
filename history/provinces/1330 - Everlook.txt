@@ -1,27 +1,26 @@
-owner = H01
-controller = H01
-add_core = H01
-is_city = yes
+is_city = no
+native_size = 10
+native_ferocity = 10
+native_hostileness = 10
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
-culture = culture_sentinel
-religion = religion_elune
+culture = culture_winterfall
+religion = religion_ancestral
 
 hre = no
-trade_goods = grain
-
-
-
+trade_goods = thorium
 
 622.1.1 = {
-	remove_core = H01
-	owner = XXX
-	controller = XXX
-	is_city = no
-	native_size = 10
-	native_ferocity = 10
-	native_hostileness = 10
+owner = A80
+controller = A80
+add_core = A80
+is_city = yes
+culture = culture_steamwheedle
+religion = religion_tech
+base_tax = 4
+base_manpower = 4
+base_production = 4
 }

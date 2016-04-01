@@ -1,28 +1,39 @@
 # 1473
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
-owner = H04
-controller = H04
-add_core = H04
-
-culture = culture_galak
-religion = religion_ancestral
+culture = culture_windfury
+religion = religion_air
 
 
 hre = no
 trade_goods = grain
 
-
+native_size = 10
+native_ferocity = 10
+native_hostileness = 10
 
 
 618.1.1 = { 
-	owner = A84
-	controller = A84
-	add_core = A84
-	culture = culture_bloodhoof
-	religion = religion_ancestral
+owner = A84
+controller = A84
+add_core = A84
+culture = culture_bloodhoof
+religion = religion_ancestral
+base_tax = 4
+base_manpower = 4
+base_production = 4
+}
+
+622.1.1 = {
+owner = F88
+controller = F88
+add_core = F88
+remove_core = A84
+base_tax = 6
+base_manpower = 6
+base_production = 6
 }

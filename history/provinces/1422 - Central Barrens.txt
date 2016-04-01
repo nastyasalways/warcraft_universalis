@@ -41,9 +41,9 @@ add_core = H04
 }
 
 631.1.1 = {
-owner = A23
-controller = A23
-add_core = A23
+owner = G06
+controller = G06
+add_core = G06
 culture = culture_lordaeron
 religion = religion_church_of_the_light
 capital = "Teegan's Expedition"

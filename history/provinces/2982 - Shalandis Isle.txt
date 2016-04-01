@@ -34,5 +34,6 @@ owner = A94
 controller = A94
 add_core = A94
 culture = culture_sentinel
-religion = religion_elune 
+religion = religion_elune
+trade_goods = moonwell
 }

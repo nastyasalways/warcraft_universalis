@@ -28,6 +28,13 @@ colonial_outland = {
 	}
 	
 	names = {
+		trigger = {
+			tag = A56 #Exodar
+		}
+		
+		name = "Omenai"
+	}
+	names = {
 		name = "[Root.GetAdjective] Outland"
 	}
 }

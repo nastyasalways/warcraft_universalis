@@ -1040,6 +1040,7 @@ religion_group_nature = {
 
 	religion_zangar = {
 		color = { 63 72 204 }
+		icon = 33
 		
 		country = {
 			global_missionary_strength = 0.01

@@ -10,10 +10,19 @@ culture = culture_razormane
 religion = religion_geomancy
 
 hre = no
-trade_goods = grain
+trade_goods = iron
 
+native_size = 10
+native_ferocity = 10
+native_hostileness = 10
 
-
-
-622.1.1 = { culture = culture_venture
-religion = religion_tech }
+622.1.1 = { 
+culture = culture_venture
+religion = religion_tech
+base_tax = 4
+base_manpower = 3
+base_production = 4
+owner = A81
+controller = A81
+add_core = A81
+}

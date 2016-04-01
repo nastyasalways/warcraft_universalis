@@ -23,6 +23,6 @@ controller = A94
 is_city = yes
 culture = culture_sentinel
 religion = religion_elune
-trade_goods = naval_supplies
+trade_goods = moonwell
 capital = "Feathermoon Stronghold"
 }

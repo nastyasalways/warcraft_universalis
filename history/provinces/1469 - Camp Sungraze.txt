@@ -1,26 +1,31 @@
 # 1469 Camp Sungaze
-is_city = no
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
-culture = culture_galak
-religion = religion_ancestral
+culture = culture_windfury
+religion = religion_air
 
 hre = no
-trade_goods = grain
+trade_goods = fur
+
+owner = G05
+controller = G05
+add_core = G05
 
 618.1.1 = { 
-	owner = A87
-	controller = A87
-	add_core = A87
-	culture = culture_mistrunner
-	religion = religion_druidic
-	
-	base_tax = 4
-	base_manpower = 4
-	base_production = 5
-	
-	is_city = yes
+owner = A87
+controller = A87
+add_core = A87
+culture = culture_mistrunner
+religion = religion_druidic
 }
+
+622.1.1 = { 
+owner = F88
+controller = F88
+add_core = F88
+}
+

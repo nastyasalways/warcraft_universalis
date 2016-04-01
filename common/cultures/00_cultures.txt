@@ -249,34 +249,34 @@ culture_group_human = {
 		}
 	}
 	
-	culture_dark_strand = {
-		male_names = {
-			"Harry" "Oliver" "Jack" "Charlie" "Jacob" "Thomas" "Alfie" "Riley" "William" "James" "Joshua" "George" "Ethan" "Noah" "Samuel" "Daniel" "Oscar" "Max" "Leo" "Tyler" "Joseph" "Archie" "Henry" "Lucas" "Alexander" "Dylan" "Logan" "Isaac" "Mason" "Benjamin" "Jake" "Finley" "Harrison" "Edward" "Jayden" "Freddie" "Adam" "Zachary" "Sebastian" "Ryan" "Lewis" "Theo" "Luke" "Harvey" "Toby" "Liam" "Callum" "Arthur" "Michael" "Jenson" "Tommy" "Nathan" "Bobby" "Connor" "David" "Luca" "Charles" "Kai" "Jamie" "Alex" "Blake" "Frankie" "Reuben" "Aaron" "Dexter" "Jude" "Leon" "Ollie" "Stanley" "Elliot" "Gabriel" "Cameron" "Owen" "Louie" "Aiden" "Louis" "Elijah" "Finlay" "Rhys" "Caleb" "Evan" "Fredirick" "Hugo" "Kian" "Sonny" "Seth" "Kayden" "Taylor" "Kyle" "Elliott" "Robert" "Theodore" "Bailey" "Rory" "Ellis" "Joel" "Bradley" "Hayden" "John" "Ronnie" "Olly" "Austin" "Albert" "Billy" "Ashton" "Christopher" "Jackson" "Felix" "Dominic" "Corey" "Ben" "Nathaniel" "Aidan" "Reece" "Cody" "Sam" "Maxwell" "Patrick" "Tobias" "Yusuf" "Jasper" "Jakub" "Finn" "Kaiden" "Roman" "Tristan" "Carter" "Zac" "Rwan" "Morgan" "Ali" "Jay" "Teddy" "Anthony" "Syed" "Filip" "Eli" "Flynn" "Joe" "Reggie" "Nicholas" "Spencer" "Cole" "Levi" "Andrew" "Ewan" "Zack" "Brandon" "Alfred" "Maximilian" "Milo" "Zain" "Layton" "Xavier" "Jason" "Zak" "Leighton" "Marcus" "Marley" "Johnathan"" Kieran" "Beau" "Kacper" "Ruben" "Declan" "Joey" "Alan" "Kevin" "Joanh" "Oskar" "Vincent" "Peter" "Jaiden" "Miles" "Rocco" "Albie" "Lukas" "Jensen" "Jaxon" "Ralph" "Rio" "Zach" "Tom" "Shay" "Jesse" "Fraser" "Lennon" "Myles"
-		}
-		female_names = {
-			"Amelia" "Olivia" "Jessica" "Emily" "Lily" "Ava" "Mia" "Isla" "Sophie" "Isabella" "Evie" "Ruby" "Poppy" "Grace" "Sophia" "Chloe" "Isabelle" "Ella" "Freya" "Charlotte" "Scarlett" "Daisy" "Lola" "Eva" "Holly" "Millie" "Lucy" "Phoebe" "Layla" "Maisie" "Sienna" "Alice" "Lilly" "Florence" "Ellie" "Erin" "Imogen" "Elizabeth" "Molly" "Summer" "Megan" "Hannah" "Sofia" "Abigail" "Jasmine" "Lexi" "Matilda" "Rosie" "Lacey" "Emma" "Amelie" "Gracie" "Maya" "Hollie" "Georgia" "Emilia" "Evelyn" "Bella" "Brooke" "Amber" "Eliza" "Amy" "Eleanor" "Leah" "Esme" "Katie" "Harriet" "Anna" "Willow" "Elsie" "Zara" "Annabelle" "Bethany" "Faith" "Madison" "Isabel" "Martha" "Rose" "Julia" "Paige" "Maryam" "Maddison" "Heidi" "Mollie" "Niamh" "Skye" "Aisha" "Ivy" "Darcey" "Francesca" "Zoe" "Keira" "Tilly" "Maria" "Sarah" "Lydia" "Caitlin" "Isobel" "Sara" "Violet" "Alexis" "Lexie" "Lauren" "Mya" "Seren" "Victoria" "Darcy" "Rebecca" "Annabel" "Eloise" "Maisy" "Lottie" "Fatima" "Beatrice" "Lara" "Alexandra" "Tia" "Laila" "Nicole" "Gabriella" "Nevaeh" "Darcie" "Iris" "Isis" "Nancy" "Aaliyah" "Annie" "Libby" "Lois" "Alisha" "Maja" "Zainab" "Leila" "Lyla" "Eve" "Kayla" "Savannah" "Lena" "Hope" "Naomi" "Laura" "Angel" "Miley" "India" "Faye" "Zahra" "Elise" "Alicia" "Madeleine" "Natalia" "Eden" "Lillie" "Connie" "Aimee" "Robyn" "Orla" "Esther" "Georgina" "Scarlet" "Neve" "Mila" "Alyssa" "Alexa" "Anya" "Emelia" "Pippa" "Yasmin" "Abbie" "Jessie" "Beau" "Betsy" "Felicity" "Sadie" "Amira" "Frankie" "Aleena" "Nina" "Arabella" "Elsa" "Anaya" "Clara" "Macie" "Tabitha" "Hanna" "Mariam" "Elena" "Zuzanna" "Amina" "Autumn" "Lucia" "Alexia" "Melissa" "Nadia" "Ayla" "Macey" "Jemima" "Jennifer" "Lacie" "Skyla"
-		}
-		dynasty_names = {
-			"Jonathan" "Lothar" "Clay" "Fordragon" "Windsor" "Soluna" "Leland" "Stockton" "Lohan" "Bauden" "McCoy" 
-			"Allen" "Miller" "Gallina" "Rall" 
-			"Marie" "Anship" "Chaddis" "Raskol" "Langston" "Stoutmantle" "Stonefield" "Schweitzer" "Pfeiffer" 
-			"Sanders" "Lind" "Pressler"
-			"Fielder" "Odesyus" "Taylor" "Brom" "Moulaine" "Arbington" "Mallory" "Moore" "Laughlin" "Bolero" "Constantine" 
-			"Merriweather" "Hafgan" "Axeman" "Potts" "Derring" 
-			"Jainrose" "Eva" "Griffith" "Berrybuck" "Davenport" "Germaine" "Halloran" "Krighton" "Fadran" "Wainwright" 
-			"Hastings" "Kryten" "Benedictus" "Gaiman" "Malin" 
-			"Nakada" "Cailen" "Stormfeather" "Marsters" "Peshkov" "Huwe" "Neto" "Blank" "Bridenbecker" "Downs" "Chilton" 
-			"Fitch" "Fitzgerald" "Hesse" "Jaxon" "Lauffer" "Burnhep" "Feeney" "Windmill" "Fellwood" "Ironboot" "Matalli" 
-			"Daniels" "Dobbins" "Hann" "Kelly" "Townsley" "Alexston" "Tidewater" "Wental" "Bartleby" "Ginsetti" "Behsten" 
-			"Mora" "Trias" "Carevin" "Elgueta" "Foxworthy" "Stonehammer" "Gump" "Brubaker" "Heisten" "Quin" "Featherwhistle" 
-			"Maclure" "DeLavey" "Farthing" "Grey" "Gray" "Hammerbeak" "Hennigan" "Cloudwing" "Terrel" "Hamfist" "Stonebraid" 
-			"Crowley" "Grassman" "Thomas" "Jongleur" "Alpert" "Danuvin" "Darill" "Hanes" "Dirgehammer" "Holley" 
-			"Revshon" "Nials"
-			"Greenfield" "Brownfield" "Rouncefield" "Longfield" "Windfield" "Oakfield" 
-			"Oak" "Maple" "Yew" "Teak" "Sycaruse" "Willow"
-			"Jones" "Williams" "Campbell" "Davis" "Thompson" "Kelly" "Sullivan" "O'Brien" "Evans" "Brown" "Lewis" "Wilson" "Wallace" "Ryan" "Moore" "Anderson" "Jackson" "Johnson" "Smith" "Murphy" "Rogers" "Philips" "Morgan" "Graham" "Robinson" "Burns" "Robertson" "Rodriguez" "Thomas" "Walker" "Clark" "Harris" "Wright" "Howard" "Powell" "Price" "King" "Frizgerald" "Roberts" "Taylor" "Lopez" "Russell" "Gray" "Walsh" "Duncan" "Kelley" "Stewart" "Richardson" "Higgins" "Hamilton" "Wells" "Carroll" "Ferguson" "Armstrong" "Allen" "Burke" "Cle" "Lynch" "McCarthy" "Nelson" "Baker" "Parker" "Hall" "Moran" "Craig" "Perez" "Davies" "Watson" "Hughes" "Hill" "Adams" "Chapman" "Casey" "Butler" "Ward" "White" "Knight" "Garcia" "Grant" "Spencer" "Henderson" "Green" "Perry" "Bailey" "Turner" "Cunningham" "Martin" "Morris" "McLaughlin" "Harrison" "Long" "Flynn" "Gallagher" "Edwards" "Brooks" "Miller" "Dunn" "Cooper" "Young" "Owens" "Cook" "Carter" "Ross" "Ellis" "Mitchell" "Cameron" "Warren" "Johnston" "Gibson" "Smith" "Buchanan" "Barnes" "Byrne" "Riley" "Morrison" "Foster" "Lloyd" "Richards" "McClure" "Elliott" "Taylor" "Andrews" "Miller" "MacDonald" "O'Neil" "McMahon" "Fowler" "Douglas" "Crawford" "Mason" "Alexander" "Stevens" "Hawkins" "Clark" "Wagner" "Farrell" "Wood" "Fitzpatrick" "McCormick" "Webb" "Myers" "Hunt" "Monygomery" "Harper" "Tucker" "Schmidt" "Torres" "West" "Sweeney" "Holmes" "Dixon" "Payne" "Barrett" "Jensen" "Perkins" "O'Donnell" "McLean" "Scott" "Lee" "Murray" "Reed" "McCullough" "Quinn" "Bennett" "Hopkins" "Stephens" "Ortiz" "Foley" "Simmons" "Reid" "McGrath" "Patterson" "Nolan" "Kennedy" "Joyce" "Dillon" "Doyle" "Brennan" "Holland" "Gordon" "Brady" "McCann" "Schneider" "Rhodes" "Little" "Coleman" "McDonald" "Howell" "Rowe" "Reyes" "Dougherty" "Bates"
-		}
-	}
+	#culture_dark_strand = {
+	#	male_names = {
+	#		"Harry" "Oliver" "Jack" "Charlie" "Jacob" "Thomas" "Alfie" "Riley" "William" "James" "Joshua" "George" "Ethan" "Noah" "Samuel" "Daniel" "Oscar" "Max" "Leo" "Tyler" "Joseph" "Archie" "Henry" "Lucas" "Alexander" "Dylan" "Logan" "Isaac" "Mason" "Benjamin" "Jake" "Finley" "Harrison" "Edward" "Jayden" "Freddie" "Adam" "Zachary" "Sebastian" "Ryan" "Lewis" "Theo" "Luke" "Harvey" "Toby" "Liam" "Callum" "Arthur" "Michael" "Jenson" "Tommy" "Nathan" "Bobby" "Connor" "David" "Luca" "Charles" "Kai" "Jamie" "Alex" "Blake" "Frankie" "Reuben" "Aaron" "Dexter" "Jude" "Leon" "Ollie" "Stanley" "Elliot" "Gabriel" "Cameron" "Owen" "Louie" "Aiden" "Louis" "Elijah" "Finlay" "Rhys" "Caleb" "Evan" "Fredirick" "Hugo" "Kian" "Sonny" "Seth" "Kayden" "Taylor" "Kyle" "Elliott" "Robert" "Theodore" "Bailey" "Rory" "Ellis" "Joel" "Bradley" "Hayden" "John" "Ronnie" "Olly" "Austin" "Albert" "Billy" "Ashton" "Christopher" "Jackson" "Felix" "Dominic" "Corey" "Ben" "Nathaniel" "Aidan" "Reece" "Cody" "Sam" "Maxwell" "Patrick" "Tobias" "Yusuf" "Jasper" "Jakub" "Finn" "Kaiden" "Roman" "Tristan" "Carter" "Zac" "Rwan" "Morgan" "Ali" "Jay" "Teddy" "Anthony" "Syed" "Filip" "Eli" "Flynn" "Joe" "Reggie" "Nicholas" "Spencer" "Cole" "Levi" "Andrew" "Ewan" "Zack" "Brandon" "Alfred" "Maximilian" "Milo" "Zain" "Layton" "Xavier" "Jason" "Zak" "Leighton" "Marcus" "Marley" "Johnathan"" Kieran" "Beau" "Kacper" "Ruben" "Declan" "Joey" "Alan" "Kevin" "Joanh" "Oskar" "Vincent" "Peter" "Jaiden" "Miles" "Rocco" "Albie" "Lukas" "Jensen" "Jaxon" "Ralph" "Rio" "Zach" "Tom" "Shay" "Jesse" "Fraser" "Lennon" "Myles"
+	#	}
+	#	female_names = {
+	#		"Amelia" "Olivia" "Jessica" "Emily" "Lily" "Ava" "Mia" "Isla" "Sophie" "Isabella" "Evie" "Ruby" "Poppy" "Grace" "Sophia" "Chloe" "Isabelle" "Ella" "Freya" "Charlotte" "Scarlett" "Daisy" "Lola" "Eva" "Holly" "Millie" "Lucy" "Phoebe" "Layla" "Maisie" "Sienna" "Alice" "Lilly" "Florence" "Ellie" "Erin" "Imogen" "Elizabeth" "Molly" "Summer" "Megan" "Hannah" "Sofia" "Abigail" "Jasmine" "Lexi" "Matilda" "Rosie" "Lacey" "Emma" "Amelie" "Gracie" "Maya" "Hollie" "Georgia" "Emilia" "Evelyn" "Bella" "Brooke" "Amber" "Eliza" "Amy" "Eleanor" "Leah" "Esme" "Katie" "Harriet" "Anna" "Willow" "Elsie" "Zara" "Annabelle" "Bethany" "Faith" "Madison" "Isabel" "Martha" "Rose" "Julia" "Paige" "Maryam" "Maddison" "Heidi" "Mollie" "Niamh" "Skye" "Aisha" "Ivy" "Darcey" "Francesca" "Zoe" "Keira" "Tilly" "Maria" "Sarah" "Lydia" "Caitlin" "Isobel" "Sara" "Violet" "Alexis" "Lexie" "Lauren" "Mya" "Seren" "Victoria" "Darcy" "Rebecca" "Annabel" "Eloise" "Maisy" "Lottie" "Fatima" "Beatrice" "Lara" "Alexandra" "Tia" "Laila" "Nicole" "Gabriella" "Nevaeh" "Darcie" "Iris" "Isis" "Nancy" "Aaliyah" "Annie" "Libby" "Lois" "Alisha" "Maja" "Zainab" "Leila" "Lyla" "Eve" "Kayla" "Savannah" "Lena" "Hope" "Naomi" "Laura" "Angel" "Miley" "India" "Faye" "Zahra" "Elise" "Alicia" "Madeleine" "Natalia" "Eden" "Lillie" "Connie" "Aimee" "Robyn" "Orla" "Esther" "Georgina" "Scarlet" "Neve" "Mila" "Alyssa" "Alexa" "Anya" "Emelia" "Pippa" "Yasmin" "Abbie" "Jessie" "Beau" "Betsy" "Felicity" "Sadie" "Amira" "Frankie" "Aleena" "Nina" "Arabella" "Elsa" "Anaya" "Clara" "Macie" "Tabitha" "Hanna" "Mariam" "Elena" "Zuzanna" "Amina" "Autumn" "Lucia" "Alexia" "Melissa" "Nadia" "Ayla" "Macey" "Jemima" "Jennifer" "Lacie" "Skyla"
+	#	}
+	#	dynasty_names = {
+	#		"Jonathan" "Lothar" "Clay" "Fordragon" "Windsor" "Soluna" "Leland" "Stockton" "Lohan" "Bauden" "McCoy" 
+	#		"Allen" "Miller" "Gallina" "Rall" 
+	#		"Marie" "Anship" "Chaddis" "Raskol" "Langston" "Stoutmantle" "Stonefield" "Schweitzer" "Pfeiffer" 
+	#		"Sanders" "Lind" "Pressler"
+	#		"Fielder" "Odesyus" "Taylor" "Brom" "Moulaine" "Arbington" "Mallory" "Moore" "Laughlin" "Bolero" "Constantine" 
+	#		"Merriweather" "Hafgan" "Axeman" "Potts" "Derring" 
+	#		"Jainrose" "Eva" "Griffith" "Berrybuck" "Davenport" "Germaine" "Halloran" "Krighton" "Fadran" "Wainwright" 
+	#		"Hastings" "Kryten" "Benedictus" "Gaiman" "Malin" 
+	#		"Nakada" "Cailen" "Stormfeather" "Marsters" "Peshkov" "Huwe" "Neto" "Blank" "Bridenbecker" "Downs" "Chilton" 
+	#		"Fitch" "Fitzgerald" "Hesse" "Jaxon" "Lauffer" "Burnhep" "Feeney" "Windmill" "Fellwood" "Ironboot" "Matalli" 
+	#		"Daniels" "Dobbins" "Hann" "Kelly" "Townsley" "Alexston" "Tidewater" "Wental" "Bartleby" "Ginsetti" "Behsten" 
+	#		"Mora" "Trias" "Carevin" "Elgueta" "Foxworthy" "Stonehammer" "Gump" "Brubaker" "Heisten" "Quin" "Featherwhistle" 
+	#		"Maclure" "DeLavey" "Farthing" "Grey" "Gray" "Hammerbeak" "Hennigan" "Cloudwing" "Terrel" "Hamfist" "Stonebraid" 
+	#		"Crowley" "Grassman" "Thomas" "Jongleur" "Alpert" "Danuvin" "Darill" "Hanes" "Dirgehammer" "Holley" 
+	#		"Revshon" "Nials"
+	#		"Greenfield" "Brownfield" "Rouncefield" "Longfield" "Windfield" "Oakfield" 
+	#		"Oak" "Maple" "Yew" "Teak" "Sycaruse" "Willow"
+	#		"Jones" "Williams" "Campbell" "Davis" "Thompson" "Kelly" "Sullivan" "O'Brien" "Evans" "Brown" "Lewis" "Wilson" "Wallace" "Ryan" "Moore" "Anderson" "Jackson" "Johnson" "Smith" "Murphy" "Rogers" "Philips" "Morgan" "Graham" "Robinson" "Burns" "Robertson" "Rodriguez" "Thomas" "Walker" "Clark" "Harris" "Wright" "Howard" "Powell" "Price" "King" "Frizgerald" "Roberts" "Taylor" "Lopez" "Russell" "Gray" "Walsh" "Duncan" "Kelley" "Stewart" "Richardson" "Higgins" "Hamilton" "Wells" "Carroll" "Ferguson" "Armstrong" "Allen" "Burke" "Cle" "Lynch" "McCarthy" "Nelson" "Baker" "Parker" "Hall" "Moran" "Craig" "Perez" "Davies" "Watson" "Hughes" "Hill" "Adams" "Chapman" "Casey" "Butler" "Ward" "White" "Knight" "Garcia" "Grant" "Spencer" "Henderson" "Green" "Perry" "Bailey" "Turner" "Cunningham" "Martin" "Morris" "McLaughlin" "Harrison" "Long" "Flynn" "Gallagher" "Edwards" "Brooks" "Miller" "Dunn" "Cooper" "Young" "Owens" "Cook" "Carter" "Ross" "Ellis" "Mitchell" "Cameron" "Warren" "Johnston" "Gibson" "Smith" "Buchanan" "Barnes" "Byrne" "Riley" "Morrison" "Foster" "Lloyd" "Richards" "McClure" "Elliott" "Taylor" "Andrews" "Miller" "MacDonald" "O'Neil" "McMahon" "Fowler" "Douglas" "Crawford" "Mason" "Alexander" "Stevens" "Hawkins" "Clark" "Wagner" "Farrell" "Wood" "Fitzpatrick" "McCormick" "Webb" "Myers" "Hunt" "Monygomery" "Harper" "Tucker" "Schmidt" "Torres" "West" "Sweeney" "Holmes" "Dixon" "Payne" "Barrett" "Jensen" "Perkins" "O'Donnell" "McLean" "Scott" "Lee" "Murray" "Reed" "McCullough" "Quinn" "Bennett" "Hopkins" "Stephens" "Ortiz" "Foley" "Simmons" "Reid" "McGrath" "Patterson" "Nolan" "Kennedy" "Joyce" "Dillon" "Doyle" "Brennan" "Holland" "Gordon" "Brady" "McCann" "Schneider" "Rhodes" "Little" "Coleman" "McDonald" "Howell" "Rowe" "Reyes" "Dougherty" "Bates"
+	#	}
+	#}
 }
 
 culture_group_darnassian = {
@@ -989,15 +989,7 @@ culture_group_forest_troll = {
 	graphical_culture = westerngfx
 
 	male_names = {
-		"Daakara"
-		"Shadrak"
-		"Jin'zakk"
-		"Kazra'jin"
-		"Krul'tan"
-		"Malacrass"
-		"Otembe"
-		"Ter'lji"
-		"Zul'jin"
+		"Daakara" "Shadrak" "Jin'zakk" "Kazra'jin" "Krul'tan" "Malacrass" "Otembe" "Ter'lji" "Zul'jin"
 		"Kel'gash"
 		"Krag'jin"
 		"Zul'rogg"
@@ -1035,16 +1027,15 @@ culture_group_forest_troll = {
 		"Zalas"
 		"Witherheart"
 		"Qeeju"
+		"Doth" "Mag" "Ran" "Vis"
+		"Battok" "Barafu" "Grik'nir" "Gundu" "Vejrek" "Chulo" "Du'mont" "Gan'jo" "Gawanil" "Hawinni" "Jin'arrak" "Kutube'sa" "Malakk" "Moorabi" "Zim'bo" "Gal'darah" "Slad'ran" "Kril'fon" "Kril'jin" "Shakor" "Onu'zun" "Mu'funu" "Korrak" "Zol'Maz" "Drek'Maz" "Heb'Jin" # Ice Troll
 	}
 	
 	female_names = {
-		"Hexx" 
-                "Torntusk" 
-                "Vosh'gajin" 
-                "Guthma" 
-                "Yayo'jin" 
-                 "Qiaga" 
-                 "Morta'gya"
+	"Hexx" "Torntusk" "Vosh'gajin" "Guthma" "Yayo'jin" "Qiaga" "Morta'gya" "Ojin'ba" "Mak" "Lith" "Arn" "Din"
+    "Mirim'koa" "Rikkari" "Shi'kala" "Tua-Tua" "Tiri" "Yara" #Ice Troll Names
+	"Yamuna" "Saree" "Pan'ya" "Nofal" "Maywiki" "Khal'ak" "Ha'wana" "Dagoda" "Chin'ika" "Bah'Kini" "Asgari" #Zandalari names
+	"Mimbihi" #Darkspear
 	}
 	
 	dynasty_names = {
@@ -1063,7 +1054,8 @@ culture_group_forest_troll = {
 			"Ter'lji"
 			"Zul'jin"
 		}
-		female_names = {	
+		female_names = {
+        "Mak" "Lith" "Arn" "Din" "Guthma"
 		}
 		dynasty_names = {
 			"Amani"
@@ -1079,6 +1071,7 @@ culture_group_forest_troll = {
 			"Rin'ji"
 		}
 		female_names = {
+		"Mak" "Lith" "Arn" "Din" "Guthma"
 		}
 		dynasty_names = {
 			"Shadowpine"
@@ -1096,6 +1089,7 @@ culture_group_forest_troll = {
 			"Hexx"
 			"Qiaga"
 			"Morta'gya"
+			"Mak" "Lith" "Arn" "Din" "Guthma"
 		}
 		dynasty_names = {
 			"Vilebranch"
@@ -1116,7 +1110,8 @@ culture_group_forest_troll = {
 		}
 		female_names = {
 			"Torntusk"
-                        "Yayo'jin"
+            "Yayo'jin"
+			"Mak" "Lith" "Arn" "Din" "Guthma"
 		}
 		dynasty_names = {
 			"Revantusk"
@@ -1134,7 +1129,7 @@ culture_group_forest_troll = {
 			"Marli Two-Toes"
 		}
 		female_names = {
-		
+		"Mak" "Lith" "Arn" "Din" "Guthma"
 		}
 		dynasty_names = {
 			"Mossflayer"
@@ -1151,7 +1146,7 @@ culture_group_forest_troll = {
 			"Hulg"
 		}
 		female_names = {
-			"Guthma"
+		"Mak" "Lith" "Arn" "Din" "Guthma"
 		}
 		dynasty_names = {
 			"Firetree"
@@ -1170,6 +1165,7 @@ culture_group_forest_troll = {
 		}
 		female_names = {
 			"Vosh'gajin"
+			"Mak" "Lith" "Arn" "Din" "Guthma"
 		}
 		dynasty_names = {
 			"Smolderthorn"
@@ -1185,6 +1181,8 @@ culture_group_forest_troll = {
 			"Qeeju"
 		}
 		female_names = {
+		"Ojin'ba"
+		"Mak" "Lith" "Arn" "Din" "Guthma"
 		}
 		dynasty_names = {
 			"Witherbark"
@@ -1200,6 +1198,7 @@ culture_group_forest_troll = {
 			"Qeeju"
 		}
 		female_names = {
+		"Mak" "Lith" "Arn" "Din" "Guthma"
 		}
 		dynasty_names = {
 			"Shadowglen"
@@ -1211,13 +1210,13 @@ culture_group_jungle_troll = {
 	graphical_culture = westerngfx
 
 	male_names = {
-		
+	"Vol" "Ros" "Mig" "Gal"
 	}
 	female_names = {
-		
+		"Shi" "Mith" "Hai" "So"
 	}
 	dynasty_names = {
-			
+	"Gurubashi" "Darkspear" "Skullsplitter" "Bloodscalp" "Jellyneck" "Shatterspear"
 	}
 		
 	culture_gurubashi = {
@@ -1228,7 +1227,7 @@ culture_group_jungle_troll = {
 		
 		}
 		dynasty_names = {
-			
+			"Gurubashi"
 		}
 	}
 	
@@ -1347,10 +1346,11 @@ culture_group_ice_troll = {
 	graphical_culture = westerngfx
 
 	male_names = {
-			
+	"Battok" "Barafu" "Grik'nir" "Gundu" "Vejrek" "Chulo" "Du'mont" "Gan'jo" "Gawanil" "Hawinni" "Jin'arrak" "Kutube'sa" "Malakk" "Moorabi" "Zim'bo" "Gal'darah" "Slad'ran" "Kril'fon" "Kril'jin" "Shakor" "Onu'zun" "Mu'funu" "Korrak" "Zol'Maz" "Drek'Maz" "Heb'Jin" 
+	"Arctikus" "Drak'aguul" "Drakuru"
 	}
 	female_names = {
-	
+	"Mirim'koa" "Rikkari" "Shi'kala" "Tua-Tua" "Tiri" "Yara"
 	}
 	dynasty_names = {
 		
@@ -2842,6 +2842,18 @@ culture_group_furbolg = {
 			
 		}
 	}
+	
+	culture_barkskin = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
 }
 
 culture_group_wolfvar = {
@@ -3174,7 +3186,32 @@ culture_group_harpy = {
 			
 		}
 	}
+	
 	culture_witchwing = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+		
+	culture_wormwing = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+	culture_windfury = {
 		male_names = {
 			
 		}
@@ -3410,6 +3447,18 @@ culture_group_elemental = {
 	}
 	
 	culture_air = {
+		male_names = {
+			"Tos" "Tinimuschro" "Zepsen" "Nes" "Liqunescas" "Arcnesrag" "Liqumatha" "Pursenterb" "Spilonas" "Imustralsig" "Spi" "Lontus" "Zep" "Useris" "Tralterbchro" "Rosliqu" "Liqugnusluc" "Terbdustma" "Ity" "Cas" "Flaicasmis" "Axistral" "Ern" "Gnuschroaug" "Dustchro" "Ragsalsum" "Malipse" "Sigmus" "Lonpse" "Derincangnus" "Mos" "Dust" "Dustder" "Sumpur" "Spipurtin" "Terbpur" "Salcim" "Liqumistha" "Spinasal" "Antinmos" "Gnus" "Cim" "Lilucluc" "Imusmustus" "Erisepos" "Salob" "Ruszep" "Lisal" "Lucscald" "Thaas" "Aseriseris" "Terbmusterb" "Ernrus" "Zepaugaug" "Tusna" "Sum" "Epos" "Augaugzep" "Chropurna" "Natos" "Nos" "Siglonma" "Ragrag" "Terb" "Zeptusliqu" "Anli" "Salliros" "Arcus" "An" "Liqumis" "Flairosaxis" "Maityluc" "Sentralflai" "Miszep" "Axislimucas" "Chetharos" "Puran" "Itychro" "Eposlirus" "Obspi" "Erntral" "Arcity" "Purisdust" "Tineris" "Limumos" "Derscaldsum" "Mosdermis" "Dercas" "Umus" "Purdust" "Eposmosimus" "Clirospur" "Clilimu" "Is" "Gnuslispi" "Itycyceris" "Malithaluc" "Pur" "Dustmanos" "Islimuarc" "Dustliquscald" "Umusanaug" "Limunesmos" "Aug" "Narussum" "Rustral" "Incanob" "Augcli" "Gnusdust" "Musaxispur" "Flairus" "Tral" "Misnesaug" "Lilimu" "Tinpur" "Ros" "Rusche" "Axis" "Mus" "Nostral" "Purroseris" "Salmosterb" "Chronascald" "Maliumus" "Eris" "Mali" "Zepmistral" "Sumna" "Zepcheflai" "Limu" "Derumusmos" "Moscli" "Terbcyc" "Mossum" "Usragna" "Mis" "Luc" "Liqugnus" "Casarc" "Tralragliqu" "Spiliob" "Rus" "Moszep" "Dustthazep" "Misdustincan" "Na" "Ruscas" "Eposumusscald" "Sal" "Mosmali" "Derdust" "Zepaxis" "Issenche" "Islisig" "Imussigluc" "Deras" "Puraxis" "Zepnesliqu" "Ustralnes" "Limulonspi" "Traleris" "Castusder" "Rag" "Lonmus" "Imussen" "Ernerismus" "Erislon" "Limusumcli" "Malimisros" "Tinragluc" "Terbasern" "Purimus" "Itypur" "Tusmistral" "Nesma" "Terbtus" "Scaldtralus" "Tralrustral" "Tosliqumus" "Nostoseris" "Asernliqu" "Lonragaxis" "Museriseris" "Mana" "Malias" "Terbernlon" "Incantus" "Clignusarc" "Li" "Ruscli" "Imus" "Chroscald" "Arcern" "Ragdustsal" "Che" "Tuscimob" "Psetus" "Chetos" "Castin" "Ob" "Scaldsalsal" "Terblonspi" "Salche" "Scaldclima" "Eposspi" "Limuarcma" "Tintos" "Mussigna" "Erisanmos" "Roslimuros" "Malimus" "Misaxissig" "Der" "Sumflailimu" "Liquneslon" "Ernmis" "Eristhatos" "Augobnes" "Dustcimche" "Us" "As" "Chropserag" "Ernas" "Isaxis" "Erisern" "Salnos" "Tusernma" "Terbliqu" "Incan" "Nosobder" "Mosincan" "Limulimu" "Axismusche" "Arcragspi" "Liqu" "Umuscheas" "Spilider" "Cheaxis" "Eposluc" "Zeprag" "Tinche" "Axisliqu" "Liquaugspi" "Spias" "Maliquas" "Nosdust" "Rusepos" "Scald" "Augsum" "Scaldluc" "Sig" "Axiscimern" "Incanis" "Tusern" "Asma" "Flai" "Summisern" "Casis" "Cimcas" "Chemosumus" "Dertraltral" "Zepchro" "Moserismis" "Derzepros" "Misimus" "Musmis" "Andustumus" "Cliflaiity" "Cimzeppur" "Rosflai" "Muszepity" "Lucisma" "Umussig" "Russcald" "Luctinli" "Augrag" "Axischro" "Erisincan" "Sen" "Tusthanes" "Salerisna" "Nosnostos" "Thanestin" "Nosimusgnus" "Salsal" "Obdustma" "Cimern" "Casisgnus" "Itymus" "Imusgnusluc" "Umusliquspi" "Spitral" "Limucassig" "Chrozep" "Imussum" "Thaob" "Maumus" "Ragerisnos" "Terbterb" "Chrotha" "Naeris" "Checycsum" "Dernos" "Materb" "Cycaugna" "Umusma" "Tin" "Malisal" "Pse" "Ernspiepos" "Arc" "Ruscycpur" "Spiliqu" "Augcyc" "Cyceposas" "Maliaug" "Imusmali" "Liincanus" "Scaldimuslimu" "Limueposluc" "Mosimussen" "Raglimutin" "Obterbcas" "Malima" "Tus" "Tinscaldaxis" "Ernterb" "Ragtralliqu" "Napurluc" "Obtosros" "Tussiggnus" "Flaisalmos" "Obsal" "Cycusgnus" "Narus" "Nesnaern" "Chroterbaug" "Aschrolon" "Cimmatin" "Liob" "Musmissum" "Limuumuscyc" "Ancyc" "Dustnos" "Tralzeprus" "Umusaxissal" "Terbumusan" "Maliluc" "Noscli" "Usnosmis" "Uspse" "Senlonterb" "Clinestha" "Thapse" "Tharusimus" "Senrusus" "Augmis" "Terbrossen" "Suman" "Malon" "Obtos" "Chrousspi" "Spiepos" "Ernder" "Liquliqu" "Tustusity" "Dustsal" "Erisasrus" "Spipse" "Tospur" "Salpur" "Naflai" "Zeptusspi" "Ruspse" "Puras" "Anlon" "Issen" "Sigpur" "Thatus" "Mospursum" "Derpursum" "Nosmos" "Itydustaug" "Terbnesaxis" "Machroscald" "Obas" "Mosgnusis" "Imusumusdust" "Pseoblimu" "Thagnusdust" "Pseepos" "Gnusdustepos" "Arcdustcli" "Miscli" "Maliincansig" "Augsal" "Cimflai" "Sumnosaxis" "Tinincanscald" "Imusros" "Lonchroan" "Nesspi" "Lonsalchro" "Cimaxiscim" "Ragcimaxis" "Incanna" "Incanaxis" "Chro" "Spiros" "Obmali" "Liqudust" "Flaiity" "Ragspisum" "Spilimu" "Sensen" "Eposclius" "Limuzepsen" "Lonaxisli" "Derob" "Senity" "Umusterb" "Chroarccyc" "Gnusnasen" "Chroarczep" "Umusarc" "Purliquzep" "Sigscald" "Naisarc" "Ragscald" "Ischecli" "Pseas" "Istus" "Lucimuspse" "Tosscald" "Axispse" "Senpse" "Usterbimus" "Lucaxis" "Cycrosmis" "Imusscald" "Tusragchro" "Tha" "Mosnes" "Clitus" "Nesasern" "Sallon" "Umusnosliqu" "Terbus" "Noscimaug" "Salscald" "Chezep" "Nosernnes" "Axisterbmis" "Casmaliumus" "Ityumusmali" "Flaignus" "Dustobis" "Musobrag" "Lucmos" "Nasumcli" "Chromostin" "Tusliqu" "Asrusob" "Senmisas" "Natusrag" "Imusaug" "Terbsen" "Malucrus" "Tinis" "Erisityma" "Lon" "Eposcycflai" "Nesterb" "Gnusincan" "Mislucepos" "Terbmali" "Cycscald" "Ityanarc" "Ustin" "Mosrag" "Climosis" "Gnusimus" "Saleposumus" "Moslondust" "Museposumus" "Clirostral" "Flairagepos" "Cimma" "Antha" "Chetusern" "Cyc" "Musna" "Marus" "Lucmusaug" "Senincanmos" "Mosscaldaxis" "Augusluc" "Sumlimu" "Liqutralmis" "Cimuslon" "Summalipse" "Andustcyc" "Eposan" "Nesob" "Antin" "Spili" "Saldust" "Tralscaldterb" "Naluc" "Casmosrus" "Thaarc" "Dustimus" "Eposaugliqu" "Nacimaxis" "Liqucas" "Liqurustral" "Liisimus" "Rosnes" "Nesloncim" "Mosgnusros" "Ragzep" "Umusli" "Traldustspi" "Usmismos" "Dustnes" "Misder" "Ragchrotus" "Isclilimu" "Casimusern" "Sigcasder" "Dustpur" "Miscim" "Axisder" "Axisaugtos" "Ityaxisrag" "Sigaugliqu" "Raggnus" "Istin" "Mustin" "Augli" "Augpsean" "Nesroszep" "Musmus" "Clilonlimu" "Flainaity" "Augros" "Rusan" "Gnusoberis" "Lucaug" "Nanamis" "Mistraltos" "Noscycsig" "Tralrus" "Nesas" "Incannaob" "Flaiclispi" "Cliragcli" "Tinimustin" "Chrodermali" "Incanlidust" "Chepse" "Nessigchro" "Scaldsigrus" "Cliaxis" "Russpi" "Incanrusepos" "Arcgnusaug" "Rusityan" "Anma" "Cimincan" "Tinumusaxis" "Gnuslimuna" "Liquflaiscald" "Limuobimus" "Anscaldcli" "Tralli" "Raglon" "Erisarc" "Ernimus" "Imuspse" "Obsum" "Obcycsen" "Aneposrag" "Limuli" "Tinchro" "Roszepincan" "Cheflai" "Sentosmus" "Nosarcmis" "Chromismos" "Purluc" "Psecasarc" "Ma" "Purtin" "Signostos" "Traleposern" "Scaldobliqu" "Tralzep" "Obscaldli" "Rosterbgnus" "Limunos" "Dertha" "Clius" "Rusmisluc" "Miscycsum" "Imusrusgnus" "Misaxisnes" "Roschro" "Lignusluc" "Cimascim" "Cycpseumus" "Pureposluc" "Musis" "Tussumepos" "Spisenli" "Dustgnus" "Nesaxis" "Itycascyc" "Usan" "Nosmislimu" "Cimrusdust" "Maspi" "Lonchro" "Misros" "Rosdust" "Lonaxis" "Imusgnusepos" "Salaugtus" "Mamosas" "Anpse" "Sentoslimu" "Ancas" "Anmaas" "Chemisli" "Maliitytin" "Rostoscas" "Musmazep" "Isscaldern" "Ruschroob" "Sumas" "Asnes" "Liqueposimus" "Lisig" "Usepos" "Arcdust" "Mosclispi" "Liquflaizep" "Arccimluc" "Zepcyc" "Malisum" "Mamalitral" "Nospsepse" "Lucaxislon" "Ernmalisen" "Istincli" "Spiincantus" "Isscaldtha" "Mussig" "Terbsigcim" "Ismos" "Tinob" "Ischroscald" "Augragas" "Tostus" "Senzeppur" "Tosspitos" "Misarctha" "Ernity" "Imuscim" "Anchrotos" "Ityincanaxis" "Tusasumus" "Dusttus" "Raggnusmis" "Misincanincan" "Ruspur" "Tusobas" "Flaiscald" "Tharus" "Trality" "Chroincanterb" "Tusisrag" "Cycaugeris" "Nosern" "Nosrus" "Cimlonpse" "Axisumusaug" "Misnos" "Scalderisaug" "Salterbros" "Flaicli" "Eposobsen" "Imuscas" "Cycder" "Mustha" "Rusgnus" "Erispse" "Namiszep" "Lispiob" "Eposnos" "Clitral" "Gnusmisrus" "Umusterbmis" "Purros" "Sigincan" "Scaldrag" "Malieris" "Malignussig" "Rostusnes" "Terbdercim" "Nosimusna" "Museris" "Imusspiity" "Incanluc" "Derernrus" "Ityzepchro" "Incanityder" "Isusrus" "Dustcli" "Anliqu" "Senmisscald" "Erisimus" "Tinaugincan" "Cycna" "Nestha" "Nesobepos" "Pseluc" "Senpurmis" "Thaumus" "Terbepossum" "Tusrosarc" "Malimalitos" "Casnoscas" "Limucim" "Senscald" "Pursallon" "Nesepos" "Thachrous" "Tussal" "Anumus" "Zepnos" "Islonrag" "Tralan" "Anche" "Liimus" "Spirusaxis" "Mispur" "Senmustin" "Ragimusterb" "Clicli" "Tinliity" "Toschro" "Itylimuzep" "Gnusincancyc" "Obpurluc" "Siglimulimu" "Zepaugluc" "Cliernzep" "Auglonspi" "Gnusnestos" "Sensenflai" "Tustusern" "Tosincan" "Malimalimali" "Gnusmamos" "Thaoban" "Nossender" "Lucrag" "Nosflai" "Usthasig" "Salarc" "Itymali" "Incaneris" "Liqupur" "Sumliqu" "Imussencim" "Cliaslon" "Summis" "Isern" "Zepluc" "Malimalina" "Umusmislon" "Augsumgnus" "Obgnus" "Longnusumus" "Liquan" "Tusmis" "Tinmistin" "Mosityliqu" "Musnes" "Summosgnus" "Gnusspi" "Ernisas" "Oban" "Thapsemus" "Ruslimu" "Tuspur" "Nacim" "Clili" "Thaimuschro" "Misnessal" "Ragtralluc" "Eristus" "Anthader" "Terbincan" "Senlon" "Obderdust" "Musspi" "Ragnatus" "Cyccim" "Erisma" "Lucity" "Flaierisflai" "Liqunosder" "Obluc" "Litha" "Nacas" "Trallonflai" "Lidustterb" "Sencimgnus" "Sigflai" "Spidertos" "Sallimu" "Incandertin" "Erischro" "Ancasaxis" "Nosrussen" "Anloneris" "Eposus" "Liaxisimus" "Lisen" "Chronos" "Chromus" "Mismistos" "Mosity" "Toscas" "Ruspseluc" "Axismusrag" "Psemusas" "Ascas" "Tossumas" "Cycimusliqu" "Axistus" "Cli" "Anity" "Flailon" "Mosus" "Lines" "Incanisma" "Lonob" "Lonrus" "Astintos" "Rospse" "Cheus" "Psearc" "Maliterb" "Spitintus" "Liusmos" "Sigcheaug" "Usumus" "Caslucsum" "Sigsigeris" "Liros" "Dermosob" "Salincanimus" "Cliterbumus" "Cascliterb" "Purnos" "Mislonpur" "Asliquas" "Clirossen" "Dermis" "Psechegnus" "Terblimis" "Obtusepos" "Litralna" "Zeplontral" "Usterbmali" "Lucspiepos" "Flaizep" "Asrus" "Nalimutos" "Tralistha" "Puritysen" "Mosasern" "Misaugmos" "Asarcmali" "Obcherag" "Spicas" "Augderpur" "Gnusas" "Namaliterb" "Flaicycros" "Assen" "Sumchrois" "Tinincan" "Purzep" "Ismis" "Tuszeptin" "Imusroscas" "Axissensig" "Flaiaugas" "Asmacas" "Incanerncyc" "Dermischro" "Mosaug" "Derliquis" "Flaimisern" "Terbincanrus" "Derscald" "Cliimusterb" "Flaiusumus" "Dustepos" "Dertralna" "Scaldmoscyc" "Clicheflai" "Spisen" "Axisragus" "Sigros" "Tinlimu" "Masenincan" "Gnusscaldsig" "Zepzepchro" "Musmaliarc" "Eposarc" "Spilili" "Isliqulon" "Nasumis" "Sumdustmus" "Cycpsesen" "Scaldcli" "Tralthaas" "Ispsecyc" "Nosma" "Axisrusna" "Musmache" "Sencim" "Eposumusmis" "Gnussen" "Limucli" "Usaugan" "Spiob" "Cycpurcyc" "Mistus" "Moslonsal" "Chemus" "Purincansum" "Cliis" "Cassigzep" "Signesepos" "Rusflai" "Sensum" "Ruslon" "Pureris" "Augas" "Salimuspse" "Erismis" "Umusumus" "Liqulimumis" "Spicliob" "Musmali" "Lucliquflai" "Nescimcas" "Tosimus" "Lonaug" "Dersal" "Spinoscim" "Iseposnos" "Musmos" "Caschetral" "Rosflaiarc" "Thatha" "Naliqu" "Obrusumus" "Ernarczep" "Lucscalderis" "Tosiscas" "Tralsum" "Lucincanaug" "Chrothana" "Ityus" "Aschro" "Anumuspur" "Lina" "Missumas" "Nesobob" "Eposeris" "Limuernlimu" "Isflaiche" "Axismis" "Thagnus" "Tostralnos" "Matha" "Gnusnes" "Misisumus" "Ususaug" "Limutralchro" "Chroeposna" "Terbder" "Ruscasarc" 
+		}
+		female_names = {
+			"Tos" "Tinimuschro" "Zepsen" "Nes" "Liqunescas" "Arcnesrag" "Liqumatha" "Pursenterb" "Spilonas" "Imustralsig" "Spi" "Lontus" "Zep" "Useris" "Tralterbchro" "Rosliqu" "Liqugnusluc" "Terbdustma" "Ity" "Cas" "Flaicasmis" "Axistral" "Ern" "Gnuschroaug" "Dustchro" "Ragsalsum" "Malipse" "Sigmus" "Lonpse" "Derincangnus" "Mos" "Dust" "Dustder" "Sumpur" "Spipurtin" "Terbpur" "Salcim" "Liqumistha" "Spinasal" "Antinmos" "Gnus" "Cim" "Lilucluc" "Imusmustus" "Erisepos" "Salob" "Ruszep" "Lisal" "Lucscald" "Thaas" "Aseriseris" "Terbmusterb" "Ernrus" "Zepaugaug" "Tusna" "Sum" "Epos" "Augaugzep" "Chropurna" "Natos" "Nos" "Siglonma" "Ragrag" "Terb" "Zeptusliqu" "Anli" "Salliros" "Arcus" "An" "Liqumis" "Flairosaxis" "Maityluc" "Sentralflai" "Miszep" "Axislimucas" "Chetharos" "Puran" "Itychro" "Eposlirus" "Obspi" "Erntral" "Arcity" "Purisdust" "Tineris" "Limumos" "Derscaldsum" "Mosdermis" "Dercas" "Umus" "Purdust" "Eposmosimus" "Clirospur" "Clilimu" "Is" "Gnuslispi" "Itycyceris" "Malithaluc" "Pur" "Dustmanos" "Islimuarc" "Dustliquscald" "Umusanaug" "Limunesmos" "Aug" "Narussum" "Rustral" "Incanob" "Augcli" "Gnusdust" "Musaxispur" "Flairus" "Tral" "Misnesaug" "Lilimu" "Tinpur" "Ros" "Rusche" "Axis" "Mus" "Nostral" "Purroseris" "Salmosterb" "Chronascald" "Maliumus" "Eris" "Mali" "Zepmistral" "Sumna" "Zepcheflai" "Limu" "Derumusmos" "Moscli" "Terbcyc" "Mossum" "Usragna" "Mis" "Luc" "Liqugnus" "Casarc" "Tralragliqu" "Spiliob" "Rus" "Moszep" "Dustthazep" "Misdustincan" "Na" "Ruscas" "Eposumusscald" "Sal" "Mosmali" "Derdust" "Zepaxis" "Issenche" "Islisig" "Imussigluc" "Deras" "Puraxis" "Zepnesliqu" "Ustralnes" "Limulonspi" "Traleris" "Castusder" "Rag" "Lonmus" "Imussen" "Ernerismus" "Erislon" "Limusumcli" "Malimisros" "Tinragluc" "Terbasern" "Purimus" "Itypur" "Tusmistral" "Nesma" "Terbtus" "Scaldtralus" "Tralrustral" "Tosliqumus" "Nostoseris" "Asernliqu" "Lonragaxis" "Museriseris" "Mana" "Malias" "Terbernlon" "Incantus" "Clignusarc" "Li" "Ruscli" "Imus" "Chroscald" "Arcern" "Ragdustsal" "Che" "Tuscimob" "Psetus" "Chetos" "Castin" "Ob" "Scaldsalsal" "Terblonspi" "Salche" "Scaldclima" "Eposspi" "Limuarcma" "Tintos" "Mussigna" "Erisanmos" "Roslimuros" "Malimus" "Misaxissig" "Der" "Sumflailimu" "Liquneslon" "Ernmis" "Eristhatos" "Augobnes" "Dustcimche" "Us" "As" "Chropserag" "Ernas" "Isaxis" "Erisern" "Salnos" "Tusernma" "Terbliqu" "Incan" "Nosobder" "Mosincan" "Limulimu" "Axismusche" "Arcragspi" "Liqu" "Umuscheas" "Spilider" "Cheaxis" "Eposluc" "Zeprag" "Tinche" "Axisliqu" "Liquaugspi" "Spias" "Maliquas" "Nosdust" "Rusepos" "Scald" "Augsum" "Scaldluc" "Sig" "Axiscimern" "Incanis" "Tusern" "Asma" "Flai" "Summisern" "Casis" "Cimcas" "Chemosumus" "Dertraltral" "Zepchro" "Moserismis" "Derzepros" "Misimus" "Musmis" "Andustumus" "Cliflaiity" "Cimzeppur" "Rosflai" "Muszepity" "Lucisma" "Umussig" "Russcald" "Luctinli" "Augrag" "Axischro" "Erisincan" "Sen" "Tusthanes" "Salerisna" "Nosnostos" "Thanestin" "Nosimusgnus" "Salsal" "Obdustma" "Cimern" "Casisgnus" "Itymus" "Imusgnusluc" "Umusliquspi" "Spitral" "Limucassig" "Chrozep" "Imussum" "Thaob" "Maumus" "Ragerisnos" "Terbterb" "Chrotha" "Naeris" "Checycsum" "Dernos" "Materb" "Cycaugna" "Umusma" "Tin" "Malisal" "Pse" "Ernspiepos" "Arc" "Ruscycpur" "Spiliqu" "Augcyc" "Cyceposas" "Maliaug" "Imusmali" "Liincanus" "Scaldimuslimu" "Limueposluc" "Mosimussen" "Raglimutin" "Obterbcas" "Malima" "Tus" "Tinscaldaxis" "Ernterb" "Ragtralliqu" "Napurluc" "Obtosros" "Tussiggnus" "Flaisalmos" "Obsal" "Cycusgnus" "Narus" "Nesnaern" "Chroterbaug" "Aschrolon" "Cimmatin" "Liob" "Musmissum" "Limuumuscyc" "Ancyc" "Dustnos" "Tralzeprus" "Umusaxissal" "Terbumusan" "Maliluc" "Noscli" "Usnosmis" "Uspse" "Senlonterb" "Clinestha" "Thapse" "Tharusimus" "Senrusus" "Augmis" "Terbrossen" "Suman" "Malon" "Obtos" "Chrousspi" "Spiepos" "Ernder" "Liquliqu" "Tustusity" "Dustsal" "Erisasrus" "Spipse" "Tospur" "Salpur" "Naflai" "Zeptusspi" "Ruspse" "Puras" "Anlon" "Issen" "Sigpur" "Thatus" "Mospursum" "Derpursum" "Nosmos" "Itydustaug" "Terbnesaxis" "Machroscald" "Obas" "Mosgnusis" "Imusumusdust" "Pseoblimu" "Thagnusdust" "Pseepos" "Gnusdustepos" "Arcdustcli" "Miscli" "Maliincansig" "Augsal" "Cimflai" "Sumnosaxis" "Tinincanscald" "Imusros" "Lonchroan" "Nesspi" "Lonsalchro" "Cimaxiscim" "Ragcimaxis" "Incanna" "Incanaxis" "Chro" "Spiros" "Obmali" "Liqudust" "Flaiity" "Ragspisum" "Spilimu" "Sensen" "Eposclius" "Limuzepsen" "Lonaxisli" "Derob" "Senity" "Umusterb" "Chroarccyc" "Gnusnasen" "Chroarczep" "Umusarc" "Purliquzep" "Sigscald" "Naisarc" "Ragscald" "Ischecli" "Pseas" "Istus" "Lucimuspse" "Tosscald" "Axispse" "Senpse" "Usterbimus" "Lucaxis" "Cycrosmis" "Imusscald" "Tusragchro" "Tha" "Mosnes" "Clitus" "Nesasern" "Sallon" "Umusnosliqu" "Terbus" "Noscimaug" "Salscald" "Chezep" "Nosernnes" "Axisterbmis" "Casmaliumus" "Ityumusmali" "Flaignus" "Dustobis" "Musobrag" "Lucmos" "Nasumcli" "Chromostin" "Tusliqu" "Asrusob" "Senmisas" "Natusrag" "Imusaug" "Terbsen" "Malucrus" "Tinis" "Erisityma" "Lon" "Eposcycflai" "Nesterb" "Gnusincan" "Mislucepos" "Terbmali" "Cycscald" "Ityanarc" "Ustin" "Mosrag" "Climosis" "Gnusimus" "Saleposumus" "Moslondust" "Museposumus" "Clirostral" "Flairagepos" "Cimma" "Antha" "Chetusern" "Cyc" "Musna" "Marus" "Lucmusaug" "Senincanmos" "Mosscaldaxis" "Augusluc" "Sumlimu" "Liqutralmis" "Cimuslon" "Summalipse" "Andustcyc" "Eposan" "Nesob" "Antin" "Spili" "Saldust" "Tralscaldterb" "Naluc" "Casmosrus" "Thaarc" "Dustimus" "Eposaugliqu" "Nacimaxis" "Liqucas" "Liqurustral" "Liisimus" "Rosnes" "Nesloncim" "Mosgnusros" "Ragzep" "Umusli" "Traldustspi" "Usmismos" "Dustnes" "Misder" "Ragchrotus" "Isclilimu" "Casimusern" "Sigcasder" "Dustpur" "Miscim" "Axisder" "Axisaugtos" "Ityaxisrag" "Sigaugliqu" "Raggnus" "Istin" "Mustin" "Augli" "Augpsean" "Nesroszep" "Musmus" "Clilonlimu" "Flainaity" "Augros" "Rusan" "Gnusoberis" "Lucaug" "Nanamis" "Mistraltos" "Noscycsig" "Tralrus" "Nesas" "Incannaob" "Flaiclispi" "Cliragcli" "Tinimustin" "Chrodermali" "Incanlidust" "Chepse" "Nessigchro" "Scaldsigrus" "Cliaxis" "Russpi" "Incanrusepos" "Arcgnusaug" "Rusityan" "Anma" "Cimincan" "Tinumusaxis" "Gnuslimuna" "Liquflaiscald" "Limuobimus" "Anscaldcli" "Tralli" "Raglon" "Erisarc" "Ernimus" "Imuspse" "Obsum" "Obcycsen" "Aneposrag" "Limuli" "Tinchro" "Roszepincan" "Cheflai" "Sentosmus" "Nosarcmis" "Chromismos" "Purluc" "Psecasarc" "Ma" "Purtin" "Signostos" "Traleposern" "Scaldobliqu" "Tralzep" "Obscaldli" "Rosterbgnus" "Limunos" "Dertha" "Clius" "Rusmisluc" "Miscycsum" "Imusrusgnus" "Misaxisnes" "Roschro" "Lignusluc" "Cimascim" "Cycpseumus" "Pureposluc" "Musis" "Tussumepos" "Spisenli" "Dustgnus" "Nesaxis" "Itycascyc" "Usan" "Nosmislimu" "Cimrusdust" "Maspi" "Lonchro" "Misros" "Rosdust" "Lonaxis" "Imusgnusepos" "Salaugtus" "Mamosas" "Anpse" "Sentoslimu" "Ancas" "Anmaas" "Chemisli" "Maliitytin" "Rostoscas" "Musmazep" "Isscaldern" "Ruschroob" "Sumas" "Asnes" "Liqueposimus" "Lisig" "Usepos" "Arcdust" "Mosclispi" "Liquflaizep" "Arccimluc" "Zepcyc" "Malisum" "Mamalitral" "Nospsepse" "Lucaxislon" "Ernmalisen" "Istincli" "Spiincantus" "Isscaldtha" "Mussig" "Terbsigcim" "Ismos" "Tinob" "Ischroscald" "Augragas" "Tostus" "Senzeppur" "Tosspitos" "Misarctha" "Ernity" "Imuscim" "Anchrotos" "Ityincanaxis" "Tusasumus" "Dusttus" "Raggnusmis" "Misincanincan" "Ruspur" "Tusobas" "Flaiscald" "Tharus" "Trality" "Chroincanterb" "Tusisrag" "Cycaugeris" "Nosern" "Nosrus" "Cimlonpse" "Axisumusaug" "Misnos" "Scalderisaug" "Salterbros" "Flaicli" "Eposobsen" "Imuscas" "Cycder" "Mustha" "Rusgnus" "Erispse" "Namiszep" "Lispiob" "Eposnos" "Clitral" "Gnusmisrus" "Umusterbmis" "Purros" "Sigincan" "Scaldrag" "Malieris" "Malignussig" "Rostusnes" "Terbdercim" "Nosimusna" "Museris" "Imusspiity" "Incanluc" "Derernrus" "Ityzepchro" "Incanityder" "Isusrus" "Dustcli" "Anliqu" "Senmisscald" "Erisimus" "Tinaugincan" "Cycna" "Nestha" "Nesobepos" "Pseluc" "Senpurmis" "Thaumus" "Terbepossum" "Tusrosarc" "Malimalitos" "Casnoscas" "Limucim" "Senscald" "Pursallon" "Nesepos" "Thachrous" "Tussal" "Anumus" "Zepnos" "Islonrag" "Tralan" "Anche" "Liimus" "Spirusaxis" "Mispur" "Senmustin" "Ragimusterb" "Clicli" "Tinliity" "Toschro" "Itylimuzep" "Gnusincancyc" "Obpurluc" "Siglimulimu" "Zepaugluc" "Cliernzep" "Auglonspi" "Gnusnestos" "Sensenflai" "Tustusern" "Tosincan" "Malimalimali" "Gnusmamos" "Thaoban" "Nossender" "Lucrag" "Nosflai" "Usthasig" "Salarc" "Itymali" "Incaneris" "Liqupur" "Sumliqu" "Imussencim" "Cliaslon" "Summis" "Isern" "Zepluc" "Malimalina" "Umusmislon" "Augsumgnus" "Obgnus" "Longnusumus" "Liquan" "Tusmis" "Tinmistin" "Mosityliqu" "Musnes" "Summosgnus" "Gnusspi" "Ernisas" "Oban" "Thapsemus" "Ruslimu" "Tuspur" "Nacim" "Clili" "Thaimuschro" "Misnessal" "Ragtralluc" "Eristus" "Anthader" "Terbincan" "Senlon" "Obderdust" "Musspi" "Ragnatus" "Cyccim" "Erisma" "Lucity" "Flaierisflai" "Liqunosder" "Obluc" "Litha" "Nacas" "Trallonflai" "Lidustterb" "Sencimgnus" "Sigflai" "Spidertos" "Sallimu" "Incandertin" "Erischro" "Ancasaxis" "Nosrussen" "Anloneris" "Eposus" "Liaxisimus" "Lisen" "Chronos" "Chromus" "Mismistos" "Mosity" "Toscas" "Ruspseluc" "Axismusrag" "Psemusas" "Ascas" "Tossumas" "Cycimusliqu" "Axistus" "Cli" "Anity" "Flailon" "Mosus" "Lines" "Incanisma" "Lonob" "Lonrus" "Astintos" "Rospse" "Cheus" "Psearc" "Maliterb" "Spitintus" "Liusmos" "Sigcheaug" "Usumus" "Caslucsum" "Sigsigeris" "Liros" "Dermosob" "Salincanimus" "Cliterbumus" "Cascliterb" "Purnos" "Mislonpur" "Asliquas" "Clirossen" "Dermis" "Psechegnus" "Terblimis" "Obtusepos" "Litralna" "Zeplontral" "Usterbmali" "Lucspiepos" "Flaizep" "Asrus" "Nalimutos" "Tralistha" "Puritysen" "Mosasern" "Misaugmos" "Asarcmali" "Obcherag" "Spicas" "Augderpur" "Gnusas" "Namaliterb" "Flaicycros" "Assen" "Sumchrois" "Tinincan" "Purzep" "Ismis" "Tuszeptin" "Imusroscas" "Axissensig" "Flaiaugas" "Asmacas" "Incanerncyc" "Dermischro" "Mosaug" "Derliquis" "Flaimisern" "Terbincanrus" "Derscald" "Cliimusterb" "Flaiusumus" "Dustepos" "Dertralna" "Scaldmoscyc" "Clicheflai" "Spisen" "Axisragus" "Sigros" "Tinlimu" "Masenincan" "Gnusscaldsig" "Zepzepchro" "Musmaliarc" "Eposarc" "Spilili" "Isliqulon" "Nasumis" "Sumdustmus" "Cycpsesen" "Scaldcli" "Tralthaas" "Ispsecyc" "Nosma" "Axisrusna" "Musmache" "Sencim" "Eposumusmis" "Gnussen" "Limucli" "Usaugan" "Spiob" "Cycpurcyc" "Mistus" "Moslonsal" "Chemus" "Purincansum" "Cliis" "Cassigzep" "Signesepos" "Rusflai" "Sensum" "Ruslon" "Pureris" "Augas" "Salimuspse" "Erismis" "Umusumus" "Liqulimumis" "Spicliob" "Musmali" "Lucliquflai" "Nescimcas" "Tosimus" "Lonaug" "Dersal" "Spinoscim" "Iseposnos" "Musmos" "Caschetral" "Rosflaiarc" "Thatha" "Naliqu" "Obrusumus" "Ernarczep" "Lucscalderis" "Tosiscas" "Tralsum" "Lucincanaug" "Chrothana" "Ityus" "Aschro" "Anumuspur" "Lina" "Missumas" "Nesobob" "Eposeris" "Limuernlimu" "Isflaiche" "Axismis" "Thagnus" "Tostralnos" "Matha" "Gnusnes" "Misisumus" "Ususaug" "Limutralchro" "Chroeposna" "Terbder" "Ruscasarc" 
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+	culture_ascendant = {
 		male_names = {
 			"Tos" "Tinimuschro" "Zepsen" "Nes" "Liqunescas" "Arcnesrag" "Liqumatha" "Pursenterb" "Spilonas" "Imustralsig" "Spi" "Lontus" "Zep" "Useris" "Tralterbchro" "Rosliqu" "Liqugnusluc" "Terbdustma" "Ity" "Cas" "Flaicasmis" "Axistral" "Ern" "Gnuschroaug" "Dustchro" "Ragsalsum" "Malipse" "Sigmus" "Lonpse" "Derincangnus" "Mos" "Dust" "Dustder" "Sumpur" "Spipurtin" "Terbpur" "Salcim" "Liqumistha" "Spinasal" "Antinmos" "Gnus" "Cim" "Lilucluc" "Imusmustus" "Erisepos" "Salob" "Ruszep" "Lisal" "Lucscald" "Thaas" "Aseriseris" "Terbmusterb" "Ernrus" "Zepaugaug" "Tusna" "Sum" "Epos" "Augaugzep" "Chropurna" "Natos" "Nos" "Siglonma" "Ragrag" "Terb" "Zeptusliqu" "Anli" "Salliros" "Arcus" "An" "Liqumis" "Flairosaxis" "Maityluc" "Sentralflai" "Miszep" "Axislimucas" "Chetharos" "Puran" "Itychro" "Eposlirus" "Obspi" "Erntral" "Arcity" "Purisdust" "Tineris" "Limumos" "Derscaldsum" "Mosdermis" "Dercas" "Umus" "Purdust" "Eposmosimus" "Clirospur" "Clilimu" "Is" "Gnuslispi" "Itycyceris" "Malithaluc" "Pur" "Dustmanos" "Islimuarc" "Dustliquscald" "Umusanaug" "Limunesmos" "Aug" "Narussum" "Rustral" "Incanob" "Augcli" "Gnusdust" "Musaxispur" "Flairus" "Tral" "Misnesaug" "Lilimu" "Tinpur" "Ros" "Rusche" "Axis" "Mus" "Nostral" "Purroseris" "Salmosterb" "Chronascald" "Maliumus" "Eris" "Mali" "Zepmistral" "Sumna" "Zepcheflai" "Limu" "Derumusmos" "Moscli" "Terbcyc" "Mossum" "Usragna" "Mis" "Luc" "Liqugnus" "Casarc" "Tralragliqu" "Spiliob" "Rus" "Moszep" "Dustthazep" "Misdustincan" "Na" "Ruscas" "Eposumusscald" "Sal" "Mosmali" "Derdust" "Zepaxis" "Issenche" "Islisig" "Imussigluc" "Deras" "Puraxis" "Zepnesliqu" "Ustralnes" "Limulonspi" "Traleris" "Castusder" "Rag" "Lonmus" "Imussen" "Ernerismus" "Erislon" "Limusumcli" "Malimisros" "Tinragluc" "Terbasern" "Purimus" "Itypur" "Tusmistral" "Nesma" "Terbtus" "Scaldtralus" "Tralrustral" "Tosliqumus" "Nostoseris" "Asernliqu" "Lonragaxis" "Museriseris" "Mana" "Malias" "Terbernlon" "Incantus" "Clignusarc" "Li" "Ruscli" "Imus" "Chroscald" "Arcern" "Ragdustsal" "Che" "Tuscimob" "Psetus" "Chetos" "Castin" "Ob" "Scaldsalsal" "Terblonspi" "Salche" "Scaldclima" "Eposspi" "Limuarcma" "Tintos" "Mussigna" "Erisanmos" "Roslimuros" "Malimus" "Misaxissig" "Der" "Sumflailimu" "Liquneslon" "Ernmis" "Eristhatos" "Augobnes" "Dustcimche" "Us" "As" "Chropserag" "Ernas" "Isaxis" "Erisern" "Salnos" "Tusernma" "Terbliqu" "Incan" "Nosobder" "Mosincan" "Limulimu" "Axismusche" "Arcragspi" "Liqu" "Umuscheas" "Spilider" "Cheaxis" "Eposluc" "Zeprag" "Tinche" "Axisliqu" "Liquaugspi" "Spias" "Maliquas" "Nosdust" "Rusepos" "Scald" "Augsum" "Scaldluc" "Sig" "Axiscimern" "Incanis" "Tusern" "Asma" "Flai" "Summisern" "Casis" "Cimcas" "Chemosumus" "Dertraltral" "Zepchro" "Moserismis" "Derzepros" "Misimus" "Musmis" "Andustumus" "Cliflaiity" "Cimzeppur" "Rosflai" "Muszepity" "Lucisma" "Umussig" "Russcald" "Luctinli" "Augrag" "Axischro" "Erisincan" "Sen" "Tusthanes" "Salerisna" "Nosnostos" "Thanestin" "Nosimusgnus" "Salsal" "Obdustma" "Cimern" "Casisgnus" "Itymus" "Imusgnusluc" "Umusliquspi" "Spitral" "Limucassig" "Chrozep" "Imussum" "Thaob" "Maumus" "Ragerisnos" "Terbterb" "Chrotha" "Naeris" "Checycsum" "Dernos" "Materb" "Cycaugna" "Umusma" "Tin" "Malisal" "Pse" "Ernspiepos" "Arc" "Ruscycpur" "Spiliqu" "Augcyc" "Cyceposas" "Maliaug" "Imusmali" "Liincanus" "Scaldimuslimu" "Limueposluc" "Mosimussen" "Raglimutin" "Obterbcas" "Malima" "Tus" "Tinscaldaxis" "Ernterb" "Ragtralliqu" "Napurluc" "Obtosros" "Tussiggnus" "Flaisalmos" "Obsal" "Cycusgnus" "Narus" "Nesnaern" "Chroterbaug" "Aschrolon" "Cimmatin" "Liob" "Musmissum" "Limuumuscyc" "Ancyc" "Dustnos" "Tralzeprus" "Umusaxissal" "Terbumusan" "Maliluc" "Noscli" "Usnosmis" "Uspse" "Senlonterb" "Clinestha" "Thapse" "Tharusimus" "Senrusus" "Augmis" "Terbrossen" "Suman" "Malon" "Obtos" "Chrousspi" "Spiepos" "Ernder" "Liquliqu" "Tustusity" "Dustsal" "Erisasrus" "Spipse" "Tospur" "Salpur" "Naflai" "Zeptusspi" "Ruspse" "Puras" "Anlon" "Issen" "Sigpur" "Thatus" "Mospursum" "Derpursum" "Nosmos" "Itydustaug" "Terbnesaxis" "Machroscald" "Obas" "Mosgnusis" "Imusumusdust" "Pseoblimu" "Thagnusdust" "Pseepos" "Gnusdustepos" "Arcdustcli" "Miscli" "Maliincansig" "Augsal" "Cimflai" "Sumnosaxis" "Tinincanscald" "Imusros" "Lonchroan" "Nesspi" "Lonsalchro" "Cimaxiscim" "Ragcimaxis" "Incanna" "Incanaxis" "Chro" "Spiros" "Obmali" "Liqudust" "Flaiity" "Ragspisum" "Spilimu" "Sensen" "Eposclius" "Limuzepsen" "Lonaxisli" "Derob" "Senity" "Umusterb" "Chroarccyc" "Gnusnasen" "Chroarczep" "Umusarc" "Purliquzep" "Sigscald" "Naisarc" "Ragscald" "Ischecli" "Pseas" "Istus" "Lucimuspse" "Tosscald" "Axispse" "Senpse" "Usterbimus" "Lucaxis" "Cycrosmis" "Imusscald" "Tusragchro" "Tha" "Mosnes" "Clitus" "Nesasern" "Sallon" "Umusnosliqu" "Terbus" "Noscimaug" "Salscald" "Chezep" "Nosernnes" "Axisterbmis" "Casmaliumus" "Ityumusmali" "Flaignus" "Dustobis" "Musobrag" "Lucmos" "Nasumcli" "Chromostin" "Tusliqu" "Asrusob" "Senmisas" "Natusrag" "Imusaug" "Terbsen" "Malucrus" "Tinis" "Erisityma" "Lon" "Eposcycflai" "Nesterb" "Gnusincan" "Mislucepos" "Terbmali" "Cycscald" "Ityanarc" "Ustin" "Mosrag" "Climosis" "Gnusimus" "Saleposumus" "Moslondust" "Museposumus" "Clirostral" "Flairagepos" "Cimma" "Antha" "Chetusern" "Cyc" "Musna" "Marus" "Lucmusaug" "Senincanmos" "Mosscaldaxis" "Augusluc" "Sumlimu" "Liqutralmis" "Cimuslon" "Summalipse" "Andustcyc" "Eposan" "Nesob" "Antin" "Spili" "Saldust" "Tralscaldterb" "Naluc" "Casmosrus" "Thaarc" "Dustimus" "Eposaugliqu" "Nacimaxis" "Liqucas" "Liqurustral" "Liisimus" "Rosnes" "Nesloncim" "Mosgnusros" "Ragzep" "Umusli" "Traldustspi" "Usmismos" "Dustnes" "Misder" "Ragchrotus" "Isclilimu" "Casimusern" "Sigcasder" "Dustpur" "Miscim" "Axisder" "Axisaugtos" "Ityaxisrag" "Sigaugliqu" "Raggnus" "Istin" "Mustin" "Augli" "Augpsean" "Nesroszep" "Musmus" "Clilonlimu" "Flainaity" "Augros" "Rusan" "Gnusoberis" "Lucaug" "Nanamis" "Mistraltos" "Noscycsig" "Tralrus" "Nesas" "Incannaob" "Flaiclispi" "Cliragcli" "Tinimustin" "Chrodermali" "Incanlidust" "Chepse" "Nessigchro" "Scaldsigrus" "Cliaxis" "Russpi" "Incanrusepos" "Arcgnusaug" "Rusityan" "Anma" "Cimincan" "Tinumusaxis" "Gnuslimuna" "Liquflaiscald" "Limuobimus" "Anscaldcli" "Tralli" "Raglon" "Erisarc" "Ernimus" "Imuspse" "Obsum" "Obcycsen" "Aneposrag" "Limuli" "Tinchro" "Roszepincan" "Cheflai" "Sentosmus" "Nosarcmis" "Chromismos" "Purluc" "Psecasarc" "Ma" "Purtin" "Signostos" "Traleposern" "Scaldobliqu" "Tralzep" "Obscaldli" "Rosterbgnus" "Limunos" "Dertha" "Clius" "Rusmisluc" "Miscycsum" "Imusrusgnus" "Misaxisnes" "Roschro" "Lignusluc" "Cimascim" "Cycpseumus" "Pureposluc" "Musis" "Tussumepos" "Spisenli" "Dustgnus" "Nesaxis" "Itycascyc" "Usan" "Nosmislimu" "Cimrusdust" "Maspi" "Lonchro" "Misros" "Rosdust" "Lonaxis" "Imusgnusepos" "Salaugtus" "Mamosas" "Anpse" "Sentoslimu" "Ancas" "Anmaas" "Chemisli" "Maliitytin" "Rostoscas" "Musmazep" "Isscaldern" "Ruschroob" "Sumas" "Asnes" "Liqueposimus" "Lisig" "Usepos" "Arcdust" "Mosclispi" "Liquflaizep" "Arccimluc" "Zepcyc" "Malisum" "Mamalitral" "Nospsepse" "Lucaxislon" "Ernmalisen" "Istincli" "Spiincantus" "Isscaldtha" "Mussig" "Terbsigcim" "Ismos" "Tinob" "Ischroscald" "Augragas" "Tostus" "Senzeppur" "Tosspitos" "Misarctha" "Ernity" "Imuscim" "Anchrotos" "Ityincanaxis" "Tusasumus" "Dusttus" "Raggnusmis" "Misincanincan" "Ruspur" "Tusobas" "Flaiscald" "Tharus" "Trality" "Chroincanterb" "Tusisrag" "Cycaugeris" "Nosern" "Nosrus" "Cimlonpse" "Axisumusaug" "Misnos" "Scalderisaug" "Salterbros" "Flaicli" "Eposobsen" "Imuscas" "Cycder" "Mustha" "Rusgnus" "Erispse" "Namiszep" "Lispiob" "Eposnos" "Clitral" "Gnusmisrus" "Umusterbmis" "Purros" "Sigincan" "Scaldrag" "Malieris" "Malignussig" "Rostusnes" "Terbdercim" "Nosimusna" "Museris" "Imusspiity" "Incanluc" "Derernrus" "Ityzepchro" "Incanityder" "Isusrus" "Dustcli" "Anliqu" "Senmisscald" "Erisimus" "Tinaugincan" "Cycna" "Nestha" "Nesobepos" "Pseluc" "Senpurmis" "Thaumus" "Terbepossum" "Tusrosarc" "Malimalitos" "Casnoscas" "Limucim" "Senscald" "Pursallon" "Nesepos" "Thachrous" "Tussal" "Anumus" "Zepnos" "Islonrag" "Tralan" "Anche" "Liimus" "Spirusaxis" "Mispur" "Senmustin" "Ragimusterb" "Clicli" "Tinliity" "Toschro" "Itylimuzep" "Gnusincancyc" "Obpurluc" "Siglimulimu" "Zepaugluc" "Cliernzep" "Auglonspi" "Gnusnestos" "Sensenflai" "Tustusern" "Tosincan" "Malimalimali" "Gnusmamos" "Thaoban" "Nossender" "Lucrag" "Nosflai" "Usthasig" "Salarc" "Itymali" "Incaneris" "Liqupur" "Sumliqu" "Imussencim" "Cliaslon" "Summis" "Isern" "Zepluc" "Malimalina" "Umusmislon" "Augsumgnus" "Obgnus" "Longnusumus" "Liquan" "Tusmis" "Tinmistin" "Mosityliqu" "Musnes" "Summosgnus" "Gnusspi" "Ernisas" "Oban" "Thapsemus" "Ruslimu" "Tuspur" "Nacim" "Clili" "Thaimuschro" "Misnessal" "Ragtralluc" "Eristus" "Anthader" "Terbincan" "Senlon" "Obderdust" "Musspi" "Ragnatus" "Cyccim" "Erisma" "Lucity" "Flaierisflai" "Liqunosder" "Obluc" "Litha" "Nacas" "Trallonflai" "Lidustterb" "Sencimgnus" "Sigflai" "Spidertos" "Sallimu" "Incandertin" "Erischro" "Ancasaxis" "Nosrussen" "Anloneris" "Eposus" "Liaxisimus" "Lisen" "Chronos" "Chromus" "Mismistos" "Mosity" "Toscas" "Ruspseluc" "Axismusrag" "Psemusas" "Ascas" "Tossumas" "Cycimusliqu" "Axistus" "Cli" "Anity" "Flailon" "Mosus" "Lines" "Incanisma" "Lonob" "Lonrus" "Astintos" "Rospse" "Cheus" "Psearc" "Maliterb" "Spitintus" "Liusmos" "Sigcheaug" "Usumus" "Caslucsum" "Sigsigeris" "Liros" "Dermosob" "Salincanimus" "Cliterbumus" "Cascliterb" "Purnos" "Mislonpur" "Asliquas" "Clirossen" "Dermis" "Psechegnus" "Terblimis" "Obtusepos" "Litralna" "Zeplontral" "Usterbmali" "Lucspiepos" "Flaizep" "Asrus" "Nalimutos" "Tralistha" "Puritysen" "Mosasern" "Misaugmos" "Asarcmali" "Obcherag" "Spicas" "Augderpur" "Gnusas" "Namaliterb" "Flaicycros" "Assen" "Sumchrois" "Tinincan" "Purzep" "Ismis" "Tuszeptin" "Imusroscas" "Axissensig" "Flaiaugas" "Asmacas" "Incanerncyc" "Dermischro" "Mosaug" "Derliquis" "Flaimisern" "Terbincanrus" "Derscald" "Cliimusterb" "Flaiusumus" "Dustepos" "Dertralna" "Scaldmoscyc" "Clicheflai" "Spisen" "Axisragus" "Sigros" "Tinlimu" "Masenincan" "Gnusscaldsig" "Zepzepchro" "Musmaliarc" "Eposarc" "Spilili" "Isliqulon" "Nasumis" "Sumdustmus" "Cycpsesen" "Scaldcli" "Tralthaas" "Ispsecyc" "Nosma" "Axisrusna" "Musmache" "Sencim" "Eposumusmis" "Gnussen" "Limucli" "Usaugan" "Spiob" "Cycpurcyc" "Mistus" "Moslonsal" "Chemus" "Purincansum" "Cliis" "Cassigzep" "Signesepos" "Rusflai" "Sensum" "Ruslon" "Pureris" "Augas" "Salimuspse" "Erismis" "Umusumus" "Liqulimumis" "Spicliob" "Musmali" "Lucliquflai" "Nescimcas" "Tosimus" "Lonaug" "Dersal" "Spinoscim" "Iseposnos" "Musmos" "Caschetral" "Rosflaiarc" "Thatha" "Naliqu" "Obrusumus" "Ernarczep" "Lucscalderis" "Tosiscas" "Tralsum" "Lucincanaug" "Chrothana" "Ityus" "Aschro" "Anumuspur" "Lina" "Missumas" "Nesobob" "Eposeris" "Limuernlimu" "Isflaiche" "Axismis" "Thagnus" "Tostralnos" "Matha" "Gnusnes" "Misisumus" "Ususaug" "Limutralchro" "Chroeposna" "Terbder" "Ruscasarc" 
 		}

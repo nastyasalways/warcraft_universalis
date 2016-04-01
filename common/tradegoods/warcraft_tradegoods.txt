@@ -361,7 +361,7 @@ warbeasts = {
 		factor = 10
 	}
 }
-
+# OTHER
 apexis = {
 	color = { 0.07 0.33 0.39 }
 	modifier = {
@@ -374,6 +374,16 @@ apexis = {
 
 glowcap = {
 	color = { 0.96 0.83 0.48 }
+	modifier = {
+		
+	}
+	chance = {
+		factor = 10
+	}
+}
+
+moonwell = {
+	color = { 0.96 0.43 0.98 }
 	modifier = {
 		
 	}
