@@ -9,6 +9,7 @@ owner = E26
 controller = E26
 add_core = E26
 add_core = A30
+add_core = F61
 
 culture = culture_fire
 religion = religion_fire
@@ -16,36 +17,34 @@ religion = religion_fire
 hre = no
 trade_goods = warbeasts
 
-
-
-
 # Fall of Stormwind
 597.1.1 = {
-owner = E98
-controller = E98
-add_core = E98
-culture = culture_blackrock
-religion = religion_fel
+	owner = E98
+	controller = E98
+	add_core = E98
+	culture = culture_blackrock
+	religion = religion_fel
 }
 
 # Beyond the Dark Portal
 600.1.1 = {
-owner = XXX
-controller = XXX
+	owner = XXX
+	controller = XXX
 }
 
 # The Third War
 617.1.1 = {
-owner = A41
-controller = A41
-add_core = A41
-add_core = A99
-culture = culture_black
-religion = religion_old_gods
+	owner = A41
+	controller = A41
+	add_core = A41
+	add_core = A99
+	culture = culture_black
+	religion = religion_old_gods
 }
 
+# Mists of Pandaria
 632.1.1 = {
-remove_core = A99
-culture = culture_blackrock
-religion = religion_fel
+	remove_core = A99
+	culture = culture_blackrock
+	religion = religion_fel
 }

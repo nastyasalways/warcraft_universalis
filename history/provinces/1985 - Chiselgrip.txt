@@ -1,4 +1,4 @@
-# 1985
+# 1985 Chiselgrip
 is_city = yes
 
 owner = E56
@@ -9,40 +9,39 @@ base_tax = 3
 base_manpower = 3
 base_production = 3
 
-
 culture = culture_dark_iron
 religion = religion_arcane
 
 hre = no
 trade_goods = dark_iron
 
-
-
-
 # Fall of Stormwind
 597.1.1 = { 
-owner = E98
-controller = E98
-add_core = E98
-culture = culture_blackrock
-religion = religion_fel 
+	owner = E98
+	controller = E98
+	add_core = E98
+	culture = culture_blackrock
+	religion = religion_fel 
 }
 
 # Beyond the Dark Portal
 600.1.1 = { 
-owner = XXX
-controller = XXX
-remove_core = E98
+	religion = religion_ancestral
+	add_core = A41
 }
 
-630.11.11 = { owner = XXX
-controller = XXX }
+622.1.1 = {
+	owner = A41
+	controller = A41
+	remove_core = E98
+	religion = religion_fel
+}
 
 # Cataclysm
 631.1.1 = { 
-owner = E56
-controller = E56
-add_core = E56
-culture = culture_dark_iron
-religion = religion_arcane 
+	owner = E56
+	controller = E56
+	add_core = E56
+	culture = culture_dark_iron
+	religion = religion_arcane 
 }

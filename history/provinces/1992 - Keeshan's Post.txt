@@ -1,5 +1,6 @@
-# 1992
+# 1992 Keeshan's Post
 is_city = yes
+
 add_core = A04
 owner = A04
 controller = A04
@@ -8,42 +9,40 @@ base_tax = 1
 base_manpower = 1
 base_production = 1
 
-
 culture = culture_azerothian
 religion = religion_church_of_the_light
 
 hre = no
 trade_goods = army_supplies
 
-
-
-
 # Fall of Stormwind
 597.1.1 = { 
-owner = E98
-controller = E98
-add_core = E98
-culture = culture_blackrock
-religion = religion_fel 
+	owner = E98
+	controller = E98
+	add_core = E98
+	culture = culture_blackrock
+	religion = religion_fel 
 }
 
 # Beyond the Dark Portal
 600.1.1 = { 
-owner = XXX
-controller = XXX
-remove_core = E98 
+	owner = XXX
+	controller = XXX
+	remove_core = E98 
 }
 
-630.11.11 = { 
-owner = XXX
-controller = XXX 
+# Rise of the Qiraji
+622.1.1 = { 
+	owner = A41
+	controller = A41 
+	base_manpower = 2
 }
 
 # Cataclysm
 631.1.1 = { 
-owner = A04
-controller = A04
-add_core = A04
-culture = culture_azerothian
-religion = religion_church_of_the_light
+	owner = A04
+	controller = A04
+	add_core = A04
+	culture = culture_azerothian
+	religion = religion_church_of_the_light
 }
