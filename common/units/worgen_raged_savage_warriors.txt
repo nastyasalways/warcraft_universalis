@@ -1,6 +1,6 @@
-# naga_serpent 3a
+# worgen_raged_savage_warriors 3a
 type = infantry
-unit_type = tech_naga
+unit_type = tech_worgen # Regular
 
 maneuver = 1
 offensive_morale = 4

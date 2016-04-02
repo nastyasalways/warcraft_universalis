@@ -1,6 +1,6 @@
-# naga_myrmidons 3b
+# worgen_vicious_city_fighters 3b
 type = infantry
-unit_type = tech_naga
+unit_type = tech_worgen
 
 maneuver = 1
 offensive_morale = 2

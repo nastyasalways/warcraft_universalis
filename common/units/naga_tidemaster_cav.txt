@@ -1,6 +1,6 @@
-# worgen_rushers_cav 1a
+# naga_tidemaster_cav 1a
 type = cavalry
-unit_type = tech_worgen # Regular
+unit_type = tech_naga
 
 maneuver = 2
 offensive_morale = 2

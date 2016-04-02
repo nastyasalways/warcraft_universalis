@@ -1,6 +1,6 @@
-# naga_stalker 2a
+# worgen_armed_savage_warriors 2a
 type = infantry
-unit_type = tech_naga
+unit_type = tech_worgen # Regular
 
 maneuver = 1
 offensive_morale = 3

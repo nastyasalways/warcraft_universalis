@@ -1,6 +1,6 @@
-# naga_guard 2b
+# worgen_city_fighters 2b
 type = infantry
-unit_type = tech_naga
+unit_type = tech_worgen # Regular
 
 maneuver = 1
 offensive_morale = 1
