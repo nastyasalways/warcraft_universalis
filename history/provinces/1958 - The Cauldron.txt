@@ -1,4 +1,4 @@
-# 1958
+# 1958 The Cauldron
 is_city = yes
 
 owner = A30
@@ -9,34 +9,31 @@ base_tax = 4
 base_manpower = 4
 base_production = 4
 
-
 culture = culture_dark_iron
 religion = religion_fire
 
 hre = no
 trade_goods = thorium
 
-
-
-
+# The Second War
 598.1.1 = { 
-owner = E98
-controller = E98
-add_core = E98
-culture = culture_blackrock
-religion = religion_fel 
+	owner = E98
+	controller = E98
+	add_core = E98
+	culture = culture_blackrock
+	religion = religion_fel 
 }
 
 # Beyond the Dark Portal
 600.1.1 = { 
-owner = A30
-controller = A30
-remove_core = E98
-culture = culture_dark_iron
-religion = religion_fire 
+	owner = A30
+	controller = A30
+	remove_core = E98
+	culture = culture_dark_iron
+	religion = religion_fire 
 }
 
 # Cataclysm
 631.1.1 = { 
-religion = religion_arcane 
+	religion = religion_arcane 
 }

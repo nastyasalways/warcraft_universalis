@@ -16,22 +16,19 @@ religion = religion_fire
 hre = no
 trade_goods = dark_iron
 
-
-
-
 # Fall of Stormwind
 597.1.1 = {
-owner = E98
-controller = E98
-add_core = E98
-add_core = E99
-culture = culture_firegut
-religion = religion_geomancy
+	owner = E98
+	controller = E98
+	add_core = E98
+	add_core = E99
+	culture = culture_firegut
+	religion = religion_geomancy
 }
 
 # Beyond the Dark Portal
 600.1.1 = {
-owner = E99
-controller = E99
-remove_core = E98
+	owner = E99
+	controller = E99
+	remove_core = E98
 }

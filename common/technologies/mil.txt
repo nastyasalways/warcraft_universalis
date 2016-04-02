@@ -143,15 +143,17 @@ technology = {
 	enable = insectoid_wasp_cav
 	
 	# tech_naga
-	enable = naga_explorers
-	enable = naga_manhunter
+	enable = naga_manhunter                      #lvl1 infantry a,
+	enable = naga_explorers                      #lvl1 infantry b,
+	enable = naga_tidemaster_cav                 #lvl1 cavalry a,
+	enable = naga_stormcaller_cav                #lvl1 cavalry b,
 	
 	# tech_worgen
-	enable = worgen_savage_warriors    #lvl1 infantry a,
-	enable = worgen_wild_fighters      #lvl1 infantry b,
-	enable = worgen_runners_cav        #lvl1 cavalry a,
-	enable = worgen_rushers_cav        #lvl1 cavalry b,
-	
+	enable = worgen_savage_warriors              #lvl1 infantry a,
+	enable = worgen_wild_fighters                #lvl1 infantry b,
+	enable = worgen_rushers_cav                  #lvl1 cavalry a,
+	enable = worgen_runners_cav                  #lvl1 cavalry b,
+
 	# tech_ogre
 	#	Ogre Clobbers (1)
 	#		An ogre loves nothing more than to clobber. Any enemy facing an ogre on the battle must keep their wits about them, lest they be clobbered from behind!
@@ -198,7 +200,6 @@ technology = {
 	infantry_fire		= 0.05
 	cavalry_fire  		= 0.05	
 	artillery_fire 		= 0.05
-
 }
 
 # 4
@@ -297,50 +298,69 @@ technology = {
 technology = {
 	year = 620
 	
+	# tech_thalassian
 	enable = bloodelf_ranger_cav
 	enable = bloodelf_flanker_cav
 	enable = bloodelf_battlemage
 	enable = bloodelf_ranger
 	enable = bloodelf_spellbreaker
 	enable = bloodelf_dragonhawks_cav
+	
+	# tech_troll
 	enable = troll_hunters
 	enable = troll_blooddrinker
 	enable = troll_raider
 	enable = troll_huntkill_cav
 	enable = troll_bloodletter
 	enable = troll_warraptor_cav
+	
+	# tech_orc
 	enable = orc_skullsplitter
 	enable = orc_armorworg_cav
 	enable = orc_warrreaver
 	enable = orc_reaper
+	
+	# tech_tauren
 	enable = tauren_cenarion
 	enable = tauren_wartotem
 	enable = tauren_wardrummer_cav
 	enable = tauren_stonetotem
+	
+	# tech_undead
 	enable = forsaken_footman
 	enable = forsaken_ranger
 	enable = forsaken_dreadchargers_cav
 	enable = forsaken_dreadguard
 	enable = forsaken_mountedranger_cav
+	
+	# tech_goblin
 	enable = goblin_bruisers
 	enable = goblin_sappers
 	enable = goblin_warshred_cav
 	enable = goblin_buccaneers
 	enable = goblin_twinblade_cav
+	
+	# tech_human
 	enable = human_mailedfoot
 	enable = human_firestrikebrig
 	enable = human_platedguards
 	enable = human_brotherhood_cav
 	enable = human_arathicharg_cav
 	enable = human_mailedlancer_cav
+	
+	# tech_gnome
 	enable = gnomish_sharpshooter
 	enable = gnomish_magisters
 	enable = gnomish_mountedrifle_cav
+	
+	# tech_darnassian
 	enable = nightelf_wardens
 	enable = nightelf_cenariondruids
 	enable = nightelf_nightblades
 	enable = nightelf_glaivenight_cav
 	enable = nightelf_prowler_cav
+	
+	
 	enable = dwarven_blackrifle
 	enable = dwarven_battlecharger_cav
 	enable = dwarven_shieldaxe
@@ -388,8 +408,18 @@ technology = {
 	enable = insectoid_swarmer
 	enable = insectoid_battleguard_cav
 	enable = insectoid_protector
-	enable = naga_guard
-	enable = naga_stalker
+	
+	# tech_naga
+	enable = naga_guard                          #lvl2 infantry a,
+	enable = naga_stalker                        #lvl2 infantry b,
+	enable = naga_cursed_tidemaster_cav          #lvl2 cavalry a,
+	enable = naga_enchanted_stormcaller_cav      #lvl2 cavalry a,
+	
+	# tech_worgen
+	enable = worgen_armed_savage_warriors        #lvl2 infantry a,
+	enable = worgen_city_fighters                #lvl2 infantry b,
+	enable = worgen_city_rushers_cav             #lvl2 cavalry a,
+	enable = worgen_armed_runners_cav            #lvl2 cavalry b,
 	
 	fort_17th = yes
 }
@@ -514,35 +544,48 @@ technology = {
 technology = {
 	year = 695
 	
+	# tech_troll
 	enable = troll_soulflayer
 	enable = troll_armraptor_cav
 	enable = troll_berserker
 	enable = troll_warmonger
 	enable = troll_dreadclaw_cav
+	
+	# tech_orc
 	enable = orc_marauders
 	enable = orc_conquerers
 	enable = orc_spikedworg_cav
 	enable = orc_legionnaire
 	enable = orc_honorguard
 	enable = orc_frenzyworg_cav
+	
+	# tech_tauren
 	enable = tauren_brave
 	enable = tauren_sunwalker
 	enable = tauren_greatwar_cav
 	enable = tauren_ironspear_cav
+	
+	# tech_undead
 	enable = forsaken_marine
 	enable = forsaken_plaguespreader
 	enable = forsaken_deathstalker
 	enable = forsaken_deathguard
 	enable = forsaken_dreadknight_cav
+	
+	# tech_goblin
 	enable = goblin_mariners
 	enable = goblin_grenadiers
 	enable = goblin_diamonblade_cav
 	enable = goblin_company
+	
+	# tech_thalassian
 	enable = bloodelf_bloodknight
 	enable = bloodelf_centurion
 	enable = bloodelf_knight_cav
 	enable = bloodelf_silvermoon_cav
 	enable = bloodelf_sunstriker
+	
+	# tech_human
 	enable = human_dismountedknights
 	enable = human_shieldwall
 	enable = human_marines
@@ -550,15 +593,21 @@ technology = {
 	enable = human_imperial_cav
 	enable = human_orderknights_cav
 	enable = human_vanguard
+	
+	# tech_gnome
 	enable = gnomish_holdout
 	enable = gnomish_stormtroopers
 	enable = gnomish_flamebreakers_cav
 	enable = gnomish_mechgroup_cav
+	
+	# tech_darnassian
 	enable = nightelf_kaldvaliant
 	enable = nightelf_silverswords
 	enable = nightelf_avengersofelune
 	enable = nightelf_ashenvale_cav
 	enable = nightelf_elderhunter_cav
+	
+	
 	enable = dwarven_mountaineers
 	enable = dwarven_battleguards
 	enable = dwarven_shattershields
@@ -608,8 +657,18 @@ technology = {
 	enable = insectoid_prophets_cav
 	enable = insectoid_gladiator
 	enable = insectoid_reaver
-	enable = naga_myrmidons
-	enable = naga_serpent
+	
+	# tech_naga
+	enable = naga_serpent                        #lvl3 infantry a,
+	enable = naga_myrmidons                      #lvl3 infantry b,
+	enable = naga_cursed_serpentmaster_cav       #lvl3 cavalry a,
+	enable = naga_enchanted_myrmidon_cav         #lvl3 cavalry b,
+	
+	# tech_worgen
+	enable = worgen_raged_savage_warriors        #lvl3 infantry a,
+	enable = worgen_vicious_city_fighters        #lvl3 infantry b,
+	enable = worgen_charging_beasts_cav          #lvl3 cavalry a,
+	enable = worgen_running_behemoth_cav         #lvl3 cavalry b,
 	
 	fort_18th = yes
 }

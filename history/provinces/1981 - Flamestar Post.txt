@@ -15,35 +15,32 @@ religion = religion_arcane
 hre = no
 trade_goods = army_supplies
 
-
-
-
 # Fall of Stormwind
 597.1.1 = { 
-owner = A41
-controller = A41
-add_core = A41
-culture = culture_blackrock
-religion = religion_fel 
+	owner = A41
+	controller = A41
+	add_core = A41
+	culture = culture_blackrock
+	religion = religion_fel 
 }
 
 # Beyond the Dark Portal
 600.1.1 = { 
-owner = XXX
-controller = XXX
-add_core = A41 
+	owner = XXX
+	controller = XXX
 }
 
-630.11.11 = { 
-owner = XXX
-controller = XXX 
+# The Third War
+617.11.11 = { 
+	owner = A41
+	controller = A41
 }
 
 # Cataclysm
 631.1.1 = { 
-owner = E56
-controller = E56
-add_core = E56
-culture = culture_dark_iron
-religion = religion_arcane 
+	owner = E56
+	controller = E56
+	add_core = E56
+	culture = culture_dark_iron
+	religion = religion_arcane 
 }

@@ -1,5 +1,6 @@
-# 2178
+# 2178 The Darkened Retreat
 is_city = yes
+
 add_core = A03
 owner = A03
 controller = A03
@@ -13,9 +14,6 @@ religion = religion_church_of_the_light
 
 hre = no
 trade_goods = fish
-
-
-
 
 # Fall of Stormwind
 597.1.1 = { 
@@ -37,23 +35,6 @@ trade_goods = fish
 
 # Rise of the Qiraji
 622.1.1 = { 
-	owner = E14
-	controller = E14
-	add_core = E14
-	culture = culture_forsaken
-	religion = religion_forgotten_shadow 
+	owner = A03
+	controller = A03
 }
-
-# Cataclysm
-631.1.1 = { 
-	owner = XXX
-	controller = XXX
-	remove_core = E14
-	culture = culture_azerothian
-	religion = religion_shadow 
-}
-
-
-
-
-
