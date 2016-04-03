@@ -1,6 +1,6 @@
-# tribal infantry 1a
+# kobold_candle_liberator 1a
 type = infantry
-unit_type = tech_troll
+unit_type = tech_kobold
 
 maneuver = 1
 offensive_morale = 2

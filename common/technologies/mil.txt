@@ -27,11 +27,10 @@ technology = {
 	year = 550
 	
 	# tech_troll
-	enable = troll_tribal	
-	enable = troll_headhunter
-	enable = troll_scout_cav
-	enable = troll_slayer
-	enable = troll_bow_cav
+	enable = troll_tribal                        #lvl1 infantry a,
+	enable = troll_headhunter                    #lvl1 infantry b,
+	enable = troll_scout_cav                     #lvl1 cavalry a,
+	enable = troll_slayer_cav                    #lvl1 cavalry b,
 	
 	# tech_orc
 	enable = orc_grunt
@@ -154,6 +153,13 @@ technology = {
 	enable = worgen_rushers_cav                  #lvl1 cavalry a,
 	enable = worgen_runners_cav                  #lvl1 cavalry b,
 
+	# tech_kobold
+	enable = kobold_candle_liberator             #lvl1 infantry a,
+	enable = kobold_tunnelers                    #lvl1 infantry b,
+	enable = kobold_searchers_cav                #lvl1 cavalry a,
+	enable = kobold_mining_rat_cav               #lvl1 cavalry b,
+	
+	
 	# tech_ogre
 	#	Ogre Clobbers (1)
 	#		An ogre loves nothing more than to clobber. Any enemy facing an ogre on the battle must keep their wits about them, lest they be clobbered from behind!
@@ -174,7 +180,6 @@ technology = {
 	# tech_furbolg
 	# tech_wolfvar
 	# tech_gorloc
-	# tech_kobold
 	# tech_harpy
 	# tech_quillboar
 	# tech_titan
@@ -307,12 +312,11 @@ technology = {
 	enable = bloodelf_dragonhawks_cav
 	
 	# tech_troll
-	enable = troll_hunters
-	enable = troll_blooddrinker
-	enable = troll_raider
-	enable = troll_huntkill_cav
-	enable = troll_bloodletter
-	enable = troll_warraptor_cav
+	
+	enable = troll_blooddrinker                  #lvl2 infantry a,
+	enable = troll_bloodletter                   #lvl2 infantry b,
+	enable = troll_huntkill_cav                  #lvl2 cavalry a,
+	enable = troll_warraptor_cav                 #lvl2 cavalry b,
 	
 	# tech_orc
 	enable = orc_skullsplitter
@@ -365,46 +369,70 @@ technology = {
 	enable = dwarven_battlecharger_cav
 	enable = dwarven_shieldaxe
 	enable = dwarven_cuirassiers_cav
+	
+	# tech_draenei
 	enable = draenei_avenger
 	enable = draenei_redeemer
 	enable = draenei_lightbringer
 	enable = draenei_shattrpike_cav
 	enable = draenei_watchers
 	enable = draenei_warelekk_cav
+	
+	# tech_dragonkin
 	enable = draconic_wyrmcataphact
 	enable = draconic_drake_cav
 	enable = draconic_wyrmguard
+	
+	# tech_old_god
 	enable = oldgod_unittwo
 	enable = oldgod_unitthree
+	
+	# tech_demonic
 	enable = demonic_shadowblade
 	enable = demonic_felhunter_cav
 	enable = demonic_gazer_cav
+	
+	# tech_elemental
 	enable = elemental_greater
 	enable = elemental_unbound
+	
+	# tech_scourge
 	enable = scourge_rotting
 	enable = scourge_abominations
 	enable = scourge_boneguard
 	enable = scourge_initiates_cav
+	
+	# tech_primitive
 	enable = creep_warriors
 	enable = creep_medium
 	enable = creep_seasoned_cav
 	enable = creep_seasoned
+	
+	# tech_vrykul
 	enable = vrykul_raiders
 	enable = vrykul_clansmen
 	enable = vrykul_huscarls
 	enable = vrykul_harpoons_cav
 	enable = vrykul_combatant
+	
+	# tech_human: special
 	enable = crusader_valiant
 	enable = crusader_lancers_cav
 	enable = crusader_praetorian
 	enable = crusader_cataphracts_cav
+	
+	# tech_pandaren
 	enable = pandaren_monk
 	enable = pandaren_stripedtiger_cav
 	enable = pandaren_sworndefenders
+	
+	# tech_mogu
 	enable = mogu_invaders
 	enable = mogu_jadespear_cav
 	enable = mogu_breakers
 	enable = mogu_stonebound_cav
+	
+	# tech_aqir
 	enable = insectoid_swarmer
 	enable = insectoid_battleguard_cav
 	enable = insectoid_protector
@@ -420,6 +448,12 @@ technology = {
 	enable = worgen_city_fighters                #lvl2 infantry b,
 	enable = worgen_city_rushers_cav             #lvl2 cavalry a,
 	enable = worgen_armed_runners_cav            #lvl2 cavalry b,
+	
+	# tech_kobold
+	enable = kobold_candle-mancer                #lvl2 infantry a,
+	enable = kobold_geomancers                   #lvl2 infantry b,
+	enable = kobold_gold_drivers_cav             #lvl2 cavalry a,
+	enable = kobold_armed_mining_rat_cav         #lvl2 cavalry b,
 	
 	fort_17th = yes
 }
@@ -545,11 +579,10 @@ technology = {
 	year = 695
 	
 	# tech_troll
-	enable = troll_soulflayer
-	enable = troll_armraptor_cav
-	enable = troll_berserker
-	enable = troll_warmonger
-	enable = troll_dreadclaw_cav
+	enable = troll_berserker                     #lvl3 infantry a,
+	enable = troll_warmonger                     #lvl3 infantry b,
+	enable = troll_dreadclaw_cav                 #lvl3 cavalry a,
+	enable = troll_armraptor_cav                 #lvl3 cavalry b,
 	
 	# tech_orc
 	enable = orc_marauders
@@ -614,46 +647,70 @@ technology = {
 	enable = dwarven_pikemen
 	enable = dwarven_dragoons_cav
 	enable = dwarven_stormpike_cav
+	
+	# tech_draenei
 	enable = draenei_justicar
 	enable = draenei_harbinger
 	enable = draenei_bullelekk_cav
 	enable = draenei_khoriumcat_cav
+	
+	# tech_dragonkin
 	enable = draconic_scalebane
 	enable = draconic_drakslayer
 	enable = draconic_dragon_cav
+	
+	# tech_old_god
 	enable = oldgod_unitfour
 	enable = oldgod_unitfive
+	
+	# tech_demonic
 	enable = demonic_wrathguard
 	enable = demonic_doomguard
 	enable = demonic_cataclysm_cav
 	enable = demonic_felguard
+	
+	# tech_elemental
 	enable = elemental_revenant
 	enable = elemental_ancient
+	
+	# tech_scourge
 	enable = scourge_damned
 	enable = scourge_scourged
 	enable = scourge_cavalier_cav
+	
+	# tech_primitive
 	enable = creep_charge_cav
 	enable = creep_veteran
 	enable = creep_skirmisher
 	enable = creep_guerilla
 	enable = creep_mountveteran_cav
+	
+	# tech_vrykul
 	enable = vrykul_runecasters
 	enable = vrykul_greathall_cav
 	enable = vrykul_chosen
 	enable = vrykul_ironhelms
+	
+	# tech_human: special
 	enable = crusader_onslaught
 	enable = crusader_crusader
 	enable = crusader_knights_cav
 	enable = crusader_cavaliers_cav
+	
+	# tech_pandaren
 	enable = pandaren_lightningpaw
 	enable = pandaren_cloudwalkers
 	enable = pandaren_forestprowl_cav
 	enable = pandaren_shadowsong_cav
 	enable = pandaren_shadopan
+	
+	# tech_mogu
 	enable = mogu_thunderlords
 	enable = mogu_twinblade_cav
 	enable = mogu_serpentrider_cav
 	enable = mogu_emperors
+	
+	# tech_aqir
 	enable = insectoid_prophets_cav
 	enable = insectoid_gladiator
 	enable = insectoid_reaver
@@ -669,6 +726,12 @@ technology = {
 	enable = worgen_vicious_city_fighters        #lvl3 infantry b,
 	enable = worgen_charging_beasts_cav          #lvl3 cavalry a,
 	enable = worgen_running_behemoth_cav         #lvl3 cavalry b,
+	
+	# tech_kobold
+	enable = kobold_candle_lords                 #lvl3 infantry a,
+	enable = kobold_earth_eater                  #lvl3 infantry b,
+	enable = kobold_gold_tooths_cav              #lvl3 cavalry a,
+	enable = kobold_bald_pillager_cav            #lvl3 cavalry b,
 	
 	fort_18th = yes
 }

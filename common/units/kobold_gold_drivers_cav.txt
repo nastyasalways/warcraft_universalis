@@ -1,6 +1,6 @@
-# troll_huntkill_cav 2a
+# kobold_gold_drivers_cav 2a
 type = cavalry
-unit_type = tech_troll
+unit_type = tech_kobold
 
 maneuver = 2
 offensive_morale = 3
