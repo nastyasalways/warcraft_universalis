@@ -153,6 +153,7 @@ l_english:
  culture_legion_cultist: "Fel Cultist"
  culture_fel_orc: "Fel Orc"
  culture_felblood_elf: "Felblood Elf"
+ culture_satyr: "Satyr"
  
  culture_group_satyr: "Satyr"
  culture_jadefire: "Jadefire"
@@ -167,13 +168,12 @@ l_english:
  culture_group_naga: "Naga"
  culture_nazja: "Nazja"
  culture_vashjari: "Vashjari"
- culture_wrathscale: "Wrathscale"
- culture_blackfathom: "Blackfathom"
- culture_hatecrest: "Hatecrest"
+ culture_zoram: "Zoram"
  
  culture_group_depths: "Depths"
  culture_nerglish: "Murloc"
  culture_jinyu: "Jinyu"
+ culture_gorloc: "Gorloc"
  
  culture_group_lobstrok: "Lobstrok"
  culture_makrura: "Makrura"
@@ -278,7 +278,6 @@ l_english:
  culture_razorfen: "Razorfen"
  
  culture_group_titan: "Titan"
- culture_tol_vir: "Tol'vir"
  culture_earthen: "Earthen"
  culture_ironforge: "Ironforge"
  culture_wildhammer: "Wildhammer"
@@ -403,3 +402,13 @@ l_english:
  
  culture_group_yeti: "Yeti"
  culture_yeti: "Yeti"
+ 
+ culture_group_tol_vir: "Tol'vir"
+ culture_tol_vir: "Tol'vir"
+ culture_ramkahen: "Ramkahen"
+ culture_orsis: "Orsis"
+ culture_neferset: "Neferset"
+ 
+ culture_group_pygmy: "Pygmy"
+ culture_sand_pygmy: "Sand Pygmy"
+ culture_island_pygmy: "Island Pygmy"

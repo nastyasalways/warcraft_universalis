@@ -1,17 +1,17 @@
 # 1569
-is_city = no
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 6
+base_manpower = 6
+base_production = 6
 
 
-culture = noculture
-religion = noreligion
+culture = culture_ramkahen
+religion = religion_titan
 
 hre = no
-trade_goods = grain
+trade_goods = artifacts
 
-
-
-
+owner = G09
+controller = G09
+add_core = G09

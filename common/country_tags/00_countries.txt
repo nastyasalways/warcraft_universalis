@@ -75,6 +75,9 @@ F58 = "countries/Theramore Deserters.txt"
 F61 = "countries/Morgans Forces.txt"
 E19 = "countries/Fray Island.txt"
 G06 = "countries/Northwatch.txt"
+G07 = "countries/Marshal Expedition.txt"
+G11 = "countries/Adventurers.txt"
+G12 = "countries/Schnottz.txt"
 
 # Dwarven
 A28 = "countries/Wildhammer.txt"
@@ -90,6 +93,7 @@ E22 = "countries/Aerie Peak.txt"
 # Gnomish
 A32 = "countries/Gnomeregan.txt"
 A33 = "countries/Thermaplugg Exiles.txt"
+G13 = "countries/Gnomish Expedition.txt"
 
 # Orc
 A34 = "countries/Shadowmoon.txt"
@@ -364,6 +368,10 @@ B73 = "countries/Ulduar.txt"
 B74 = "countries/Uldaman.txt"
 B75 = "countries/Maraudon.txt" # tech_titan
 B76 = "countries/ThorModan.txt"
+G08 = "countries/Shapers.txt"
+G09 = "countries/Ramkahen.txt"
+G10 = "countries/Orsis.txt"
+G14 = "countries/Uldum.txt"
 
 # Arrakoa
 B77 = "countries/Skettis.txt" # tech_arrakoa
@@ -548,6 +556,10 @@ E93 = "countries/Grummle.txt"
 F51 = "countries/Zangar Giants.txt"
 F62 = "countries/Sporeggar.txt"
 F71 = "countries/Sporelok.txt"
+
+# Pygmy
+G15 = "countries/Oogah.txt"
+
 
 
 # Formables

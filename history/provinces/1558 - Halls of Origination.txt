@@ -1,16 +1,20 @@
 # 1558
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 7
+base_manpower = 7
+base_production = 7
 
 
-culture = noculture
-religion = noreligion
+culture = culture_tol_vir
+religion = religion_titan
 
 hre = no
-trade_goods = grain
+trade_goods = artifacts
+
+owner = G14
+controller = G14
+add_core = G14
 
 
 

@@ -5,6 +5,7 @@ technology_group 	= tech_titan
 religion			= religion_old_gods
 primary_culture 	= culture_iron
 capital 			= 1
+government_rank = 732
 
 546.1.1 = {  
 monarch = {  

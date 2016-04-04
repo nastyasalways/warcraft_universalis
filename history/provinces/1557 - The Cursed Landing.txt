@@ -1,17 +1,22 @@
 # 1557
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
 
-culture = noculture
-religion = noreligion
+culture = culture_tol_vir
+religion = religion_titan
 
 hre = no
-trade_goods = grain
+trade_goods = naval_supplies
 
-
-
+631.1.1 = {
+owner = G13
+controller = G13
+add_core = G13
+culture = culture_gnome
+religion = religion_old_gods
+}
 

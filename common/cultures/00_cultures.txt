@@ -3286,18 +3286,6 @@ culture_group_titan = {
 	dynasty_names = {
 			
 	}
-		
-	culture_tol_vir = {
-		male_names = {
-			
-		}
-		female_names = {
-		
-		}
-		dynasty_names = {
-			
-		}
-	}
 	
 	culture_earthen = {
 		male_names = {
@@ -3384,6 +3372,68 @@ culture_group_titan = {
 	}
 
 	culture_grummle = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+}
+
+culture_group_tol_vir = {
+	graphical_culture = westerngfx
+
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+			
+	}
+		
+	culture_neferset = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+	culture_ramkahen = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+	culture_orsis = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+	culture_tol_vir = {
 		male_names = {
 			
 		}
@@ -4620,3 +4670,40 @@ culture_group_yeti = {
 	}
 }
 
+culture_group_pygmy = {
+	graphical_culture = westerngfx
+
+	male_names = {
+			
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+		
+	}
+		
+	culture_sand_pygmy = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+	
+	culture_island_pygmy = {
+		male_names = {
+			
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+			
+		}
+	}
+}

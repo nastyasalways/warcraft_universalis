@@ -1,17 +1,29 @@
 # 1568
-is_city = no
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 6
+base_manpower = 6
+base_production = 6
 
 
-culture = noculture
-religion = noreligion
+culture = culture_orsis
+religion = religion_titan
 
 hre = no
-trade_goods = grain
+trade_goods = artifacts
 
+owner = G10
+controller = G10
+add_core = G10
 
-
-
+631.1.1 = {
+owner = E28
+controller = E28
+add_core = E28
+culture = culture_air
+religion = religion_air
+base_tax = 3
+base_manpower = 3
+base_production = 3
+is_city = yes
+}
