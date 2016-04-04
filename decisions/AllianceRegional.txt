@@ -322,4 +322,41 @@ pandaria_alliance = {
 		}
 }
 
+# Continent Wide Alliances
+
+kalimdor_alliance = {
+	major = yes
+	potential = {
+        has_country_modifier = alliance_member
+		capital_scope = { continent = continent_kalimdor }
+		any_neighbor_country = {
+			has_country_modifier = alliance_member
+			NOT = { alliance_with = ROOT }
+			capital_scope = { continent = continent_kalimdor }
+			ai = yes
+		}
+	}
+	allow = {
+		any_neighbor_country = {
+			has_country_modifier = alliance_member
+			NOT = { alliance_with = ROOT }
+			capital_scope = { continent = continent_kalimdor }
+		}
+	}
+	effect = {
+        every_neighbor_country = {
+			limit = {
+				has_country_modifier = alliance_member
+				NOT = { alliance_with = ROOT }
+				capital_scope = { continent = continent_kalimdor }
+				ai = yes
+			}
+		create_alliance = ROOT
+		}
+	}		
+	ai_will_do = {
+		factor = 1
+	}
+}
+
 }
