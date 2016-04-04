@@ -11,7 +11,13 @@ l_english:
  join_neutral_title: "Embrace Neutrality"
  join_neutral_desc: "We are on good terms with the Alliance and the Horde, and we can keep things this way by adopting an official neutral stance between the two parties."
  leave_neutral_title: "Abandon Neutrality"
- leave_neutral_desc: "'At least with enemies you know where they stand, but with neutrals? Who knows?' Let that be said of us no longer!"
+ leave_neutral_desc: "'At least with enemies you know where they stand, but with neutrals? Who knows?!' Let that be said of us no longer!"
+ horde_opinion_title: "Horde Declaration"
+ horde_opinion_desc: "A clear, crisp declaration of our alleigance to the Horde will show off our consummate professionalism, and really give our diplomatic relations a big boost."
+ alliance_opinion_title: "Alliance Declaration"
+ alliance_opinion_desc: "A clear, crisp declaration of our alleigance to the Alliance will show off our consummate professionalism, and really give our diplomatic relations a big boost."
+ neutral_opinion_title: "Declaration of Neutrality"
+ neutral_opinion_desc: "A clear, crisp declaration of our commitment to the neutrality will show off our consummate professionalism, and really give our diplomatic relations a big boost."
  
  # Regional Alliance Decisions
  lordaeron_alliance_title: "Defend the Alliance"
@@ -32,6 +38,9 @@ l_english:
  outland_alliance_desc: "As members of the Alliance we are obligated to join our allies in the defense of Alliance territory in Outland."
  pandaria_alliance_title: "Defend the Alliance"
  pandaria_alliance_desc: "As members of the Alliance we are obligated to join our allies in the defense of Alliance territory in Pandaria."
+ kalimdor_alliance_title: "Defend Kalimdor"
+ kalimdor_alliance_desc: "As members of the Alliance we are obligated to join our neighbouring allies in the defense of Alliance territory in Kalimdor."
+ 
  # Regional Horde Decisions
  lordaeron_horde_title: "Defend the Horde"
  lordaeron_horde_desc: "As members of the Horde we are obligated to join our allies in the defense of Horde territory in Lordaeron."
@@ -51,3 +60,5 @@ l_english:
  outland_horde_desc: "As members of the Horde we are obligated to join our allies in the defense of Horde territory in Outland."
  pandaria_horde_title: "Defend the Horde"
  pandaria_horde_desc: "As members of the Horde we are obligated to join our allies in the defense of Horde territory in Pandaria."
+ kalimdor_horde_title: "Defend Kalimdor"
+ kalimdor_horde_desc: "As members of the Horde we are obligated to join our neighbouring allies in the defense of Horde territory in Kalimdor."
