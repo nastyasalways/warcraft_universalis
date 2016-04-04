@@ -6,12 +6,18 @@ base_manpower = 1
 base_production = 1
 
 
-culture = noculture
-religion = noreligion
+culture = culture_air
+religion = religion_air
 
 hre = no
-trade_goods = grain
+trade_goods = artifacts
 
-
-
-
+631.1.1 = {
+owner = E28
+controller = E28
+add_core = E28
+base_tax = 5
+base_manpower = 5
+base_production = 5
+is_city = yes
+}

@@ -1,0 +1,26 @@
+# Uldun
+government 			= administrative_kingdom
+mercantilism 		= 0.1
+technology_group 	= tech_titan
+religion			= religion_titan
+primary_culture 	= culture_tol_vir
+capital 			= 1558
+government_rank = 1
+
+546.1.1 = { 
+	monarch = { 
+		name = "Rajh" 
+		dynasty = "of the Sun"
+		adm = 4
+		dip = 2
+		mil = 3        
+	} 
+	heir = { 
+		name = "Isiset" 
+		dynasty = "of Magic"
+		adm = 4
+		dip = 2
+		mil = 2
+female = yes         
+	} 
+}

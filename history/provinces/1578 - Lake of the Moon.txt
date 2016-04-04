@@ -1,4 +1,4 @@
-# 1578
+# 1578 Oasis of Vir'sar
 is_city = no
 
 base_tax = 1
@@ -6,11 +6,20 @@ base_manpower = 1
 base_production = 1
 
 
-culture = noculture
-religion = noreligion
+culture = culture_ramkahen
+religion = religion_titan
 
 hre = no
-trade_goods = grain
+trade_goods = fish
+
+631.1.1 = {
+owner = G11
+controller = G11
+add_core = G11
+culture = culture_kul_tiran
+religion = religion_church_of_the_light
+}
+
 
 
 

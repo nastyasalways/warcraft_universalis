@@ -1,15 +1,16 @@
 # Ulduar
-government 			= cult_gov
+government 			= administrative_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_titan
 religion			= religion_old_gods
 primary_culture 	= culture_iron
 capital 			= 782
+government_rank = 1
 
 546.1.1 = { 
 	monarch = { 
 		name = "Loken" 
-		dynasty = "the Watcher" 
+		dynasty = "Kronus" 
 		adm = 3
 		dip = 5
 		mil = 2

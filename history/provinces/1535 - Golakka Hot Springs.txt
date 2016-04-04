@@ -1,17 +1,20 @@
 # 1535
 is_city = no
 
-base_tax = 1
+base_tax = 2
 base_manpower = 1
-base_production = 1
+base_production = 2
 
 
-culture = noculture
-religion = noreligion
+culture = culture_water
+religion = religion_water
 
 hre = no
-trade_goods = grain
+trade_goods = fur
 
+owner = E24
+controller = E24
+add_core = E24
 
 
 

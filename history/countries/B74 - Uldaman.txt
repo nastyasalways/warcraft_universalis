@@ -1,15 +1,16 @@
 # Uldaman
-government 			= cult_gov
+government 			= administrative_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_titan
 religion			= religion_titan
 primary_culture 	= culture_earthen
+government_rank = 1
 capital 			= 1968
 
 546.1.1 = { 
 	monarch = { 
 		name = "Archaedas" 
-		dynasty = "the Watcher" 
+		dynasty = "the Keeper" 
 		adm = 3
 		dip = 3
 		mil = 3
