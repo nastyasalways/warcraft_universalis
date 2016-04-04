@@ -1,16 +1,36 @@
 # 1531
 is_city = no
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 3
+base_manpower = 2
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
+culture = culture_construct
+religion = religion_titan
 
 hre = no
-trade_goods = grain
+trade_goods = workshops
+
+owner = G08
+controller = G08
+add_core = G08
+
+626.1.1 = {
+owner = E12
+controller = E12
+add_core = E12
+culture = culture_cultist
+religion = religion_the_damned
+}
+
+627.1.1 = {
+owner = G08
+controller = G08
+remove_core = E12
+culture = culture_construct
+religion = religion_titan
+}
 
 
 

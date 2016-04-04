@@ -1,16 +1,34 @@
 # 1563
-is_city = no
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 6
+base_manpower = 6
+base_production = 6
 
 
-culture = noculture
-religion = noreligion
+culture = culture_neferset
+religion = religion_titan
 
 hre = no
-trade_goods = grain
+trade_goods = artifacts
+
+owner = B72
+controller = B72
+add_core = B72
+
+632.1.1 = {
+owner = G09
+controller = G09
+add_core = G09
+culture = culture_neferset
+base_tax = 3
+base_manpower = 3
+base_production = 3
+}
+
+
+
+
 
 
 

@@ -1,16 +1,22 @@
-# 1576
-is_city = no
+# 1576 Tombs of the Precusors
+is_city = yes
 
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 2
+base_manpower = 2
+base_production = 2
 
 
-culture = noculture
-religion = noreligion
+culture = culture_ramkahen
+religion = religion_titan
 
 hre = no
-trade_goods = grain
+trade_goods = artifacts
+
+capital = "Nahom"
+
+owner = G09
+controller = G09
+add_core = G09
 
 
 

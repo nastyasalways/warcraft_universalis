@@ -1,17 +1,15 @@
 # 1571
-is_city = no
-
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 3
+base_manpower = 3
+base_production = 3
 
 
-culture = noculture
-religion = noreligion
+culture = culture_sand_pygmy
+religion = religion_voodoo
 
 hre = no
-trade_goods = grain
+trade_goods = crypts
 
-
-
-
+owner = G15
+controller = G15
+add_core = G15

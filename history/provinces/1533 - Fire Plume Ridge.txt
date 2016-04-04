@@ -6,11 +6,15 @@ base_manpower = 1
 base_production = 1
 
 
-culture = noculture
-religion = noreligion
+culture = culture_fire
+religion = religion_fire
 
 hre = no
-trade_goods = grain
+trade_goods = warbeasts
+
+owner = E26
+controller = E26
+add_core = E26
 
 
 

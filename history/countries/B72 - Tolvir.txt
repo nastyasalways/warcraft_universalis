@@ -1,7 +1,7 @@
-# Tolvir
-government 			= cult_gov
+# Neferset Tolvir
+government 			= militaristic_kingdom
 mercantilism 		= 0.1
 technology_group 	= tech_titan
-religion			= religion_air
-primary_culture 	= culture_air
-capital 			= 1
+religion			= religion_titan
+primary_culture 	= culture_neferset
+capital 			= 1563
