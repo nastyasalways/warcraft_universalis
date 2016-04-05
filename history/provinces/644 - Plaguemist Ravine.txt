@@ -15,18 +15,11 @@ religion = religion_ancestral
 hre = no 
 trade_goods = smugglers
 
-# High elven ranger expedition to assist wildhammers with hinterlands trolls after second war
-600.1.1 = {
-add_core = E49
-owner = E49  
-controller = E49
-remove_core = E22
-religion = religion_church_of_the_light
-culture = culture_high_elf
-}
-
-# The Frozen Throne - Independance and influx of high elven refugees
+# The Frozen Throne - Abandoned after the Plague seeps in
 618.1.1 = {
-base_tax = 2
-base_production = 2
+owner = xxx
+controller = xxx
+culture = culture_scourge
+religion = religion_the_damned
+trade_goods = warbeasts
 }

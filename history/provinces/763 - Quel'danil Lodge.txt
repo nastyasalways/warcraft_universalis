@@ -1,38 +1,43 @@
-# 763 Quel'Danil Lodge
+# 763 Quel'Danil Lodge (This is incorrectly placed, location is actually Agol'Watha and belongs to the Vilebranch)
+
 is_city = yes
 
 add_core = A60
-owner = A60
+owner = A60 
 controller = A60
 
 base_tax = 3
 base_manpower = 3
 base_production = 3
-
+ 
 culture = culture_vilebranch
 religion = religion_loa
-
-hre = no 
-trade_goods = fur
  
-# High elven expedition to assist wildhammers with hinterlands trolls after second war
-600.1.1 = {
-add_core = E49
-owner = E49  
-controller = E49 
-capital = "Quel'danil Lodge"
-religion = religion_church_of_the_light
-culture = culture_high_elf
+hre = no 
+trade_goods = fish
+ 
+
+
+
+
+# Beyond the Dark Portal
+600.1.1 = { 
+remove_core = A60 
+owner = XXX
+controller = XXX
+culture = culture_ooze 
 }
 
 
-# The Frozen Throne - Independance and influx of high elven refugees
-618.1.1 = { 
-base_tax = 4
-base_production = 4
+630.11.11 = { 
+owner = XXX
+controller = XXX
 }
 
-# War in the Hinterlands
+# Cataclysm
 631.1.1 = {
-add_claim = A61
+add_core = A60
+owner = A60
+controller = A60
+culture = culture_vilebranch 
 }
