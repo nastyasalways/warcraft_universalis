@@ -32,9 +32,13 @@ l_english:
  neutral_neutral: "Neutral Organization"
  neutral_creep: "Neutral Organization"
  
+
  #######################
  # TRIGGERED MODIFIERS #
  #######################
 
  alliance_enemy: "Enemy of the Alliance"
  horde_enemy: "Enemy of the Horde"
+
+
+
