@@ -18,6 +18,18 @@ l_english:
  alliance_opinion_desc: "A clear, crisp declaration of our alleigance to the Alliance will show off our consummate professionalism, and really give our diplomatic relations a big boost."
  neutral_opinion_title: "Declaration of Neutrality"
  neutral_opinion_desc: "A clear, crisp declaration of our commitment to the neutrality will show off our consummate professionalism, and really give our diplomatic relations a big boost."
+ alliance_attack_neutral_title: "Alliance Treachery"
+ alliance_attack_neutral_desc: "The Alliance has betrayed our trust and we are at war! The Horde will fight at our side, provided we swear our alleigance."
+ horde_attack_neutral_title: "Horde Betrayal"
+ horde_attack_neutral_desc: "The Horde has ignored our neutral position and is waging war against us! The Alliance offers its assitance, provided we join ourselves to them."
+ 
+ # Faction Membership Information
+ alliance_info_title: "Alliance Membership"
+ alliance_info_desc: "All known members of the Alliance are displayed in the envelope tooltip."
+ horde_info_title: "Horde Membership"
+ horde_info_desc: "All known members of the Horde are displayed in the envelope tooltip."
+ neutral_info_title: "Neutral Organizations"
+ neutral_info_desc: "All known Neutral Organizations are displayed in the envelope tooltip."
  
  # Regional Alliance Decisions
  lordaeron_alliance_title: "Defend the Alliance"

@@ -1,12 +1,8 @@
-# The Forsaken
-
 959 = "The Sludge Fields"
 966 = "Galen's Fall"
 991 = "Ruins of Southshore"
 1015 = "Garren's Haunt"
 2961 = "Forsaken Gate"
-648 = "Forsaken High Command"
-663 = "Forsaken Rear Guard"
 672 = "The Forsaken Road"
 746 = "The Decrepit Fields"
 1928 = "Death's Watch Waystation"
@@ -20,6 +16,5 @@
 651 = "Apothecary Camp"
 546 = "New Agamand"
 1039 = "Deatholme"
-2957 = "Forsaken Bulwark"
 843 = "Gahrron's Withering"
-926 = "Hiri'watha"
+2970 = "Death's Step"
