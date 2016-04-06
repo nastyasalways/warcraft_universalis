@@ -33,6 +33,11 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_sort_adm_cost"
+		texturefile = "gfx//interface//sort_adm_cost.dds"
+	}	
+	
+	spriteType = {
 		name = "GFX_sort_loyalty"
 		texturefile = "gfx//interface//sort_loyalty.dds"
 	}
