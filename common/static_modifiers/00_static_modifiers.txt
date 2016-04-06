@@ -382,7 +382,7 @@ base_values = {
 	vassal_income = 0.10
 	horde_unity = -2
 	devotion = -0.5
-	max_states = 5
+	max_states = 1
 }
 
 # AI 'cheats' that compensate for flaws in its long-term decision making, removing these may severely cripple the AI
@@ -626,7 +626,7 @@ devotion = {
 corruption = {
 	global_spy_defence = -0.25
 	spy_offence = -0.50	
-	all_power_cost = 1.0
+	#all_power_cost = 1.0
 	min_autonomy = 50
 
 }

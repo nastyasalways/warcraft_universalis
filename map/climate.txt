@@ -38,18 +38,18 @@ impassable = {
 	1113 # 
 	1114 # 
 	1115 # 
-	1116 # 
-	1117 # 
-	1118 # 
-	1119 # 
-	1120 # 
+	1116 # Ghostland Mountains
+	1117 # Lordaeron Mountains
+	1118 # Lordaeron Mountains
+	1119 # Greymane Mountains
+	1120 # Tirisfal Mountains
 	1121 # 
 	1122 # 
 	1123 # 
 	1124 # 
-	1126 # 
-	1127 # 
-	1128 # 
+	1126 # Aerie Peak Mountains
+	1127 # Stromgarde Mountains
+	1128 # Greymane Wall
 	1129 # Twilight Mountains
 	1130 # Grim Mountains
 	1131 # Wetland Mountains
@@ -72,7 +72,7 @@ impassable = {
 	1152 # 
 	1153 # Sorrowful Mountains
 	1154 # 
-	1155 # 
+	1155 # EK Wasteland
 	1156 # 
 	1157 # Zul'kunda Mountains
 	1158 # Blasted Mountains
