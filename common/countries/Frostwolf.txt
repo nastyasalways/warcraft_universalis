@@ -1,6 +1,6 @@
 # Frostwolf
 
-graphical_culture = westerngfx
+graphical_culture = orcgfx
 
 color = { 84 243 222 }
 

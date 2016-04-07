@@ -1,6 +1,6 @@
 # Burning Blade
 
-graphical_culture = westerngfx
+graphical_culture = orcgfx
 
 color = { 169 113 43 }
 

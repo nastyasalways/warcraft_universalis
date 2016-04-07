@@ -1,6 +1,6 @@
 # Orgrimmar
 
-graphical_culture = westerngfx
+graphical_culture = orcgfx
 
 color = { 225 125 140 }
 

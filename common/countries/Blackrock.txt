@@ -1,6 +1,6 @@
 # Blackrock
 
-graphical_culture = westerngfx
+graphical_culture = orcgfx
 
 color = { 50 50 50 }
 

@@ -1,6 +1,6 @@
 # Twilights Hammer
 
-graphical_culture = westerngfx
+graphical_culture = orcgfx
 
 color = { 9 144 122 }
 

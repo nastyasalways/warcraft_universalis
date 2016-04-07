@@ -1,6 +1,6 @@
 # Thunderlord
 
-graphical_culture = westerngfx
+graphical_culture = orcgfx
 
 color = { 15 170 0 }
 

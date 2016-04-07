@@ -1,6 +1,6 @@
 # Dragonmaw
 
-graphical_culture = westerngfx
+graphical_culture = orcgfx
 
 color = { 75 195 219 }
 

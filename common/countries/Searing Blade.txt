@@ -1,6 +1,6 @@
 # Searing Blade
 
-graphical_culture = westerngfx
+graphical_culture = orcgfx
 
 color = { 122 167 162 }
 

@@ -1,6 +1,6 @@
 # Warsong
 
-graphical_culture = westerngfx
+graphical_culture = orcgfx
 
 color = { 96 174 148 }
 

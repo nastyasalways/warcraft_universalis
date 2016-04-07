@@ -1,6 +1,6 @@
 # Shadowmoon
 
-graphical_culture = westerngfx
+graphical_culture = orcgfx
 
 color = { 201 130 31 }
 
