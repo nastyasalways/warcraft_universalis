@@ -7,356 +7,370 @@
 
 country_decisions = {
 
-lordaeron_alliance = {
-	    major = yes
-		potential = {
-        has_country_modifier = alliance_member
-		capital_scope = { superregion = lordaeron_superregion }
-		any_known_country = {
-		has_country_modifier = alliance_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = lordaeron_superregion }
-		ai = yes
-		}
-		}
+    lordaeron_alliance = {
+        major = yes
+        
+        potential = {
+            has_country_modifier = alliance_member
+            
+            capital_scope = { superregion = lordaeron_superregion }
+            
+            any_known_country = {
+                has_country_modifier = alliance_member
+                NOT = { alliance_with = ROOT }
+                capital_scope = { superregion = lordaeron_superregion }
+                ai = yes
+            }
+        }
+        
 		allow = {
-		any_known_country = {
-		has_country_modifier = alliance_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = lordaeron_superregion }
+            any_known_country = {
+                has_country_modifier = alliance_member
+                NOT = { alliance_with = ROOT }
+                capital_scope = { superregion = lordaeron_superregion }
+            }
 		}
-		}
+        
 		effect = {
-        every_known_country = {
-		limit = {
-		has_country_modifier = alliance_member
-        NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = lordaeron_superregion }
-		ai = yes
-		}
-		create_alliance = ROOT
-		}
+            every_known_country = {
+                limit = {
+                    has_country_modifier = alliance_member
+                    NOT = { alliance_with = ROOT }
+                    capital_scope = { superregion = lordaeron_superregion }
+                    ai = yes
+                }
+                
+                create_alliance = ROOT
+            }
 		}		
+        
 		ai_will_do = {
 			factor = 1
 		}
-}
+    }
 
-khaz_modan_alliance = {
+    khaz_modan_alliance = {
 	    major = yes
 		potential = {
-        has_country_modifier = alliance_member
-		capital_scope = { superregion = khaz_modan_superregion }
-		any_known_country = {
-		has_country_modifier = alliance_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = khaz_modan_superregion }
-		ai = yes
+            has_country_modifier = alliance_member
+            capital_scope = { superregion = khaz_modan_superregion }
+            
+            any_known_country = {
+                has_country_modifier = alliance_member
+                NOT = { alliance_with = ROOT }
+                capital_scope = { superregion = khaz_modan_superregion }
+                ai = yes
+            }
 		}
-		}
+        
 		allow = {
-		any_known_country = {
-		has_country_modifier = alliance_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = khaz_modan_superregion }
+            any_known_country = {
+                has_country_modifier = alliance_member
+                NOT = { alliance_with = ROOT }
+                capital_scope = { superregion = khaz_modan_superregion }
+            }
 		}
-		}
+        
 		effect = {
-        every_known_country = {
-		limit = {
-		has_country_modifier = alliance_member
-        NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = khaz_modan_superregion }
-		ai = yes
-		}
-		create_alliance = ROOT
-		}
+            every_known_country = {
+                limit = {
+                    has_country_modifier = alliance_member
+                    NOT = { alliance_with = ROOT }
+                    capital_scope = { superregion = khaz_modan_superregion }
+                    ai = yes
+                }
+                create_alliance = ROOT
+            }
 		}		
+        
 		ai_will_do = {
 			factor = 1
 		}
-}
+    }
 
-azeroth_alliance = {
+    azeroth_alliance = {
 	    major = yes
 		potential = {
-        has_country_modifier = alliance_member
-		capital_scope = { superregion = azeroth_superregion }
-		any_known_country = {
-		has_country_modifier = alliance_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = azeroth_superregion }
-		ai = yes
+            has_country_modifier = alliance_member
+            capital_scope = { superregion = azeroth_superregion }
+            any_known_country = {
+                has_country_modifier = alliance_member
+                NOT = { alliance_with = ROOT }
+                capital_scope = { superregion = azeroth_superregion }
+                ai = yes
+            }
 		}
-		}
+        
 		allow = {
-		any_known_country = {
-		has_country_modifier = alliance_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = azeroth_superregion }
+            any_known_country = {
+                has_country_modifier = alliance_member
+                NOT = { alliance_with = ROOT }
+                capital_scope = { superregion = azeroth_superregion }
+            }
 		}
-		}
+        
 		effect = {
-        every_known_country = {
-		limit = {
-		has_country_modifier = alliance_member
-        NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = azeroth_superregion }
-		ai = yes
-		}
-		create_alliance = ROOT
-		}
-		}		
+            every_known_country = {
+                limit = {
+                    has_country_modifier = alliance_member
+                    NOT = { alliance_with = ROOT }
+                    capital_scope = { superregion = azeroth_superregion }
+                    ai = yes
+                }
+                
+                create_alliance = ROOT
+            }
+		}	
+        
 		ai_will_do = {
 			factor = 1
 		}
-}
+    }
 
-north_kalimdor_alliance = {
+    north_kalimdor_alliance = {
 	    major = yes
 		potential = {
-        has_country_modifier = alliance_member
-		capital_scope = { superregion = north_kalimdor_superregion }
-		any_known_country = {
-		has_country_modifier = alliance_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = north_kalimdor_superregion }
-		ai = yes
-		}
+            has_country_modifier = alliance_member
+            capital_scope = { superregion = north_kalimdor_superregion }
+            any_known_country = {
+                has_country_modifier = alliance_member
+                NOT = { alliance_with = ROOT }
+                capital_scope = { superregion = north_kalimdor_superregion }
+                ai = yes
+            }
 		}
 		allow = {
-		any_known_country = {
-		has_country_modifier = alliance_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = north_kalimdor_superregion }
-		}
+            any_known_country = {
+                has_country_modifier = alliance_member
+                NOT = { alliance_with = ROOT }
+                capital_scope = { superregion = north_kalimdor_superregion }
+            }
 		}
 		effect = {
-        every_known_country = {
-		limit = {
-		has_country_modifier = alliance_member
-        NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = north_kalimdor_superregion }
-		ai = yes
-		}
-		create_alliance = ROOT
-		}
+            every_known_country = {
+                limit = {
+                    has_country_modifier = alliance_member
+                    NOT = { alliance_with = ROOT }
+                    capital_scope = { superregion = north_kalimdor_superregion }
+                    ai = yes
+                }
+                create_alliance = ROOT
+            }
 		}		
 		ai_will_do = {
 			factor = 1
 		}
-}
+    }
 
-central_kalimdor_alliance = {
+    central_kalimdor_alliance = {
 	    major = yes
 		potential = {
-        has_country_modifier = alliance_member
-		capital_scope = { superregion = central_kalimdor_superregion }
-		any_known_country = {
-		has_country_modifier = alliance_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = central_kalimdor_superregion }
-		ai = yes
-		}
+            has_country_modifier = alliance_member
+            capital_scope = { superregion = central_kalimdor_superregion }
+            any_known_country = {
+                has_country_modifier = alliance_member
+                NOT = { alliance_with = ROOT }
+                capital_scope = { superregion = central_kalimdor_superregion }
+                ai = yes
+            }
 		}
 		allow = {
-		any_known_country = {
-		has_country_modifier = alliance_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = central_kalimdor_superregion }
-		}
+            any_known_country = {
+                has_country_modifier = alliance_member
+                NOT = { alliance_with = ROOT }
+                capital_scope = { superregion = central_kalimdor_superregion }
+            }
 		}
 		effect = {
-        every_known_country = {
-		limit = {
-		has_country_modifier = alliance_member
-        NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = central_kalimdor_superregion }
-		ai = yes
-		}
-		create_alliance = ROOT
-		}
+            every_known_country = {
+                limit = {
+                    has_country_modifier = alliance_member
+                    NOT = { alliance_with = ROOT }
+                    capital_scope = { superregion = central_kalimdor_superregion }
+                    ai = yes
+                }
+                create_alliance = ROOT
+            }
 		}		
 		ai_will_do = {
 			factor = 1
 		}
-}
+    }
 
-south_kalimdor_alliance = {
+    south_kalimdor_alliance = {
 	    major = yes
 		potential = {
-        has_country_modifier = alliance_member
-		capital_scope = { superregion = south_kalimdor_superregion }
-		any_known_country = {
-		has_country_modifier = alliance_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = south_kalimdor_superregion }
-		ai = yes
-		}
+            has_country_modifier = alliance_member
+            capital_scope = { superregion = south_kalimdor_superregion }
+            any_known_country = {
+                has_country_modifier = alliance_member
+                NOT = { alliance_with = ROOT }
+                capital_scope = { superregion = south_kalimdor_superregion }
+                ai = yes
+            }
 		}
 		allow = {
-		any_known_country = {
-		has_country_modifier = alliance_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = south_kalimdor_superregion }
-		}
+            any_known_country = {
+                has_country_modifier = alliance_member
+                NOT = { alliance_with = ROOT }
+                capital_scope = { superregion = south_kalimdor_superregion }
+            }
 		}
 		effect = {
-        every_known_country = {
-		limit = {
-		has_country_modifier = alliance_member
-        NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = south_kalimdor_superregion }
-		ai = yes
-		}
-		create_alliance = ROOT
-		}
+            every_known_country = {
+                limit = {
+                    has_country_modifier = alliance_member
+                    NOT = { alliance_with = ROOT }
+                    capital_scope = { superregion = south_kalimdor_superregion }
+                    ai = yes
+                }
+                create_alliance = ROOT
+            }
 		}		
 		ai_will_do = {
 			factor = 1
 		}
-}
+    }
 
-northrend_alliance = {
+    northrend_alliance = {
 	    major = yes
 		potential = {
-        has_country_modifier = alliance_member
-		capital_scope = { superregion = northrend_superregion }
-		any_known_country = {
-		has_country_modifier = alliance_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = northrend_superregion }
-		ai = yes
-		}
+            has_country_modifier = alliance_member
+            capital_scope = { superregion = northrend_superregion }
+            any_known_country = {
+                has_country_modifier = alliance_member
+                NOT = { alliance_with = ROOT }
+                capital_scope = { superregion = northrend_superregion }
+                ai = yes
+            }
 		}
 		allow = {
-		any_known_country = {
-		has_country_modifier = alliance_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = northrend_superregion }
-		}
+            any_known_country = {
+                has_country_modifier = alliance_member
+                NOT = { alliance_with = ROOT }
+                capital_scope = { superregion = northrend_superregion }
+            }
 		}
 		effect = {
-        every_known_country = {
-		limit = {
-		has_country_modifier = alliance_member
-        NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = northrend_superregion }
-		ai = yes
-		}
-		create_alliance = ROOT
-		}
+            every_known_country = {
+                limit = {
+                    has_country_modifier = alliance_member
+                    NOT = { alliance_with = ROOT }
+                    capital_scope = { superregion = northrend_superregion }
+                    ai = yes
+                }
+                create_alliance = ROOT
+            }
 		}		
 		ai_will_do = {
 			factor = 1
 		}
-}
+    }
 
-outland_alliance = {
+    outland_alliance = {
 	    major = yes
 		potential = {
-        has_country_modifier = alliance_member
-		capital_scope = { superregion = outland_superregion }
-		any_known_country = {
-		has_country_modifier = alliance_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = outland_superregion }
-		ai = yes
-		}
+            has_country_modifier = alliance_member
+            capital_scope = { superregion = outland_superregion }
+            any_known_country = {
+                has_country_modifier = alliance_member
+                NOT = { alliance_with = ROOT }
+                capital_scope = { superregion = outland_superregion }
+                ai = yes
+            }
 		}
 		allow = {
-		any_known_country = {
-		has_country_modifier = alliance_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = outland_superregion }
-		}
+            any_known_country = {
+                has_country_modifier = alliance_member
+                NOT = { alliance_with = ROOT }
+                capital_scope = { superregion = outland_superregion }
+            }
 		}
 		effect = {
-        every_known_country = {
-		limit = {
-		has_country_modifier = alliance_member
-        NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = outland_superregion }
-		ai = yes
-		}
-		create_alliance = ROOT
-		}
+            every_known_country = {
+                limit = {
+                    has_country_modifier = alliance_member
+                    NOT = { alliance_with = ROOT }
+                    capital_scope = { superregion = outland_superregion }
+                    ai = yes
+                }
+                create_alliance = ROOT
+            }
 		}		
 		ai_will_do = {
 			factor = 1
 		}
-}
+    }
 
-pandaria_alliance = {
+    pandaria_alliance = {
 	    major = yes
 		potential = {
-        has_country_modifier = alliance_member
-		capital_scope = { superregion = pandaria_superregion }
-		any_known_country = {
-		has_country_modifier = alliance_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = pandaria_superregion }
-		ai = yes
-		}
+            has_country_modifier = alliance_member
+            capital_scope = { superregion = pandaria_superregion }
+            any_known_country = {
+                has_country_modifier = alliance_member
+                NOT = { alliance_with = ROOT }
+                capital_scope = { superregion = pandaria_superregion }
+                ai = yes
+            }
 		}
 		allow = {
-		any_known_country = {
-		has_country_modifier = alliance_member
-		NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = pandaria_superregion }
+            any_known_country = {
+                has_country_modifier = alliance_member
+                NOT = { alliance_with = ROOT }
+                capital_scope = { superregion = pandaria_superregion }
+            }
 		}
-		}
-		effect = {
-        every_known_country = {
-		limit = {
-		has_country_modifier = alliance_member
-        NOT = { alliance_with = ROOT }
-		capital_scope = { superregion = pandaria_superregion }
-		ai = yes
-		}
-		create_alliance = ROOT
-		}
+        effect = {
+            every_known_country = {
+                limit = {
+                    has_country_modifier = alliance_member
+                    NOT = { alliance_with = ROOT }
+                    capital_scope = { superregion = pandaria_superregion }
+                    ai = yes
+                }
+                create_alliance = ROOT
+            }
 		}		
 		ai_will_do = {
 			factor = 1
 		}
-}
+    }
 
 # Continent Wide Alliances
 
-kalimdor_alliance = {
-	major = yes
-	potential = {
-        has_country_modifier = alliance_member
-		capital_scope = { continent = continent_kalimdor }
-		any_neighbor_country = {
-			has_country_modifier = alliance_member
-			NOT = { alliance_with = ROOT }
-			capital_scope = { continent = continent_kalimdor }
-			ai = yes
-		}
-	}
-	allow = {
-		any_neighbor_country = {
-			has_country_modifier = alliance_member
-			NOT = { alliance_with = ROOT }
-			capital_scope = { continent = continent_kalimdor }
-		}
-	}
-	effect = {
-        every_neighbor_country = {
-			limit = {
-				has_country_modifier = alliance_member
-				NOT = { alliance_with = ROOT }
-				capital_scope = { continent = continent_kalimdor }
-				ai = yes
-			}
-		create_alliance = ROOT
-		}
-	}		
-	ai_will_do = {
-		factor = 1
-	}
-}
-
+    kalimdor_alliance = {
+        major = yes
+        potential = {
+            has_country_modifier = alliance_member
+            capital_scope = { continent = continent_kalimdor }
+            any_neighbor_country = {
+                has_country_modifier = alliance_member
+                NOT = { alliance_with = ROOT }
+                capital_scope = { continent = continent_kalimdor }
+                ai = yes
+            }
+        }
+        allow = {
+            any_neighbor_country = {
+                has_country_modifier = alliance_member
+                NOT = { alliance_with = ROOT }
+                capital_scope = { continent = continent_kalimdor }
+            }
+        }
+        effect = {
+            every_neighbor_country = {
+                limit = {
+                    has_country_modifier = alliance_member
+                    NOT = { alliance_with = ROOT }
+                    capital_scope = { continent = continent_kalimdor }
+                    ai = yes
+                }
+                create_alliance = ROOT
+            }
+        }		
+        ai_will_do = {
+            factor = 1
+        }
+    }
 }

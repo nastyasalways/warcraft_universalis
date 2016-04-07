@@ -1,23 +1,34 @@
+namespace = first_war
+
+# The Blood of Mannaroth
+# Borne from the blood of the Destructor, powers beyond comprehension can be gained. All it takes is a sip. What do you say, [Root.Monarch.GetTitle] [Root.Monarch.GetName]? Will you quench your thirst?
+# I will!
+# Begone tainted one!
 country_event = {
-	id = firstwar.1
-	title = firstwar.1.title
-	desc = firstwar.1.desc
-	
-	#fire_only_once = yes
-	
+	id = first_war.1
+	title = first_war.1.title
+	desc = first_war.1.desc
+	picture = ANGRY_MOB_eventPicture # Placeholder
+    
 	trigger = {
-		year = 592
-		NOT = { year = 600 }
+		is_year = 592
+		NOT = { is_year = 600 }
 		culture_group = culture_group_orc
 		NOT = { has_country_modifier = blood_of_mannaroth }
+        NOT = { has_country_modifier = blood_of_mannaroth_event } 
 	}
 	
-	mean_time_to_happen = {
-		days = 1
-	}
+	immediate = {
+        add_country_modifier = {
+			name = blood_of_mannaroth_event
+			duration = -1
+            hidden = yes
+		}
+    }
 	
 	option = {
-		name = firstwar.1.option.a
+		name = first_war.1.option.a
+        
 		add_country_modifier = {
 			name = blood_of_mannaroth
 			duration = -1
@@ -34,197 +45,305 @@ country_event = {
 	}
 	
 	option = {
-		name = firstwar.1.option.b
+		name = first_war.1.option.b
+        
+        add_stability = -1
 	}
 }
 
+# Blood Boil!
+# The demonsblood within the veins [Root.Monarch.GetTitle] [Root.Monarch.GetName] has begun churning, and has sent [Root.Monarch.GetHimHer] into a fit of rage. 
+# Roar!
 country_event = {
-	id = firstwar.2
-	title = firstwar.2.title #Orcs Raze Grand Hamlet/Darkshire
-	desc = firstwar.2.desc
-	
-	fire_only_once = yes
-	
+	id = first_war.7
+	title = first_war.7.title
+	desc = first_war.7.desc
+	picture = ANGRY_MOB_eventPicture # Placeholder
+    
 	trigger = {
-		tag = A03 #Darkshire
-		year = 592
-		is_at_war = yes
-		exists = A41
+		has_country_modifier = blood_of_mannaroth
+	}
+    
+    mean_time_to_happen = {
+		months = 600
+	}
+    
+	option = {
+		name = first_war.7.option.a
+        
+		change_mil = 1
+		
+		ai_chance = { 
+			factor = 100 
+		}
+	}
+}
+
+# Sullen
+# The demonsblood within the veins [Root.Monarch.GetTitle] [Root.Monarch.GetName] has begun churning, and has sent [Root.Monarch.GetHimHer] into a depressive stupor.
+# Zzzz....
+country_event = {
+	id = first_war.8
+	title = first_war.8.title
+	desc = first_war.8.desc
+	picture = ANGRY_MOB_eventPicture # Placeholder
+    
+	trigger = {
+		has_country_modifier = blood_of_mannaroth
+	}
+    
+    mean_time_to_happen = {
+		months = 600
+	}
+    
+	option = {
+		name = first_war.8.option.a
+        
+        change_adm = -1
+		
+		ai_chance = { 
+			factor = 100 
+		}
+	}
+}
+
+# Boiling Blood!
+# The clansmen who partook in the demonsblood have become enraged, and are eager for blood. If we cannot sate their bloodlust, they're liable to decimate one another. Do you allow them to wage war?
+# Zug Zug!
+# No, we must be resist the demonsblood!
+country_event = {
+	id = first_war.9
+	title = first_war.9.title
+	desc = first_war.9.desc
+	picture = ANGRY_MOB_eventPicture # Placeholder
+    
+	trigger = {
+		has_country_modifier = blood_of_mannaroth
+        is_subject = no
+        any_neighbor_country = {  
+            ROOT = {
+                NOT = { has_opinion = { who = PREV value = 0 } }
+            }
+            NOT = { religion = religion_fel }
+            NOT = { alliance_with = ROOT }
+        }
+	}
+    
+    mean_time_to_happen = {
+		months = 300
+	}
+    
+	option = {
+		name = first_war.9.option.a
+        
+		random_neighbor_country = {
+            limit = {
+                ROOT = {
+                    NOT = { has_opinion = { who = PREV value = 0 } }
+                }
+                NOT = { religion = religion_fel }
+                NOT = { alliance_with = ROOT }
+            }
+            ROOT = {
+                declare_war = PREV
+            }
+        }
+        
+		ai_chance = { 
+			factor = 50
+		}
+	}
+	
+	option = {
+		name = first_war.9.option.b
+        
+        add_yearly_manpower = -5
+	}
+}
+
+# Zzzzzz....
+# The demonsblood has sent our clansmen into a stupor, their bodies leaden and their spirits faltering. Without some rousing they are liable to pass out, leaving out outposts defenceless!
+# Rouse them!
+# Let the sleep... 
+country_event = {
+	id = first_war.10
+	title = first_war.10.title
+	desc = first_war.10.desc
+	picture = ANGRY_MOB_eventPicture # Placeholder
+    
+	trigger = {
+		has_country_modifier = blood_of_mannaroth
+	}
+    
+    mean_time_to_happen = {
+		months = 300
+	}
+    
+	option = {
+		name = first_war.10.option.a
+        
+		add_stability = -1
+        
+		ai_chance = { 
+			factor = 50
+		}
+	}
+	
+	option = {
+		name = first_war.10.option.b
+        
+        add_mil_power = -100
+	}
+}
+
+# Orc Raid
+# Fire on non-orc nation
+country_event = {
+	id = first_war.2
+	title = first_war.2.title
+	desc = first_war.2.desc
+	picture = ANGRY_MOB_eventPicture # Placeholder
+    
+	trigger = {
+		NOT = { religion = religion_fel }
+        NOT = { culture_group = culture_group_orc }
+        any_neighbor_country = {  
+            culture_group = culture_group_orc
+        }
+	}
+	
+    hidden = yes
+    
+	mean_time_to_happen = {
+		months = 120
+        
+        modifier = {
+            factor = 0.1
+            
+            any_neighbor_country = {  
+                culture_group = culture_group_orc
+                has_ruler_modifier = warlust
+            }
+        }
+	}
+	
+	option = {
+		name = first_war.2.option.a
+        
+        random_neighbor_country = {
+            limit = {
+                culture_group = culture_group_orc
+            }
+            country_event = { id = first_war.3 }
+        }
+    }
+}
+
+# Attack on [From.GetName]!
+# Our clansmen ache with bloodlust, and will attempt to raid [From.GetName] if we do not stop them.
+# Let them fight!
+country_event = {
+	id = first_war.3
+	title = first_war.3.title
+	desc = first_war.3.desc
+	picture = ANGRY_MOB_eventPicture # Placeholder
+    
+    is_triggered_only = yes
+
+	option = {
+		name = first_war.3.option.a
+        
+        FROM = {
+            country_event = { id = first_war.4 }
+        }
+        
+        add_army_tradition = 5
+        add_years_of_income = 0.25
+    }
+}
+        
+# Raid by [From.GetName]
+country_event = {
+	id = first_war.4
+	title = first_war.4.title
+	desc = first_war.4.desc
+	picture = ANGRY_MOB_eventPicture # Placeholder
+    
+    is_triggered_only = yes
+
+	option = {
+		name = first_war.4.option.a
+            
+        random_owned_province = {
+            add_base_tax = -1
+            add_base_production = -1
+            add_base_manpower = -1
+            
+            # Chance to be destroyed
+            random = {
+                chance = 25
+                
+                cede_province = XXX
+                remove_core = ROOT
+            }
+            
+            # Chance it becomes the Orc's
+            random = {
+                chance = 10
+                
+                cede_province = FROM
+                remove_core = ROOT
+                add_core = FROM
+            }
+        }
+        
+        add_opinion = {
+            who = FROM
+            modifier = raided_by_orcs
+        }
+    }
+}
+    
+# Support from the Dark Portal
+country_event = {
+	id = first_war.5
+	title = first_war.5.title
+	desc = first_war.5.desc
+	picture = ANGRY_MOB_eventPicture # Placeholder
+    
+	trigger = {
+        religion = religion_fel
+        culture_group = culture_group_orc
+        1035 = {
+            religion = religion_fel # If the Portal is controlled by a Fel-aligned nation, they'd let through reinforcements
+        }
 	}
 	
 	mean_time_to_happen = {
-		days = 1
+		months = 64
+        
+        modifier = {
+            factor = 0.5
+            
+            NOT = { manpower_percentage = 0.25 }
+        }
+        
+        modifier = {
+            factor = 0.5
+            
+            NOT = { manpower_percentage = 0.5 }
+        }
+        
+        modifier = {
+            factor = 0.5
+            
+            NOT = { manpower_percentage = 0.75 }
+        }
 	}
 	
 	option = {
-		name = firstwar.2.option.a
-		1021 = {
-			if = {
-				limit = { base_tax = 4 }
-				add_base_tax = -3
-			}
-			
-			if = {
-				limit = { base_prouction = 4 }
-				add_base_production = -3
-			}
-			
-			if = {
-				limit = { base_manpower = 4 }
-				add_base_manpower = -3
-			}
-		}
-		
-		hidden_effect = {
-			1021 = {
-				create_colony = 500
-				add_colonysize = -1000
-			}
-		}
-		
-		1021 = {
-			change_controller = NAT
-			cede_province = NAT
-		}
-	}
-}
-
-country_event = {
-	id = firstwar.3
-	title = firstwar.3.title #Orc Raid
-	desc = firstwar.3.desc
-	
-	trigger = {
-		primary_culture = culture_azerothian
-		year = 592
-		exists = A41 #Blackrock
-		
-		OR = {
-			any_owned_province = { base_tax = 2 }
-			any_owned_province = { base_production = 2 }
-			any_owned_province = { base_manpower = 2 }
-		}
-	}
-	
-	mean_time_to_happen = {
-		months = 6
-	}
-	
-	option = {
-		name = firstwar.3.option.a #Horror
-		
-		random_owned_province = {
-			limit = { 
-				OR = {
-					base_tax = 2
-					base_production = 2
-					base_manpower = 2
-				}
-				
-				OR = {
-					area = area_elwynn_forest
-					area = area_duskwood
-					area = area_westfall
-				}
-			}
-		
-			if = {
-				limit = { base_tax = 2 }
-				add_base_tax = -1
-			}
-			
-			if = {
-				limit = { base_production = 2 }
-				add_base_production = -1
-			}
-			
-			if = {
-				limit = { base_manpower = 2 }
-				add_base_manpower = -1
-			}
-		}
-		
-		hidden_effect = {
-			random_country = {
-				limit = { 
-					culture_group = culture_group_orc
-					exists = yes
-					capital_scope = { continent = continent_eastern_kingdoms }
-					is_at_war = yes
-				}
-				
-				country_event = {
-					id = firstwar.5
-					days = 1
-				}
-			}
-		}
-	}
-}
-
-country_event = {
-	id = firstwar.4
-	title = firstwar.4.title #Reinforcements from Draenor
-	desc = firstwar.4.desc
-	
-	trigger = {
-		culture_group = culture_group_orc
-		year = 592
-		exists = A41 #Blackrock
-		exists = A01 #Stormwind
-		capital_scope = {
-			continent = continent_eastern_kingdoms
-		}
-		is_at_war = yes
-		OR = {
-			controls = 1035 #The Dark Portal
-			any_ally = { controls = 1035 }
-			any_subject_country = { controls = 1035 }
-			overlord = { controls = 1035 }
-		}
-	}
-	
-	mean_time_to_happen = {
-		months = 1
-	}
-	
-	option = {
-		name = firstwar.4.option.a #Accept
-		
-		capital_scope = {
-			infantry = ROOT
-		}
-		
-		add_manpower = 1
-	}
-}
-
-country_event = {
-	id = firstwar.5
-	title = firstwar.5.title #Successful Raid
-	desc = firstwar.5.desc
-	
-	is_triggered_only = yes
-	
-	option = {
-		name = firstwar.5.option.a
-		add_treasury = 25
-	}
-}
-
-country_event = {
-	id = firstwar.6
-	title = firstwar.6.title #Fall of Darkshire
-	desc = firstwar.6.desc
-	
-	trigger = {
-		controls = 637 #Raven Hill
-		tag = A41 #Blackrock
-	}
-	
-	mean_time_to_happen = { days = 1 }
-	
-	option = {
-		inherit = A03
-	}
+		name = first_war.5.option.a
+        
+        add_yearly_manpower = 1
+    }
 }
