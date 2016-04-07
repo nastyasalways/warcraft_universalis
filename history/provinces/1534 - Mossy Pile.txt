@@ -16,6 +16,14 @@ native_size = 5
 native_ferocity = 10
 native_hostileness = 10
 
+631.11.11 = { 
+controller = xxx
+owner = xxx
+culture = culture_construct
+religion = religion_titan
+}
+
+
 631.1.1 = { 
 controller = G07
 owner = G07

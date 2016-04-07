@@ -12,7 +12,12 @@ religion = religion_water
 hre = no
 trade_goods = fish
 
-618.1.1 = { 
+630.11.30 = { 
+owner = xxx
+controller = xxx 
+}
+
+631.1.1 = { 
 controller = A80
 owner = A80
 add_core = A80
