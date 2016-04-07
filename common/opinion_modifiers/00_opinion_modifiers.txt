@@ -33,27 +33,27 @@ opinion_invasion = {
 }
 
 republic_same_religion = {
-	opinion = 10
+	opinion = 25
 }
 
 republic_different_religions_group = {
-	opinion = -5
+	opinion = -50
 }
 
 republic_different_religion_same_group = {
-	opinion = -10
+	opinion = -25
 }
 
 republic_different_religions_group_border = {
-	opinion = -10
+	opinion = -25
 }
 
 republic_different_religion_same_group_border = {
-	opinion = -20
+	opinion = -10
 }
 
 republic_misguided_heretic = {
-	opinion = -5
+	opinion = -10
 }
 
 republic_misguided_heretic_border = {
@@ -61,19 +61,19 @@ republic_misguided_heretic_border = {
 }
 
 same_religion = {
-	opinion = 25
+	opinion = 50
 }
 
 same_secondary_religion = {
-	opinion = 10
+	opinion = 5
 }
 
 different_religions_group = {
-	opinion = -10
+	opinion = -50
 }
 
 different_religions_group_border = {
-	opinion = -20
+	opinion = -25
 }
 
 different_religion_same_group = {
@@ -81,7 +81,7 @@ different_religion_same_group = {
 }
 
 different_religion_same_group_border = {
-	opinion = -40
+	opinion = -20
 }
 
 misguided_heretic = {
@@ -93,12 +93,13 @@ misguided_heretic_border = {
 }
 
 at_war = {
-	opinion = -20
+	opinion = -50
 }
 
 same_dynasty = {
-	opinion = 15
+	opinion = 25
 }
+
 royal_marriage = {
 	opinion = 25
 }

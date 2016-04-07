@@ -1,0 +1,162 @@
+namespace = dark_portal
+
+# First War
+# Spawn the Orc nations in the Blasted Lands in 590
+# Used if the player starts in the Rise of the Horde bookmark
+
+# The Orcish Horde
+# These hideous creatures have been sighted in the Blasted Lands, and have begun to form encampments there. Without resistance, they will soon sweep through our lands.
+# Defend our lands!
+country_event = {
+	id = dark_portal.1
+	title = dark_portal.1.title
+	desc = dark_portal.1.desc
+	picture = ANGRY_MOB_eventPicture # Placeholder
+    
+    major = yes
+    
+	trigger = {
+		tag = A01
+        is_year = 590
+        NOT = { has_global_flag = the_dark_portal_has_started }
+	}
+	
+	immediate = {
+        set_global_flag = the_dark_portal_has_started
+    }
+	
+	option = {
+		name = dark_portal.1.option.a
+        
+        ######################
+		# A41 - Blackrock
+        ######################
+        A41 = {
+            # Okril'lon Hold
+            1050 = {     
+                cede_province_fully = yes
+            }  
+            # Nethergarde Keep
+            630 = {     
+                cede_province_fully = yes
+            }
+            # Blasted Pass
+            884 = {     
+                cede_province_fully = yes
+            }   
+            # Stonard
+            707 = {     
+                cede_province_fully = yes
+            }   
+            # Stonard Bog 
+            2180 = {     
+                cede_province_fully = yes
+            }     
+            # The Bloodmire
+            994 = {     
+                cede_province_fully = yes
+            }     
+            # The Quagmire
+            2156 = {     
+                cede_province_fully = yes
+            }  
+            # Hills of the Quagmire
+            2187 = {     
+                cede_province_fully = yes
+            }
+            # Hills of the Bloodmire
+            2179 = {     
+                cede_province_fully = yes
+            } 
+            # Murky Bogs
+            2155 = {
+                cede_province_fully = yes
+            }
+        }
+        ######################
+        # A40 - Bleeding Hollow
+        ######################
+        A40 = {
+            # Tainted Hills
+            2171 = {     
+                cede_province_fully = yes
+            }
+            # Surwich
+            814 = {      
+                cede_province_fully = yes
+            }
+            # Sunveil Excursion
+            869 = {      
+                cede_province_fully = yes
+            }
+            # The Tainted Forest
+            836 = {      
+                cede_province_fully = yes
+            }
+            # The Tainted Scar
+            853 = {      
+                cede_province_fully = yes
+            }
+            # Splinterspear Bog
+            2181 = {     
+                cede_province_fully = yes
+            }
+            # Splinterspear Junction
+            864 = {      
+                cede_province_fully = yes
+            }
+            # Misty Valley
+            725 = {      
+                cede_province_fully = yes
+            }
+        }
+        
+        ######################
+        # A43 - Twilight's Hammer
+        ######################
+        A43 = {
+            # Dreadmaul Post
+            1033 = {
+                cede_province_fully = yes
+            }
+            # Blasted Plains
+            807 = {
+                cede_province_fully = yes
+            }
+            # Shattered Beachhead 
+            1043 = {
+                cede_province_fully = yes
+            }
+            # Shattered Overlook
+            553 = {
+                cede_province_fully = yes
+            }
+            # Shattered Landing
+            1042 = {
+                cede_province_fully = yes
+            }
+            # Shattered Hills
+            2174 = {
+                cede_province_fully = yes
+            }
+        }
+        
+        ######################
+        # B88 - Shadow Council
+        ######################
+        B88 = {
+            # The Dark Portal
+            1035 = {
+                cede_province_fully = yes
+            }
+            # Altar of Storms
+            1045 = {
+                cede_province_fully = yes
+            }
+            # Serpent's Coil
+            1034 = {
+                cede_province_fully = yes
+            }
+        }
+	}
+}

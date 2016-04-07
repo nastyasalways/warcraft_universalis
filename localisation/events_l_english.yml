@@ -38,6 +38,11 @@ l_english:
  story.8.desc: ""
  story.8.option.a: ""
  
+ # Dark Portal
+ dark_portal.1.title: "The Orcish Horde"
+ dark_portal.1.desc: "Hideous creatures have been sighted in the Blasted Lands, and have begun to form encampments there. Without resistance, they will soon sweep through our lands."
+ dark_portal.1.option.a: "Fight back!"
+ 
  # First War
  first_war.2.title: "Orc Raid"
  first_war.2.desc: ""
