@@ -15,6 +15,23 @@
  shattrath: "Shattrath"
  icecrown_citadel: "Icecrown"
  
+ # Opinion Modifiers
+ raided_by_orcs: "Raided by Orcs"
+ 
+ # Event Modifiers
+ blood_of_mannaroth_event: ""
+ desc_blood_of_mannaroth_event: ""
+ 
+ blood_of_mannaroth: "Blood of Mannaroth"
+ desc_blood_of_mannaroth: "The power of the Destructor is bestowed by those who have drunk his blood."
+ 
+ warlust: "Warlust"
+ desc_warlust: "We ache for war, and thus our neighbours pay the price."
+ 
+ # Decisions
+ encourage_bloodlust_title: "Encourage Bloodlust"
+ encourage_bloodlust_desc: "We ache for war, let us raid our non-orc neighbours more often to sate the bloodlust."
+ 
  # Buildings
  
  

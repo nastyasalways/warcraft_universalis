@@ -1,6 +1,6 @@
 # Stormreaver
 
-graphical_culture = westerngfx
+graphical_culture = orcgfx
 
 color = { 108 198 97 }
 

@@ -1,0 +1,233 @@
+namespace = meta
+
+# Handle Discovery
+country_event = {
+	id = meta.1
+	title = meta.1.title
+	desc = meta.1.desc
+	picture = ASSASSINATION_eventPicture
+	
+    hidden = yes
+    
+	trigger = {
+		always = yes
+        NOT = { has_country_flag = revealed_map }
+	}
+	
+	immediate = {   
+        set_country_flag = revealed_map
+    }
+	
+	option = {
+		name = meta.1.option.a
+		
+        if = {
+            limit = {
+                capital_scope = {
+                    continent = continent_eastern_kingdoms
+                }
+            }
+            
+            ek_wasteland_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            lordaeron_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            khaz_modan_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            azeroth_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            eastern_seas = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+        }
+        
+        if = {
+            limit = {
+                capital_scope = {
+                    continent = continent_kalimdor
+                }
+            }
+            
+            kalimdor_wasteland_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            north_kalimdor_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            central_kalimdor_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            south_kalimdor_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            exodar_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            darnassus_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            western_seas = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+        }
+        
+        if = {
+            limit = {
+                capital_scope = {
+                    continent = continent_outland
+                }
+            }
+            
+            outland_wasteland_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            outland_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+        }
+        
+        if = {
+            limit = {
+                capital_scope = {
+                    continent = continent_maelstrom
+                }
+            }
+            
+            maelstrom_wasteland_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            maelstrom_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            central_seas = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+        }
+        
+        if = {
+            limit = {
+                capital_scope = {
+                    continent = continent_pandaria
+                }
+            }
+            
+            pandaria_wasteland_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            pandaria_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            southern_seas = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+        }
+        
+        if = {
+            limit = {
+                capital_scope = {
+                    continent = continent_northrend
+                }
+            }
+            
+            northrend_wasteland_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            northrend_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            northern_seas = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+        }
+    }
+}

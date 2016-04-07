@@ -11,3 +11,11 @@ blood_of_mannaroth = {
 	mil_tech_cost_modifier = -0.1
 	land_forcelimit_modifier = 0.25
 }
+
+blood_of_mannaroth_event = { }
+
+warlust = {
+    manpower_recovery_speed = 0.1
+    adm_tech_cost_modifier = 0.2
+    dip_tech_cost_modifier = 0.2
+}

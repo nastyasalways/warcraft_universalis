@@ -1,6 +1,6 @@
 # Bonechewer
 
-graphical_culture = westerngfx
+graphical_culture = orcgfx
 
 color = { 237 159 135 }
 

@@ -2,6 +2,7 @@ monarch_power = ADM
 
 ahead_of_time = {
 	production_efficiency 	=	0.2
+    yearly_corruption = -0.05
 }
 
 # 0
@@ -93,6 +94,7 @@ technology = {
 technology = {
 	year = 590
 	
+    max_states = 2
 	# building
 }
 
@@ -170,6 +172,7 @@ technology = {
 technology = {
 	year = 645
 
+    max_states = 3
 	production_efficiency 	=	0.05
 }
 
@@ -240,6 +243,7 @@ technology = {
 technology = {
 	year = 695
 
+    max_states = 4
 	development_efficiency = 0.1
 }
 
@@ -310,6 +314,7 @@ technology = {
 technology = {
 	year = 745
 	
+    max_states = 8
 	development_efficiency = 0.05
 }
 
@@ -380,5 +385,5 @@ technology = {
 technology = {
 	year = 795
 	
-	
+	max_states = 12
 }

@@ -1,6 +1,6 @@
 # Mag'har
 
-graphical_culture = westerngfx
+graphical_culture = orcgfx
 
 color = { 175 145 140 }
 

@@ -1,6 +1,6 @@
 # Shattered Hand
 
-graphical_culture = westerngfx
+graphical_culture = orcgfx
 
 color = { 45 209 86 }
 
