@@ -12,3 +12,10 @@
 #		example_effect = yes
 #	}
 #
+
+cede_province_fully = {
+    cede_province = PREV
+    add_core = PREV
+    change_religion = PREV
+    change_culture = PREV
+}

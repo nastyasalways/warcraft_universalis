@@ -1,0 +1,470 @@
+namespace = meta
+
+# Handle Discovery
+country_event = {
+	id = meta.1
+	title = meta.1.title
+	desc = meta.1.desc
+	picture = ASSASSINATION_eventPicture
+	
+    hidden = yes
+    
+	trigger = {
+		always = yes
+        NOT = { has_country_flag = revealed_map }
+	}
+	
+	immediate = {   
+        set_country_flag = revealed_map
+    }
+	
+	option = {
+		name = meta.1.option.a
+		
+        if = {
+            limit = {
+			    OR = {
+                   capital_scope = {
+                    continent = continent_eastern_kingdoms
+                   }
+				   AND = {
+				        capital_scope = {
+                        continent = continent_kalimdor
+                        }
+				        OR = {
+				        culture_group = culture_group_human
+				        culture_group = culture_group_jungle_troll
+				        culture_group = culture_group_orc
+				        culture_group = culture_group_ogre
+				        culture_group = culture_group_gnoll
+						culture_group = culture_group_dragonkin
+						primary_culture = culture_ironforge
+				        is_year = 622
+					    }
+				    }
+					AND = {
+				        capital_scope = {
+                        continent = continent_outland
+                        }
+				        OR = {
+						culture_group = culture_group_naga
+						primary_culture = culture_blood_elf
+						is_year = 625
+					    }
+				    }
+					AND = {
+				        capital_scope = {
+                        continent = continent_northrend
+                        }
+				        OR = {
+				        culture_group = culture_group_human
+			            culture_group = culture_group_worgen
+				        culture_group = culture_group_dragonkin
+						culture_group = culture_group_naga
+						primary_culture = culture_ironforge
+				        primary_culture = culture_scourge
+						primary_culture = culture_blood_elf
+				        is_year = 626
+					    }
+				    }
+					AND = {
+				        capital_scope = {
+                        continent = continent_pandaria
+                        }
+				        OR = {
+				        is_year = 632
+					    }
+				    }
+			    }
+            }    
+            ek_wasteland_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            lordaeron_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            khaz_modan_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            azeroth_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            eastern_seas = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+        }
+        
+        if = {
+            limit = {
+			    OR = {
+                   capital_scope = {
+                    continent = continent_kalimdor
+                   }
+				   AND = {
+				        capital_scope = {
+                        continent = continent_eastern_kingdoms
+                        }
+				        OR = {
+				        culture_group = culture_group_dragonkin
+				        is_year = 622
+					    }
+				    }
+					AND = {
+				        capital_scope = {
+                        continent = continent_outland
+                        }
+				        OR = {
+						culture_group = culture_group_naga
+						is_year = 625
+					    }
+				    }
+					AND = {
+				        capital_scope = {
+                        continent = continent_northrend
+                        }
+				        OR = {
+				        culture_group = culture_group_dragonkin
+						culture_group = culture_group_naga
+				        primary_culture = culture_scourge
+				        is_year = 626
+					    }
+				    }
+					AND = {
+				        capital_scope = {
+                        continent = continent_pandaria
+                        }
+				        OR = {
+				        is_year = 632
+					    }
+				    }
+			    }
+            }    
+            
+            kalimdor_wasteland_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            north_kalimdor_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            central_kalimdor_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            south_kalimdor_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            exodar_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            darnassus_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            western_seas = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+        }
+        
+        if = {
+            limit = {
+			    OR = {
+                   capital_scope = {
+                    continent = continent_outland
+                   }
+				   AND = {
+				        capital_scope = {
+                        continent = continent_eastern_kingdoms
+                        }
+				        OR = {
+				        is_year = 625
+					    }
+				    }
+					AND = {
+				        capital_scope = {
+                        continent = continent_kalimdor
+                        }
+				        OR = {
+						is_year = 625
+					    }
+				    }
+					AND = {
+				        capital_scope = {
+                        continent = continent_northrend
+                        }
+				        OR = {
+				        is_year = 626
+					    }
+				    }
+					AND = {
+				        capital_scope = {
+                        continent = continent_pandaria
+                        }
+				        OR = {
+				        is_year = 632
+					    }
+				    }
+			    }
+            }    
+            
+            outland_wasteland_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            outland_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+        }
+        
+        if = {
+            limit = {
+			    OR = {
+                   capital_scope = {
+                    continent = continent_maelstrom
+                   }
+				   AND = {
+				        capital_scope = {
+                        continent = continent_eastern_kingdoms
+                        }
+				        OR = {
+						culture_group = culture_group_naga
+				        is_year = 622
+					    }
+				    }
+					AND = {
+				        capital_scope = {
+                        continent = continent_kalimdor
+                        }
+				        OR = {
+						culture_group = culture_group_naga
+						is_year = 622
+					    }
+				    }
+					AND = {
+				        capital_scope = {
+                        continent = continent_outland
+                        }
+				        OR = {
+						culture_group = culture_group_naga
+				        is_year = 625
+					    }
+				    }
+					AND = {
+				        capital_scope = {
+                        continent = continent_northrend
+                        }
+				        OR = {
+						culture_group = culture_group_naga
+				        is_year = 626
+					    }
+				    }
+					AND = {
+				        capital_scope = {
+                        continent = continent_pandaria
+                        }
+				        OR = {
+						culture_group = culture_group_naga
+				        is_year = 632
+					    }
+				    }
+			    }
+            }
+            
+            maelstrom_wasteland_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            maelstrom_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            central_seas = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+        }
+        
+        if = {
+            limit = {
+			    OR = {
+                   capital_scope = {
+                    continent = continent_pandaria
+                   }
+				   AND = {
+				        capital_scope = {
+                        continent = continent_eastern_kingdoms
+                        }
+				        OR = {
+				        is_year = 632
+					    }
+				    }
+					AND = {
+				        capital_scope = {
+                        continent = continent_kalimdor
+                        }
+				        OR = {
+						is_year = 632
+					    }
+				    }
+					AND = {
+				        capital_scope = {
+                        continent = continent_northrend
+                        }
+				        OR = {
+				        is_year = 632
+					    }
+				    }
+					AND = {
+				        capital_scope = {
+                        continent = continent_outland
+                        }
+				        OR = {
+				        is_year = 632
+					    }
+				    }
+			    }
+            }    
+            
+            pandaria_wasteland_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            pandaria_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            southern_seas = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+        }
+        
+        if = {
+            limit = {
+			    OR = {
+                   capital_scope = {
+                    continent = continent_northrend
+                   }
+				   AND = {
+				        capital_scope = {
+                        continent = continent_eastern_kingdoms
+                        }
+				        OR = {
+				        is_year = 617
+					    }
+				    }
+					AND = {
+				        capital_scope = {
+                        continent = continent_kalimdor
+                        }
+				        OR = {
+						is_year = 622
+					    }
+				    }
+					AND = {
+				        capital_scope = {
+                        continent = continent_pandaria
+                        }
+				        OR = {
+				        is_year = 632
+					    }
+				    }
+					AND = {
+				        capital_scope = {
+                        continent = continent_outland
+                        }
+				        OR = {
+				        is_year = 625
+					    }
+				    }
+			    }
+            } 
+            
+            northrend_wasteland_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            northrend_region = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+            
+            northern_seas = {
+                
+                ROOT = {
+                    discover_province = PREV
+                }
+            }
+        }
+    }
+}

@@ -3,6 +3,51 @@
 ######################################
 # Eastern Kingdoms
 ######################################
+area_ek_wastelands = {
+    857 1129 1130 1131 1132 1133 1135 1336 1139 1141 1144 1147 1150 1153 1157 1158 1159 1155 1110 1963 1127 1126 1120 1119
+    3046 1117 1118 3008 1128 1116
+    
+    # Lakes
+    1222 # Zul'Gurub Lake
+    1220 # Lake Everstill
+    1214 # Northshire River
+    1219 # Blackrock Lake
+    1212 # Iceflow Lake
+    1947 # Amberstill Lake
+    1946 # Helm's Bed Lake
+    1208 # Lake Algaz
+    1211 # Loch Modan
+    2026 # Lake of Kul Tiras
+    1193 # Beren's Flow
+    1190 # Fenrir Lake
+    1189 # Tirisfal Lake
+    2002 # Terrorlake
+    1181 # Mereldar
+    1180 # Lake of the Light
+    2001 # Northpass Lakes
+    1178 # Northdale Lake
+    1186 # Shadra'alor Lakes
+    1185 # Jintha'alor Lakes
+    1184 # Quil'danil Flow
+    1197 # Witherbark Lake
+    1198 # Stromgarde Pools
+    1194 # Tarren Lake
+    1192 # Greymane Lake
+    1191 # Decrepit Lake
+    1174 # Zeb'Nowa Lakes
+    1175 # Deatholme Flow
+    1176 # Lakes of the Sun and Moon
+    1177 # Stratholme Lake
+    1224 # Writhing Waters
+    1221 # Stonard Pools
+    1199 # 
+    247 # 
+    1195 # 
+    1188 # Stillwater Pond
+    1179 # Eastwall Flow
+    1187 # Scarlet Lake
+}
+
 area_isle_of_quel_danas = {
 	690 521 760 724 705 2990 2991 2992 2993 2994
 }
@@ -149,6 +194,38 @@ area_azuremyst_isle = {
 ######################################
 # Kalimdor
 ######################################
+area_kalimdor_wastelands = {
+    1066 1110 1410
+    1411 # The Jadefire Hills
+	1412 # Bloodvemon Hills
+	1413 # Moonglade Mountains
+	1414 # Frostsaber Mountains
+	1415 # Winterspring Mountains
+	1416 # Northern Hyjal
+	1417 # Western Hyjal
+	1418 # Southern Hyjal
+	1419 # Eastern Hyjal
+	1424 # Northern Cliffs
+	1425 # Southern Cliffs
+	1427 # Orgrimmar Cliffs
+	1466 # Sorrowful Mountains
+	1478 # Northern Thunder Bluff Mountains
+	1479 # Western Thunder Bluff Mountains
+	1480 # Southern Thunder Bluff Mountains
+	1481 # Eastern Thunder Bluff Mountains
+	1500 # Ravenwind Mountains
+	1501 # Dire Maul Mountains
+	1502 # Isildien Mountains
+	1503 # The Writhing Mountains
+	1504 # Kalimdor Mountains
+	1523 # Ahn'qiraj Mountains
+	1524 # Ungoro Mountains
+	1525 # Tanaris Mountains
+    
+    # Lakes
+    1292 1293 53 85 38 82 83 99
+}
+
 area_moonglade = {
 	1325 1326 1324 2135 2136
 }
@@ -240,6 +317,10 @@ area_the_lost_isles = {
 	1097 1098 1099 1100 1101 1109 1102 1104 1103 1105 1107 1106 
 }
 
+area_maelstrom_wastelands = {
+    1161 1096
+}
+
 ######################################
 # Northrend
 ######################################
@@ -284,6 +365,17 @@ area_howling_fjord = {
 	1288 651 680 835 696 635 734 600 1290 584 564 546 882 769 749 782 714 867 851 2110 2102 2103 797 2104 2107 2106 2108 2105 2109 
 }
 
+area_northrend_wastelands = {
+    2124 # Mountains of Coldarra
+	2137
+	1108 # Wildlook Cliffs
+    
+    # Lakes
+    184 164
+    1230 1231 1234 1243 1241 1250 1257 2016 666 1232 
+}
+
+
 ######################################
 # Outland 
 ######################################
@@ -313,6 +405,19 @@ area_blades_edge_mountains = {
 
 area_netherstorm = {
 	1704 1702 1701 2056 1703 1710 2057 1709 2058 1706 1707 1708 1717 1716 1715 2059 1705 1711 1712 1713 2060 1714 2061 
+}
+
+area_outland_wastelands = {
+    1600 # Northern Hellfire Mountains
+	1601 # Southern Hellfire Mountains
+	1618 # Zanger Mountains
+	1639 # Shattrath Mountains
+	1640 # Bleeding Hollow Mountains
+	1659 # Mountains of Skettis
+	1660 # Shadowmoon Mountains
+	1700 # Bladespire Mountains
+    
+    2025 2024 2023 2020 2021 368
 }
 
 ######################################
@@ -358,6 +463,17 @@ area_kun_lai_summit = {
 	1898 1911 1912 1908 1897 1910 1896 1895 1919 1894 1909 1907 1917 1918 1899 1914 1900 1906 1828 1893 1916 1915 1901 1913 1902 1904 1903 1892 1905
 }
 
+area_pandaria_wastelands = {
+    1825 # Vale Mountains
+	1826 # Southern Vale Wall
+	1827 # Northern Vale Wall
+    508 # Kunlai Mountains
+    
+    # Lakes
+    1768 1767 1762 1764 1765 1761 1754
+    1831 1830 1745 1744 1742 1741 1743
+}
+
 ######################################
 # Seas 
 ######################################
@@ -375,8 +491,8 @@ area_ek_south_west = {
 }
 
 area_maelstrom_seas = {
-	414 403 392 391 390 389 385 388 384 383 379 380 374 375 3766 377 408 407 406 405 404 402 401 
-	397 400 396 394 395 216 398 387 211 212 213 210 215 214 
+	414 403 392 391 390 389 388 384 383 379 380 374 375 3766 377 408 407 406 405 404 402 401 
+	397 400 396 394 395 216 398 387 211 212 213 210 215 214 399
 }
 
 area_northrend_coast = {
@@ -385,7 +501,7 @@ area_northrend_coast = {
 } 
 
 area_kalimdor_north_east = {
-	152 378 151 147 148 150 203 202 204 201 205 209 208 207 200 206 199 146 145 143 144
+	152 378 151 147 148 150 203 202 204 201 205 209 208 207 200 206 199 146 145 143 144 247
 }
 
 area_ek_north_west = {

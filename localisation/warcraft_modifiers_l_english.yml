@@ -1,4 +1,9 @@
 l_english:
+
+ #####################
+ # STATIC MODIFIERS #
+ #####################
+
  # Alliance/Horde
  alliance_member: "Alliance"
  horde_member: "Horde"
@@ -6,3 +11,34 @@ l_english:
  horde_head: "Warchief"
  # Neutral
  neutral_member: "Neutral Organization"
+ 
+ #####################
+ # OPINION MODIFIERS #
+ #####################
+ 
+ #Alliance
+ alliance_alliance: "Alliance Member"
+ alliance_horde: "Alliance Member"
+ alliance_neutral: "Alliance Member"
+ alliance_creep: "Alliance Member"
+ #Horde
+ horde_alliance: "Horde Member"
+ horde_horde: "Horde Member"
+ horde_neutral: "Horde Member"
+ horde_creep: "Horde Member"
+ #Neutral
+ neutral_alliance: "Neutral Organization"
+ neutral_horde: "Neutral Organization"
+ neutral_neutral: "Neutral Organization"
+ neutral_creep: "Neutral Organization"
+ 
+
+ #######################
+ # TRIGGERED MODIFIERS #
+ #######################
+
+ alliance_enemy: "Enemy of the Alliance"
+ horde_enemy: "Enemy of the Horde"
+
+
+

@@ -1,8 +1,46 @@
 # A province can belong to several areas.
 
 random_new_world_region = {
-	discover_if = {
-		always = no
+	#discover_if = {
+	#	always = no
+	#}
+}
+
+# Seperate from the other regions so region = ? can be used without issues
+
+ek_wasteland_region = {
+	areas = {
+		area_ek_wastelands
+	}
+}
+
+kalimdor_wasteland_region = {
+	areas = {
+		area_kalimdor_wastelands
+	}
+}
+
+maelstrom_wasteland_region = {
+	areas = {
+		area_maelstrom_wastelands
+	}
+}
+
+northrend_wasteland_region = {
+	areas = {
+		area_northrend_wastelands
+	}
+}
+
+outland_wasteland_region = {
+	areas = {
+		area_outland_wastelands
+	}
+}
+
+pandaria_wasteland_region = {
+	areas = {
+		area_pandaria_wastelands
 	}
 }
 
@@ -10,11 +48,11 @@ random_new_world_region = {
 # Eastern Kingdoms
 
 lordaeron_region = {
-	discover_if = {
-		capital_scope = {
-			continent = continent_eastern_kingdoms
-		}
-	}
+	#discover_if = {
+	#	capital_scope = {
+	#		continent = continent_eastern_kingdoms
+	#	}
+	#}
 	
 	areas = {
 		area_isle_of_quel_danas
@@ -36,11 +74,11 @@ lordaeron_region = {
 }
 
 khaz_modan_region = {
-	discover_if = {
-		capital_scope = {
-			continent = continent_eastern_kingdoms
-		}
-	}
+	#discover_if = {
+	#	capital_scope = {
+	#		continent = continent_eastern_kingdoms
+	#	}
+	#}
 	
 	areas = {
 		area_wetlands
@@ -53,11 +91,11 @@ khaz_modan_region = {
 }
 
 azeroth_region = {
-	discover_if = {
-		capital_scope = {
-			continent = continent_eastern_kingdoms
-		}
-	}
+	#discover_if = {
+	#	capital_scope = {
+	#		continent = continent_eastern_kingdoms
+	#	}
+	#}
 	
 	areas = {
 		area_burning_steppes
@@ -74,11 +112,11 @@ azeroth_region = {
 }
 
 north_kalimdor_region = {
-	discover_if = {
-		capital_scope = {
-			continent = continent_kalimdor
-		}
-	}
+	#discover_if = {
+	#	capital_scope = {
+	#		continent = continent_kalimdor
+	#	}
+	#}
 	areas = {
 		area_moonglade
 		area_darkshore
@@ -91,11 +129,11 @@ north_kalimdor_region = {
 }
 
 central_kalimdor_region = {
-	discover_if = {
-		capital_scope = {
-			continent = continent_kalimdor
-		}
-	}
+	#discover_if = {
+	#	capital_scope = {
+	#		continent = continent_kalimdor
+	#	}
+	#}
 	areas = {
 		area_durotar
 		area_northern_barrens
@@ -108,11 +146,11 @@ central_kalimdor_region = {
 }
 
 south_kalimdor_region = {
-	discover_if = {
-		capital_scope = {
-			continent = continent_kalimdor
-		}
-	}
+	#discover_if = {
+	#	capital_scope = {
+	#		continent = continent_kalimdor
+	#	}
+	#}
 	areas = {
 		area_thousand_needles
 		area_feralas
@@ -125,11 +163,11 @@ south_kalimdor_region = {
 }
 
 northrend_region = {
-	discover_if = {
-		capital_scope = {
-			continent = continent_northrend
-		}
-	}
+	#discover_if = {
+	#	capital_scope = {
+	#		continent = continent_northrend
+	#	}
+	#}
 	areas = {
 		area_borean_tundra
 		area_wintergrasp
@@ -145,11 +183,11 @@ northrend_region = {
 }
 
 exodar_region = {
-	discover_if = {
-		capital_scope = {
-			continent = continent_kalimdor
-		}
-	}
+	#discover_if = {
+	#	capital_scope = {
+	#		continent = continent_kalimdor
+	#	}
+	#}
 	areas = {
 		area_bloodmyst_isle
 		area_azuremyst_isle
@@ -157,22 +195,22 @@ exodar_region = {
 }
 
 darnassus_region = {
-	discover_if = {
-		capital_scope = {
-			continent = continent_kalimdor
-		}
-	}
+	#discover_if = {
+	#	capital_scope = {
+	#		continent = continent_kalimdor
+	#	}
+	#}
 	areas = {
 		area_teldrassil
 	}
 }
 
 outland_region = {
-	discover_if = {
-		capital_scope = {
-			continent = continent_outland
-		}
-	}
+	#discover_if = {
+	#	capital_scope = {
+	#		continent = continent_outland
+	#	}
+	#}
 	areas = {
 		area_hellfire_peninsula
 		area_zangarmarsh
@@ -185,22 +223,22 @@ outland_region = {
 }
 
 maelstrom_region = {
-	discover_if = {
-		capital_scope = {
-			continent = continent_maelstrom
-		}
-	}
+	#discover_if = {
+	#	capital_scope = {
+	#		continent = continent_maelstrom
+	#	}
+	#}
 	areas = {
 		area_the_lost_isles
 	}
 }
 
 pandaria_region = {
-	discover_if = {
-		capital_scope = {
-			continent = continent_pandaria
-		}
-	}
+	#discover_if = {
+	#	capital_scope = {
+	#		continent = continent_pandaria
+	#	}
+	#}
 	areas = {
 		area_hidden_valley
 		area_isle_of_thunder
@@ -229,11 +267,11 @@ western_ocean = {
 }
 
 eastern_seas = {
-	discover_if = {
-		capital_scope = {
-			continent = continent_eastern_kingdoms
-		}
-	}
+	#discover_if = {
+	#	capital_scope = {
+	#		continent = continent_eastern_kingdoms
+	#	}
+	#}
 	areas = {
 		area_ek_south_coast
 		area_ek_central_coast
@@ -242,11 +280,11 @@ eastern_seas = {
 }
 
 western_seas = {
-	discover_if = {
-		capital_scope = {
-			continent = continent_kalimdor
-		}
-	}
+	#discover_if = {
+	#	capital_scope = {
+	#		continent = continent_kalimdor
+	#	}
+	#}
 	areas = {
 		area_kalimdor_south_coast
 		area_kalimdor_north_coast
@@ -254,11 +292,11 @@ western_seas = {
 }
 
 northern_seas = {
-	discover_if = {
-		capital_scope = {
-			continent = continent_northrend
-		}
-	}
+	#discover_if = {
+	#	capital_scope = {
+	#		continent = continent_northrend
+	#	}
+	#}
 	areas = {
 		area_northrend_coast
 		area_kalimdor_north_east
@@ -267,22 +305,22 @@ northern_seas = {
 }
 
 central_seas = {
-	discover_if = {
-		capital_scope = {
-			continent = continent_maelstrom
-		}
-	}
+	#discover_if = {
+	#	capital_scope = {
+	#		continent = continent_maelstrom
+	#	}
+	#}
 	areas = {
 		area_maelstrom_seas
 	}
 }
 
 southern_seas = {
-	discover_if = {
-		capital_scope = {
-			continent = continent_pandaria
-		}
-	}
+	#discover_if = {
+	#	capital_scope = {
+	#		continent = continent_pandaria
+	#	}
+	#}
 	areas = {
 		area_pandaria_coast
 		area_kalimdor_south_east

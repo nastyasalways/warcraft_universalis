@@ -10,27 +10,22 @@
 
 horde_member =
 {
-#every_country = {
-#limit = {
-#has_country_modifier = horde_member
-#			}
-#			add_opinion = { who = ROOT modifier = opinion_declined_independent_state_support }
-#		}
+diplomatic_upkeep = 2
 }
 
 alliance_member =
 {
-	
+diplomatic_upkeep = 2	
 }
 
 alliance_head =
 {
-
+diplomatic_upkeep = 2
 }
 
 horde_head =
 {
-
+diplomatic_upkeep = 2
 }
 
 ########################################

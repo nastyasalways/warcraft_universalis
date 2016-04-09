@@ -38,25 +38,52 @@ l_english:
  story.8.desc: ""
  story.8.option.a: ""
  
- #First War
- firstwar.1.title: "Blood of Mannaroth"
- firstwar.1.desc: "Should we drink the blood of Mannaroth?"
- firstwar.1.option.a: "Drink it!"
- firstwar.1.option.b: "It is tainted. We will not drink."
- firstwar.2.title: "Orcs Raze Grand Hamlet"
- firstwar.2.desc: "Pouring forth from the Deadwind Pass, orcs ravage Grand Hamlet and raze it to the ground."
- firstwar.2.option.a: "Horror!"
- firstwar.3.title: "Orc Raid!"
- firstwar.3.desc: "Orc have raided one of our provinces. We must fight back!"
- firstwar.3.option.a: "Horror!"
- firstwar.4.title: "Reinforcements from Draenor"
- firstwar.4.desc: "More clansmen have come from Draenor to aid us in our struggle. We will conquer these lands!"
- firstwar.4.option.a: "Go forth to victory!"
- firstwar.5.title: "Successful Raid"
- firstwar.5.desc: "One of our raids on one of the human settlements has been successful, and we have taken the spoils back to you, Chieftain."
- firstwar.5.option.a: "Go with honor."
- firstwar.6.title: "Fall of Darkshire"
- firstwar.6.desc: "Raven Hill has fallen and Grand Hamlet has been burnt down. We have conquered this land."
+ # Dark Portal
+ dark_portal.1.title: "The Orcish Horde"
+ dark_portal.1.desc: "Hideous creatures have been sighted in the Blasted Lands, and have begun to form encampments there. Without resistance, they will soon sweep through our lands."
+ dark_portal.1.option.a: "Fight back!"
+ 
+ # First War
+ first_war.2.title: "Orc Raid"
+ first_war.2.desc: ""
+ first_war.2.option.a: ""
+ 
+ first_war.3.title: "Attack on [From.GetName]!"
+ first_war.3.desc: "Our clansmen ache with bloodlust, and will attempt to raid [From.GetName] if we do not stop them."
+ first_war.3.option.a: "Zug Zug!"
+
+ first_war.4.title: "Raid by [From.GetName]"
+ first_war.4.desc: "The damned orcs led by [From.Monarch.GetName] have attacked one of our settlements, damaging it in the process."
+ first_war.4.option.a: "We must weather this storm..."
+ 
+ first_war.5.title: "Support from the Dark Portal"
+ first_war.5.desc: "More of our clansmen have left Draenor to travel through the Dark Portal and fight here on Azeroth. Zug Zug!"
+ first_war.5.option.a: "The humans have no chance..."
+ 
+ # Blood of Mannaroth events
+ first_war.1.title: "The Blood of Mannaroth"
+ first_war.1.desc: "Borne from the blood of the Destructor, there are powers beyond comprehension contained within. All it takes to gain such power is a sip. What do you say, [Root.Monarch.GetTitle] [Root.Monarch.GetName]?"
+ first_war.1.option.a: "Drink!"
+ first_war.1.option.b: "Begone traitor!"
+ 
+ first_war.7.title: "Blood Boil!"
+ first_war.7.desc: "The demonsblood within the veins [Root.Monarch.GetTitle] [Root.Monarch.GetName] has begun churning, and has sent [Root.Monarch.GetHimHer] into a fit of rage. "
+ first_war.7.option.a: "Roar!"
+ 
+ first_war.8.title: "Sullen"
+ first_war.8.desc: "The demonsblood within the veins [Root.Monarch.GetTitle] [Root.Monarch.GetName] has begun churning, and has sent [Root.Monarch.GetHimHer] into a depressive stupor."
+ first_war.8.option.a: "Zzzz...."
+ 
+ first_war.9.title: "Boiling Blood!"
+ first_war.9.desc: "The clansmen who partook in the demonsblood have become enraged, and are eager for blood. If we cannot sate their bloodlust, they're liable to decimate one another. Do you allow them to wage war?"
+ first_war.9.option.a: "Zug Zug!"
+ first_war.9.option.b: "No, we must be resist the demonsblood!"
+ 
+ first_war.10.title: "Zzzzzz...."
+ first_war.10.desc: "The demonsblood has sent our clansmen into a stupor, their bodies leaden and their spirits faltering. Without some rousing they are liable to pass out, leaving out outposts defenceless!"
+ first_war.10.option.a: "Rouse them!"
+ first_war.10.option.b: "Let the sleep..."
+
  
  #Gilneas
  gilneas.1.title: "Build the Wall!"

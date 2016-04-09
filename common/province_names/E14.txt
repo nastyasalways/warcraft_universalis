@@ -1,3 +1,5 @@
+# The Forsaken
+
 959 = "The Sludge Fields"
 966 = "Galen's Fall"
 991 = "Ruins of Southshore"
@@ -20,3 +22,4 @@
 1039 = "Deatholme"
 2957 = "Forsaken Bulwark"
 843 = "Gahrron's Withering"
+926 = "Hiri'watha"

@@ -54,3 +54,6 @@ virmengfx
 wildkingfx
 voidgfx
 flayergfx
+zangargfx
+yetigfx
+pygmygfx

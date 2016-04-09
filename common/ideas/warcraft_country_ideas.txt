@@ -70,7 +70,7 @@ depths_ideas = {
 		discipline = 0.05
 	}
 	depths_ideas_5 = {
-		leader_naval_maneuver = 1
+		leader_naval_manuever = 1
 	}
 	depths_ideas_6 = {
 		religious_unity = 0.15
@@ -1276,7 +1276,7 @@ undead_ideas = {
 
 gnoll_ideas = {
 	start = {
-	fabricate_claims_time = -0.25
+	fabricate_claims_cost = -0.25
 	infantry_cost = -0.2
 	}
 
@@ -1348,7 +1348,7 @@ centaur_ideas = {
 		global_tax_modifier = 0.05
 	}
 	centaur_ideas_5 = {
-		fabricate_claims_time = -0.25
+		fabricate_claims_cost = -0.25
 	}
 	centaur_ideas_6 = {
 		leader_land_shock = 1
@@ -1631,7 +1631,7 @@ titan_ideas = {
 
 wildhammer_ideas = {
 	start = {
-		leader_land_maneuver = 1
+		leader_land_manuever = 1
 	}
 	
 	bonus = {

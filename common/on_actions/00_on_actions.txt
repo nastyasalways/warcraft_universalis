@@ -1,5 +1,8 @@
 # country
 on_startup = {
+    events = {
+        meta.1
+    }
 }
 
 # country

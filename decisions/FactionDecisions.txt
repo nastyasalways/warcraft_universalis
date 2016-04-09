@@ -1,6 +1,8 @@
 #  By Blanchard33
 # These decisions relate to joining and leaving the Alliance, Horde, or becoming a Neutral Organization.
 # Planned to be updated eventually with more limits, negative opinion modifiers for leaving factions and whatever comes to mind.
+# Update: alliances with Horde, Alliance members will be severed when leaving faction
+# Opinion modifiers will now display to show if a country is Horde, Alliance or a Neutral Organization
 
 country_decisions = {
 
@@ -9,6 +11,7 @@ join_the_alliance = {
 		potential = {
 		NOT = { has_country_modifier = horde_member }
         NOT = { has_country_modifier = alliance_member }
+		NOT = { has_country_modifier = alliance_enemy }
 		}
 		allow = {
 		 any_country = {
@@ -26,6 +29,78 @@ join_the_alliance = {
 		      has_country_modifier = neutral_member
 			  }
 			  remove_country_modifier = neutral_member
+			  every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = neutral_alliance
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = neutral_alliance }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = neutral_horde
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = neutral_horde }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = neutral_neutral
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = neutral_neutral }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = neutral_creep
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = neutral_creep }
+				}
+                every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = neutral_alliance
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = neutral_alliance }
+				}
+                every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = neutral_horde
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = neutral_horde }
+				}
+				every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = neutral_neutral
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = neutral_neutral }
+				}
+				every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = neutral_creep
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = neutral_creep }
+				}
 		}
         }		
 		ai_will_do = {
@@ -42,7 +117,88 @@ leave_the_alliance = {
 		}
 		effect = { 
 				remove_country_modifier = alliance_member
-		    } 		  
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = alliance_alliance
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = alliance_alliance }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = alliance_horde
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = alliance_horde }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = alliance_neutral
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = alliance_neutral }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = alliance_creep
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = alliance_creep }
+				}
+                every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = alliance_alliance
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = alliance_alliance }
+				}
+                every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = alliance_horde
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = alliance_horde }
+				}
+				every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = alliance_neutral
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = alliance_neutral }
+				}
+				every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = alliance_creep
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = alliance_creep }
+				}
+				every_country = {
+			         limit = {
+				           has_country_modifier = alliance_member
+				           alliance_with = ROOT
+				           ai = yes
+			            }
+		             declare_war = ROOT
+					 white_peace = ROOT
+		        }
+		} 		  
 		ai_will_do = {
 			factor = 0
 		}
@@ -53,6 +209,7 @@ leave_the_alliance = {
 		potential = {
 		NOT = { has_country_modifier = horde_member }
         NOT = { has_country_modifier = alliance_member }
+		NOT = { has_country_modifier = horde_enemy }
 		}
 		allow = {
 		 any_country = {
@@ -70,6 +227,78 @@ leave_the_alliance = {
 		      has_country_modifier = neutral_member
 			  }
 			  remove_country_modifier = neutral_member
+			  every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = neutral_alliance
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = neutral_alliance }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = neutral_horde
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = neutral_horde }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = neutral_neutral
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = neutral_neutral }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = neutral_creep
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = neutral_creep }
+				}
+                every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = neutral_alliance
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = neutral_alliance }
+				}
+                every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = neutral_horde
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = neutral_horde }
+				}
+				every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = neutral_neutral
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = neutral_neutral }
+				}
+				every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = neutral_creep
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = neutral_creep }
+				}
 		}
 		}		  
 		ai_will_do = {
@@ -86,7 +315,88 @@ leave_the_horde = {
 		}
 		effect = { 
 				remove_country_modifier = horde_member
-		    } 		  
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = horde_alliance
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = horde_alliance }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = horde_horde
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = alliance_horde }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = horde_neutral
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = horde_neutral }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = horde_creep
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = horde_creep }
+				}
+                every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = horde_alliance
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = horde_alliance }
+				}
+                every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = horde_horde
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = horde_horde }
+				}
+				every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = horde_neutral
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = horde_neutral }
+				}
+				every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = horde_creep
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = horde_creep }
+				}
+				every_country = {
+			         limit = {
+				           has_country_modifier = horde_member
+				           alliance_with = ROOT
+				           ai = yes
+			            }
+		             declare_war = ROOT
+					 white_peace = ROOT
+		        }
+		} 		  
 		ai_will_do = {
 			factor = 0
 		}
@@ -98,6 +408,8 @@ join_neutral = {
 		NOT = { has_country_modifier = horde_member }
         NOT = { has_country_modifier = alliance_member }
 		NOT = { has_country_modifier = neutral_member }
+		NOT = { has_country_modifier = horde_enemy }
+		NOT = { has_country_modifier = alliance_enemy }
 		}
 		allow = {
 		 any_country = {
@@ -129,9 +441,655 @@ leave_neutral = {
 		}
 		effect = { 
 				remove_country_modifier = neutral_member
-		    } 		  
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = neutral_alliance
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = neutral_alliance }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = neutral_horde
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = neutral_horde }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = neutral_neutral
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = neutral_neutral }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = neutral_creep
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = neutral_creep }
+				}
+                every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = neutral_alliance
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = neutral_alliance }
+				}
+                every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = neutral_horde
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = neutral_horde }
+				}
+				every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = neutral_neutral
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = neutral_neutral }
+				}
+				every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = neutral_creep
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = neutral_creep }
+				}
+		} 		  
 		ai_will_do = {
 			factor = 0
 		}
 	}
+	
+	horde_attack_neutral = {
+	    major = yes
+		potential = {
+	    has_country_modifier = neutral_member
+		any_country = {
+		     offensive_war_with = ROOT
+             has_country_modifier = horde_member
+			}
+		}
+		allow = {
+		 is_at_war = yes
+		}
+		effect = { 
+               add_country_modifier = {
+               name = alliance_member
+               duration = -1
+              }
+			  remove_country_modifier = neutral_member
+			  every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = neutral_alliance
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = neutral_alliance }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = neutral_horde
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = neutral_horde }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = neutral_neutral
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = neutral_neutral }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = neutral_creep
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = neutral_creep }
+				}
+                every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = neutral_alliance
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = neutral_alliance }
+				}
+                every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = neutral_horde
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = neutral_horde }
+				}
+				every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = neutral_neutral
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = neutral_neutral }
+				}
+				every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = neutral_creep
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = neutral_creep }
+				}
+		}		
+		ai_will_do = {
+			factor = 0
+		}
 }
+
+alliance_attack_neutral = {
+	    major = yes
+		potential = {
+	    has_country_modifier = neutral_member
+		any_country = {
+		     offensive_war_with = ROOT
+             has_country_modifier = alliance_member
+			}
+		}
+		allow = {
+		 is_at_war = yes
+		}
+		effect = { 
+               add_country_modifier = {
+               name = horde_member
+               duration = -1
+              }
+			  remove_country_modifier = neutral_member
+			  every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = neutral_alliance
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = neutral_alliance }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = neutral_horde
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = neutral_horde }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = neutral_neutral
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = neutral_neutral }
+				}
+				every_country = {
+			         limit = {
+			               reverse_has_opinion_modifier = {
+                           modifier = neutral_creep
+                           who = ROOT
+                        }
+			        }
+		        reverse_remove_opinion = { who = ROOT modifier = neutral_creep }
+				}
+                every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = neutral_alliance
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = neutral_alliance }
+				}
+                every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = neutral_horde
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = neutral_horde }
+				}
+				every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = neutral_neutral
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = neutral_neutral }
+				}
+				every_country = {
+			         limit = {
+			               has_opinion_modifier = {
+                           modifier = neutral_creep
+                           who = ROOT
+                        }
+			        }
+		        remove_opinion = { who = ROOT modifier = neutral_creep }
+				}
+		}		
+		ai_will_do = {
+			factor = 1
+		}
+}
+
+#####################################
+# FACTION OPINON MODIFIER DECISIONS #
+#####################################
+
+horde_opinion = {
+	major = yes
+	potential = {
+        has_country_modifier = horde_member
+	    OR = {
+		     any_country = {
+			    has_country_modifier = horde_member
+			    NOT = { 
+			        reverse_has_opinion_modifier = {
+                    modifier = horde_horde
+                    who = ROOT
+                    }
+			    }
+		    }
+			any_country = {
+			    has_country_modifier = alliance_member
+			    NOT = { 
+			        reverse_has_opinion_modifier = {
+                    modifier =  horde_alliance
+                    who = ROOT
+                    }
+			    }
+		    }
+			any_country = {
+			    has_country_modifier = neutral_member
+			    NOT = { 
+			        reverse_has_opinion_modifier = {
+                    modifier =  horde_neutral
+                    who = ROOT
+                    }
+			    }
+		    }
+			any_country = {
+			    NOT = { has_country_modifier = neutral_member }
+				NOT = { has_country_modifier = horde_member }
+				NOT = { has_country_modifier = alliance_member }
+			    NOT = { 
+			        reverse_has_opinion_modifier = {
+                    modifier =  horde_creep
+                    who = ROOT
+                    }
+			    }
+		    }
+	    }
+	}
+	allow = {
+		has_country_modifier = horde_member
+	}
+	effect = {
+        every_country = {
+			limit = {
+				has_country_modifier = horde_member
+				NOT = { 
+			      reverse_has_opinion_modifier = {
+                  modifier = horde_horde
+                  who = ROOT
+                  }
+			    }
+			}
+		reverse_add_opinion = { who = ROOT modifier = horde_horde }
+		}
+		every_country = {
+			limit = {
+				has_country_modifier = alliance_member
+				NOT = { 
+			      reverse_has_opinion_modifier = {
+                  modifier = horde_alliance
+                  who = ROOT
+                  }
+			    }
+			}
+		reverse_add_opinion = { who = ROOT modifier = horde_alliance }
+		}
+		every_country = {
+			limit = {
+				has_country_modifier = neutral_member
+				NOT = { 
+			      reverse_has_opinion_modifier = {
+                  modifier = horde_neutral
+                  who = ROOT
+                  }
+			    }
+			}
+		reverse_add_opinion = { who = ROOT modifier = horde_neutral }
+		}
+		every_country = {
+			limit = {
+                NOT = { has_country_modifier = neutral_member }
+				NOT = { has_country_modifier = horde_member }
+				NOT = { has_country_modifier = alliance_member }
+				NOT = { 
+			      reverse_has_opinion_modifier = {
+                  modifier = horde_creep
+                  who = ROOT
+                  }
+			    }
+			}
+		reverse_add_opinion = { who = ROOT modifier = horde_creep }
+		}
+	}		
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+alliance_opinion = {
+	major = yes
+	potential = {
+        has_country_modifier = alliance_member
+	    OR = {
+		     any_country = {
+			    has_country_modifier = horde_member
+			    NOT = { 
+			        reverse_has_opinion_modifier = {
+                    modifier = alliance_horde
+                    who = ROOT
+                    }
+			    }
+		    }
+			any_country = {
+			    has_country_modifier = alliance_member
+			    NOT = { 
+			        reverse_has_opinion_modifier = {
+                    modifier =  alliance_alliance
+                    who = ROOT
+                    }
+			    }
+		    }
+			any_country = {
+			    has_country_modifier = neutral_member
+			    NOT = { 
+			        reverse_has_opinion_modifier = {
+                    modifier =  alliance_neutral
+                    who = ROOT
+                    }
+			    }
+		    }
+			any_country = {
+			    NOT = { has_country_modifier = neutral_member }
+				NOT = { has_country_modifier = horde_member }
+				NOT = { has_country_modifier = alliance_member }
+			    NOT = { 
+			        reverse_has_opinion_modifier = {
+                    modifier =  alliance_creep
+                    who = ROOT
+                    }
+			    }
+		    }
+	    }
+	}
+	allow = {
+		has_country_modifier = alliance_member
+	}
+	effect = {
+        every_country = {
+			limit = {
+				has_country_modifier = horde_member
+				NOT = { 
+			      reverse_has_opinion_modifier = {
+                  modifier = alliance_horde
+                  who = ROOT
+                  }
+			    }
+			}
+		reverse_add_opinion = { who = ROOT modifier = alliance_horde }
+		}
+		every_country = {
+			limit = {
+				has_country_modifier = alliance_member
+				NOT = { 
+			      reverse_has_opinion_modifier = {
+                  modifier = alliance_alliance
+                  who = ROOT
+                  }
+			    }
+			}
+		reverse_add_opinion = { who = ROOT modifier = alliance_alliance }
+		}
+		every_country = {
+			limit = {
+				has_country_modifier = neutral_member
+				NOT = { 
+			      reverse_has_opinion_modifier = {
+                  modifier = alliance_neutral
+                  who = ROOT
+                  }
+			    }
+			}
+		reverse_add_opinion = { who = ROOT modifier = alliance_neutral }
+		}
+		every_country = {
+			limit = {
+                NOT = { has_country_modifier = neutral_member }
+				NOT = { has_country_modifier = horde_member }
+				NOT = { has_country_modifier = alliance_member }
+				NOT = { 
+			      reverse_has_opinion_modifier = {
+                  modifier = alliance_creep
+                  who = ROOT
+                  }
+			    }
+			}
+		reverse_add_opinion = { who = ROOT modifier = alliance_creep }
+		}
+	}		
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+neutral_opinion = {
+	major = yes
+	potential = {
+        has_country_modifier = neutral_member
+	    OR = {
+		     any_country = {
+			    has_country_modifier = horde_member
+			    NOT = { 
+			        reverse_has_opinion_modifier = {
+                    modifier = neutral_horde
+                    who = ROOT
+                    }
+			    }
+		    }
+			any_country = {
+			    has_country_modifier = alliance_member
+			    NOT = { 
+			        reverse_has_opinion_modifier = {
+                    modifier =  neutral_alliance
+                    who = ROOT
+                    }
+			    }
+		    }
+			any_country = {
+			    has_country_modifier = neutral_member
+			    NOT = { 
+			        reverse_has_opinion_modifier = {
+                    modifier =  neutral_neutral
+                    who = ROOT
+                    }
+			    }
+		    }
+			any_country = {
+			    NOT = { has_country_modifier = neutral_member }
+				NOT = { has_country_modifier = horde_member }
+				NOT = { has_country_modifier = alliance_member }
+			    NOT = { 
+			        reverse_has_opinion_modifier = {
+                    modifier =  neutral_creep
+                    who = ROOT
+                    }
+			    }
+		    }
+	    }
+	}
+	allow = {
+		has_country_modifier = neutral_member
+	}
+	effect = {
+        every_country = {
+			limit = {
+				has_country_modifier = horde_member
+				NOT = { 
+			      reverse_has_opinion_modifier = {
+                  modifier = neutral_horde
+                  who = ROOT
+                  }
+			    }
+			}
+		reverse_add_opinion = { who = ROOT modifier = neutral_horde }
+		}
+		every_country = {
+			limit = {
+				has_country_modifier = alliance_member
+				NOT = { 
+			      reverse_has_opinion_modifier = {
+                  modifier = neutral_alliance
+                  who = ROOT
+                  }
+			    }
+			}
+		reverse_add_opinion = { who = ROOT modifier = neutral_alliance }
+		}
+		every_country = {
+			limit = {
+				has_country_modifier = neutral_member
+				NOT = { 
+			      reverse_has_opinion_modifier = {
+                  modifier = neutral_neutral
+                  who = ROOT
+                  }
+			    }
+			}
+		reverse_add_opinion = { who = ROOT modifier = neutral_neutral }
+		}
+		every_country = {
+			limit = {
+                NOT = { has_country_modifier = neutral_member }
+				NOT = { has_country_modifier = horde_member }
+				NOT = { has_country_modifier = alliance_member }
+				NOT = { 
+			      reverse_has_opinion_modifier = {
+                  modifier = neutral_creep
+                  who = ROOT
+                  }
+			    }
+			}
+		reverse_add_opinion = { who = ROOT modifier = neutral_creep }
+		}
+	}		
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+###############################
+# FACTION INFO FAKE DECISIONS #
+###############################
+# Not meant to be fired, just used for displaying Alliance, Horde and Neutral membership in the tooltip, for easy reference.
+neutral_info = {
+	potential = {
+	ai = no
+    }
+	allow = {
+	ai = yes
+    }
+	effect = {
+        every_known_country = {
+			limit = {
+				has_country_modifier = neutral_member
+			}
+	    }
+	}
+	ai_will_do = {
+		factor = 0
+	}	
+}
+
+horde_info = {
+	potential = {
+	ai = no
+    }
+	allow = {
+	ai = yes
+    }
+	effect = {
+        every_known_country = {
+			limit = {
+				has_country_modifier = horde_member
+			}
+	    }
+	}
+	ai_will_do = {
+		factor = 0
+	}	
+}
+
+alliance_info = {
+	potential = {
+	ai = no
+    }
+	allow = {
+	ai = yes
+    }
+	effect = {
+        every_known_country = {
+			limit = {
+				has_country_modifier = alliance_member
+			}
+		}
+	}
+	ai_will_do = {
+		factor = 0
+	}	
+}
+
+}
+

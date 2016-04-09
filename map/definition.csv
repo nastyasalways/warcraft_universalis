@@ -1114,19 +1114,19 @@ province;red;green;blue;type;name;
 1113;241;133;158;wasteland;x;
 1114;78;63;63;wasteland;x;
 1115;224;189;114;wasteland;x;
-1116;70;19;115;wasteland;x;
-1117;159;227;109;wasteland;x;
-1118;199;199;158;wasteland;x;
-1119;15;179;38;wasteland;x;
-1120;1;144;152;wasteland;x;
+1116;70;19;115;wasteland;x;Ghostland Mountains
+1117;159;227;109;wasteland;x;Lordaeron Mountains
+1118;199;199;158;wasteland;x;Lordaeron Mountains
+1119;15;179;38;wasteland;x;Greymane Mountains
+1120;1;144;152;wasteland;Tirisfal Mountains;
 1121;239;37;19;wasteland;x;
 1122;90;134;246;wasteland;x;
 1123;57;171;146;wasteland;x;
 1124;208;29;177;wasteland;x;
 1125;155;24;119;x;Stormfeather Outpost;
-1126;148;93;63;wasteland;x;
-1127;172;220;26;wasteland;x;
-1128;88;70;219;wasteland;x;
+1126;148;93;63;wasteland;x;Aerie Peak Mountains
+1127;172;220;26;wasteland;Stromgarde Mountains;
+1128;88;70;219;wasteland;x;Greymane Wall
 1129;59;41;165;wasteland;Twilight Mountains;
 1130;113;19;185;wasteland;Grim Mountains;
 1131;78;54;117;wasteland;Wetland Mountains;

@@ -15,7 +15,76 @@
  shattrath: "Shattrath"
  icecrown_citadel: "Icecrown"
  
+ # Opinion Modifiers
+ raided_by_orcs: "Raided by Orcs"
+ 
+ # Event Modifiers
+ blood_of_mannaroth_event: ""
+ desc_blood_of_mannaroth_event: ""
+ 
+ blood_of_mannaroth: "Blood of Mannaroth"
+ desc_blood_of_mannaroth: "The power of the Destructor is bestowed by those who have drunk his blood."
+ 
+ warlust: "Warlust"
+ desc_warlust: "We ache for war, and thus our neighbours pay the price."
+ 
+ # Decisions
+ encourage_bloodlust_title: "Encourage Bloodlust"
+ encourage_bloodlust_desc: "We ache for war, let us raid our non-orc neighbours more often to sate the bloodlust."
+ 
  # Buildings
+ 
+ # Graphical Cultures
+ humangfx: "Human"
+ darnassiangfx: "Darnassian"
+ vrykulgfx: "Vrykul"
+ orcgfx: "Orc"
+ ogregfx: "Ogre"
+ draeneigfx: "Draenei"
+ trollgfx: "Troll"
+ goblingfx: "Goblin"
+ taurengfx: "Tauren"
+ thalassiangfx: "Thalassian"
+ aqirgfx: "Aqir"
+ demonicgfx: "Demonic"
+ satyrgfx: "Satyr"
+ nagagfx: "Naga"
+ depthsgfx: "Depths"
+ oldgodsgfx: "Old God"
+ scourgegfx: "Scourge"
+ dragonkingfx: "Dragonkin"
+ undeadgfx: "Undead"
+ gnollgfx: "Gnoll"
+ centaurgfx: "Centaur"
+ furbolggfx: "Furbolg"
+ wolfvargfx: "Wolfvar"
+ gorlocgfx: "Gorloc"
+ koboldgfx: "Kobold"
+ harpygfx: "Harpy"
+ quillboargfx: "Quillboar"
+ titangfx: "Titan"
+ elementalgfx: "Elemental"
+ worgengfx: "Worgen"
+ arrakoagfx: "Arrakoa"
+ tuskarrgfx: "Tuskarr"
+ pandarengfx: "Pandaren"
+ mantidgfx: "Mantid"
+ mogugfx: "Mogu"
+ yaungolgfx: "Yaungol"
+ etherealgfx: "Ethereal"
+ gnomishgfx: "Gnome"
+ hozengfx: "Hozen"
+ saurokgfx: "Saurok"
+ taunkagfx: "Taunka"
+ giantgfx: "Giant"
+ dryadgfx: "Dryad"
+ virmengfx: "Virmen"
+ wildkingfx: "Wildkin"
+ voidgfx: "Void"
+ flayergfx: "Flayer"
+ zangargfx: "Zangar"
+ yetigfx: "Yeti"
+ pygmygfx: "Pygmy"
  
  
  # Tradenodes

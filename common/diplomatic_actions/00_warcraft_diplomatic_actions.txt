@@ -95,6 +95,7 @@ declarewar = {
 		potential = { 
 		   ROOT = {
 				has_country_modifier = horde_member
+				ai = yes
 		    }
 		}
 		allow = {
@@ -109,6 +110,7 @@ declarewar = {
 		potential = { 
 		   ROOT = {
 				has_country_modifier = alliance_member
+				ai = yes
 		    }
 		}
 		allow = {

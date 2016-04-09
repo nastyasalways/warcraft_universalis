@@ -23,7 +23,7 @@ faction_crimson_halls =
 	{
 		army_tradition = 1
 		diplomats = 1
-		fabricate_claims_time = -0.33
+		fabricate_claims_cost = -0.33
 		diplomatic_upkeep = 2
 	}
 }

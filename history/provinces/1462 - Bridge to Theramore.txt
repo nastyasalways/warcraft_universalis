@@ -11,6 +11,11 @@ religion = religion_water
 hre = no
 trade_goods = fish
 
+617.11.30 = { 
+owner = xxx
+controller = xxx 
+}
+
 # The Frozen Throne
 618.1.1 = { 
 controller = A23

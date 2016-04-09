@@ -21,6 +21,7 @@ controller = G07
 add_core = G07
 culture = culture_azerothian
 religion = religion_church_of_the_light
+capital = "Marshal's Refuge"
 }
 
 631.1.1 = {
